@@ -133,75 +133,75 @@
     {
       "type": "dialogue",
       "title": "情境對話",
-      "scene": "Kuma桑在日本旅遊時，身體不舒服，向旅館櫃台求助。",
+      "scene": "小陳在日本旅遊時，身體不舒服，向旅館櫃台求助。",
       "lines": [
         {
-          "speaker": "Kuma桑",
+          "speaker": "小陳",
           "japanese": "すみません、ちょっと体の調子が悪いです。",
           "chinese": "不好意思，我身體有點不舒服。"
         },
         {
-          "speaker": "櫃台人員",
+          "speaker": "櫃台",
           "japanese": "大丈夫ですか？どうしましたか？",
           "chinese": "沒事吧？怎麼了？"
         },
         {
-          "speaker": "Kuma桑",
+          "speaker": "小陳",
           "japanese": "頭が痛くて、熱があるかもしれません。",
           "chinese": "頭很痛，可能有發燒。"
         },
         {
-          "speaker": "櫃台人員",
+          "speaker": "櫃台",
           "japanese": "薬は持っていますか？",
           "chinese": "你有帶藥嗎？"
         },
         {
-          "speaker": "Kuma桑",
+          "speaker": "小陳",
           "japanese": "いいえ、持っていません。近くに病院はありますか？",
           "chinese": "沒有，我沒帶。附近有醫院嗎？"
         },
         {
-          "speaker": "櫃台人員",
+          "speaker": "櫃台",
           "japanese": "はい、歩いて五分のところにクリニックがあります。保険は持っていますか？",
           "chinese": "有的，走路五分鐘的地方有一間診所。你有帶保險嗎？"
         },
         {
-          "speaker": "Kuma桑",
+          "speaker": "小陳",
           "japanese": "はい、旅行保険があります。",
           "chinese": "有，我有旅遊保險。"
         },
         {
-          "speaker": "櫃台人員",
+          "speaker": "櫃台",
           "japanese": "よかったです。パスポートと保険証を持って行ってくださいね。",
           "chinese": "太好了。請帶著護照和保險證明去喔。"
         },
         {
-          "speaker": "Kuma桑",
+          "speaker": "小陳",
           "japanese": "ありがとうございます。もし急に悪くなったら、どうすればいいですか？",
           "chinese": "謝謝。如果突然變嚴重的話，該怎麼辦？"
         },
         {
-          "speaker": "櫃台人員",
+          "speaker": "櫃台",
           "japanese": "その場合は119番に電話してください。救急車が来ますよ。",
           "chinese": "那種情況請打119。救護車會來的。"
         },
         {
-          "speaker": "Kuma桑",
+          "speaker": "小陳",
           "japanese": "わかりました。緊急の時は119番ですね。",
           "chinese": "我知道了。緊急的時候打119對吧。"
         },
         {
-          "speaker": "櫃台人員",
+          "speaker": "櫃台",
           "japanese": "はい。警察は110番です。何かあったらフロントに連絡してくださいね。",
           "chinese": "是的。報警是110。有什麼事的話請聯絡櫃台喔。"
         },
         {
-          "speaker": "Kuma桑",
+          "speaker": "小陳",
           "japanese": "助かります。ありがとうございます。",
           "chinese": "幫了大忙了。非常感謝。"
         },
         {
-          "speaker": "櫃台人員",
+          "speaker": "櫃台",
           "japanese": "お大事に。ゆっくり休んでくださいね。",
           "chinese": "請多保重。好好休息喔。"
         }
