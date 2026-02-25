@@ -152,8 +152,7 @@
         { "speaker": "你", "japanese": "いただきます。", "chinese": "我開動了。" },
         { "speaker": "你", "japanese": "そろそろ帰ります。お邪魔しました。", "chinese": "我差不多該走了。打擾了。" },
         { "speaker": "朋友", "japanese": "また来てね。気をつけて帰ってね。", "chinese": "下次再來喔。回去路上小心喔。" },
-        { "speaker": "（場景轉換：辦公室）", "japanese": "", "chinese": "" },
-        { "speaker": "你", "japanese": "お先に失礼します。", "chinese": "我先走了，不好意思。" },
+        { "speaker": "你", "japanese": "お先に失礼します。", "chinese": "（場景轉換：辦公室）我先走了，不好意思。" },
         { "speaker": "同事", "japanese": "お疲れ様でした！", "chinese": "辛苦了！" },
         { "speaker": "你", "japanese": "お疲れ様でした。また明日。", "chinese": "辛苦了。明天見。" }
       ]
