@@ -1,0 +1,406 @@
+{
+  "id": "ch8-unit8",
+  "title": "緊急狀況處理：生病、遺失、求助",
+  "intro": "旅途中難免會遇到突發狀況，像是身體不舒服、東西遺失或需要緊急求助。這些時刻最需要的就是能用日語表達自己的狀況和需求。這一課我們要學習在藥局、交番（派出所）等場所求助時的實用日語，讓你在緊急狀況下也能冷靜應對！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "病院",
+          "reading": "びょういん",
+          "romaji": "byouin",
+          "chinese": "醫院",
+          "example": "近くの病院はどこですか？",
+          "exampleChinese": "最近的醫院在哪裡？"
+        },
+        {
+          "japanese": "薬局",
+          "reading": "やっきょく",
+          "romaji": "yakkyoku",
+          "chinese": "藥局",
+          "example": "薬局で薬を買いました。",
+          "exampleChinese": "在藥局買了藥。"
+        },
+        {
+          "japanese": "警察",
+          "reading": "けいさつ",
+          "romaji": "keisatsu",
+          "chinese": "警察",
+          "example": "警察に連絡してください。",
+          "exampleChinese": "請聯繫警察。"
+        },
+        {
+          "japanese": "交番",
+          "reading": "こうばん",
+          "romaji": "kouban",
+          "chinese": "派出所",
+          "example": "交番で道を聞きました。",
+          "exampleChinese": "在派出所問了路。"
+        },
+        {
+          "japanese": "救急車",
+          "reading": "きゅうきゅうしゃ",
+          "romaji": "kyuukyuusha",
+          "chinese": "救護車",
+          "example": "救急車を呼んでください！",
+          "exampleChinese": "請叫救護車！"
+        },
+        {
+          "japanese": "保険証",
+          "reading": "ほけんしょう",
+          "romaji": "hokenshou",
+          "chinese": "保險證",
+          "example": "保険証を見せてください。",
+          "exampleChinese": "請出示保險證。"
+        },
+        {
+          "japanese": "紛失届",
+          "reading": "ふんしつとどけ",
+          "romaji": "funshitsu todoke",
+          "chinese": "遺失申報",
+          "example": "紛失届を書いてください。",
+          "exampleChinese": "請填寫遺失申報單。"
+        },
+        {
+          "japanese": "薬",
+          "reading": "くすり",
+          "romaji": "kusuri",
+          "chinese": "藥",
+          "example": "頭痛の薬はありますか？",
+          "exampleChinese": "有頭痛藥嗎？"
+        },
+        {
+          "japanese": "熱",
+          "reading": "ねつ",
+          "romaji": "netsu",
+          "chinese": "發燒",
+          "example": "熱があります。",
+          "exampleChinese": "我發燒了。"
+        },
+        {
+          "japanese": "頭痛",
+          "reading": "ずつう",
+          "romaji": "zutsuu",
+          "chinese": "頭痛",
+          "example": "頭痛がひどいです。",
+          "exampleChinese": "頭痛得很厲害。"
+        },
+        {
+          "japanese": "財布",
+          "reading": "さいふ",
+          "romaji": "saifu",
+          "chinese": "錢包",
+          "example": "財布をなくしました。",
+          "exampleChinese": "我的錢包弄丟了。"
+        },
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupooto",
+          "chinese": "護照",
+          "example": "パスポートをなくしたんです。",
+          "exampleChinese": "我的護照弄丟了。"
+        },
+        {
+          "japanese": "アレルギー",
+          "reading": "アレルギー",
+          "romaji": "arerugii",
+          "chinese": "過敏",
+          "example": "卵のアレルギーがあります。",
+          "exampleChinese": "我對蛋過敏。"
+        },
+        {
+          "japanese": "症状",
+          "reading": "しょうじょう",
+          "romaji": "shoujou",
+          "chinese": "症狀",
+          "example": "どんな症状がありますか？",
+          "exampleChinese": "您有什麼症狀？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：在藥局",
+      "scene": "旅客在藥局向藥劑師描述自己身體不舒服的狀況。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、お腹が痛いんですが、薬はありますか？",
+          "chinese": "不好意思，我肚子痛，有藥嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "いつから痛いですか？",
+          "chinese": "從什麼時候開始痛的？"
+        },
+        {
+          "speaker": "A",
+          "japanese": "昨日の夜からです。あと、少し熱もあります。",
+          "chinese": "從昨天晚上開始。另外，也有一點發燒。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "何か食べましたか？アレルギーはありますか？",
+          "chinese": "有吃了什麼嗎？有過敏嗎？"
+        },
+        {
+          "speaker": "A",
+          "japanese": "昨日の夜、生ものを食べました。アレルギーはありません。",
+          "chinese": "昨天晚上吃了生食。沒有過敏。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "では、この薬を飲んでください。症状がひどくなったら、病院に行ってください。",
+          "chinese": "那請服用這個藥。如果症狀變嚴重的話，請去醫院。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "ありがとうございます。一日何回飲めばいいですか？",
+          "chinese": "謝謝。一天要吃幾次？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "一日三回、食後に飲んでください。",
+          "chinese": "一天三次，飯後服用。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：在交番報失",
+      "scene": "旅客在交番向警察報告遺失物品。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、財布をなくしました。",
+          "chinese": "不好意思，我的錢包弄丟了。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "いつ、どこでなくしましたか？",
+          "chinese": "什麼時候、在哪裡弄丟的？"
+        },
+        {
+          "speaker": "A",
+          "japanese": "今日の午後、電車の中でなくしたと思います。",
+          "chinese": "我想是今天下午在電車裡弄丟的。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "財布の色や形を教えてください。",
+          "chinese": "請告訴我錢包的顏色和形狀。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "黒い革の財布です。中にクレジットカードと現金が入っています。",
+          "chinese": "是黑色皮革的錢包。裡面有信用卡和現金。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "わかりました。紛失届を書いてください。見つかったら連絡します。",
+          "chinese": "了解了。請填寫遺失申報單。找到的話會聯繫您。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "連絡先はホテルの電話番号でいいですか？",
+          "chinese": "聯絡方式用飯店的電話號碼可以嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、大丈夫ですよ。パスポートも見せていただけますか？",
+          "chinese": "好的，可以。也能讓我看一下護照嗎？"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～が痛いです",
+          "meaning": "～痛",
+          "structure": "身體部位 + が痛いです",
+          "examples": [
+            {
+              "japanese": "お腹が痛いです。",
+              "chinese": "肚子痛。"
+            },
+            {
+              "japanese": "頭が痛いです。",
+              "chinese": "頭痛。"
+            },
+            {
+              "japanese": "喉が痛いです。",
+              "chinese": "喉嚨痛。"
+            }
+          ],
+          "note": "描述身體哪裡不舒服時最基本的句型。用「が」標示疼痛的部位，後面接「痛い（いたい）」。在藥局或醫院時非常實用。"
+        },
+        {
+          "pattern": "～をなくしました",
+          "meaning": "把～弄丟了",
+          "structure": "名詞 + をなくしました",
+          "examples": [
+            {
+              "japanese": "財布をなくしました。",
+              "chinese": "錢包弄丟了。"
+            },
+            {
+              "japanese": "パスポートをなくしました。",
+              "chinese": "護照弄丟了。"
+            },
+            {
+              "japanese": "携帯電話をなくしました。",
+              "chinese": "手機弄丟了。"
+            }
+          ],
+          "note": "「なくす」是「弄丟」的意思，過去式是「なくしました」。在交番報失時，這是最重要的句型。也可以用「～を落としました（掉了）」。"
+        },
+        {
+          "pattern": "～を呼んでください",
+          "meaning": "請叫～",
+          "structure": "名詞 + を呼んでください",
+          "examples": [
+            {
+              "japanese": "救急車を呼んでください！",
+              "chinese": "請叫救護車！"
+            },
+            {
+              "japanese": "警察を呼んでください。",
+              "chinese": "請叫警察。"
+            },
+            {
+              "japanese": "タクシーを呼んでください。",
+              "chinese": "請叫計程車。"
+            }
+          ],
+          "note": "緊急時刻最重要的句型。「呼ぶ（よぶ）」是「叫、呼叫」的意思，「呼んでください」是請求對方幫忙叫某人或某服務。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "病院",
+          "reading": "びょういん",
+          "romaji": "byouin",
+          "chinese": "醫院"
+        },
+        {
+          "japanese": "薬局",
+          "reading": "やっきょく",
+          "romaji": "yakkyoku",
+          "chinese": "藥局"
+        },
+        {
+          "japanese": "交番",
+          "reading": "こうばん",
+          "romaji": "kouban",
+          "chinese": "派出所"
+        },
+        {
+          "japanese": "救急車",
+          "reading": "きゅうきゅうしゃ",
+          "romaji": "kyuukyuusha",
+          "chinese": "救護車"
+        },
+        {
+          "japanese": "紛失届",
+          "reading": "ふんしつとどけ",
+          "romaji": "funshitsu todoke",
+          "chinese": "遺失申報"
+        },
+        {
+          "japanese": "財布",
+          "reading": "さいふ",
+          "romaji": "saifu",
+          "chinese": "錢包"
+        },
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupooto",
+          "chinese": "護照"
+        },
+        {
+          "japanese": "アレルギー",
+          "reading": "アレルギー",
+          "romaji": "arerugii",
+          "chinese": "過敏"
+        },
+        {
+          "japanese": "症状",
+          "reading": "しょうじょう",
+          "romaji": "shoujou",
+          "chinese": "症狀"
+        },
+        {
+          "japanese": "熱",
+          "reading": "ねつ",
+          "romaji": "netsu",
+          "chinese": "發燒"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "肚子痛時，正確的說法是？",
+          "options": ["お腹を痛いです", "お腹が痛いです", "お腹に痛いです", "お腹は痛いです"],
+          "correct": 1,
+          "explanation": "描述身體疼痛時用「～が痛いです」，所以肚子痛是「お腹が痛いです」。"
+        },
+        {
+          "question": "「交番」是什麼？",
+          "options": ["醫院", "藥局", "派出所", "消防局"],
+          "correct": 2,
+          "explanation": "「交番（こうばん）」是日本的派出所，在街上各處都能看到，遺失物品或需要求助時可以前往。"
+        },
+        {
+          "question": "遺失錢包時，在交番需要填寫什麼？",
+          "options": ["申請書", "紛失届", "保険証", "アンケート"],
+          "correct": 1,
+          "explanation": "「紛失届（ふんしつとどけ）」是遺失申報單，在交番報失時需要填寫。"
+        },
+        {
+          "question": "「救急車を呼んでください」是什麼意思？",
+          "options": ["請開救護車", "請叫救護車", "我是救護車司機", "救護車在哪裡"],
+          "correct": 1,
+          "explanation": "「～を呼んでください」是「請叫～」的意思，用於緊急狀況請求幫助。"
+        },
+        {
+          "question": "在日本叫救護車時，應該撥打什麼號碼？",
+          "options": ["110", "119", "120", "911"],
+          "correct": 1,
+          "explanation": "在日本，叫救護車和消防車的電話號碼是119，報警電話是110。"
+        },
+        {
+          "question": "「アレルギー」的意思是什麼？",
+          "options": ["感冒", "過敏", "受傷", "中暑"],
+          "correct": 1,
+          "explanation": "「アレルギー」來自德語/英語allergy，意思是「過敏」。在看醫生或買藥時，告知過敏資訊非常重要。"
+        },
+        {
+          "question": "在藥局，藥劑師說「食後に飲んでください」，是什麼意思？",
+          "options": ["空腹時服用", "飯後服用", "睡前服用", "飯前服用"],
+          "correct": 1,
+          "explanation": "「食後（しょくご）」是「飯後」的意思，「食後に飲んでください」就是「請在飯後服用」。"
+        },
+        {
+          "question": "「財布をなくしました」是什麼意思？",
+          "options": ["我找到了錢包", "我買了錢包", "我把錢包弄丟了", "我忘了帶錢包"],
+          "correct": 2,
+          "explanation": "「～をなくしました」是「把～弄丟了」的意思。「財布をなくしました」就是「我把錢包弄丟了」。"
+        }
+      ]
+    }
+  ]
+}

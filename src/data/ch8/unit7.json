@@ -1,0 +1,401 @@
+{
+  "id": "ch8-unit7",
+  "title": "日本送禮文化：お土産、お中元、お歳暮",
+  "intro": "在日本，送禮是維繫人際關係的重要文化。從旅行帶回的お土産、夏天的お中元到年末的お歳暮，每一份禮物都承載著感謝和心意。這一課我們要學習送禮和收禮時的實用日語和禮儀，讓你在日本社交場合不失禮！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "お土産",
+          "reading": "おみやげ",
+          "romaji": "omiyage",
+          "chinese": "伴手禮",
+          "example": "北海道のお土産を買いました。",
+          "exampleChinese": "買了北海道的伴手禮。"
+        },
+        {
+          "japanese": "お中元",
+          "reading": "おちゅうげん",
+          "romaji": "ochuugen",
+          "chinese": "中元禮（夏季問候禮品）",
+          "example": "お中元を贈る季節です。",
+          "exampleChinese": "到了送中元禮的季節了。"
+        },
+        {
+          "japanese": "お歳暮",
+          "reading": "おせいぼ",
+          "romaji": "oseibo",
+          "chinese": "歲暮禮（年末問候禮品）",
+          "example": "お歳暮に何を贈りますか？",
+          "exampleChinese": "歲暮禮要送什麼？"
+        },
+        {
+          "japanese": "お返し",
+          "reading": "おかえし",
+          "romaji": "okaeshi",
+          "chinese": "回禮",
+          "example": "お返しは何がいいですか？",
+          "exampleChinese": "回禮送什麼好呢？"
+        },
+        {
+          "japanese": "手土産",
+          "reading": "てみやげ",
+          "romaji": "temiyage",
+          "chinese": "見面禮、登門禮",
+          "example": "手土産を持って行きます。",
+          "exampleChinese": "我會帶見面禮去。"
+        },
+        {
+          "japanese": "包装",
+          "reading": "ほうそう",
+          "romaji": "housou",
+          "chinese": "包裝",
+          "example": "プレゼント用に包装してください。",
+          "exampleChinese": "請幫我包裝成禮物。"
+        },
+        {
+          "japanese": "熨斗",
+          "reading": "のし",
+          "romaji": "noshi",
+          "chinese": "禮品裝飾帶（日式禮物包裝上的裝飾）",
+          "example": "熨斗をつけてもらえますか？",
+          "exampleChinese": "可以幫我附上熨斗嗎？"
+        },
+        {
+          "japanese": "贈り物",
+          "reading": "おくりもの",
+          "romaji": "okurimono",
+          "chinese": "禮物",
+          "example": "素敵な贈り物をありがとうございます。",
+          "exampleChinese": "謝謝您精美的禮物。"
+        },
+        {
+          "japanese": "気持ち",
+          "reading": "きもち",
+          "romaji": "kimochi",
+          "chinese": "心意",
+          "example": "気持ちだけで嬉しいです。",
+          "exampleChinese": "光是心意就讓我很開心了。"
+        },
+        {
+          "japanese": "感謝",
+          "reading": "かんしゃ",
+          "romaji": "kansha",
+          "chinese": "感謝",
+          "example": "感謝の気持ちを込めて贈ります。",
+          "exampleChinese": "懷著感謝的心意送上。"
+        },
+        {
+          "japanese": "受け取る",
+          "reading": "うけとる",
+          "romaji": "uketoru",
+          "chinese": "收下",
+          "example": "ありがたく受け取ります。",
+          "exampleChinese": "我感激地收下。"
+        },
+        {
+          "japanese": "お礼",
+          "reading": "おれい",
+          "romaji": "orei",
+          "chinese": "道謝、謝禮",
+          "example": "お礼の手紙を書きました。",
+          "exampleChinese": "寫了道謝的信。"
+        },
+        {
+          "japanese": "箱",
+          "reading": "はこ",
+          "romaji": "hako",
+          "chinese": "箱子、盒子",
+          "example": "きれいな箱に入っています。",
+          "exampleChinese": "裝在漂亮的盒子裡。"
+        },
+        {
+          "japanese": "個包装",
+          "reading": "こほうそう",
+          "romaji": "kohousou",
+          "chinese": "個別包裝",
+          "example": "個包装なのでお土産に便利です。",
+          "exampleChinese": "因為是個別包裝，所以很適合當伴手禮。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：送禮",
+      "scene": "拜訪日本朋友家時，帶了伴手禮要送給對方。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "あの、つまらないものですが、どうぞ。",
+          "chinese": "那個，這是一點小意思，請收下。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "わあ、ありがとうございます！開けてもいいですか？",
+          "chinese": "哇，謝謝您！可以打開嗎？"
+        },
+        {
+          "speaker": "A",
+          "japanese": "はい、どうぞ。台湾のパイナップルケーキです。",
+          "chinese": "好的，請。是台灣的鳳梨酥。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "嬉しいです！台湾のお土産は大好きです。",
+          "chinese": "好開心！我最喜歡台灣的伴手禮了。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "いつもお世話になっていますので、感謝の気持ちです。",
+          "chinese": "因為一直受到您的照顧，這是我感謝的心意。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "そんな、お気遣いなく。でもとても嬉しいです。ありがとうございます。",
+          "chinese": "哪裡，您不用這麼客氣。但是真的很開心。謝謝您。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：收到禮物",
+      "scene": "日本同事送來お歳暮，表達感謝。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "今年もお世話になりました。お歳暮をお送りしました。",
+          "chinese": "今年也承蒙您的照顧了。我寄了歲暮禮給您。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ご丁寧にありがとうございます。届きましたよ。",
+          "chinese": "太客氣了，謝謝您。已經收到了。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "お口に合うといいのですが。",
+          "chinese": "希望合您的口味。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "開けてみたら、とても美味しそうなお菓子でした。家族みんなで楽しみます。",
+          "chinese": "打開一看，是看起來非常好吃的點心。會跟全家人一起享用。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "喜んでいただけて嬉しいです。",
+          "chinese": "您喜歡的話我就放心了。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "お気持ちだけで十分です。いつもすみません。",
+          "chinese": "光是心意就足夠了。總是讓您費心了。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "いえいえ、来年もよろしくお願いします。",
+          "chinese": "哪裡哪裡，明年也請多多指教。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "つまらないものですが",
+          "meaning": "這是一點小意思（送禮時的謙虛說法）",
+          "structure": "つまらないものですが + どうぞ",
+          "examples": [
+            {
+              "japanese": "つまらないものですが、どうぞ受け取ってください。",
+              "chinese": "這是一點小意思，請收下。"
+            },
+            {
+              "japanese": "つまらないものですが、皆さんで召し上がってください。",
+              "chinese": "這是一點小意思，請大家一起享用。"
+            },
+            {
+              "japanese": "つまらないものですが、お口に合えば嬉しいです。",
+              "chinese": "這是一點小意思，如果合您口味就太好了。"
+            }
+          ],
+          "note": "這是日本人送禮時常用的謙虛表達。即使禮物很好，也會說「つまらないもの（不值一提的東西）」來表示謙遜。近年來也有人改用「ほんの気持ちですが（只是一點小心意）」等較現代的說法。"
+        },
+        {
+          "pattern": "～していただいて",
+          "meaning": "承蒙您～（感謝對方做某事的敬語）",
+          "structure": "動詞て形 + いただいて + ありがとうございます",
+          "examples": [
+            {
+              "japanese": "わざわざ来ていただいてありがとうございます。",
+              "chinese": "感謝您特地前來。"
+            },
+            {
+              "japanese": "素敵な贈り物を送っていただいてありがとうございます。",
+              "chinese": "感謝您送我這麼精美的禮物。"
+            },
+            {
+              "japanese": "お世話していただいて本当にありがとうございました。",
+              "chinese": "真的非常感謝您的照顧。"
+            }
+          ],
+          "note": "「～ていただいて」是「～てもらって」的敬語形式，用來表達對對方為自己做某事的感謝。在正式場合和商務場合中非常常用。"
+        },
+        {
+          "pattern": "お気持ちだけで",
+          "meaning": "光是心意就（足夠了）",
+          "structure": "お気持ちだけで + 嬉しいです／十分です",
+          "examples": [
+            {
+              "japanese": "お気持ちだけで嬉しいです。",
+              "chinese": "光是心意就讓我很開心了。"
+            },
+            {
+              "japanese": "お気持ちだけで十分です。",
+              "chinese": "光是心意就足夠了。"
+            },
+            {
+              "japanese": "お気持ちだけでありがたいです。",
+              "chinese": "光是心意就很感激了。"
+            }
+          ],
+          "note": "收到禮物時用來表達感謝的客套話，意思是「您的心意比禮物本身更重要」。也可以在婉拒禮物時使用，表示不需要禮物。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小知識：日本的送禮文化",
+      "content": "<h3>日本送禮文化的要點</h3><p>在日本，送禮是一種重要的社交禮儀，體現了感謝和尊重。以下是幾種常見的送禮場合：</p><h4>常見的送禮類型：</h4><ul><li><strong>お土産（伴手禮）：</strong>旅行回來後帶給同事、朋友的禮物。在日本職場，出差或旅行後帶お土産給同事是一種默契。</li><li><strong>手土産（見面禮）：</strong>拜訪別人家時帶的禮物，通常是點心或水果。</li><li><strong>お中元（中元禮）：</strong>7月上旬送出，感謝上半年對方的照顧。</li><li><strong>お歳暮（歲暮禮）：</strong>12月上旬到中旬送出，感謝一整年的照顧。</li></ul><h4>送禮禮儀：</h4><ul><li><strong>包裝很重要：</strong>日本人非常重視禮物的包裝，精美的包裝是基本禮貌。</li><li><strong>個包装：</strong>如果是送給多人的お土産，選擇個別包裝的點心方便分享。</li><li><strong>收禮時的禮儀：</strong>在日本，收到禮物時通常不會當場打開（除非對方說可以）。</li><li><strong>お返し（回禮）：</strong>收到禮物後，通常會準備大約一半價值的回禮。</li></ul>",
+      "tips": [
+        "送お土産時，選擇有個別包裝的點心最受歡迎，方便對方分享給其他人。",
+        "收到日本人的禮物時，先道謝，不要馬上打開，除非對方說「開けてください」。",
+        "お中元和お歳暮的預算通常在三千到五千日圓之間。"
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "お土産",
+          "reading": "おみやげ",
+          "romaji": "omiyage",
+          "chinese": "伴手禮"
+        },
+        {
+          "japanese": "お中元",
+          "reading": "おちゅうげん",
+          "romaji": "ochuugen",
+          "chinese": "中元禮"
+        },
+        {
+          "japanese": "お歳暮",
+          "reading": "おせいぼ",
+          "romaji": "oseibo",
+          "chinese": "歲暮禮"
+        },
+        {
+          "japanese": "お返し",
+          "reading": "おかえし",
+          "romaji": "okaeshi",
+          "chinese": "回禮"
+        },
+        {
+          "japanese": "手土産",
+          "reading": "てみやげ",
+          "romaji": "temiyage",
+          "chinese": "見面禮"
+        },
+        {
+          "japanese": "包装",
+          "reading": "ほうそう",
+          "romaji": "housou",
+          "chinese": "包裝"
+        },
+        {
+          "japanese": "熨斗",
+          "reading": "のし",
+          "romaji": "noshi",
+          "chinese": "禮品裝飾帶"
+        },
+        {
+          "japanese": "贈り物",
+          "reading": "おくりもの",
+          "romaji": "okurimono",
+          "chinese": "禮物"
+        },
+        {
+          "japanese": "感謝",
+          "reading": "かんしゃ",
+          "romaji": "kansha",
+          "chinese": "感謝"
+        },
+        {
+          "japanese": "お礼",
+          "reading": "おれい",
+          "romaji": "orei",
+          "chinese": "道謝、謝禮"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "送禮時說「つまらないものですが」是什麼意思？",
+          "options": ["這個東西很無聊", "這是一點小意思（謙虛的說法）", "這個東西壞掉了", "我不想送"],
+          "correct": 1,
+          "explanation": "「つまらないものですが」是日本人送禮時的謙虛說法，實際意思是「這是一點小意思，請收下」。"
+        },
+        {
+          "question": "「お歳暮」是在什麼時候送的？",
+          "options": ["春天", "夏天", "秋天", "年末"],
+          "correct": 3,
+          "explanation": "「お歳暮（おせいぼ）」是在年末（12月上旬到中旬）送出的禮物，感謝對方一整年的照顧。"
+        },
+        {
+          "question": "「お返し」的意思是什麼？",
+          "options": ["退貨", "回禮", "重新包裝", "道歉"],
+          "correct": 1,
+          "explanation": "「お返し（おかえし）」是指收到禮物後回贈的禮物，通常是收到禮物價值的一半左右。"
+        },
+        {
+          "question": "在日本收到禮物時，正確的做法是？",
+          "options": ["馬上打開看", "通常不當場打開", "立刻拒絕", "問價錢"],
+          "correct": 1,
+          "explanation": "在日本，收到禮物時通常不會當場打開，除非對方邀請你打開。"
+        },
+        {
+          "question": "「手土産」和「お土産」有什麼不同？",
+          "options": ["完全一樣", "手土産是拜訪時帶的禮物，お土産是旅行帶回的", "手土産比較便宜", "お土産只能是食物"],
+          "correct": 1,
+          "explanation": "「手土産」是拜訪別人家時帶的見面禮，「お土産」是旅行回來帶給別人的伴手禮。"
+        },
+        {
+          "question": "「お気持ちだけで嬉しいです」是什麼意思？",
+          "options": ["我很開心", "光是心意就讓我很開心了", "我喜歡這個禮物", "請再送我一個"],
+          "correct": 1,
+          "explanation": "這是收到禮物時表達感謝的客套話，意思是「您的心意比禮物本身更重要」。"
+        },
+        {
+          "question": "「熨斗（のし）」是什麼？",
+          "options": ["一種食物", "日式禮物包裝上的裝飾帶", "一種感謝信", "包裝紙"],
+          "correct": 1,
+          "explanation": "「熨斗（のし）」是日本傳統禮物包裝上的裝飾帶，上面會寫上送禮的名目和送禮人的名字。"
+        },
+        {
+          "question": "「わざわざ来ていただいてありがとうございます」是什麼意思？",
+          "options": ["歡迎光臨", "感謝您特地前來", "請您再來", "打擾了"],
+          "correct": 1,
+          "explanation": "「～ていただいて」是感謝對方做某事的敬語，「わざわざ」是「特地」的意思，整句是感謝對方特地前來。"
+        }
+      ]
+    }
+  ]
+}

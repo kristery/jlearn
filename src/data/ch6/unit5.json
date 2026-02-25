@@ -1,0 +1,266 @@
+{
+  "id": "ch6-unit5",
+  "title": "溫泉入門：泡湯用語與禮儀實戰",
+  "intro": "溫泉是日本文化中不可或缺的一部分，從入口接待到更衣室、從沖洗身體到泡湯，每一步都有講究。學會溫泉相關的日語和禮儀，讓你在日本泡溫泉時不再緊張，輕鬆享受療癒時光！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "温泉",
+          "reading": "おんせん",
+          "romaji": "onsen",
+          "chinese": "溫泉",
+          "example": "日本の温泉に入ってみたいです。",
+          "exampleChinese": "我想試試泡日本的溫泉。"
+        },
+        {
+          "japanese": "露天風呂",
+          "reading": "ろてんぶろ",
+          "romaji": "rotenburo",
+          "chinese": "露天溫泉",
+          "example": "露天風呂から富士山が見えますよ。",
+          "exampleChinese": "從露天溫泉可以看到富士山喔。"
+        },
+        {
+          "japanese": "内湯",
+          "reading": "うちゆ",
+          "romaji": "uchiyu",
+          "chinese": "室內溫泉",
+          "example": "内湯と露天風呂、両方あります。",
+          "exampleChinese": "室內溫泉和露天溫泉兩種都有。"
+        },
+        {
+          "japanese": "脱衣所",
+          "reading": "だついじょ",
+          "romaji": "datsuijo",
+          "chinese": "更衣室",
+          "example": "脱衣所にロッカーがあります。",
+          "exampleChinese": "更衣室裡有置物櫃。"
+        },
+        {
+          "japanese": "かけ湯",
+          "reading": "かけゆ",
+          "romaji": "kakeyu",
+          "chinese": "淋浴沖洗（泡湯前沖身體）",
+          "example": "お風呂に入る前に、かけ湯をしてください。",
+          "exampleChinese": "泡湯前，請先沖洗身體。"
+        },
+        {
+          "japanese": "タオル",
+          "reading": "タオル",
+          "romaji": "taoru",
+          "chinese": "毛巾",
+          "example": "タオルは湯船に入れないでください。",
+          "exampleChinese": "毛巾請不要放進浴池裡。"
+        },
+        {
+          "japanese": "入浴料",
+          "reading": "にゅうよくりょう",
+          "romaji": "nyuuyokuryou",
+          "chinese": "泡湯費用",
+          "example": "入浴料はいくらですか？",
+          "exampleChinese": "泡湯費用是多少？"
+        },
+        {
+          "japanese": "男湯",
+          "reading": "おとこゆ",
+          "romaji": "otokoyu",
+          "chinese": "男湯",
+          "example": "男湯は右側です。",
+          "exampleChinese": "男湯在右邊。"
+        },
+        {
+          "japanese": "女湯",
+          "reading": "おんなゆ",
+          "romaji": "onnayu",
+          "chinese": "女湯",
+          "example": "女湯は左側です。",
+          "exampleChinese": "女湯在左邊。"
+        },
+        {
+          "japanese": "湯船",
+          "reading": "ゆぶね",
+          "romaji": "yubune",
+          "chinese": "浴池；浴缸",
+          "example": "湯船にゆっくり浸かりましょう。",
+          "exampleChinese": "慢慢泡在浴池裡吧。"
+        },
+        {
+          "japanese": "貸切風呂",
+          "reading": "かしきりぶろ",
+          "romaji": "kashikiriburo",
+          "chinese": "包租浴池（私人湯屋）",
+          "example": "貸切風呂は予約が必要です。",
+          "exampleChinese": "包租浴池需要預約。"
+        },
+        {
+          "japanese": "石鹸",
+          "reading": "せっけん",
+          "romaji": "sekken",
+          "chinese": "肥皂",
+          "example": "石鹸とシャンプーは備え付けです。",
+          "exampleChinese": "肥皂和洗髮精是附設的。"
+        },
+        {
+          "japanese": "刺青",
+          "reading": "いれずみ",
+          "romaji": "irezumi",
+          "chinese": "刺青；紋身",
+          "example": "刺青のある方はご遠慮ください。",
+          "exampleChinese": "有刺青的客人請勿進入。"
+        },
+        {
+          "japanese": "浴衣",
+          "reading": "ゆかた",
+          "romaji": "yukata",
+          "chinese": "浴衣",
+          "example": "温泉旅館では浴衣を着ます。",
+          "exampleChinese": "在溫泉旅館會穿浴衣。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：溫泉接待處",
+      "scene": "到達溫泉設施，在接待處詢問費用和設施資訊。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、入浴料はいくらですか？", "chinese": "不好意思，泡湯費用是多少？" },
+        { "speaker": "店員", "japanese": "大人一名八百円です。タオルセットは別途三百円になります。", "chinese": "成人一位八百日圓。毛巾套組另外收三百日圓。" },
+        { "speaker": "A", "japanese": "タオルセットもお願いします。露天風呂はありますか？", "chinese": "也要毛巾套組。有露天溫泉嗎？" },
+        { "speaker": "店員", "japanese": "はい、内湯と露天風呂、両方ございます。", "chinese": "有的，室內溫泉和露天溫泉兩種都有。" },
+        { "speaker": "A", "japanese": "貸切風呂はありますか？", "chinese": "有包租浴池嗎？" },
+        { "speaker": "店員", "japanese": "はい、ございます。一時間で二千円です。ご予約が必要です。", "chinese": "有的。一小時兩千日圓。需要預約。" },
+        { "speaker": "A", "japanese": "じゃ、普通のお風呂でいいです。男湯はどちらですか？", "chinese": "那一般的浴池就好了。男湯在哪邊？" },
+        { "speaker": "店員", "japanese": "男湯は右側、女湯は左側です。脱衣所にロッカーがありますのでご利用ください。", "chinese": "男湯在右邊，女湯在左邊。更衣室裡有置物櫃，請使用。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：詢問溫泉規則",
+      "scene": "第一次泡溫泉，向工作人員詢問注意事項和規則。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、初めてなんですが、入り方を教えてもらえますか？", "chinese": "不好意思，我是第一次來，可以教我怎麼泡嗎？" },
+        { "speaker": "店員", "japanese": "はい。まず脱衣所で服を脱いでください。", "chinese": "好的。首先請在更衣室脫掉衣服。" },
+        { "speaker": "A", "japanese": "タオルは持って入っていいですか？", "chinese": "可以帶毛巾進去嗎？" },
+        { "speaker": "店員", "japanese": "小さいタオルは持って入れますが、湯船には入れないでください。頭の上に乗せるのが一般的です。", "chinese": "小毛巾可以帶進去，但請不要放進浴池裡。通常放在頭上。" },
+        { "speaker": "A", "japanese": "お風呂に入る前に、体を洗いますか？", "chinese": "泡湯前要先洗身體嗎？" },
+        { "speaker": "店員", "japanese": "はい、かけ湯をしてから入ってください。シャワーで体を洗ってもいいですよ。", "chinese": "是的，請先沖洗身體再泡。也可以用淋浴洗身體喔。" },
+        { "speaker": "A", "japanese": "水着は着ていいですか？", "chinese": "可以穿泳衣嗎？" },
+        { "speaker": "店員", "japanese": "いいえ、水着は禁止です。タオルだけでお入りください。", "chinese": "不行，禁止穿泳衣。只帶毛巾進去就好。" },
+        { "speaker": "A", "japanese": "わかりました。ありがとうございます。", "chinese": "我明白了。謝謝您。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～てから入る",
+          "meaning": "做了～之後再進去",
+          "structure": "動詞て形 + から + 動詞",
+          "examples": [
+            { "japanese": "かけ湯をしてからお風呂に入ってください。", "chinese": "請先沖洗身體再泡湯。" },
+            { "japanese": "体を洗ってから湯船に入りましょう。", "chinese": "先洗身體再進浴池吧。" },
+            { "japanese": "服を脱いでから浴室に入ります。", "chinese": "脫掉衣服後再進浴室。" }
+          ],
+          "note": "「～てから」表示先做前面的動作，再做後面的動作，強調順序。在溫泉場景中，沖洗身體再泡湯是最基本的禮儀。"
+        },
+        {
+          "pattern": "～は禁止です",
+          "meaning": "禁止～",
+          "structure": "名詞 + は禁止です",
+          "examples": [
+            { "japanese": "水着は禁止です。", "chinese": "禁止穿泳衣。" },
+            { "japanese": "撮影は禁止です。", "chinese": "禁止拍攝。" },
+            { "japanese": "タオルを湯船に入れるのは禁止です。", "chinese": "禁止把毛巾放進浴池。" }
+          ],
+          "note": "「禁止（きんし）」是「禁止」的意思。在溫泉和公共場所常會看到各種禁止事項的告示。也常見「～ないでください」（請不要～）的委婉說法。"
+        },
+        {
+          "pattern": "～に入る",
+          "meaning": "進入～；泡～",
+          "structure": "名詞 + に入る（はいる）",
+          "examples": [
+            { "japanese": "お風呂に入ります。", "chinese": "泡澡。" },
+            { "japanese": "露天風呂に入りたいです。", "chinese": "我想泡露天溫泉。" },
+            { "japanese": "温泉に入るのは初めてです。", "chinese": "我是第一次泡溫泉。" }
+          ],
+          "note": "「入る（はいる）」搭配「に」表示進入某個場所。泡溫泉在日語中用「温泉に入る」來表達。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "温泉", "reading": "おんせん", "romaji": "onsen", "chinese": "溫泉" },
+        { "japanese": "露天風呂", "reading": "ろてんぶろ", "romaji": "rotenburo", "chinese": "露天溫泉" },
+        { "japanese": "脱衣所", "reading": "だついじょ", "romaji": "datsuijo", "chinese": "更衣室" },
+        { "japanese": "かけ湯", "reading": "かけゆ", "romaji": "kakeyu", "chinese": "泡湯前沖洗身體" },
+        { "japanese": "タオル", "reading": "タオル", "romaji": "taoru", "chinese": "毛巾" },
+        { "japanese": "入浴料", "reading": "にゅうよくりょう", "romaji": "nyuuyokuryou", "chinese": "泡湯費用" },
+        { "japanese": "湯船", "reading": "ゆぶね", "romaji": "yubune", "chinese": "浴池" },
+        { "japanese": "貸切風呂", "reading": "かしきりぶろ", "romaji": "kashikiriburo", "chinese": "包租浴池" },
+        { "japanese": "浴衣", "reading": "ゆかた", "romaji": "yukata", "chinese": "浴衣" },
+        { "japanese": "刺青", "reading": "いれずみ", "romaji": "irezumi", "chinese": "刺青" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "泡溫泉前最重要的步驟是什麼？",
+          "options": ["直接泡進去", "先穿泳衣", "先沖洗身體（かけ湯）", "先拍照"],
+          "correct": 2,
+          "explanation": "「かけ湯」是泡湯前沖洗身體的步驟，是溫泉禮儀中最基本也最重要的規則。"
+        },
+        {
+          "question": "「露天風呂」是什麼？",
+          "options": ["室內溫泉", "露天溫泉", "更衣室", "包租浴池"],
+          "correct": 1,
+          "explanation": "「露天風呂（ろてんぶろ）」是戶外的露天溫泉，可以邊泡湯邊欣賞自然風景。"
+        },
+        {
+          "question": "毛巾在泡溫泉時應該怎麼處理？",
+          "options": ["直接放進浴池", "圍在身上泡湯", "放在頭上或浴池外", "丟在更衣室"],
+          "correct": 2,
+          "explanation": "毛巾不能放進浴池裡，通常放在頭上或放在浴池邊。這是溫泉的基本禮儀。"
+        },
+        {
+          "question": "「入浴料」是什麼意思？",
+          "options": ["洗浴用品", "泡湯費用", "毛巾費用", "預約費用"],
+          "correct": 1,
+          "explanation": "「入浴料（にゅうよくりょう）」是「泡湯費用」的意思。「入浴」是泡澡，「料」是費用。"
+        },
+        {
+          "question": "「水着は禁止です」是什麼意思？",
+          "options": ["請穿泳衣", "禁止穿泳衣", "泳衣免費提供", "泳衣要另外收費"],
+          "correct": 1,
+          "explanation": "「禁止です」是「禁止」的意思。日本大多數溫泉都禁止穿泳衣入浴。"
+        },
+        {
+          "question": "「貸切風呂」是什麼？",
+          "options": ["大眾浴池", "包租浴池（私人湯屋）", "足湯", "混浴溫泉"],
+          "correct": 1,
+          "explanation": "「貸切風呂（かしきりぶろ）」是可以包租的私人浴池。「貸切」是「包場」的意思。適合家庭或情侶使用。"
+        },
+        {
+          "question": "在溫泉旅館穿的「浴衣」讀音是什麼？",
+          "options": ["よくい", "ゆかた", "ゆうい", "よくた"],
+          "correct": 1,
+          "explanation": "「浴衣」的讀音是「ゆかた」，是日本傳統的輕便和服，在溫泉旅館通常會提供給住客穿著。"
+        },
+        {
+          "question": "想問泡湯的費用，應該怎麼說？",
+          "options": ["タオルはいくらですか", "入浴料はいくらですか", "温泉はどこですか", "予約はできますか"],
+          "correct": 1,
+          "explanation": "「入浴料はいくらですか？」就是「泡湯費用是多少？」。「いくら」是「多少錢」的意思。"
+        }
+      ]
+    }
+  ]
+}

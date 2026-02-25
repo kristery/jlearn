@@ -1,0 +1,335 @@
+{
+  "id": "ch1-unit9",
+  "title": "旅遊常用形容詞：大小、遠近、好吃難吃",
+  "intro": "學會形容詞，你就能表達對事物的感受和評價！本單元教你日語中最常用的「い形容詞」，讓你可以描述食物好不好吃、地方遠不遠、東西貴不貴，旅行中隨時都能派上用場。",
+  "estimatedTime": "30 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "大きい",
+          "reading": "おおきい",
+          "romaji": "ookii",
+          "chinese": "大的",
+          "example": "この公園は大きいです。",
+          "exampleChinese": "這個公園很大。"
+        },
+        {
+          "japanese": "小さい",
+          "reading": "ちいさい",
+          "romaji": "chiisai",
+          "chinese": "小的",
+          "example": "小さいサイズはありますか？",
+          "exampleChinese": "有小的尺寸嗎？"
+        },
+        {
+          "japanese": "高い",
+          "reading": "たかい",
+          "romaji": "takai",
+          "chinese": "貴的；高的",
+          "example": "このホテルは高いです。",
+          "exampleChinese": "這間飯店很貴。"
+        },
+        {
+          "japanese": "安い",
+          "reading": "やすい",
+          "romaji": "yasui",
+          "chinese": "便宜的",
+          "example": "この店は安いです。",
+          "exampleChinese": "這家店很便宜。"
+        },
+        {
+          "japanese": "遠い",
+          "reading": "とおい",
+          "romaji": "tooi",
+          "chinese": "遠的",
+          "example": "空港は遠いですか？",
+          "exampleChinese": "機場遠嗎？"
+        },
+        {
+          "japanese": "近い",
+          "reading": "ちかい",
+          "romaji": "chikai",
+          "chinese": "近的",
+          "example": "駅は近いですよ。",
+          "exampleChinese": "車站很近喔。"
+        },
+        {
+          "japanese": "おいしい",
+          "reading": "おいしい",
+          "romaji": "oishii",
+          "chinese": "好吃的；美味的",
+          "example": "このラーメンはおいしいです。",
+          "exampleChinese": "這碗拉麵很好吃。"
+        },
+        {
+          "japanese": "まずい",
+          "reading": "まずい",
+          "romaji": "mazui",
+          "chinese": "難吃的",
+          "example": "ちょっとまずいです。",
+          "exampleChinese": "有點難吃。"
+        },
+        {
+          "japanese": "暑い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "chinese": "熱的（天氣）",
+          "example": "今日は暑いですね。",
+          "exampleChinese": "今天好熱啊。"
+        },
+        {
+          "japanese": "寒い",
+          "reading": "さむい",
+          "romaji": "samui",
+          "chinese": "冷的（天氣）",
+          "example": "北海道は寒いです。",
+          "exampleChinese": "北海道很冷。"
+        },
+        {
+          "japanese": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "chinese": "新的",
+          "example": "新しいホテルに泊まりました。",
+          "exampleChinese": "住了新的飯店。"
+        },
+        {
+          "japanese": "古い",
+          "reading": "ふるい",
+          "romaji": "furui",
+          "chinese": "舊的；古老的",
+          "example": "この神社は古いです。",
+          "exampleChinese": "這間神社很古老。"
+        },
+        {
+          "japanese": "楽しい",
+          "reading": "たのしい",
+          "romaji": "tanoshii",
+          "chinese": "開心的；快樂的",
+          "example": "旅行は楽しいです。",
+          "exampleChinese": "旅行很開心。"
+        },
+        {
+          "japanese": "すごい",
+          "reading": "すごい",
+          "romaji": "sugoi",
+          "chinese": "厲害的；驚人的",
+          "example": "この景色はすごいですね！",
+          "exampleChinese": "這個景色好驚人啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在觀光景點，和旅伴討論眼前的景色。",
+      "lines": [
+        { "speaker": "A", "japanese": "わあ、この神社は大きいですね！", "chinese": "哇，這間神社好大啊！" },
+        { "speaker": "B", "japanese": "はい、とても古い神社ですよ。", "chinese": "是啊，是非常古老的神社喔。" },
+        { "speaker": "A", "japanese": "この景色はすごいですね。", "chinese": "這個景色好驚人啊。" },
+        { "speaker": "B", "japanese": "本当にきれいですね。", "chinese": "真的很漂亮。" },
+        { "speaker": "A", "japanese": "ここから駅は遠いですか？", "chinese": "從這裡到車站遠嗎？" },
+        { "speaker": "B", "japanese": "いいえ、近いですよ。歩いて十分くらいです。", "chinese": "不會，很近喔。走路大概十分鐘左右。" },
+        { "speaker": "A", "japanese": "じゃ、近くでおいしいものを食べましょう。", "chinese": "那就在附近吃點好吃的吧。" },
+        { "speaker": "B", "japanese": "いいですね！楽しいですね。", "chinese": "好啊！好開心啊。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在餐廳吃完飯，分享對食物的感想。",
+      "lines": [
+        { "speaker": "A", "japanese": "このラーメン、おいしいですか？", "chinese": "這碗拉麵好吃嗎？" },
+        { "speaker": "B", "japanese": "はい、とてもおいしいです！", "chinese": "嗯，非常好吃！" },
+        { "speaker": "A", "japanese": "高くないですか？", "chinese": "不貴嗎？" },
+        { "speaker": "B", "japanese": "安いですよ。八百円です。", "chinese": "很便宜喔。八百日圓。" },
+        { "speaker": "A", "japanese": "今日は暑いから、冷たいものがいいですね。", "chinese": "今天很熱，來點冰的好。" },
+        { "speaker": "B", "japanese": "かき氷はどうですか？", "chinese": "刨冰怎麼樣？" },
+        { "speaker": "A", "japanese": "いいですね。あの新しい店に行きましょう。", "chinese": "好耶。去那間新的店吧。" },
+        { "speaker": "B", "japanese": "はい、行きましょう！", "chinese": "好，走吧！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "い形容詞 + です",
+          "meaning": "禮貌地描述事物的性質",
+          "structure": "い形容詞 + です",
+          "examples": [
+            { "japanese": "この寿司はおいしいです。", "chinese": "這個壽司很好吃。" },
+            { "japanese": "東京タワーは高いです。", "chinese": "東京鐵塔很高。" },
+            { "japanese": "今日は暑いです。", "chinese": "今天很熱。" }
+          ],
+          "note": "「い形容詞」是以「い」結尾的形容詞。加上「です」可以讓語氣更禮貌。注意：「きれい」雖然以「い」結尾，但其實是「な形容詞」，不要搞混了。"
+        },
+        {
+          "pattern": "～くないです",
+          "meaning": "不～（い形容詞的否定形）",
+          "structure": "い形容詞去掉「い」+ くないです",
+          "examples": [
+            { "japanese": "この店は高くないです。", "chinese": "這家店不貴。" },
+            { "japanese": "今日は寒くないです。", "chinese": "今天不冷。" },
+            { "japanese": "この映画はおもしろくないです。", "chinese": "這部電影不有趣。" }
+          ],
+          "note": "把い形容詞的「い」去掉，加上「くないです」就是否定形。例如：高い → 高くないです、おいしい → おいしくないです。注意「いい（好的）」的否定是「よくないです」，是不規則變化。"
+        },
+        {
+          "pattern": "～かったです",
+          "meaning": "過去是～的（い形容詞的過去式）",
+          "structure": "い形容詞去掉「い」+ かったです",
+          "examples": [
+            { "japanese": "昨日のラーメンはおいしかったです。", "chinese": "昨天的拉麵很好吃。" },
+            { "japanese": "旅行は楽しかったです。", "chinese": "旅行很開心。" },
+            { "japanese": "先週は寒かったです。", "chinese": "上週很冷。" }
+          ],
+          "note": "把い形容詞的「い」去掉，加上「かったです」就是過去式。例如：楽しい → 楽しかったです、暑い → 暑かったです。「いい」的過去式是「よかったです」，也是不規則變化。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "大きい",
+          "reading": "おおきい",
+          "romaji": "ookii",
+          "chinese": "大的",
+          "example": "この公園は大きいです。",
+          "exampleChinese": "這個公園很大。"
+        },
+        {
+          "japanese": "小さい",
+          "reading": "ちいさい",
+          "romaji": "chiisai",
+          "chinese": "小的",
+          "example": "小さいサイズはありますか？",
+          "exampleChinese": "有小的尺寸嗎？"
+        },
+        {
+          "japanese": "高い",
+          "reading": "たかい",
+          "romaji": "takai",
+          "chinese": "貴的；高的",
+          "example": "このホテルは高いです。",
+          "exampleChinese": "這間飯店很貴。"
+        },
+        {
+          "japanese": "安い",
+          "reading": "やすい",
+          "romaji": "yasui",
+          "chinese": "便宜的",
+          "example": "この店は安いです。",
+          "exampleChinese": "這家店很便宜。"
+        },
+        {
+          "japanese": "おいしい",
+          "reading": "おいしい",
+          "romaji": "oishii",
+          "chinese": "好吃的；美味的",
+          "example": "このラーメンはおいしいです。",
+          "exampleChinese": "這碗拉麵很好吃。"
+        },
+        {
+          "japanese": "暑い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "chinese": "熱的（天氣）",
+          "example": "今日は暑いですね。",
+          "exampleChinese": "今天好熱啊。"
+        },
+        {
+          "japanese": "寒い",
+          "reading": "さむい",
+          "romaji": "samui",
+          "chinese": "冷的（天氣）",
+          "example": "北海道は寒いです。",
+          "exampleChinese": "北海道很冷。"
+        },
+        {
+          "japanese": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "chinese": "新的",
+          "example": "新しいホテルに泊まりました。",
+          "exampleChinese": "住了新的飯店。"
+        },
+        {
+          "japanese": "楽しい",
+          "reading": "たのしい",
+          "romaji": "tanoshii",
+          "chinese": "開心的；快樂的",
+          "example": "旅行は楽しいです。",
+          "exampleChinese": "旅行很開心。"
+        },
+        {
+          "japanese": "すごい",
+          "reading": "すごい",
+          "romaji": "sugoi",
+          "chinese": "厲害的；驚人的",
+          "example": "この景色はすごいですね！",
+          "exampleChinese": "這個景色好驚人啊！"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「おいしい」的否定形是？",
+          "options": ["おいしいくない", "おいしくないです", "おいしないです", "おいしかないです"],
+          "correct": 1,
+          "explanation": "い形容詞的否定形是去掉「い」加「くないです」：おいしい → おいしくないです。"
+        },
+        {
+          "question": "「たかい」有哪兩個意思？",
+          "options": ["大的、貴的", "貴的、高的", "遠的、高的", "新的、貴的"],
+          "correct": 1,
+          "explanation": "「高い（たかい）」同時有「貴的」和「高的」兩個意思，要根據上下文判斷。"
+        },
+        {
+          "question": "「昨日は寒かったです」是什麼意思？",
+          "options": ["昨天很熱", "今天很冷", "昨天很冷", "明天會冷"],
+          "correct": 2,
+          "explanation": "「寒かったです」是「寒い」的過去式，「昨日は寒かったです」是「昨天很冷」的意思。"
+        },
+        {
+          "question": "下列哪個是「便宜」的意思？",
+          "options": ["高い", "安い", "近い", "新しい"],
+          "correct": 1,
+          "explanation": "「安い（やすい）」是「便宜的」意思，和「高い（貴的）」相反。"
+        },
+        {
+          "question": "「この神社はふるいです」的漢字寫法是？",
+          "options": ["この神社は降いです", "この神社は古いです", "この神社は振いです", "この神社は旧いです"],
+          "correct": 1,
+          "explanation": "「ふるい」的漢字是「古い」，意思是「古老的；舊的」。"
+        },
+        {
+          "question": "「いい」的過去式是？",
+          "options": ["いかったです", "いいかったです", "よかったです", "よいかったです"],
+          "correct": 2,
+          "explanation": "「いい」是不規則變化，過去式是「よかったです」，不是「いかったです」。"
+        },
+        {
+          "question": "想說「今天不熱」，應該怎麼說？",
+          "options": ["今日は暑いです", "今日は暑くないです", "今日は暑かったです", "今日は暑くなかったです"],
+          "correct": 1,
+          "explanation": "「暑くないです」是「暑い」的否定形，「今日は暑くないです」意思是「今天不熱」。"
+        },
+        {
+          "question": "「すごい」最常用來表達什麼？",
+          "options": ["很無聊", "很難吃", "很厲害；很驚人", "很便宜"],
+          "correct": 2,
+          "explanation": "「すごい」表示「厲害的、驚人的」，是日本人日常生活中非常常用的形容詞，表達驚嘆、佩服的感覺。"
+        }
+      ]
+    }
+  ]
+}

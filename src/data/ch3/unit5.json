@@ -1,0 +1,450 @@
+{
+  "id": "ch3-unit5",
+  "title": "民宿與Airbnb：和房東溝通的實用日語",
+  "intro": "近年來越來越多旅客選擇入住民宿或 Airbnb，和房東的溝通就變得格外重要。本單元教你從聯繫房東、確認入住方式，到詢問生活規則的各種實用日語表達。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "民宿",
+          "reading": "みんしゅく",
+          "romaji": "minshuku",
+          "chinese": "民宿",
+          "example": "今回は民宿に泊まります。",
+          "exampleChinese": "這次要住民宿。"
+        },
+        {
+          "japanese": "オーナー",
+          "reading": "オーナー",
+          "romaji": "ōnā",
+          "chinese": "房東／業主",
+          "example": "オーナーに連絡してもいいですか？",
+          "exampleChinese": "可以聯繫房東嗎？"
+        },
+        {
+          "japanese": "鍵",
+          "reading": "かぎ",
+          "romaji": "kagi",
+          "chinese": "鑰匙",
+          "example": "鍵の受け取り方を教えてください。",
+          "exampleChinese": "請告訴我領取鑰匙的方式。"
+        },
+        {
+          "japanese": "Wi-Fi",
+          "reading": "ワイファイ",
+          "romaji": "waifai",
+          "chinese": "無線網路",
+          "example": "Wi-Fiのパスワードは何ですか？",
+          "exampleChinese": "Wi-Fi 密碼是什麼？"
+        },
+        {
+          "japanese": "ゴミの分別",
+          "reading": "ゴミのぶんべつ",
+          "romaji": "gomi no bunbetsu",
+          "chinese": "垃圾分類",
+          "example": "ゴミの分別はどうやってしますか？",
+          "exampleChinese": "垃圾分類該怎麼做？"
+        },
+        {
+          "japanese": "チェックイン時間",
+          "reading": "チェックインじかん",
+          "romaji": "chekkuin jikan",
+          "chinese": "入住時間",
+          "example": "チェックイン時間は何時ですか？",
+          "exampleChinese": "入住時間是幾點？"
+        },
+        {
+          "japanese": "暗証番号",
+          "reading": "あんしょうばんごう",
+          "romaji": "anshō bangō",
+          "chinese": "密碼（門鎖）",
+          "example": "ドアの暗証番号を教えてください。",
+          "exampleChinese": "請告訴我門的密碼。"
+        },
+        {
+          "japanese": "キッチン",
+          "reading": "キッチン",
+          "romaji": "kicchin",
+          "chinese": "廚房",
+          "example": "キッチンを使ってもいいですか？",
+          "exampleChinese": "可以使用廚房嗎？"
+        },
+        {
+          "japanese": "洗濯機",
+          "reading": "せんたくき",
+          "romaji": "sentakuki",
+          "chinese": "洗衣機",
+          "example": "洗濯機はどこにありますか？",
+          "exampleChinese": "洗衣機在哪裡？"
+        },
+        {
+          "japanese": "タオル",
+          "reading": "タオル",
+          "romaji": "taoru",
+          "chinese": "毛巾",
+          "example": "タオルは用意されていますか？",
+          "exampleChinese": "有準備毛巾嗎？"
+        },
+        {
+          "japanese": "近所",
+          "reading": "きんじょ",
+          "romaji": "kinjo",
+          "chinese": "附近／鄰居",
+          "example": "近所にコンビニはありますか？",
+          "exampleChinese": "附近有便利商店嗎？"
+        },
+        {
+          "japanese": "騒音",
+          "reading": "そうおん",
+          "romaji": "sōon",
+          "chinese": "噪音",
+          "example": "夜10時以降は騒音に気をつけてください。",
+          "exampleChinese": "晚上10點以後請注意噪音。"
+        },
+        {
+          "japanese": "ハウスルール",
+          "reading": "ハウスルール",
+          "romaji": "hausu rūru",
+          "chinese": "房屋守則",
+          "example": "ハウスルールを確認しました。",
+          "exampleChinese": "我已確認房屋守則。"
+        },
+        {
+          "japanese": "セルフチェックイン",
+          "reading": "セルフチェックイン",
+          "romaji": "serufu chekkuin",
+          "chinese": "自助入住",
+          "example": "セルフチェックインの方法を教えてください。",
+          "exampleChinese": "請告訴我自助入住的方法。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：聯繫房東確認入住",
+      "scene": "透過訊息聯繫民宿房東，確認入住方式和注意事項",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "こんにちは。明日チェックインする予定の林です。",
+          "chinese": "你好。我是預定明天入住的林。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "林様、ご連絡ありがとうございます。明日のチェックイン時間は15時からです。",
+          "chinese": "林先生/小姐，感謝您的聯繫。明天的入住時間是下午3點起。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "鍵はどうやって受け取りますか？",
+          "chinese": "鑰匙要怎麼領取呢？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "セルフチェックインです。玄関にキーボックスがありますので、暗証番号でお開けください。",
+          "chinese": "是自助入住。玄關有鑰匙盒，請用密碼打開。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "暗証番号を教えていただけますか？",
+          "chinese": "可以告訴我密碼嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、暗証番号は「1234」です。チェックイン当日にもう一度メッセージでお送りします。",
+          "chinese": "好的，密碼是「1234」。入住當天我會再用訊息傳一次。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "ありがとうございます。Wi-Fiはありますか？",
+          "chinese": "謝謝。有 Wi-Fi 嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、Wi-Fiのパスワードはお部屋の案内書に書いてあります。",
+          "chinese": "有的，Wi-Fi 密碼寫在房間的說明書上。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：詢問房屋守則",
+      "scene": "入住後向房東確認生活規則和注意事項",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、ハウスルールについて質問があります。",
+          "chinese": "不好意思，關於房屋守則我有問題想問。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、何でも聞いてください。",
+          "chinese": "好的，請儘管問。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "ゴミの分別はどうやってしますか？",
+          "chinese": "垃圾分類該怎麼做？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "キッチンに分別用のゴミ箱が3つあります。燃えるゴミ、プラスチック、ビン・カンに分けてください。",
+          "chinese": "廚房有3個分類垃圾桶。請分成可燃垃圾、塑膠和瓶罐。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "洗濯機を使ってもいいですか？",
+          "chinese": "可以使用洗衣機嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、ご自由にお使いください。洗剤はバスルームにあります。",
+          "chinese": "可以的，請自由使用。洗衣精在浴室裡。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "夜は何時まで音を出してもいいですか？",
+          "chinese": "晚上到幾點可以發出聲音？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "近所の方のために、夜10時以降はお静かにお願いします。",
+          "chinese": "為了鄰居，晚上10點以後請保持安靜。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～てもいいですか",
+          "meaning": "可以做～嗎？（請求許可）",
+          "structure": "動詞て形 ＋ もいいですか",
+          "examples": [
+            {
+              "japanese": "キッチンを使ってもいいですか？",
+              "chinese": "可以使用廚房嗎？"
+            },
+            {
+              "japanese": "洗濯機を使ってもいいですか？",
+              "chinese": "可以使用洗衣機嗎？"
+            },
+            {
+              "japanese": "友達を連れてきてもいいですか？",
+              "chinese": "可以帶朋友來嗎？"
+            },
+            {
+              "japanese": "チェックインの時間を早めてもいいですか？",
+              "chinese": "可以提早入住時間嗎？"
+            }
+          ],
+          "note": "這是請求對方許可時的基本句型。回答時，允許可以說「はい、どうぞ」，拒絕可以說「すみません、ちょっと…」。"
+        },
+        {
+          "pattern": "～はどうやって",
+          "meaning": "～該怎麼做？",
+          "structure": "名詞 ＋ はどうやって ＋ 動詞ますか",
+          "examples": [
+            {
+              "japanese": "ゴミの分別はどうやってしますか？",
+              "chinese": "垃圾分類該怎麼做？"
+            },
+            {
+              "japanese": "鍵はどうやって受け取りますか？",
+              "chinese": "鑰匙該怎麼領取？"
+            },
+            {
+              "japanese": "エアコンはどうやって使いますか？",
+              "chinese": "冷氣該怎麼用？"
+            }
+          ],
+          "note": "「どうやって」比「どう」更具體，適合詢問具體的步驟或方法。日常對話中非常實用。"
+        },
+        {
+          "pattern": "～をお願いします",
+          "meaning": "麻煩請給我～／請幫我～",
+          "structure": "名詞 ＋ をお願いします",
+          "examples": [
+            {
+              "japanese": "暗証番号をお願いします。",
+              "chinese": "麻煩請給我密碼。"
+            },
+            {
+              "japanese": "Wi-Fiのパスワードをお願いします。",
+              "chinese": "麻煩請給我 Wi-Fi 密碼。"
+            },
+            {
+              "japanese": "追加のタオルをお願いします。",
+              "chinese": "麻煩請給我追加的毛巾。"
+            }
+          ],
+          "note": "在民宿情境中也一樣好用！向房東提出簡單請求時，「～をお願いします」是最自然的表達方式。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "民宿",
+          "reading": "みんしゅく",
+          "romaji": "minshuku",
+          "chinese": "民宿"
+        },
+        {
+          "japanese": "オーナー",
+          "reading": "オーナー",
+          "romaji": "ōnā",
+          "chinese": "房東／業主"
+        },
+        {
+          "japanese": "暗証番号",
+          "reading": "あんしょうばんごう",
+          "romaji": "anshō bangō",
+          "chinese": "密碼（門鎖）"
+        },
+        {
+          "japanese": "ゴミの分別",
+          "reading": "ゴミのぶんべつ",
+          "romaji": "gomi no bunbetsu",
+          "chinese": "垃圾分類"
+        },
+        {
+          "japanese": "キッチン",
+          "reading": "キッチン",
+          "romaji": "kicchin",
+          "chinese": "廚房"
+        },
+        {
+          "japanese": "洗濯機",
+          "reading": "せんたくき",
+          "romaji": "sentakuki",
+          "chinese": "洗衣機"
+        },
+        {
+          "japanese": "タオル",
+          "reading": "タオル",
+          "romaji": "taoru",
+          "chinese": "毛巾"
+        },
+        {
+          "japanese": "ハウスルール",
+          "reading": "ハウスルール",
+          "romaji": "hausu rūru",
+          "chinese": "房屋守則"
+        },
+        {
+          "japanese": "近所",
+          "reading": "きんじょ",
+          "romaji": "kinjo",
+          "chinese": "附近／鄰居"
+        },
+        {
+          "japanese": "騒音",
+          "reading": "そうおん",
+          "romaji": "sōon",
+          "chinese": "噪音"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "你想問房東「可以使用廚房嗎？」，應該怎麼說？",
+          "options": [
+            "キッチンを使ってもいいですか？",
+            "キッチンはどこですか？",
+            "キッチンをお願いします。",
+            "キッチンを使います。"
+          ],
+          "correct": 0,
+          "explanation": "「～てもいいですか」是請求許可的句型。「キッチンを使ってもいいですか」就是「可以使用廚房嗎」。"
+        },
+        {
+          "question": "「ゴミの分別はどうやってしますか？」是在問什麼？",
+          "options": [
+            "垃圾桶在哪裡？",
+            "垃圾分類該怎麼做？",
+            "什麼時候倒垃圾？",
+            "垃圾可以放在外面嗎？"
+          ],
+          "correct": 1,
+          "explanation": "「どうやって」是「怎麼做」的意思，整句是在詢問垃圾分類的方法。"
+        },
+        {
+          "question": "「セルフチェックイン」是什麼意思？",
+          "options": [
+            "提前入住",
+            "自助入住",
+            "延後入住",
+            "團體入住"
+          ],
+          "correct": 1,
+          "explanation": "「セルフ」來自英語 self，「セルフチェックイン」就是自助入住，不需要房東在現場。"
+        },
+        {
+          "question": "房東說「夜10時以降はお静かにお願いします」，是什麼意思？",
+          "options": [
+            "晚上10點以後請關燈。",
+            "晚上10點以後請保持安靜。",
+            "晚上10點以後不能回家。",
+            "晚上10點以後請鎖門。"
+          ],
+          "correct": 1,
+          "explanation": "「お静かに」是「請安靜」的意思，「以降」是「以後」。整句是要求晚上10點以後保持安靜。"
+        },
+        {
+          "question": "你想問鑰匙怎麼領取，應該怎麼說？",
+          "options": [
+            "鍵はいくらですか？",
+            "鍵はどこですか？",
+            "鍵はどうやって受け取りますか？",
+            "鍵をください。"
+          ],
+          "correct": 2,
+          "explanation": "「どうやって受け取りますか」是「怎麼領取」的意思。在民宿自助入住時，詢問取鑰匙方式很重要。"
+        },
+        {
+          "question": "「暗証番号」是什麼意思？",
+          "options": [
+            "房間號碼",
+            "電話號碼",
+            "密碼",
+            "預約號碼"
+          ],
+          "correct": 2,
+          "explanation": "「暗証番号（あんしょうばんごう）」是密碼的意思，常用於門鎖或保險箱的數字密碼。"
+        },
+        {
+          "question": "「タオルは用意されていますか？」是在問什麼？",
+          "options": [
+            "毛巾在哪裡買？",
+            "毛巾可以帶走嗎？",
+            "有準備毛巾嗎？",
+            "毛巾怎麼洗？"
+          ],
+          "correct": 2,
+          "explanation": "「用意されていますか」是「有準備好嗎」的意思。入住民宿前確認是否提供毛巾很實用。"
+        },
+        {
+          "question": "以下哪個是正確的垃圾分類項目？",
+          "options": [
+            "燃えるゴミ、食べるゴミ、飲むゴミ",
+            "燃えるゴミ、プラスチック、ビン・カン",
+            "白いゴミ、黒いゴミ、赤いゴミ",
+            "大きいゴミ、小さいゴミ、普通のゴミ"
+          ],
+          "correct": 1,
+          "explanation": "日本常見的垃圾分類包括「燃えるゴミ（可燃垃圾）」、「プラスチック（塑膠）」、「ビン・カン（瓶罐）」。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": "ch6-unit6",
+  "title": "祭典與花火大會：夏日風物詩",
+  "intro": "日本的夏天少不了祭典和花火大會！穿上浴衣、逛逛屋台、看看煙火，這些都是日本夏日的經典風景。學會祭典相關的日語，讓你在熱鬧的祭典中也能融入其中，盡情享受日本的夏日風情！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "祭り",
+          "reading": "まつり",
+          "romaji": "matsuri",
+          "chinese": "祭典；廟會",
+          "example": "来週、地元の祭りがあります。",
+          "exampleChinese": "下週有當地的祭典。"
+        },
+        {
+          "japanese": "花火大会",
+          "reading": "はなびたいかい",
+          "romaji": "hanabi taikai",
+          "chinese": "煙火大會",
+          "example": "花火大会は何時に始まりますか？",
+          "exampleChinese": "煙火大會幾點開始？"
+        },
+        {
+          "japanese": "屋台",
+          "reading": "やたい",
+          "romaji": "yatai",
+          "chinese": "攤販；路邊攤",
+          "example": "屋台でたこ焼きを買いましょう。",
+          "exampleChinese": "在攤販那裡買章魚燒吧。"
+        },
+        {
+          "japanese": "浴衣",
+          "reading": "ゆかた",
+          "romaji": "yukata",
+          "chinese": "浴衣（夏季和服）",
+          "example": "祭りに浴衣を着て行きたいです。",
+          "exampleChinese": "我想穿浴衣去祭典。"
+        },
+        {
+          "japanese": "金魚すくい",
+          "reading": "きんぎょすくい",
+          "romaji": "kingyo sukui",
+          "chinese": "撈金魚",
+          "example": "金魚すくいをやってみたいです。",
+          "exampleChinese": "我想試試撈金魚。"
+        },
+        {
+          "japanese": "綿あめ",
+          "reading": "わたあめ",
+          "romaji": "wataame",
+          "chinese": "棉花糖",
+          "example": "綿あめを一つください。",
+          "exampleChinese": "請給我一份棉花糖。"
+        },
+        {
+          "japanese": "たこ焼き",
+          "reading": "たこやき",
+          "romaji": "takoyaki",
+          "chinese": "章魚燒",
+          "example": "たこ焼きを八個入りでお願いします。",
+          "exampleChinese": "請給我八個裝的章魚燒。"
+        },
+        {
+          "japanese": "かき氷",
+          "reading": "かきごおり",
+          "romaji": "kakigoori",
+          "chinese": "刨冰",
+          "example": "暑いから、かき氷を食べよう。",
+          "exampleChinese": "好熱，吃刨冰吧。"
+        },
+        {
+          "japanese": "焼きそば",
+          "reading": "やきそば",
+          "romaji": "yakisoba",
+          "chinese": "炒麵",
+          "example": "屋台の焼きそばはおいしいですよ。",
+          "exampleChinese": "攤販的炒麵很好吃喔。"
+        },
+        {
+          "japanese": "お面",
+          "reading": "おめん",
+          "romaji": "omen",
+          "chinese": "面具",
+          "example": "子供たちがお面をつけて遊んでいます。",
+          "exampleChinese": "小朋友們戴著面具在玩。"
+        },
+        {
+          "japanese": "盆踊り",
+          "reading": "ぼんおどり",
+          "romaji": "bon odori",
+          "chinese": "盂蘭盆舞",
+          "example": "一緒に盆踊りを踊りませんか？",
+          "exampleChinese": "要不要一起跳盂蘭盆舞？"
+        },
+        {
+          "japanese": "神社",
+          "reading": "じんじゃ",
+          "romaji": "jinja",
+          "chinese": "神社",
+          "example": "祭りは神社の前で行われます。",
+          "exampleChinese": "祭典在神社前面舉行。"
+        },
+        {
+          "japanese": "御神輿",
+          "reading": "おみこし",
+          "romaji": "omikoshi",
+          "chinese": "神轎",
+          "example": "御神輿を担ぐのは大変そうですね。",
+          "exampleChinese": "扛神轎看起來好累呢。"
+        },
+        {
+          "japanese": "場所取り",
+          "reading": "ばしょとり",
+          "romaji": "bashotori",
+          "chinese": "佔位子",
+          "example": "花火大会の場所取りは早めにしましょう。",
+          "exampleChinese": "煙火大會要提早去佔位子。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：逛祭典",
+      "scene": "和朋友一起穿浴衣逛祭典，在屋台買小吃。",
+      "lines": [
+        { "speaker": "A", "japanese": "わあ、すごい人だね！屋台がたくさんあるよ。", "chinese": "哇，好多人啊！有好多攤販耶。" },
+        { "speaker": "B", "japanese": "うん！まず何を食べる？", "chinese": "對啊！先吃什麼？" },
+        { "speaker": "A", "japanese": "たこ焼きを食べたいな。あの屋台に行こう。", "chinese": "我想吃章魚燒。去那個攤販吧。" },
+        { "speaker": "A", "japanese": "すみません、たこ焼きを一つお願いします。八個入りで。", "chinese": "不好意思，請給我一份章魚燒。八個裝的。" },
+        { "speaker": "店員", "japanese": "はい、五百円です。ソースとマヨネーズはかけますか？", "chinese": "好的，五百日圓。要淋醬汁和美乃滋嗎？" },
+        { "speaker": "A", "japanese": "両方お願いします。", "chinese": "兩種都要。" },
+        { "speaker": "B", "japanese": "あ、金魚すくいもあるよ。やってみない？", "chinese": "啊，也有撈金魚耶。要不要試試？" },
+        { "speaker": "A", "japanese": "いいね！一回いくらですか？", "chinese": "好啊！一次多少錢？" },
+        { "speaker": "店員", "japanese": "一回三百円ですよ。", "chinese": "一次三百日圓喔。" },
+        { "speaker": "A", "japanese": "じゃ、やってみよう！", "chinese": "那就來試試吧！" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：觀賞花火大會",
+      "scene": "和朋友一起觀賞花火大會，找位子和討論煙火。",
+      "lines": [
+        { "speaker": "A", "japanese": "花火大会は何時に始まるの？", "chinese": "煙火大會幾點開始？" },
+        { "speaker": "B", "japanese": "七時からだよ。もう場所取りした方がいいかも。", "chinese": "七點開始喔。可能要先去佔位子比較好。" },
+        { "speaker": "A", "japanese": "あそこの川沿いはどう？見やすそうだよ。", "chinese": "那邊河邊怎麼樣？看起來很好觀賞。" },
+        { "speaker": "B", "japanese": "いいね。レジャーシートを敷こう。", "chinese": "好耶。鋪上野餐墊吧。" },
+        { "speaker": "A", "japanese": "あ、始まった！きれい！", "chinese": "啊，開始了！好漂亮！" },
+        { "speaker": "B", "japanese": "すごい！大きい花火だね！", "chinese": "好厲害！好大的煙火啊！" },
+        { "speaker": "A", "japanese": "今日の花火大会は一万発以上らしいよ。", "chinese": "聽說今天的煙火大會有一萬發以上。" },
+        { "speaker": "B", "japanese": "わあ、最後のスターマインがすごかったね！", "chinese": "哇，最後的連發煙火好壯觀啊！" },
+        { "speaker": "A", "japanese": "来年も絶対に来よう！", "chinese": "明年一定要再來！" },
+        { "speaker": "B", "japanese": "うん！今度はもっと早く場所取りしようね。", "chinese": "好！下次要更早去佔位子呢。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～が始まる",
+          "meaning": "～開始了",
+          "structure": "名詞 + が始まる（はじまる）",
+          "examples": [
+            { "japanese": "花火大会が始まりました。", "chinese": "煙火大會開始了。" },
+            { "japanese": "祭りは何時に始まりますか？", "chinese": "祭典幾點開始？" },
+            { "japanese": "盆踊りが始まるよ！", "chinese": "盂蘭盆舞要開始了！" }
+          ],
+          "note": "「始まる（はじまる）」是自動詞，表示某事自然地開始。注意「始まる」和他動詞「始める（はじめる）」的區別：前者是「（某事）開始了」，後者是「（某人）開始做某事」。"
+        },
+        {
+          "pattern": "～を楽しむ",
+          "meaning": "享受～",
+          "structure": "名詞 + を楽しむ（たのしむ）",
+          "examples": [
+            { "japanese": "祭りを楽しみましょう。", "chinese": "一起享受祭典吧。" },
+            { "japanese": "花火を楽しんでください。", "chinese": "請盡情欣賞煙火。" },
+            { "japanese": "屋台の食べ物を楽しみたいです。", "chinese": "我想享受攤販的美食。" }
+          ],
+          "note": "「楽しむ（たのしむ）」是「享受」的動詞。常用於表達對某活動或體驗的期待和享受。「楽しみにしています」是「我很期待」的意思。"
+        },
+        {
+          "pattern": "～に行こう",
+          "meaning": "去～吧",
+          "structure": "動詞ます形去掉ます + に行こう",
+          "examples": [
+            { "japanese": "祭りに行こう！", "chinese": "去祭典吧！" },
+            { "japanese": "花火を見に行こう。", "chinese": "去看煙火吧。" },
+            { "japanese": "かき氷を食べに行こう。", "chinese": "去吃刨冰吧。" }
+          ],
+          "note": "「行こう」是「行きましょう」的口語版，用來邀約朋友一起去做某事。「動詞ます形去掉ます + に行く」表示「去做某事」，例如「食べに行く」（去吃）。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小知識",
+      "content": "【日本祭典文化】\n\n1. **夏祭り（夏日祭典）**：日本的夏天是祭典的季節。從七月到八月，各地都會舉辦大大小小的祭典。著名的包括京都的祇園祭、大阪的天神祭、東京的隅田川花火大會等。\n\n2. **浴衣文化**：參加夏日祭典時，許多日本人會穿浴衣。浴衣是一種輕便的和服，花色繽紛，搭配木屐（下駄）和團扇（うちわ），是夏天祭典的經典打扮。\n\n3. **屋台美食**：祭典上最令人期待的就是各種屋台小吃，包括章魚燒、炒麵、刨冰、棉花糖、蘋果糖（りんご飴）等。逛屋台是祭典的一大樂趣。\n\n4. **花火大會禮儀**：觀賞煙火時，要提前去佔好位子（場所取り），記得帶野餐墊（レジャーシート）。結束後務必帶走自己的垃圾，保持場地清潔。"
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "祭り", "reading": "まつり", "romaji": "matsuri", "chinese": "祭典" },
+        { "japanese": "花火大会", "reading": "はなびたいかい", "romaji": "hanabi taikai", "chinese": "煙火大會" },
+        { "japanese": "屋台", "reading": "やたい", "romaji": "yatai", "chinese": "攤販" },
+        { "japanese": "浴衣", "reading": "ゆかた", "romaji": "yukata", "chinese": "浴衣" },
+        { "japanese": "金魚すくい", "reading": "きんぎょすくい", "romaji": "kingyo sukui", "chinese": "撈金魚" },
+        { "japanese": "綿あめ", "reading": "わたあめ", "romaji": "wataame", "chinese": "棉花糖" },
+        { "japanese": "たこ焼き", "reading": "たこやき", "romaji": "takoyaki", "chinese": "章魚燒" },
+        { "japanese": "かき氷", "reading": "かきごおり", "romaji": "kakigoori", "chinese": "刨冰" },
+        { "japanese": "盆踊り", "reading": "ぼんおどり", "romaji": "bon odori", "chinese": "盂蘭盆舞" },
+        { "japanese": "御神輿", "reading": "おみこし", "romaji": "omikoshi", "chinese": "神轎" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "日本祭典上的路邊攤叫什麼？",
+          "options": ["レストラン", "屋台", "コンビニ", "スーパー"],
+          "correct": 1,
+          "explanation": "「屋台（やたい）」是祭典上的路邊攤、攤販，販售各種小吃和遊戲。"
+        },
+        {
+          "question": "「花火大会は何時に始まりますか？」是什麼意思？",
+          "options": ["煙火大會在哪裡舉辦？", "煙火大會幾點開始？", "煙火大會要門票嗎？", "煙火大會有多少發？"],
+          "correct": 1,
+          "explanation": "「何時に始まりますか」是「幾點開始」的意思。「何時（なんじ）」是幾點，「始まる」是開始。"
+        },
+        {
+          "question": "「金魚すくい」是什麼活動？",
+          "options": ["養金魚", "撈金魚", "畫金魚", "吃金魚"],
+          "correct": 1,
+          "explanation": "「金魚すくい（きんぎょすくい）」是日本祭典上的傳統遊戲，用紙製的小網撈金魚。「すくい」來自動詞「すくう」（撈）。"
+        },
+        {
+          "question": "參加夏日祭典時穿的傳統服裝叫什麼？",
+          "options": ["着物", "浴衣", "袴", "振袖"],
+          "correct": 1,
+          "explanation": "「浴衣（ゆかた）」是夏季穿的輕便和服，是參加夏日祭典和花火大會的經典打扮。"
+        },
+        {
+          "question": "「綿あめ」是什麼？",
+          "options": ["章魚燒", "刨冰", "棉花糖", "炒麵"],
+          "correct": 2,
+          "explanation": "「綿あめ（わたあめ）」是「棉花糖」。「綿」是棉花，「あめ」是糖果。是祭典上很受歡迎的甜點。"
+        },
+        {
+          "question": "花火大會前要做什麼準備？",
+          "options": ["買門票", "提前佔位子（場所取り）", "買浴衣", "預約餐廳"],
+          "correct": 1,
+          "explanation": "「場所取り（ばしょとり）」是「佔位子」的意思。花火大會通常是免費觀賞，但好位子會很快被佔滿，所以要提早去。"
+        },
+        {
+          "question": "「盆踊り」是什麼？",
+          "options": ["煙火表演", "太鼓表演", "盂蘭盆舞", "撈金魚"],
+          "correct": 2,
+          "explanation": "「盆踊り（ぼんおどり）」是日本盂蘭盆節期間跳的傳統舞蹈，大家圍成圈一起跳，是夏日祭典的重要活動。"
+        },
+        {
+          "question": "想邀朋友去看煙火，應該怎麼說？",
+          "options": ["花火を見ました", "花火を見に行こう", "花火が始まった", "花火は禁止です"],
+          "correct": 1,
+          "explanation": "「花火を見に行こう」是「去看煙火吧」的意思。「見に行こう」是邀約語氣的「去看」。"
+        }
+      ]
+    }
+  ]
+}

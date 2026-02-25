@@ -1,0 +1,335 @@
+{
+  "id": "ch2-unit6",
+  "title": "租車自駕遊：租車、加油、停車場日語",
+  "intro": "想要深度探索日本鄉下的美景，自駕是最棒的方式！從北海道的花田到沖繩的海岸線，租車自駕讓旅行更自由。本單元教你從租車、加油到找停車場的實用日語，讓你安心上路。",
+  "estimatedTime": "30 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "レンタカー",
+          "reading": "レンタカー",
+          "romaji": "rentakaa",
+          "chinese": "租車",
+          "example": "レンタカーを借りたいです。",
+          "exampleChinese": "我想租車。"
+        },
+        {
+          "japanese": "ガソリンスタンド",
+          "reading": "ガソリンスタンド",
+          "romaji": "gasorinsutando",
+          "chinese": "加油站",
+          "example": "近くにガソリンスタンドはありますか？",
+          "exampleChinese": "附近有加油站嗎？"
+        },
+        {
+          "japanese": "駐車場",
+          "reading": "ちゅうしゃじょう",
+          "romaji": "chuushajou",
+          "chinese": "停車場",
+          "example": "この駐車場は無料ですか？",
+          "exampleChinese": "這個停車場免費嗎？"
+        },
+        {
+          "japanese": "運転免許",
+          "reading": "うんてんめんきょ",
+          "romaji": "untenmenkyo",
+          "chinese": "駕照",
+          "example": "国際運転免許を持っています。",
+          "exampleChinese": "我有國際駕照。"
+        },
+        {
+          "japanese": "カーナビ",
+          "reading": "カーナビ",
+          "romaji": "kaanabi",
+          "chinese": "汽車導航",
+          "example": "カーナビは付いていますか？",
+          "exampleChinese": "有附汽車導航嗎？"
+        },
+        {
+          "japanese": "満タン",
+          "reading": "まんタン",
+          "romaji": "mantan",
+          "chinese": "加滿（油箱）",
+          "example": "レギュラー満タンでお願いします。",
+          "exampleChinese": "請加滿普通汽油。"
+        },
+        {
+          "japanese": "レギュラー",
+          "reading": "レギュラー",
+          "romaji": "regyuraa",
+          "chinese": "普通汽油",
+          "example": "レギュラーでお願いします。",
+          "exampleChinese": "請加普通汽油。"
+        },
+        {
+          "japanese": "高速道路",
+          "reading": "こうそくどうろ",
+          "romaji": "kousokudouro",
+          "chinese": "高速公路",
+          "example": "高速道路で行きますか？",
+          "exampleChinese": "走高速公路嗎？"
+        },
+        {
+          "japanese": "信号",
+          "reading": "しんごう",
+          "romaji": "shingou",
+          "chinese": "紅綠燈",
+          "example": "次の信号を右に曲がってください。",
+          "exampleChinese": "在下一個紅綠燈右轉。"
+        },
+        {
+          "japanese": "交差点",
+          "reading": "こうさてん",
+          "romaji": "kousaten",
+          "chinese": "十字路口",
+          "example": "交差点を左に曲がります。",
+          "exampleChinese": "在十字路口左轉。"
+        },
+        {
+          "japanese": "一方通行",
+          "reading": "いっぽうつうこう",
+          "romaji": "ippoutsuukou",
+          "chinese": "單行道",
+          "example": "ここは一方通行です。",
+          "exampleChinese": "這裡是單行道。"
+        },
+        {
+          "japanese": "ETC カード",
+          "reading": "イーティーシーカード",
+          "romaji": "ii tii shii kaado",
+          "chinese": "高速公路電子收費卡",
+          "example": "ETCカードはありますか？",
+          "exampleChinese": "有 ETC 卡嗎？"
+        },
+        {
+          "japanese": "返却",
+          "reading": "へんきゃく",
+          "romaji": "henkyaku",
+          "chinese": "歸還",
+          "example": "車の返却は何時までですか？",
+          "exampleChinese": "車子幾點前要歸還？"
+        },
+        {
+          "japanese": "保険",
+          "reading": "ほけん",
+          "romaji": "hoken",
+          "chinese": "保險",
+          "example": "保険は含まれていますか？",
+          "exampleChinese": "有包含保險嗎？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在租車公司櫃台辦理租車手續。",
+      "lines": [
+        { "speaker": "A", "japanese": "レンタカーを借りたいです。三日間お願いします。", "chinese": "我想租車。租三天。" },
+        { "speaker": "B", "japanese": "はい。運転免許を見せてください。", "chinese": "好的。請出示駕照。" },
+        { "speaker": "A", "japanese": "国際運転免許です。どうぞ。", "chinese": "這是國際駕照。請看。" },
+        { "speaker": "B", "japanese": "ありがとうございます。カーナビは付いています。保険はどうしますか？", "chinese": "謝謝。車上有附導航。保險要怎麼辦？" },
+        { "speaker": "A", "japanese": "フルカバーの保険をお願いします。", "chinese": "請幫我辦全險。" },
+        { "speaker": "B", "japanese": "わかりました。返却はこの店舗でよろしいですか？", "chinese": "了解。歸還在這個店可以嗎？" },
+        { "speaker": "A", "japanese": "はい、ここに返します。ガソリンは満タンで返しますか？", "chinese": "好的，會還到這裡。汽油要加滿歸還嗎？" },
+        { "speaker": "B", "japanese": "はい、満タンでお願いします。近くにガソリンスタンドがあります。", "chinese": "是的，請加滿。附近有加油站。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在加油站加油。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、レギュラー満タンでお願いします。", "chinese": "不好意思，請加滿普通汽油。" },
+        { "speaker": "B", "japanese": "はい、かしこまりました。現金ですか？カードですか？", "chinese": "好的，沒問題。付現還是刷卡？" },
+        { "speaker": "A", "japanese": "カードでお願いします。", "chinese": "刷卡。" },
+        { "speaker": "B", "japanese": "はい。トイレはあちらです。", "chinese": "好的。廁所在那邊。" },
+        { "speaker": "A", "japanese": "ありがとうございます。このあたりに駐車場はありますか？", "chinese": "謝謝。這附近有停車場嗎？" },
+        { "speaker": "B", "japanese": "次の信号を右に曲がると、大きい駐車場があります。", "chinese": "在下一個紅綠燈右轉，就有一個大停車場。" },
+        { "speaker": "A", "japanese": "いくらぐらいですか？", "chinese": "大概多少錢？" },
+        { "speaker": "B", "japanese": "一時間三百円くらいです。お気をつけて。", "chinese": "大概一小時三百日圓。請小心駕駛。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜まで",
+          "meaning": "到〜為止",
+          "structure": "地點／時間 + まで",
+          "examples": [
+            { "japanese": "空港まで何分かかりますか？", "chinese": "到機場要多少分鐘？" },
+            { "japanese": "六時まで返してください。", "chinese": "請在六點前歸還。" },
+            { "japanese": "大阪まで高速道路で行きます。", "chinese": "走高速公路到大阪。" }
+          ],
+          "note": "「まで」可以表示地點的終點（到某個地方），也可以表示時間的截止（到某個時間為止）。常和「から（從）」搭配使用，例如「東京から大阪まで（從東京到大阪）」。"
+        },
+        {
+          "pattern": "〜を左／右に曲がる",
+          "meaning": "在〜左轉／右轉",
+          "structure": "地點 + を + 左（ひだり）／右（みぎ） + に + 曲がる（まがる）",
+          "examples": [
+            { "japanese": "次の信号を右に曲がってください。", "chinese": "請在下一個紅綠燈右轉。" },
+            { "japanese": "交差点を左に曲がります。", "chinese": "在十字路口左轉。" },
+            { "japanese": "コンビニを右に曲がると、駐車場があります。", "chinese": "在便利商店右轉的話，就有停車場。" }
+          ],
+          "note": "指路時經常用到的句型。「曲がる」是「轉彎」的意思。注意助詞的使用：「〜を」表示經過的地點，「右に／左に」表示方向。「まっすぐ」是「直走」的意思。"
+        },
+        {
+          "pattern": "〜に止める／停める",
+          "meaning": "停在〜",
+          "structure": "場所 + に + 止める（とめる）",
+          "examples": [
+            { "japanese": "ここに車を止めてもいいですか？", "chinese": "可以把車停在這裡嗎？" },
+            { "japanese": "駐車場に止めてください。", "chinese": "請停在停車場。" },
+            { "japanese": "コンビニの前に止めないでください。", "chinese": "請不要停在便利商店前面。" }
+          ],
+          "note": "「止める（とめる）」是「停」的意思，用助詞「に」表示停放的地點。在日本路邊停車的規定很嚴格，亂停車（違法駐車）會被罰款，一定要停在正式的停車場。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "レンタカー",
+          "reading": "レンタカー",
+          "romaji": "rentakaa",
+          "chinese": "租車",
+          "example": "レンタカーを借りたいです。",
+          "exampleChinese": "我想租車。"
+        },
+        {
+          "japanese": "ガソリンスタンド",
+          "reading": "ガソリンスタンド",
+          "romaji": "gasorinsutando",
+          "chinese": "加油站",
+          "example": "近くにガソリンスタンドはありますか？",
+          "exampleChinese": "附近有加油站嗎？"
+        },
+        {
+          "japanese": "駐車場",
+          "reading": "ちゅうしゃじょう",
+          "romaji": "chuushajou",
+          "chinese": "停車場",
+          "example": "この駐車場は無料ですか？",
+          "exampleChinese": "這個停車場免費嗎？"
+        },
+        {
+          "japanese": "運転免許",
+          "reading": "うんてんめんきょ",
+          "romaji": "untenmenkyo",
+          "chinese": "駕照",
+          "example": "国際運転免許を持っています。",
+          "exampleChinese": "我有國際駕照。"
+        },
+        {
+          "japanese": "カーナビ",
+          "reading": "カーナビ",
+          "romaji": "kaanabi",
+          "chinese": "汽車導航",
+          "example": "カーナビは付いていますか？",
+          "exampleChinese": "有附汽車導航嗎？"
+        },
+        {
+          "japanese": "満タン",
+          "reading": "まんタン",
+          "romaji": "mantan",
+          "chinese": "加滿（油箱）",
+          "example": "レギュラー満タンでお願いします。",
+          "exampleChinese": "請加滿普通汽油。"
+        },
+        {
+          "japanese": "高速道路",
+          "reading": "こうそくどうろ",
+          "romaji": "kousokudouro",
+          "chinese": "高速公路",
+          "example": "高速道路で行きますか？",
+          "exampleChinese": "走高速公路嗎？"
+        },
+        {
+          "japanese": "信号",
+          "reading": "しんごう",
+          "romaji": "shingou",
+          "chinese": "紅綠燈",
+          "example": "次の信号を右に曲がってください。",
+          "exampleChinese": "在下一個紅綠燈右轉。"
+        },
+        {
+          "japanese": "返却",
+          "reading": "へんきゃく",
+          "romaji": "henkyaku",
+          "chinese": "歸還",
+          "example": "車の返却は何時までですか？",
+          "exampleChinese": "車子幾點前要歸還？"
+        },
+        {
+          "japanese": "保険",
+          "reading": "ほけん",
+          "romaji": "hoken",
+          "chinese": "保險",
+          "example": "保険は含まれていますか？",
+          "exampleChinese": "有包含保險嗎？"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「レンタカー」是什麼意思？",
+          "options": ["計程車", "公車", "租車", "自行車"],
+          "correct": 2,
+          "explanation": "「レンタカー」來自英語 rental car，就是「租車」的意思。"
+        },
+        {
+          "question": "「レギュラー満タンでお願いします」是什麼意思？",
+          "options": ["請加一半普通汽油", "請加滿普通汽油", "請加滿柴油", "請檢查輪胎"],
+          "correct": 1,
+          "explanation": "「レギュラー」是普通汽油，「満タン」是加滿，整句是「請加滿普通汽油」。"
+        },
+        {
+          "question": "「次の信号を右に曲がってください」是什麼意思？",
+          "options": ["在下一個路口直走", "在下一個紅綠燈左轉", "在下一個紅綠燈右轉", "在下一個紅綠燈停車"],
+          "correct": 2,
+          "explanation": "「右に曲がる」是「右轉」，「次の信号」是「下一個紅綠燈」。"
+        },
+        {
+          "question": "在日本租車需要什麼？",
+          "options": ["護照就好", "國際駕照", "日本駕照", "不需要任何證件"],
+          "correct": 1,
+          "explanation": "外國人在日本租車需要國際駕照（国際運転免許）和護照。"
+        },
+        {
+          "question": "「駐車場」的讀音是？",
+          "options": ["ちゅうしゃば", "ちゅうしゃじょう", "とめば", "パーキング"],
+          "correct": 1,
+          "explanation": "「駐車場」讀作「ちゅうしゃじょう」，意思是停車場。"
+        },
+        {
+          "question": "「一方通行」是什麼意思？",
+          "options": ["雙向通行", "單行道", "禁止通行", "高速公路"],
+          "correct": 1,
+          "explanation": "「一方通行（いっぽうつうこう）」是「單行道」的意思，只能往一個方向行駛。"
+        },
+        {
+          "question": "租車歸還時通常要注意什麼？",
+          "options": ["洗車", "加滿油歸還", "換新輪胎", "更換機油"],
+          "correct": 1,
+          "explanation": "日本租車歸還時通常需要把油箱加滿（満タン返し），否則會被收取較高的油費。"
+        },
+        {
+          "question": "「カーナビ」是什麼？",
+          "options": ["車險", "車牌", "汽車導航", "安全帶"],
+          "correct": 2,
+          "explanation": "「カーナビ」是「カーナビゲーション」的縮寫，來自英語 car navigation，就是「汽車導航」。"
+        }
+      ]
+    }
+  ]
+}

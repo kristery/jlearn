@@ -1,0 +1,279 @@
+{
+  "id": "ch6-unit7",
+  "title": "遊樂園攻略：迪士尼與環球影城實用日語",
+  "intro": "日本的遊樂園是旅行的必去景點，無論是東京迪士尼還是大阪環球影城，都充滿了歡樂與驚奇。學會在遊樂園買票、排隊、問路的日語，讓你玩得更盡興、更順暢！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "遊園地",
+          "reading": "ゆうえんち",
+          "romaji": "yuuenchi",
+          "chinese": "遊樂園",
+          "example": "明日、遊園地に行きましょう。",
+          "exampleChinese": "明天去遊樂園吧。"
+        },
+        {
+          "japanese": "アトラクション",
+          "reading": "アトラクション",
+          "romaji": "atorakushon",
+          "chinese": "遊樂設施",
+          "example": "一番人気のアトラクションは何ですか？",
+          "exampleChinese": "最受歡迎的遊樂設施是什麼？"
+        },
+        {
+          "japanese": "ファストパス",
+          "reading": "ファストパス",
+          "romaji": "fasuto pasu",
+          "chinese": "快速通關券",
+          "example": "ファストパスを取りましょう。",
+          "exampleChinese": "去拿快速通關券吧。"
+        },
+        {
+          "japanese": "パレード",
+          "reading": "パレード",
+          "romaji": "pareedo",
+          "chinese": "遊行",
+          "example": "パレードは何時からですか？",
+          "exampleChinese": "遊行幾點開始？"
+        },
+        {
+          "japanese": "お化け屋敷",
+          "reading": "おばけやしき",
+          "romaji": "obake yashiki",
+          "chinese": "鬼屋",
+          "example": "お化け屋敷に入る勇気がありますか？",
+          "exampleChinese": "你有勇氣進鬼屋嗎？"
+        },
+        {
+          "japanese": "ジェットコースター",
+          "reading": "ジェットコースター",
+          "romaji": "jetto koosutaa",
+          "chinese": "雲霄飛車",
+          "example": "ジェットコースターに乗りたいです。",
+          "exampleChinese": "我想坐雲霄飛車。"
+        },
+        {
+          "japanese": "観覧車",
+          "reading": "かんらんしゃ",
+          "romaji": "kanransha",
+          "chinese": "摩天輪",
+          "example": "観覧車から夜景が見えますよ。",
+          "exampleChinese": "從摩天輪可以看到夜景喔。"
+        },
+        {
+          "japanese": "待ち時間",
+          "reading": "まちじかん",
+          "romaji": "machi jikan",
+          "chinese": "等候時間",
+          "example": "待ち時間はどのくらいですか？",
+          "exampleChinese": "等候時間大概多久？"
+        },
+        {
+          "japanese": "入場券",
+          "reading": "にゅうじょうけん",
+          "romaji": "nyuujouken",
+          "chinese": "入場券",
+          "example": "入場券は大人一枚いくらですか？",
+          "exampleChinese": "成人入場券一張多少錢？"
+        },
+        {
+          "japanese": "お土産",
+          "reading": "おみやげ",
+          "romaji": "omiyage",
+          "chinese": "紀念品；伴手禮",
+          "example": "お土産ショップはどこですか？",
+          "exampleChinese": "紀念品商店在哪裡？"
+        },
+        {
+          "japanese": "身長制限",
+          "reading": "しんちょうせいげん",
+          "romaji": "shinchou seigen",
+          "chinese": "身高限制",
+          "example": "このアトラクションは身長制限がありますか？",
+          "exampleChinese": "這個遊樂設施有身高限制嗎？"
+        },
+        {
+          "japanese": "ショー",
+          "reading": "ショー",
+          "romaji": "shoo",
+          "chinese": "表演；秀",
+          "example": "夜のショーは何時に始まりますか？",
+          "exampleChinese": "晚間表演幾點開始？"
+        },
+        {
+          "japanese": "園内マップ",
+          "reading": "えんないマップ",
+          "romaji": "ennai mappu",
+          "chinese": "園區地圖",
+          "example": "園内マップをもらえますか？",
+          "exampleChinese": "可以給我一份園區地圖嗎？"
+        },
+        {
+          "japanese": "並ぶ",
+          "reading": "ならぶ",
+          "romaji": "narabu",
+          "chinese": "排隊",
+          "example": "一時間も並びました。",
+          "exampleChinese": "排了一個小時。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：在售票處購票",
+      "scene": "到達遊樂園入口，在售票處購買門票並取得園區資訊。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、入場券は大人一枚いくらですか？", "chinese": "不好意思，成人入場券一張多少錢？" },
+        { "speaker": "店員", "japanese": "大人一枚七千四百円です。子供は四千八百円です。", "chinese": "成人一張七千四百日圓。兒童是四千八百日圓。" },
+        { "speaker": "A", "japanese": "大人二枚と子供一枚をお願いします。", "chinese": "請給我兩張成人票和一張兒童票。" },
+        { "speaker": "店員", "japanese": "合計で一万九千六百円になります。", "chinese": "總共是一萬九千六百日圓。" },
+        { "speaker": "A", "japanese": "園内マップはもらえますか？", "chinese": "可以給我園區地圖嗎？" },
+        { "speaker": "店員", "japanese": "はい、こちらです。日本語と英語と中国語があります。", "chinese": "好的，在這裡。有日文、英文和中文版本。" },
+        { "speaker": "A", "japanese": "中国語をお願いします。今日のパレードは何時からですか？", "chinese": "請給我中文版。今天的遊行幾點開始？" },
+        { "speaker": "店員", "japanese": "パレードは午後三時からです。夜のショーは午後八時からです。", "chinese": "遊行是下午三點開始。晚間表演是晚上八點開始。" },
+        { "speaker": "A", "japanese": "ありがとうございます。", "chinese": "謝謝。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：詢問遊樂設施與等候時間",
+      "scene": "在園區內詢問遊樂設施的資訊、等候時間和注意事項。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、この乗り物の待ち時間はどのくらいですか？", "chinese": "不好意思，這個設施的等候時間大概多久？" },
+        { "speaker": "店員", "japanese": "今は約六十分待ちです。", "chinese": "現在大約要等六十分鐘。" },
+        { "speaker": "B", "japanese": "六十分か…ファストパスはありますか？", "chinese": "六十分鐘啊...有快速通關券嗎？" },
+        { "speaker": "店員", "japanese": "はい、アプリから取得できますよ。", "chinese": "有的，可以從APP取得喔。" },
+        { "speaker": "A", "japanese": "身長制限はありますか？子供も乗れますか？", "chinese": "有身高限制嗎？小朋友也可以搭嗎？" },
+        { "speaker": "店員", "japanese": "身長百二十センチ以上のお子様からご利用いただけます。", "chinese": "身高一百二十公分以上的小朋友就可以搭乘。" },
+        { "speaker": "A", "japanese": "うちの子は百三十センチなので大丈夫ですね。", "chinese": "我們家小孩有一百三十公分，那就沒問題了。" },
+        { "speaker": "B", "japanese": "じゃ、ジェットコースターの後でお化け屋敷に行こうか。", "chinese": "那坐完雲霄飛車之後去鬼屋吧。" },
+        { "speaker": "A", "japanese": "えー、お化け屋敷は怖い…観覧車にしない？", "chinese": "欸，鬼屋好可怕...不如去坐摩天輪？" },
+        { "speaker": "B", "japanese": "じゃ、観覧車にしよう。夜景がきれいらしいよ。", "chinese": "那就坐摩天輪吧。聽說夜景很漂亮喔。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～はどのくらい待ちますか",
+          "meaning": "～要等多久？",
+          "structure": "名詞 + はどのくらい待ちますか",
+          "examples": [
+            { "japanese": "この乗り物はどのくらい待ちますか？", "chinese": "這個設施要等多久？" },
+            { "japanese": "今、どのくらい待ちますか？", "chinese": "現在要等多久？" },
+            { "japanese": "ジェットコースターはどのくらい待ちますか？", "chinese": "雲霄飛車要等多久？" }
+          ],
+          "note": "「どのくらい」是「多久/多少」的意思，「待ちます」是「等待」。也可以簡短地問「待ち時間はどのくらいですか？」（等候時間大概多久？）。遊樂園的設施前通常會有看板顯示等候時間。"
+        },
+        {
+          "pattern": "～は何時からですか",
+          "meaning": "～幾點開始？",
+          "structure": "名詞 + は何時（なんじ）からですか",
+          "examples": [
+            { "japanese": "パレードは何時からですか？", "chinese": "遊行幾點開始？" },
+            { "japanese": "夜のショーは何時からですか？", "chinese": "晚間表演幾點開始？" },
+            { "japanese": "花火は何時からですか？", "chinese": "煙火幾點開始？" }
+          ],
+          "note": "「何時（なんじ）」是「幾點」，「から」是「從」。這個句型用來詢問活動或表演的開始時間，在遊樂園非常實用。"
+        },
+        {
+          "pattern": "～に乗る",
+          "meaning": "搭乘～",
+          "structure": "名詞 + に乗る（のる）",
+          "examples": [
+            { "japanese": "ジェットコースターに乗りたいです。", "chinese": "我想坐雲霄飛車。" },
+            { "japanese": "観覧車に乗りましょう。", "chinese": "去坐摩天輪吧。" },
+            { "japanese": "この乗り物に乗ってもいいですか？", "chinese": "可以搭乘這個設施嗎？" }
+          ],
+          "note": "「乗る（のる）」是「搭乘」的意思，搭配「に」表示搭乘的對象。遊樂園的設施、交通工具都用「に乗る」。想表達「想搭」就用「に乗りたい」。"
+        },
+        {
+          "pattern": "～以上のお子様",
+          "meaning": "～以上的小朋友",
+          "structure": "數字 + 以上 + の + お子様（おこさま）",
+          "examples": [
+            { "japanese": "身長百二十センチ以上のお子様から乗れます。", "chinese": "身高一百二十公分以上的小朋友就可以搭乘。" },
+            { "japanese": "三歳以上のお子様はチケットが必要です。", "chinese": "三歲以上的小朋友需要買票。" },
+            { "japanese": "百センチ以上ないと乗れません。", "chinese": "不到一百公分的話就不能搭乘。" }
+          ],
+          "note": "「以上（いじょう）」是「以上」，「お子様（おこさま）」是「小朋友」的敬語說法。遊樂園的設施常有身高或年齡限制，看懂這些規定很重要。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "遊園地", "reading": "ゆうえんち", "romaji": "yuuenchi", "chinese": "遊樂園" },
+        { "japanese": "アトラクション", "reading": "アトラクション", "romaji": "atorakushon", "chinese": "遊樂設施" },
+        { "japanese": "ジェットコースター", "reading": "ジェットコースター", "romaji": "jetto koosutaa", "chinese": "雲霄飛車" },
+        { "japanese": "観覧車", "reading": "かんらんしゃ", "romaji": "kanransha", "chinese": "摩天輪" },
+        { "japanese": "お化け屋敷", "reading": "おばけやしき", "romaji": "obake yashiki", "chinese": "鬼屋" },
+        { "japanese": "待ち時間", "reading": "まちじかん", "romaji": "machi jikan", "chinese": "等候時間" },
+        { "japanese": "パレード", "reading": "パレード", "romaji": "pareedo", "chinese": "遊行" },
+        { "japanese": "入場券", "reading": "にゅうじょうけん", "romaji": "nyuujouken", "chinese": "入場券" },
+        { "japanese": "お土産", "reading": "おみやげ", "romaji": "omiyage", "chinese": "紀念品" },
+        { "japanese": "並ぶ", "reading": "ならぶ", "romaji": "narabu", "chinese": "排隊" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "想問某個遊樂設施要等多久，應該怎麼問？",
+          "options": ["何時に始まりますか", "待ち時間はどのくらいですか", "どこにありますか", "いくらですか"],
+          "correct": 1,
+          "explanation": "「待ち時間はどのくらいですか」是「等候時間大概多久？」的意思。在遊樂園想確認排隊時間時使用。"
+        },
+        {
+          "question": "「ジェットコースター」是什麼？",
+          "options": ["摩天輪", "旋轉木馬", "雲霄飛車", "海盜船"],
+          "correct": 2,
+          "explanation": "「ジェットコースター」來自英文jet coaster，是「雲霄飛車」的意思。"
+        },
+        {
+          "question": "想搭雲霄飛車，應該怎麼說？",
+          "options": ["ジェットコースターを見たいです", "ジェットコースターに乗りたいです", "ジェットコースターに行きたいです", "ジェットコースターが好きです"],
+          "correct": 1,
+          "explanation": "搭乘設施用「に乗る」，想搭就是「に乗りたいです」。「ジェットコースターに乗りたいです」就是「我想坐雲霄飛車」。"
+        },
+        {
+          "question": "「パレードは何時からですか？」是什麼意思？",
+          "options": ["遊行在哪裡？", "遊行幾點開始？", "遊行多長時間？", "遊行要門票嗎？"],
+          "correct": 1,
+          "explanation": "「何時（なんじ）からですか」是「幾點開始」的意思。「パレードは何時からですか」就是「遊行幾點開始？」。"
+        },
+        {
+          "question": "「身長制限」是什麼意思？",
+          "options": ["體重限制", "年齡限制", "身高限制", "人數限制"],
+          "correct": 2,
+          "explanation": "「身長（しんちょう）」是身高，「制限（せいげん）」是限制。「身長制限」就是遊樂設施的「身高限制」。"
+        },
+        {
+          "question": "想要園區地圖，應該怎麼說？",
+          "options": ["園内マップをもらえますか", "チケットをください", "メニューをください", "お土産はどこですか"],
+          "correct": 0,
+          "explanation": "「園内マップをもらえますか」是「可以給我園區地圖嗎？」。「もらえますか」是禮貌地請求對方給你某樣東西。"
+        },
+        {
+          "question": "「お化け屋敷」是什麼設施？",
+          "options": ["摩天輪", "鬼屋", "旋轉木馬", "水上設施"],
+          "correct": 1,
+          "explanation": "「お化け（おばけ）」是鬼、幽靈的意思，「屋敷（やしき）」是大宅。「お化け屋敷」就是「鬼屋」。"
+        },
+        {
+          "question": "以下哪個是「紀念品」的日文？",
+          "options": ["入場券", "園内マップ", "お土産", "アトラクション"],
+          "correct": 2,
+          "explanation": "「お土産（おみやげ）」是「紀念品；伴手禮」的意思。遊樂園通常在出口附近有紀念品商店。"
+        }
+      ]
+    }
+  ]
+}

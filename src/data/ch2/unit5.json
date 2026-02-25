@@ -1,0 +1,349 @@
+{
+  "id": "ch2-unit5",
+  "title": "新幹線搭乘攻略：買票、找座位、車上用語",
+  "intro": "新幹線是日本旅遊的代表性體驗！時速超過 300 公里，準時到不可思議。本單元教你從買票到搭車的完整日語，讓你像日本人一樣輕鬆搭新幹線，享受列車上的美好時光。",
+  "estimatedTime": "30 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "自由席",
+          "reading": "じゆうせき",
+          "romaji": "jiyuuseki",
+          "chinese": "自由座",
+          "example": "自由席の切符をください。",
+          "exampleChinese": "請給我自由座的車票。"
+        },
+        {
+          "japanese": "指定席",
+          "reading": "していせき",
+          "romaji": "shiteiseki",
+          "chinese": "對號座",
+          "example": "指定席を予約したいです。",
+          "exampleChinese": "我想預約對號座。"
+        },
+        {
+          "japanese": "グリーン車",
+          "reading": "グリーンしゃ",
+          "romaji": "guriinsha",
+          "chinese": "商務車廂（綠色車廂）",
+          "example": "グリーン車は快適です。",
+          "exampleChinese": "商務車廂很舒適。"
+        },
+        {
+          "japanese": "のぞみ",
+          "reading": "のぞみ",
+          "romaji": "nozomi",
+          "chinese": "希望號（最快的新幹線）",
+          "example": "のぞみで東京から大阪まで二時間半です。",
+          "exampleChinese": "搭希望號從東京到大阪兩個半小時。"
+        },
+        {
+          "japanese": "ひかり",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "chinese": "光號（中速新幹線）",
+          "example": "ひかりは名古屋にも止まります。",
+          "exampleChinese": "光號也會停名古屋。"
+        },
+        {
+          "japanese": "こだま",
+          "reading": "こだま",
+          "romaji": "kodama",
+          "chinese": "回聲號（各站停車新幹線）",
+          "example": "こだまは各駅に止まります。",
+          "exampleChinese": "回聲號每站都停。"
+        },
+        {
+          "japanese": "ホーム",
+          "reading": "ホーム",
+          "romaji": "hoomu",
+          "chinese": "月台",
+          "example": "新幹線のホームは何番ですか？",
+          "exampleChinese": "新幹線的月台是幾號？"
+        },
+        {
+          "japanese": "乗り換え",
+          "reading": "のりかえ",
+          "romaji": "norikae",
+          "chinese": "轉車；換乘",
+          "example": "名古屋で乗り換えてください。",
+          "exampleChinese": "請在名古屋轉車。"
+        },
+        {
+          "japanese": "号車",
+          "reading": "ごうしゃ",
+          "romaji": "gousha",
+          "chinese": "幾號車廂",
+          "example": "五号車に乗ってください。",
+          "exampleChinese": "請搭五號車廂。"
+        },
+        {
+          "japanese": "窓側",
+          "reading": "まどがわ",
+          "romaji": "madogawa",
+          "chinese": "靠窗座位",
+          "example": "窓側の席をお願いします。",
+          "exampleChinese": "請給我靠窗的座位。"
+        },
+        {
+          "japanese": "通路側",
+          "reading": "つうろがわ",
+          "romaji": "tsuurogawa",
+          "chinese": "靠走道座位",
+          "example": "通路側がいいです。",
+          "exampleChinese": "我要靠走道的。"
+        },
+        {
+          "japanese": "駅弁",
+          "reading": "えきべん",
+          "romaji": "ekiben",
+          "chinese": "車站便當",
+          "example": "駅弁を買って新幹線で食べます。",
+          "exampleChinese": "買車站便當在新幹線上吃。"
+        },
+        {
+          "japanese": "車内販売",
+          "reading": "しゃないはんばい",
+          "romaji": "shanaihanba",
+          "chinese": "車上販賣",
+          "example": "車内販売でコーヒーを買いました。",
+          "exampleChinese": "在車上販賣買了咖啡。"
+        },
+        {
+          "japanese": "番線",
+          "reading": "ばんせん",
+          "romaji": "bansen",
+          "chinese": "幾號月台",
+          "example": "十四番線から出発します。",
+          "exampleChinese": "從十四號月台出發。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在JR車站售票窗口買新幹線車票。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、大阪までの新幹線の切符をお願いします。", "chinese": "不好意思，請給我到大阪的新幹線車票。" },
+        { "speaker": "B", "japanese": "指定席と自由席、どちらがいいですか？", "chinese": "對號座和自由座，您要哪個？" },
+        { "speaker": "A", "japanese": "指定席をお願いします。窓側がいいです。", "chinese": "請給我對號座。靠窗的。" },
+        { "speaker": "B", "japanese": "のぞみでよろしいですか？", "chinese": "搭希望號可以嗎？" },
+        { "speaker": "A", "japanese": "はい、お願いします。何番線ですか？", "chinese": "好的，麻煩了。幾號月台？" },
+        { "speaker": "B", "japanese": "十四番線です。五号車の十二番A席です。", "chinese": "十四號月台。五號車廂十二號A座。" },
+        { "speaker": "A", "japanese": "ありがとうございます。何時に出発しますか？", "chinese": "謝謝。幾點出發？" },
+        { "speaker": "B", "japanese": "十時十分発です。お気をつけて。", "chinese": "十點十分發車。請小心。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在新幹線車上找座位，和鄰座乘客簡短對話。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、ここは五号車ですか？", "chinese": "不好意思，這裡是五號車廂嗎？" },
+        { "speaker": "B", "japanese": "はい、五号車ですよ。", "chinese": "是的，這是五號車廂喔。" },
+        { "speaker": "A", "japanese": "十二番A席はどこですか？", "chinese": "十二號A座在哪裡？" },
+        { "speaker": "B", "japanese": "あちらです。窓側の席ですね。", "chinese": "在那邊。是靠窗的座位。" },
+        { "speaker": "A", "japanese": "ありがとうございます。駅弁、おいしそうですね。", "chinese": "謝謝。車站便當看起來很好吃呢。" },
+        { "speaker": "B", "japanese": "はい、東京駅で買いました。おすすめですよ。", "chinese": "是的，在東京站買的。很推薦喔。" },
+        { "speaker": "A", "japanese": "次の停車駅はどこですか？", "chinese": "下一個停靠站是哪裡？" },
+        { "speaker": "B", "japanese": "名古屋です。あと一時間くらいです。", "chinese": "名古屋。還有大概一個小時。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜行き",
+          "meaning": "前往〜（表示目的地）",
+          "structure": "地名 + 行き（ゆき／いき）",
+          "examples": [
+            { "japanese": "大阪行きの新幹線は何番線ですか？", "chinese": "前往大阪的新幹線在幾號月台？" },
+            { "japanese": "東京行きの電車に乗ります。", "chinese": "搭前往東京的電車。" },
+            { "japanese": "京都行きのバスはどこですか？", "chinese": "前往京都的公車在哪裡？" }
+          ],
+          "note": "「〜行き」是接在地名後面表示目的地的用法，常見於電車、新幹線、公車的標示。讀作「ゆき」或「いき」都可以，但車站廣播通常讀「ゆき」。"
+        },
+        {
+          "pattern": "〜番線",
+          "meaning": "幾號月台",
+          "structure": "數字 + 番線",
+          "examples": [
+            { "japanese": "新幹線は十四番線から出発します。", "chinese": "新幹線從十四號月台出發。" },
+            { "japanese": "三番線に電車が来ます。", "chinese": "電車來到三號月台。" },
+            { "japanese": "一番線で乗り換えてください。", "chinese": "請在一號月台轉車。" }
+          ],
+          "note": "「番線」用來指月台編號，和「ホーム」（月台）搭配使用。在大車站，月台號碼可能很大（如東京站有超過 20 個月台），所以一定要確認好號碼再去。"
+        },
+        {
+          "pattern": "〜号車",
+          "meaning": "幾號車廂",
+          "structure": "數字 + 号車",
+          "examples": [
+            { "japanese": "自由席は一号車から三号車です。", "chinese": "自由座在一號到三號車廂。" },
+            { "japanese": "グリーン車は八号車と九号車です。", "chinese": "商務車廂是八號和九號車廂。" },
+            { "japanese": "五号車に乗ってください。", "chinese": "請搭五號車廂。" }
+          ],
+          "note": "新幹線的車廂用「号車」來編號，買對號座的票時，票上會寫明幾号車、幾番席。一般來說，自由席在前幾節車廂，指定席和商務車廂在後面。上車前要確認好自己的車廂位置。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小教室",
+      "content": "新幹線是日本的驕傲，搭乘時有不少潛規則和小知識值得了解！",
+      "tips": [
+        "新幹線非常準時，平均誤差不到一分鐘。如果遲到列車不會等你，所以要提早到月台。",
+        "在新幹線上可以吃東西！買一個車站便當（駅弁）在車上享用是日本人的樂趣之一。",
+        "車廂內請保持安靜，手機要開靜音模式，通話請到車廂之間的走廊。",
+        "座位可以向後傾倒（リクライニング），但往後倒之前建議先跟後方的乘客說一聲。",
+        "持 JR Pass 的旅客不能搭最快的「のぞみ」和「みずほ」，只能搭「ひかり」和「こだま」。",
+        "新幹線的座位編號：A 和 E 靠窗，C 和 D 靠走道，B 是三人座的中間。",
+        "大型行李（三邊合計超過 160 公分）需要預約「特大荷物置き場」，否則可能被收費。"
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "自由席",
+          "reading": "じゆうせき",
+          "romaji": "jiyuuseki",
+          "chinese": "自由座",
+          "example": "自由席の切符をください。",
+          "exampleChinese": "請給我自由座的車票。"
+        },
+        {
+          "japanese": "指定席",
+          "reading": "していせき",
+          "romaji": "shiteiseki",
+          "chinese": "對號座",
+          "example": "指定席を予約したいです。",
+          "exampleChinese": "我想預約對號座。"
+        },
+        {
+          "japanese": "のぞみ",
+          "reading": "のぞみ",
+          "romaji": "nozomi",
+          "chinese": "希望號（最快的新幹線）",
+          "example": "のぞみで東京から大阪まで二時間半です。",
+          "exampleChinese": "搭希望號從東京到大阪兩個半小時。"
+        },
+        {
+          "japanese": "ホーム",
+          "reading": "ホーム",
+          "romaji": "hoomu",
+          "chinese": "月台",
+          "example": "新幹線のホームは何番ですか？",
+          "exampleChinese": "新幹線的月台是幾號？"
+        },
+        {
+          "japanese": "号車",
+          "reading": "ごうしゃ",
+          "romaji": "gousha",
+          "chinese": "幾號車廂",
+          "example": "五号車に乗ってください。",
+          "exampleChinese": "請搭五號車廂。"
+        },
+        {
+          "japanese": "窓側",
+          "reading": "まどがわ",
+          "romaji": "madogawa",
+          "chinese": "靠窗座位",
+          "example": "窓側の席をお願いします。",
+          "exampleChinese": "請給我靠窗的座位。"
+        },
+        {
+          "japanese": "駅弁",
+          "reading": "えきべん",
+          "romaji": "ekiben",
+          "chinese": "車站便當",
+          "example": "駅弁を買って新幹線で食べます。",
+          "exampleChinese": "買車站便當在新幹線上吃。"
+        },
+        {
+          "japanese": "乗り換え",
+          "reading": "のりかえ",
+          "romaji": "norikae",
+          "chinese": "轉車；換乘",
+          "example": "名古屋で乗り換えてください。",
+          "exampleChinese": "請在名古屋轉車。"
+        },
+        {
+          "japanese": "番線",
+          "reading": "ばんせん",
+          "romaji": "bansen",
+          "chinese": "幾號月台",
+          "example": "十四番線から出発します。",
+          "exampleChinese": "從十四號月台出發。"
+        },
+        {
+          "japanese": "グリーン車",
+          "reading": "グリーンしゃ",
+          "romaji": "guriinsha",
+          "chinese": "商務車廂（綠色車廂）",
+          "example": "グリーン車は快適です。",
+          "exampleChinese": "商務車廂很舒適。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "新幹線中速度最快的是哪一種？",
+          "options": ["こだま", "ひかり", "のぞみ", "やまびこ"],
+          "correct": 2,
+          "explanation": "「のぞみ（希望號）」是東海道新幹線中速度最快的車種，從東京到大阪只要約兩小時半。"
+        },
+        {
+          "question": "「窓側の席をお願いします」是什麼意思？",
+          "options": ["請給我靠走道的座位", "請給我靠窗的座位", "請給我中間的座位", "請給我商務車廂"],
+          "correct": 1,
+          "explanation": "「窓側（まどがわ）」是靠窗的意思，「通路側（つうろがわ）」才是靠走道。"
+        },
+        {
+          "question": "「駅弁」是什麼？",
+          "options": ["車站的垃圾桶", "車站便當", "車站出口", "車站便利商店"],
+          "correct": 1,
+          "explanation": "「駅弁（えきべん）」是「駅（車站）」+「弁当（便當）」的縮寫，指在車站販售的特色便當。"
+        },
+        {
+          "question": "「大阪行きの新幹線」中的「行き」是什麼意思？",
+          "options": ["出發", "前往〜", "回來", "經過"],
+          "correct": 1,
+          "explanation": "「〜行き（ゆき）」是「前往〜」的意思，「大阪行き」就是「前往大阪」。"
+        },
+        {
+          "question": "持 JR Pass 不能搭乘哪種新幹線？",
+          "options": ["こだま", "ひかり", "のぞみ", "以上都可以搭"],
+          "correct": 2,
+          "explanation": "持 JR Pass 不能搭「のぞみ」和「みずほ」，只能搭「ひかり」和「こだま」。"
+        },
+        {
+          "question": "新幹線座位中，A 席和 E 席通常是？",
+          "options": ["靠走道", "靠窗", "中間座位", "商務座位"],
+          "correct": 1,
+          "explanation": "新幹線的 A 席和 E 席是靠窗座位，C 席和 D 席是靠走道座位，B 席是三人座的中間。"
+        },
+        {
+          "question": "「五号車に乗ってください」是什麼意思？",
+          "options": ["請搭五號月台", "請在五點上車", "請搭五號車廂", "請在五號出口等"],
+          "correct": 2,
+          "explanation": "「号車」是車廂的意思，「五号車に乗ってください」是「請搭五號車廂」。"
+        },
+        {
+          "question": "在新幹線上想打電話，應該去哪裡？",
+          "options": ["在座位上小聲講", "到車廂之間的走廊", "到餐車", "不能打電話"],
+          "correct": 1,
+          "explanation": "新幹線車廂內要保持安靜，打電話請到車廂之間的走廊（デッキ），這是基本禮儀。"
+        }
+      ]
+    }
+  ]
+}

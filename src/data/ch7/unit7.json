@@ -1,0 +1,416 @@
+{
+  "id": "ch7-unit7",
+  "title": "季節限定體驗：賞櫻、紅葉、雪祭",
+  "intro": "日本是一個四季分明的國家，每個季節都有獨特的自然美景和傳統活動。春天的櫻花、秋天的紅葉、冬天的雪祭，這些季節限定的體驗吸引了全世界的旅客。這一課我們要學習如何詢問花期、描述季節景色，以及享受日本四季之美的實用日語！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "花見",
+          "reading": "はなみ",
+          "romaji": "hanami",
+          "chinese": "賞花（尤指賞櫻）",
+          "example": "週末に花見に行きましょう。",
+          "exampleChinese": "週末去賞花吧。"
+        },
+        {
+          "japanese": "桜",
+          "reading": "さくら",
+          "romaji": "sakura",
+          "chinese": "櫻花",
+          "example": "桜が満開です。",
+          "exampleChinese": "櫻花滿開了。"
+        },
+        {
+          "japanese": "紅葉",
+          "reading": "こうよう",
+          "romaji": "kouyou",
+          "chinese": "紅葉（秋天樹葉變紅）",
+          "example": "京都の紅葉は本当に綺麗です。",
+          "exampleChinese": "京都的紅葉真的很漂亮。"
+        },
+        {
+          "japanese": "雪祭り",
+          "reading": "ゆきまつり",
+          "romaji": "yukimatsuri",
+          "chinese": "雪祭",
+          "example": "札幌の雪祭りを見に行きたいです。",
+          "exampleChinese": "想去看札幌的雪祭。"
+        },
+        {
+          "japanese": "見頃",
+          "reading": "みごろ",
+          "romaji": "migoro",
+          "chinese": "最佳觀賞時期",
+          "example": "桜の見頃はいつですか？",
+          "exampleChinese": "櫻花的最佳觀賞時期是什麼時候？"
+        },
+        {
+          "japanese": "満開",
+          "reading": "まんかい",
+          "romaji": "mankai",
+          "chinese": "滿開",
+          "example": "今週末が満開の予想です。",
+          "exampleChinese": "預計這個週末會滿開。"
+        },
+        {
+          "japanese": "ライトアップ",
+          "reading": "ライトアップ",
+          "romaji": "raitoappu",
+          "chinese": "夜間點燈",
+          "example": "夜のライトアップがとても綺麗です。",
+          "exampleChinese": "夜間點燈非常漂亮。"
+        },
+        {
+          "japanese": "桜前線",
+          "reading": "さくらぜんせん",
+          "romaji": "sakura zensen",
+          "chinese": "櫻花前線",
+          "example": "桜前線は今、関東に来ています。",
+          "exampleChinese": "櫻花前線現在到了關東。"
+        },
+        {
+          "japanese": "紅葉狩り",
+          "reading": "もみじがり",
+          "romaji": "momijigari",
+          "chinese": "賞紅葉",
+          "example": "秋に紅葉狩りに行きました。",
+          "exampleChinese": "秋天去賞紅葉了。"
+        },
+        {
+          "japanese": "雪景色",
+          "reading": "ゆきげしき",
+          "romaji": "yukigeshiki",
+          "chinese": "雪景",
+          "example": "北海道の雪景色は素晴らしいです。",
+          "exampleChinese": "北海道的雪景非常壯觀。"
+        },
+        {
+          "japanese": "お花見スポット",
+          "reading": "おはなみスポット",
+          "romaji": "ohanami supotto",
+          "chinese": "賞花景點",
+          "example": "ここは人気のお花見スポットです。",
+          "exampleChinese": "這裡是很受歡迎的賞花景點。"
+        },
+        {
+          "japanese": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "chinese": "季節",
+          "example": "日本は季節によって景色が変わります。",
+          "exampleChinese": "日本的景色隨季節而變化。"
+        },
+        {
+          "japanese": "咲く",
+          "reading": "さく",
+          "romaji": "saku",
+          "chinese": "（花）開",
+          "example": "桜はもう咲きましたか？",
+          "exampleChinese": "櫻花已經開了嗎？"
+        },
+        {
+          "japanese": "散る",
+          "reading": "ちる",
+          "romaji": "chiru",
+          "chinese": "（花）凋落、飄散",
+          "example": "桜が散る前に見に行きたいです。",
+          "exampleChinese": "想在櫻花凋落之前去看。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：詢問櫻花景點",
+      "scene": "春天在東京，旅客向旅館櫃台詢問賞櫻的資訊。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、桜の見頃はいつですか？",
+          "chinese": "不好意思，櫻花的最佳觀賞時期是什麼時候？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "今年は来週あたりが満開の予想です。",
+          "chinese": "今年預計下週左右會滿開。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "この近くにおすすめのお花見スポットはありますか？",
+          "chinese": "這附近有推薦的賞花景點嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "上野公園がおすすめですよ。桜がとても綺麗です。",
+          "chinese": "推薦上野公園喔。櫻花非常漂亮。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "夜のライトアップはありますか？",
+          "chinese": "有夜間點燈嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、夜桜のライトアップがありますよ。六時から九時までです。",
+          "chinese": "有的，有夜櫻點燈喔。從六點到九點。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "花見の時、場所取りは必要ですか？",
+          "chinese": "賞花的時候需要佔位子嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "週末は混みますから、早めに行った方がいいですよ。",
+          "chinese": "週末會很擠，建議早點去比較好喔。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：秋天賞紅葉",
+      "scene": "秋天在京都，兩位旅客在嵐山的紅葉景點對話。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "わあ、この紅葉は本当に綺麗ですね！",
+          "chinese": "哇，這個紅葉真的好漂亮！"
+        },
+        {
+          "speaker": "B",
+          "japanese": "そうですね。嵐山は紅葉の季節が一番きれいです。",
+          "chinese": "是啊。嵐山在紅葉季節最漂亮。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "紅葉は今が見頃ですか？",
+          "chinese": "紅葉現在是最佳觀賞時期嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、ちょうど見頃ですよ。あと一週間ぐらいは楽しめます。",
+          "chinese": "是的，正好是最佳觀賞時期喔。大約還能欣賞一週左右。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "ライトアップはどこがおすすめですか？",
+          "chinese": "夜間點燈推薦哪裡？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "清水寺のライトアップがおすすめです。紅葉がとてもきれいですよ。",
+          "chinese": "推薦清水寺的夜間點燈。紅葉非常漂亮喔。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "写真を撮ってもいいですか？",
+          "chinese": "可以拍照嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "もちろんです！この場所は写真映えしますよ。",
+          "chinese": "當然可以！這個地方很適合拍照喔。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～は見頃ですか",
+          "meaning": "～是最佳觀賞時期嗎？",
+          "structure": "名詞 + は見頃ですか",
+          "examples": [
+            {
+              "japanese": "桜は見頃ですか？",
+              "chinese": "櫻花是最佳觀賞時期嗎？"
+            },
+            {
+              "japanese": "紅葉はもう見頃ですか？",
+              "chinese": "紅葉已經到最佳觀賞時期了嗎？"
+            },
+            {
+              "japanese": "ラベンダーは今が見頃です。",
+              "chinese": "薰衣草現在正是最佳觀賞時期。"
+            }
+          ],
+          "note": "「見頃（みごろ）」是指最適合觀賞的時期。詢問花卉或自然景觀的最佳觀賞期時非常實用。"
+        },
+        {
+          "pattern": "～の季節",
+          "meaning": "～的季節",
+          "structure": "名詞 + の季節",
+          "examples": [
+            {
+              "japanese": "桜の季節に日本に来ました。",
+              "chinese": "在櫻花的季節來了日本。"
+            },
+            {
+              "japanese": "紅葉の季節は秋です。",
+              "chinese": "紅葉的季節是秋天。"
+            },
+            {
+              "japanese": "雪祭りの季節は二月です。",
+              "chinese": "雪祭的季節是二月。"
+            }
+          ],
+          "note": "用來描述某個自然現象或活動所屬的季節。可以搭配「に」表示在那個季節做某事。"
+        },
+        {
+          "pattern": "～がきれいです",
+          "meaning": "～很漂亮",
+          "structure": "名詞 + がきれいです",
+          "examples": [
+            {
+              "japanese": "嵐山の紅葉がきれいです。",
+              "chinese": "嵐山的紅葉很漂亮。"
+            },
+            {
+              "japanese": "夜桜がとてもきれいです。",
+              "chinese": "夜櫻非常漂亮。"
+            },
+            {
+              "japanese": "雪景色がきれいですね。",
+              "chinese": "雪景好漂亮啊。"
+            }
+          ],
+          "note": "「きれい」是な形容詞，用來形容美麗的事物。描述自然景色時最常用的表達之一。也可以加「とても」表示「非常漂亮」。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小知識：日本的花見文化",
+      "content": "<h3>花見（お花見）的傳統與禮儀</h3><p>花見是日本春天最重要的傳統活動之一，人們會在櫻花樹下鋪上藍色塑膠墊（ブルーシート），和家人朋友一起賞花、野餐、喝酒。這個傳統可以追溯到奈良時代，已有超過一千年的歷史。</p><h4>花見的重要禮儀：</h4><ul><li><strong>場所取り（佔位子）：</strong>在熱門的賞花景點，人們會一大早就去鋪墊子佔位子。這是花見文化的重要一環。</li><li><strong>不要折斷樹枝：</strong>櫻花樹非常脆弱，絕對不要為了拍照而折斷或搖晃樹枝。</li><li><strong>帶走垃圾：</strong>花見結束後，請把所有垃圾帶走，保持環境整潔。</li><li><strong>尊重他人空間：</strong>不要佔用過大的空間，也不要太吵影響其他人。</li></ul><h4>其他季節限定體驗：</h4><ul><li><strong>紅葉狩り（賞紅葉）：</strong>11月中旬到12月初，京都的嵐山、東福寺是最佳景點。</li><li><strong>雪祭り（雪祭）：</strong>每年2月在札幌舉辦，有壯觀的雪雕和冰雕。</li></ul>",
+      "tips": [
+        "查看「桜前線」預報可以知道各地櫻花的開花時間。",
+        "紅葉的見頃每年不同，建議出發前查詢最新資訊。",
+        "熱門賞花景點在週末非常擁擠，建議平日前往或早點出發。"
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "花見",
+          "reading": "はなみ",
+          "romaji": "hanami",
+          "chinese": "賞花（尤指賞櫻）"
+        },
+        {
+          "japanese": "桜",
+          "reading": "さくら",
+          "romaji": "sakura",
+          "chinese": "櫻花"
+        },
+        {
+          "japanese": "紅葉",
+          "reading": "こうよう",
+          "romaji": "kouyou",
+          "chinese": "紅葉"
+        },
+        {
+          "japanese": "見頃",
+          "reading": "みごろ",
+          "romaji": "migoro",
+          "chinese": "最佳觀賞時期"
+        },
+        {
+          "japanese": "満開",
+          "reading": "まんかい",
+          "romaji": "mankai",
+          "chinese": "滿開"
+        },
+        {
+          "japanese": "ライトアップ",
+          "reading": "ライトアップ",
+          "romaji": "raitoappu",
+          "chinese": "夜間點燈"
+        },
+        {
+          "japanese": "雪祭り",
+          "reading": "ゆきまつり",
+          "romaji": "yukimatsuri",
+          "chinese": "雪祭"
+        },
+        {
+          "japanese": "紅葉狩り",
+          "reading": "もみじがり",
+          "romaji": "momijigari",
+          "chinese": "賞紅葉"
+        },
+        {
+          "japanese": "咲く",
+          "reading": "さく",
+          "romaji": "saku",
+          "chinese": "（花）開"
+        },
+        {
+          "japanese": "散る",
+          "reading": "ちる",
+          "romaji": "chiru",
+          "chinese": "（花）凋落、飄散"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「花見」的意思是什麼？",
+          "options": ["種花", "賞花（尤指賞櫻）", "買花", "插花"],
+          "correct": 1,
+          "explanation": "「花見（はなみ）」是指欣賞花卉，在日本主要指賞櫻花的活動。"
+        },
+        {
+          "question": "詢問櫻花最佳觀賞時期的正確說法是？",
+          "options": ["桜はいつ咲きますか？", "桜は見頃ですか？", "桜は好きですか？", "桜はどこですか？"],
+          "correct": 1,
+          "explanation": "「～は見頃ですか」是詢問某事物是否正處於最佳觀賞時期的說法。"
+        },
+        {
+          "question": "「満開」的意思是什麼？",
+          "options": ["剛開始開花", "花全部凋謝", "花全部盛開", "花蕾"],
+          "correct": 2,
+          "explanation": "「満開（まんかい）」是指花全部盛開的狀態，是賞花的最佳時機。"
+        },
+        {
+          "question": "「ライトアップ」是什麼意思？",
+          "options": ["日光浴", "夜間點燈", "煙火", "白天的照明"],
+          "correct": 1,
+          "explanation": "「ライトアップ」是日式英語，指夜間用燈光照亮景點，讓人欣賞夜間風景。"
+        },
+        {
+          "question": "「紅葉狩り」的意思是什麼？",
+          "options": ["採集紅葉", "賞紅葉", "種植紅葉", "紅葉料理"],
+          "correct": 1,
+          "explanation": "「紅葉狩り（もみじがり）」是指外出欣賞紅葉的活動。雖然有「狩り（狩獵）」這個字，但實際上是「欣賞」的意思。"
+        },
+        {
+          "question": "日本的櫻花前線（桜前線）是什麼？",
+          "options": ["種櫻花的地區", "櫻花開花由南往北推進的預測", "最有名的賞櫻景點", "櫻花祭的日程表"],
+          "correct": 1,
+          "explanation": "「桜前線」是指日本氣象機構預測的櫻花開花時間，通常從沖繩開始往北推進。"
+        },
+        {
+          "question": "花見時，下列哪項行為是不正確的？",
+          "options": ["在藍色墊子上野餐", "帶走自己的垃圾", "折斷櫻花樹枝拍照", "早點去佔位子"],
+          "correct": 2,
+          "explanation": "花見時絕對不可以折斷或搖晃櫻花樹枝，櫻花樹非常脆弱，這是最基本的禮儀。"
+        },
+        {
+          "question": "「散る」的意思是什麼？",
+          "options": ["開花", "滿開", "（花）凋落、飄散", "種植"],
+          "correct": 2,
+          "explanation": "「散る（ちる）」是指花瓣凋落飄散的意思，是櫻花季結束的標誌。"
+        }
+      ]
+    }
+  ]
+}

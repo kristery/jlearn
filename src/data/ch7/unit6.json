@@ -1,0 +1,406 @@
+{
+  "id": "ch7-unit6",
+  "title": "溫泉鄉小旅行：箱根、別府、草津",
+  "intro": "日本是世界著名的溫泉大國，從關東的箱根到九州的別府，再到群馬的草津，各地都有獨具特色的溫泉鄉。這一課我們要學習如何詢問日歸溫泉、享受足湯，以及溫泉街散步時的實用日語。快來體驗日本溫泉文化的魅力吧！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "温泉郷",
+          "reading": "おんせんきょう",
+          "romaji": "onsenkyou",
+          "chinese": "溫泉鄉",
+          "example": "箱根は有名な温泉郷です。",
+          "exampleChinese": "箱根是有名的溫泉鄉。"
+        },
+        {
+          "japanese": "日帰り温泉",
+          "reading": "ひがえりおんせん",
+          "romaji": "higaeri onsen",
+          "chinese": "日歸溫泉（不住宿的溫泉）",
+          "example": "日帰り温泉に行きたいです。",
+          "exampleChinese": "我想去日歸溫泉。"
+        },
+        {
+          "japanese": "足湯",
+          "reading": "あしゆ",
+          "romaji": "ashiyu",
+          "chinese": "足湯",
+          "example": "駅前に無料の足湯がありますよ。",
+          "exampleChinese": "車站前有免費的足湯喔。"
+        },
+        {
+          "japanese": "湯めぐり",
+          "reading": "ゆめぐり",
+          "romaji": "yumeguri",
+          "chinese": "溫泉巡禮",
+          "example": "別府で湯めぐりを楽しみました。",
+          "exampleChinese": "在別府享受了溫泉巡禮。"
+        },
+        {
+          "japanese": "温泉街",
+          "reading": "おんせんがい",
+          "romaji": "onsengai",
+          "chinese": "溫泉街",
+          "example": "温泉街を浴衣で散歩しました。",
+          "exampleChinese": "穿著浴衣在溫泉街散步了。"
+        },
+        {
+          "japanese": "効能",
+          "reading": "こうのう",
+          "romaji": "kounou",
+          "chinese": "功效",
+          "example": "この温泉は美肌の効能があります。",
+          "exampleChinese": "這個溫泉有美肌的功效。"
+        },
+        {
+          "japanese": "源泉かけ流し",
+          "reading": "げんせんかけながし",
+          "romaji": "gensen kakenagashi",
+          "chinese": "源泉放流式（溫泉水直接引入不循環）",
+          "example": "この旅館は源泉かけ流しです。",
+          "exampleChinese": "這間旅館是源泉放流式的。"
+        },
+        {
+          "japanese": "露天風呂",
+          "reading": "ろてんぶろ",
+          "romaji": "rotenburo",
+          "chinese": "露天溫泉",
+          "example": "露天風呂からの景色が最高です。",
+          "exampleChinese": "從露天溫泉看出去的景色太棒了。"
+        },
+        {
+          "japanese": "浴衣",
+          "reading": "ゆかた",
+          "romaji": "yukata",
+          "chinese": "浴衣",
+          "example": "旅館で浴衣を着ました。",
+          "exampleChinese": "在旅館穿了浴衣。"
+        },
+        {
+          "japanese": "入浴料",
+          "reading": "にゅうよくりょう",
+          "romaji": "nyuuyokuryou",
+          "chinese": "入浴費",
+          "example": "入浴料はいくらですか？",
+          "exampleChinese": "入浴費是多少？"
+        },
+        {
+          "japanese": "タオル",
+          "reading": "タオル",
+          "romaji": "taoru",
+          "chinese": "毛巾",
+          "example": "タオルは持参してください。",
+          "exampleChinese": "請自備毛巾。"
+        },
+        {
+          "japanese": "泉質",
+          "reading": "せんしつ",
+          "romaji": "senshitsu",
+          "chinese": "泉質（溫泉水質）",
+          "example": "草津温泉の泉質はとてもいいです。",
+          "exampleChinese": "草津溫泉的泉質非常好。"
+        },
+        {
+          "japanese": "貸切風呂",
+          "reading": "かしきりぶろ",
+          "romaji": "kashikiri buro",
+          "chinese": "包租溫泉（私人溫泉）",
+          "example": "貸切風呂は予約が必要です。",
+          "exampleChinese": "包租溫泉需要預約。"
+        },
+        {
+          "japanese": "温泉饅頭",
+          "reading": "おんせんまんじゅう",
+          "romaji": "onsen manjuu",
+          "chinese": "溫泉饅頭（溫泉鄉名產點心）",
+          "example": "温泉饅頭をお土産に買いました。",
+          "exampleChinese": "買了溫泉饅頭當伴手禮。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：詢問日歸溫泉",
+      "scene": "在箱根的觀光案內所，旅客詢問日歸溫泉的資訊。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、この辺に日帰り温泉はありますか？",
+          "chinese": "不好意思，這附近有日歸溫泉嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、箱根にはたくさんありますよ。源泉かけ流しの温泉がおすすめです。",
+          "chinese": "有的，箱根有很多喔。推薦源泉放流式的溫泉。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "入浴料はいくらぐらいですか？",
+          "chinese": "入浴費大概多少？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "千円から千五百円ぐらいです。タオルは別料金です。",
+          "chinese": "大約一千到一千五百日圓。毛巾要另外付費。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "露天風呂がある温泉はありますか？",
+          "chinese": "有附露天溫泉的嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、こちらの温泉は露天風呂で有名な所ですよ。山の景色が最高です。",
+          "chinese": "有的，這間溫泉是以露天溫泉聞名的地方喔。山景非常棒。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "肌にいい温泉はどこですか？",
+          "chinese": "對皮膚好的溫泉是哪裡？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "美肌の効能がある温泉なら、こちらがおすすめです。",
+          "chinese": "如果要有美肌功效的溫泉的話，推薦這間。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：在足湯休憩",
+      "scene": "在草津溫泉街的免費足湯旁，兩位旅客邊泡足湯邊聊天。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "わあ、この足湯は気持ちいいですね！",
+          "chinese": "哇，這個足湯好舒服啊！"
+        },
+        {
+          "speaker": "B",
+          "japanese": "そうですね。草津温泉は泉質がとてもいいですからね。",
+          "chinese": "是啊。因為草津溫泉的泉質非常好嘛。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "この温泉はどんな効能がありますか？",
+          "chinese": "這個溫泉有什麼功效？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "疲労回復に効きますよ。肌にもいいです。",
+          "chinese": "對消除疲勞有效喔。對皮膚也好。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "湯めぐりもしたいんですが、おすすめの温泉はありますか？",
+          "chinese": "我也想做溫泉巡禮，有推薦的溫泉嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "草津には湯めぐり手形がありますよ。三つの温泉に入れます。",
+          "chinese": "草津有溫泉巡禮通行券喔。可以進三個溫泉。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "いいですね！温泉街で温泉饅頭も食べたいです。",
+          "chinese": "太好了！也想在溫泉街吃溫泉饅頭。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "あそこのお店が有名ですよ。焼きたてが美味しいです。",
+          "chinese": "那邊的店很有名喔。剛烤好的很好吃。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～で有名な",
+          "meaning": "以～聞名的",
+          "structure": "名詞 + で有名な + 名詞",
+          "examples": [
+            {
+              "japanese": "箱根は露天風呂で有名な温泉郷です。",
+              "chinese": "箱根是以露天溫泉聞名的溫泉鄉。"
+            },
+            {
+              "japanese": "別府は湯めぐりで有名な場所です。",
+              "chinese": "別府是以溫泉巡禮聞名的地方。"
+            },
+            {
+              "japanese": "ここは泉質で有名な温泉です。",
+              "chinese": "這裡是以泉質聞名的溫泉。"
+            }
+          ],
+          "note": "「で有名な」是「で有名です」的連體修飾形，用來修飾後面的名詞。表示以某特點聞名的某事物。"
+        },
+        {
+          "pattern": "～がおすすめです",
+          "meaning": "推薦～",
+          "structure": "名詞 + がおすすめです",
+          "examples": [
+            {
+              "japanese": "源泉かけ流しの温泉がおすすめです。",
+              "chinese": "推薦源泉放流式的溫泉。"
+            },
+            {
+              "japanese": "日帰り温泉がおすすめですよ。",
+              "chinese": "推薦日歸溫泉喔。"
+            },
+            {
+              "japanese": "この足湯がおすすめです。",
+              "chinese": "推薦這個足湯。"
+            }
+          ],
+          "note": "向對方推薦某事物時使用的句型。在溫泉鄉詢問推薦的溫泉設施時非常實用。"
+        },
+        {
+          "pattern": "～に効く",
+          "meaning": "對～有效",
+          "structure": "名詞 + に効く（きく）",
+          "examples": [
+            {
+              "japanese": "この温泉は疲労回復に効きます。",
+              "chinese": "這個溫泉對消除疲勞有效。"
+            },
+            {
+              "japanese": "草津温泉は肌荒れに効きますよ。",
+              "chinese": "草津溫泉對皮膚粗糙有效喔。"
+            },
+            {
+              "japanese": "この泉質は冷え性に効くそうです。",
+              "chinese": "聽說這個泉質對手腳冰冷有效。"
+            }
+          ],
+          "note": "「効く（きく）」是「有效」的意思，前面用「に」表示對什麼有效。在溫泉鄉常用來描述溫泉的功效。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "温泉郷",
+          "reading": "おんせんきょう",
+          "romaji": "onsenkyou",
+          "chinese": "溫泉鄉"
+        },
+        {
+          "japanese": "日帰り温泉",
+          "reading": "ひがえりおんせん",
+          "romaji": "higaeri onsen",
+          "chinese": "日歸溫泉"
+        },
+        {
+          "japanese": "足湯",
+          "reading": "あしゆ",
+          "romaji": "ashiyu",
+          "chinese": "足湯"
+        },
+        {
+          "japanese": "湯めぐり",
+          "reading": "ゆめぐり",
+          "romaji": "yumeguri",
+          "chinese": "溫泉巡禮"
+        },
+        {
+          "japanese": "源泉かけ流し",
+          "reading": "げんせんかけながし",
+          "romaji": "gensen kakenagashi",
+          "chinese": "源泉放流式"
+        },
+        {
+          "japanese": "露天風呂",
+          "reading": "ろてんぶろ",
+          "romaji": "rotenburo",
+          "chinese": "露天溫泉"
+        },
+        {
+          "japanese": "効能",
+          "reading": "こうのう",
+          "romaji": "kounou",
+          "chinese": "功效"
+        },
+        {
+          "japanese": "入浴料",
+          "reading": "にゅうよくりょう",
+          "romaji": "nyuuyokuryou",
+          "chinese": "入浴費"
+        },
+        {
+          "japanese": "貸切風呂",
+          "reading": "かしきりぶろ",
+          "romaji": "kashikiri buro",
+          "chinese": "包租溫泉"
+        },
+        {
+          "japanese": "温泉饅頭",
+          "reading": "おんせんまんじゅう",
+          "romaji": "onsen manjuu",
+          "chinese": "溫泉饅頭"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「日帰り温泉」是什麼意思？",
+          "options": ["住一晚的溫泉旅館", "不住宿的溫泉", "免費的溫泉", "露天溫泉"],
+          "correct": 1,
+          "explanation": "「日帰り温泉（ひがえりおんせん）」是指不住宿、當天來回的溫泉設施。"
+        },
+        {
+          "question": "「源泉かけ流し」是什麼意思？",
+          "options": ["加了藥的溫泉", "循環使用的溫泉水", "溫泉水直接引入不循環", "人工加熱的溫泉"],
+          "correct": 2,
+          "explanation": "「源泉かけ流し」是指溫泉水從源頭直接引入浴池，不進行循環利用，被認為是最高品質的溫泉。"
+        },
+        {
+          "question": "「この温泉は疲労回復＿＿効きます」，空格應填入什麼？",
+          "options": ["が", "を", "に", "で"],
+          "correct": 2,
+          "explanation": "「～に効く」表示對某事物有效，所以要用助詞「に」。"
+        },
+        {
+          "question": "「足湯」是什麼？",
+          "options": ["全身泡的溫泉", "只泡腳的溫泉", "蒸氣浴", "冷水浴"],
+          "correct": 1,
+          "explanation": "「足湯（あしゆ）」是只泡腳的溫泉設施，通常是免費的，在溫泉街常見。"
+        },
+        {
+          "question": "「湯めぐり」的意思是什麼？",
+          "options": ["泡一次溫泉", "溫泉巡禮", "溫泉料理", "溫泉治療"],
+          "correct": 1,
+          "explanation": "「湯めぐり（ゆめぐり）」是指巡迴不同溫泉設施，體驗各種溫泉的活動。"
+        },
+        {
+          "question": "在日歸溫泉需要注意什麼？",
+          "options": ["必須住宿", "毛巾可能需要另外付費", "只有冬天才能去", "一定要預約"],
+          "correct": 1,
+          "explanation": "日歸溫泉的毛巾（タオル）通常需要另外付費購買或租借，建議自備。"
+        },
+        {
+          "question": "「露天風呂」是什麼？",
+          "options": ["室內溫泉", "露天溫泉", "足湯", "包租溫泉"],
+          "correct": 1,
+          "explanation": "「露天風呂（ろてんぶろ）」是設在戶外的溫泉浴池，可以一邊泡溫泉一邊欣賞風景。"
+        },
+        {
+          "question": "「箱根は露天風呂＿＿有名な温泉郷です」，空格應填入什麼？",
+          "options": ["が", "で", "に", "を"],
+          "correct": 1,
+          "explanation": "「～で有名な」是「以～聞名的」的意思，用來修飾後面的名詞。"
+        }
+      ]
+    }
+  ]
+}

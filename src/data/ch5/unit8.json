@@ -1,0 +1,285 @@
+{
+  "id": "ch5-unit8",
+  "title": "便當與外帶：テイクアウト文化",
+  "intro": "日本的便當文化博大精深，從超商便當到車站限定的駅弁，每一種都是美食與藝術的結合。學會外帶點餐和購買便當的日語，讓你隨時隨地都能享受日本美食！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "弁当",
+          "reading": "べんとう",
+          "romaji": "bentou",
+          "chinese": "便當",
+          "example": "お弁当を一つください。",
+          "exampleChinese": "請給我一個便當。"
+        },
+        {
+          "japanese": "テイクアウト",
+          "reading": "テイクアウト",
+          "romaji": "teikuauto",
+          "chinese": "外帶",
+          "example": "テイクアウトでお願いします。",
+          "exampleChinese": "我要外帶，麻煩了。"
+        },
+        {
+          "japanese": "持ち帰り",
+          "reading": "もちかえり",
+          "romaji": "mochikaeri",
+          "chinese": "外帶（日式說法）",
+          "example": "お持ち帰りですか？",
+          "exampleChinese": "請問是外帶嗎？"
+        },
+        {
+          "japanese": "温める",
+          "reading": "あたためる",
+          "romaji": "atatameru",
+          "chinese": "加熱",
+          "example": "お弁当、温めますか？",
+          "exampleChinese": "便當要加熱嗎？"
+        },
+        {
+          "japanese": "割り箸",
+          "reading": "わりばし",
+          "romaji": "waribashi",
+          "chinese": "免洗筷",
+          "example": "割り箸はおつけしますか？",
+          "exampleChinese": "需要附免洗筷嗎？"
+        },
+        {
+          "japanese": "おにぎり",
+          "reading": "おにぎり",
+          "romaji": "onigiri",
+          "chinese": "飯糰",
+          "example": "おにぎりを二つください。",
+          "exampleChinese": "請給我兩個飯糰。"
+        },
+        {
+          "japanese": "駅弁",
+          "reading": "えきべん",
+          "romaji": "ekiben",
+          "chinese": "車站便當",
+          "example": "この駅弁は有名ですよ。",
+          "exampleChinese": "這個車站便當很有名喔。"
+        },
+        {
+          "japanese": "幕の内弁当",
+          "reading": "まくのうちべんとう",
+          "romaji": "makunouchi bentou",
+          "chinese": "幕之內便當（經典日式便當）",
+          "example": "幕の内弁当をお願いします。",
+          "exampleChinese": "請給我幕之內便當。"
+        },
+        {
+          "japanese": "袋",
+          "reading": "ふくろ",
+          "romaji": "fukuro",
+          "chinese": "袋子",
+          "example": "袋はいりますか？",
+          "exampleChinese": "需要袋子嗎？"
+        },
+        {
+          "japanese": "電子レンジ",
+          "reading": "でんしレンジ",
+          "romaji": "denshi renji",
+          "chinese": "微波爐",
+          "example": "電子レンジで温めてください。",
+          "exampleChinese": "請用微波爐加熱。"
+        },
+        {
+          "japanese": "スプーン",
+          "reading": "スプーン",
+          "romaji": "supuun",
+          "chinese": "湯匙",
+          "example": "スプーンもつけてください。",
+          "exampleChinese": "也請附一支湯匙。"
+        },
+        {
+          "japanese": "フォーク",
+          "reading": "フォーク",
+          "romaji": "fooku",
+          "chinese": "叉子",
+          "example": "お箸とフォーク、どちらにしますか？",
+          "exampleChinese": "要筷子還是叉子？"
+        },
+        {
+          "japanese": "おかず",
+          "reading": "おかず",
+          "romaji": "okazu",
+          "chinese": "配菜",
+          "example": "このお弁当はおかずが多いですね。",
+          "exampleChinese": "這個便當配菜好多呢。"
+        },
+        {
+          "japanese": "コンビニ",
+          "reading": "コンビニ",
+          "romaji": "konbini",
+          "chinese": "便利商店",
+          "example": "コンビニでお弁当を買いました。",
+          "exampleChinese": "我在便利商店買了便當。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：在店裡點外帶",
+      "scene": "在速食店或便當店點餐，選擇外帶並處理加熱、餐具等細節。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ。ご注文はお決まりですか？", "chinese": "歡迎光臨。請問決定好要點什麼了嗎？" },
+        { "speaker": "A", "japanese": "唐揚げ弁当を一つお願いします。", "chinese": "請給我一個炸雞便當。" },
+        { "speaker": "店員", "japanese": "店内で食べますか？お持ち帰りですか？", "chinese": "請問在店裡吃還是外帶？" },
+        { "speaker": "A", "japanese": "持ち帰りでお願いします。", "chinese": "外帶，麻煩了。" },
+        { "speaker": "店員", "japanese": "お弁当、温めますか？", "chinese": "便當要加熱嗎？" },
+        { "speaker": "A", "japanese": "はい、お願いします。", "chinese": "好的，麻煩了。" },
+        { "speaker": "店員", "japanese": "割り箸はおつけしますか？", "chinese": "需要附免洗筷嗎？" },
+        { "speaker": "A", "japanese": "はい、つけてください。あと、スプーンもお願いします。", "chinese": "好的，請附上。另外也要一支湯匙。" },
+        { "speaker": "店員", "japanese": "袋はいりますか？", "chinese": "需要袋子嗎？" },
+        { "speaker": "A", "japanese": "はい、お願いします。", "chinese": "好的，麻煩了。" },
+        { "speaker": "店員", "japanese": "五百八十円になります。", "chinese": "總共是五百八十日圓。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：在車站購買駅弁",
+      "scene": "準備搭新幹線前，在車站的便當店選購駅弁。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、この駅で一番人気の駅弁はどれですか？", "chinese": "不好意思，這個車站最受歡迎的車站便當是哪個？" },
+        { "speaker": "店員", "japanese": "こちらの牛タン弁当が一番人気です。仙台名物ですよ。", "chinese": "這個牛舌便當最受歡迎。是仙台名產喔。" },
+        { "speaker": "A", "japanese": "おいしそうですね。じゃ、それを一つください。", "chinese": "看起來好好吃。那請給我一個。" },
+        { "speaker": "B", "japanese": "私は幕の内弁当にします。あと、おにぎりも二つください。", "chinese": "我要幕之內便當。另外再給我兩個飯糰。" },
+        { "speaker": "店員", "japanese": "おにぎりは何味にしますか？鮭、梅、ツナマヨがあります。", "chinese": "飯糰要什麼口味的？有鮭魚、梅子和鮪魚美乃滋。" },
+        { "speaker": "B", "japanese": "鮭を一つと、梅を一つください。", "chinese": "請給我一個鮭魚和一個梅子的。" },
+        { "speaker": "店員", "japanese": "お飲み物はいかがですか？お茶もございます。", "chinese": "需要飲料嗎？我們也有茶喔。" },
+        { "speaker": "A", "japanese": "じゃ、緑茶を一本お願いします。", "chinese": "那請給我一瓶綠茶。" },
+        { "speaker": "店員", "japanese": "合計で二千三百円になります。", "chinese": "總共是兩千三百日圓。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～で食べますか／持ち帰りですか",
+          "meaning": "在店裡吃還是外帶？",
+          "structure": "店内で食べますか？お持ち帰りですか？",
+          "examples": [
+            { "japanese": "店内で食べますか？お持ち帰りですか？", "chinese": "在店裡吃還是外帶？" },
+            { "japanese": "こちらでお召し上がりですか？", "chinese": "在這裡用餐嗎？（更禮貌的說法）" },
+            { "japanese": "持ち帰りでお願いします。", "chinese": "外帶，麻煩了。" }
+          ],
+          "note": "這是日本店家最常問的問題之一。「テイクアウト」和「持ち帰り」都是外帶的意思，前者源自英語，後者是日語原生說法。回答時用「～でお願いします」即可。"
+        },
+        {
+          "pattern": "～を温めますか",
+          "meaning": "要加熱～嗎？",
+          "structure": "名詞 + を温めますか？",
+          "examples": [
+            { "japanese": "お弁当、温めますか？", "chinese": "便當要加熱嗎？" },
+            { "japanese": "温めなくて大丈夫です。", "chinese": "不用加熱沒關係。" },
+            { "japanese": "温めてください。", "chinese": "請幫我加熱。" }
+          ],
+          "note": "在便利商店或便當店買便當時，店員常會問「温めますか？」。想加熱就回答「お願いします」，不想加熱就說「大丈夫です」或「いいえ、結構です」。"
+        },
+        {
+          "pattern": "～つください",
+          "meaning": "請給我～個",
+          "structure": "數量 + つ + ください",
+          "examples": [
+            { "japanese": "おにぎりを二つください。", "chinese": "請給我兩個飯糰。" },
+            { "japanese": "唐揚げ弁当を一つお願いします。", "chinese": "請給我一個炸雞便當。" },
+            { "japanese": "三つください。", "chinese": "請給我三個。" }
+          ],
+          "note": "「つ」是日語通用的數量詞，一到十的數法是：一つ（ひとつ）、二つ（ふたつ）、三つ（みっつ）、四つ（よっつ）、五つ（いつつ）。適用於大部分物品。"
+        },
+        {
+          "pattern": "～もつけてください",
+          "meaning": "也請附上～",
+          "structure": "名詞 + もつけてください",
+          "examples": [
+            { "japanese": "スプーンもつけてください。", "chinese": "也請附上湯匙。" },
+            { "japanese": "おしぼりもつけてください。", "chinese": "也請附上濕紙巾。" },
+            { "japanese": "ストローもつけてください。", "chinese": "也請附上吸管。" }
+          ],
+          "note": "「も」是「也」的意思，「つけて」是「附上」的意思。當你需要額外的餐具或配件時，用這個句型很方便。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小知識",
+      "content": "【日本的便當與外帶文化】\n\n1. **駅弁（車站便當）**：日本的車站便當歷史悠久，每個地區都有獨特的特色駅弁，使用當地食材製作。搭乘新幹線或長途列車時，買一個駅弁在車上享用是日本旅行的一大樂趣。著名的駅弁包括仙台的牛舌便當、橫濱的燒賣便當等。\n\n2. **コンビニ弁当（便利商店便當）**：日本便利商店的便當種類豐富、價格實惠，而且24小時都能買到。店員會主動問你要不要加熱。便利商店也有各種飯糰、三明治等輕食選擇。\n\n3. **袋子收費制度**：2020年起，日本開始實施塑膠袋收費制度，購物時店員會問「袋はいりますか？」。如果不需要，可以說「大丈夫です」。建議自備購物袋（エコバッグ）。\n\n4. **幕の内弁当**：這是最經典的日式便當類型，通常包含白飯、烤魚、玉子燒、煮物、醃菜等多種配菜，營養均衡又色彩豐富，是日本便當文化的代表。"
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "弁当", "reading": "べんとう", "romaji": "bentou", "chinese": "便當" },
+        { "japanese": "テイクアウト", "reading": "テイクアウト", "romaji": "teikuauto", "chinese": "外帶" },
+        { "japanese": "温める", "reading": "あたためる", "romaji": "atatameru", "chinese": "加熱" },
+        { "japanese": "割り箸", "reading": "わりばし", "romaji": "waribashi", "chinese": "免洗筷" },
+        { "japanese": "おにぎり", "reading": "おにぎり", "romaji": "onigiri", "chinese": "飯糰" },
+        { "japanese": "駅弁", "reading": "えきべん", "romaji": "ekiben", "chinese": "車站便當" },
+        { "japanese": "おかず", "reading": "おかず", "romaji": "okazu", "chinese": "配菜" },
+        { "japanese": "コンビニ", "reading": "コンビニ", "romaji": "konbini", "chinese": "便利商店" },
+        { "japanese": "袋", "reading": "ふくろ", "romaji": "fukuro", "chinese": "袋子" },
+        { "japanese": "持ち帰り", "reading": "もちかえり", "romaji": "mochikaeri", "chinese": "外帶" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "在便利商店買便當，店員問「温めますか？」，你想加熱應該怎麼回答？",
+          "options": ["いいえ、結構です", "大丈夫です", "お願いします", "温めません"],
+          "correct": 2,
+          "explanation": "「お願いします」是「麻煩了」的意思，用來表示同意店員的提議。想加熱就回答「お願いします」。"
+        },
+        {
+          "question": "「駅弁」是什麼？",
+          "options": ["家庭便當", "學校午餐", "車站便當", "飛機餐"],
+          "correct": 2,
+          "explanation": "「駅弁（えきべん）」是在車站販售的特色便當，「駅」是車站的意思。每個地區的駅弁都有獨特的當地風味。"
+        },
+        {
+          "question": "想要兩個飯糰，應該怎麼說？",
+          "options": ["おにぎりを二本ください", "おにぎりを二つください", "おにぎりを二枚ください", "おにぎりを二杯ください"],
+          "correct": 1,
+          "explanation": "飯糰用通用數量詞「つ」來計算。「二つ（ふたつ）」是兩個的意思。"
+        },
+        {
+          "question": "店員問「袋はいりますか？」，不需要袋子應該怎麼回答？",
+          "options": ["お願いします", "はい、ください", "大丈夫です", "袋をください"],
+          "correct": 2,
+          "explanation": "「大丈夫です」在這裡是「不用了」的意思，是婉拒的常用說法。也可以說「いいえ、結構です」。"
+        },
+        {
+          "question": "「割り箸」是什麼？",
+          "options": ["一般筷子", "免洗筷", "叉子", "湯匙"],
+          "correct": 1,
+          "explanation": "「割り箸（わりばし）」是「免洗筷」，「割り」是「劈開」的意思，因為使用前需要將筷子掰開。"
+        },
+        {
+          "question": "以下哪個是「外帶」的日式說法？",
+          "options": ["テイクアウト", "持ち帰り", "デリバリー", "出前"],
+          "correct": 1,
+          "explanation": "「持ち帰り（もちかえり）」是外帶的日語原生說法。「テイクアウト」也是外帶，但源自英語take out。"
+        },
+        {
+          "question": "「幕の内弁当」是什麼樣的便當？",
+          "options": ["只有肉的便當", "只有生魚片的便當", "包含多種配菜的經典日式便當", "素食便當"],
+          "correct": 2,
+          "explanation": "「幕の内弁当（まくのうちべんとう）」是經典的日式便當，通常包含白飯、烤魚、玉子燒、煮物等多種配菜。"
+        },
+        {
+          "question": "想請店員也附上湯匙，應該怎麼說？",
+          "options": ["スプーンをください", "スプーンもつけてください", "スプーンは要りません", "スプーンにします"],
+          "correct": 1,
+          "explanation": "「もつけてください」是「也請附上」的意思。「スプーンもつけてください」就是「也請附上湯匙」。"
+        }
+      ]
+    }
+  ]
+}

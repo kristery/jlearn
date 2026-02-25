@@ -1,0 +1,335 @@
+{
+  "id": "ch1-unit10",
+  "title": "旅遊必備動詞：行く、食べる、買う",
+  "intro": "動詞是句子的靈魂！學會基本的動詞和「ます形」，你就能表達想去哪裡、想吃什麼、想買什麼。本單元教你旅遊中最常用的動詞，讓你從「只能問路」升級到「能聊天」！",
+  "estimatedTime": "30 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "行く",
+          "reading": "いく",
+          "romaji": "iku",
+          "chinese": "去",
+          "example": "明日、京都に行きます。",
+          "exampleChinese": "明天去京都。"
+        },
+        {
+          "japanese": "来る",
+          "reading": "くる",
+          "romaji": "kuru",
+          "chinese": "來",
+          "example": "友達が日本に来ます。",
+          "exampleChinese": "朋友來日本。"
+        },
+        {
+          "japanese": "食べる",
+          "reading": "たべる",
+          "romaji": "taberu",
+          "chinese": "吃",
+          "example": "寿司を食べます。",
+          "exampleChinese": "吃壽司。"
+        },
+        {
+          "japanese": "飲む",
+          "reading": "のむ",
+          "romaji": "nomu",
+          "chinese": "喝",
+          "example": "お茶を飲みます。",
+          "exampleChinese": "喝茶。"
+        },
+        {
+          "japanese": "買う",
+          "reading": "かう",
+          "romaji": "kau",
+          "chinese": "買",
+          "example": "お土産を買います。",
+          "exampleChinese": "買伴手禮。"
+        },
+        {
+          "japanese": "見る",
+          "reading": "みる",
+          "romaji": "miru",
+          "chinese": "看",
+          "example": "桜を見ます。",
+          "exampleChinese": "看櫻花。"
+        },
+        {
+          "japanese": "する",
+          "reading": "する",
+          "romaji": "suru",
+          "chinese": "做",
+          "example": "写真を撮ります。",
+          "exampleChinese": "拍照。"
+        },
+        {
+          "japanese": "帰る",
+          "reading": "かえる",
+          "romaji": "kaeru",
+          "chinese": "回去",
+          "example": "ホテルに帰ります。",
+          "exampleChinese": "回飯店。"
+        },
+        {
+          "japanese": "歩く",
+          "reading": "あるく",
+          "romaji": "aruku",
+          "chinese": "走路",
+          "example": "公園を歩きます。",
+          "exampleChinese": "在公園散步。"
+        },
+        {
+          "japanese": "乗る",
+          "reading": "のる",
+          "romaji": "noru",
+          "chinese": "搭乘",
+          "example": "電車に乗ります。",
+          "exampleChinese": "搭電車。"
+        },
+        {
+          "japanese": "撮る",
+          "reading": "とる",
+          "romaji": "toru",
+          "chinese": "拍（照片）",
+          "example": "写真を撮ってもいいですか？",
+          "exampleChinese": "可以拍照嗎？"
+        },
+        {
+          "japanese": "泊まる",
+          "reading": "とまる",
+          "romaji": "tomaru",
+          "chinese": "住宿",
+          "example": "このホテルに泊まります。",
+          "exampleChinese": "住在這間飯店。"
+        },
+        {
+          "japanese": "遊ぶ",
+          "reading": "あそぶ",
+          "romaji": "asobu",
+          "chinese": "玩",
+          "example": "東京で遊びます。",
+          "exampleChinese": "在東京玩。"
+        },
+        {
+          "japanese": "休む",
+          "reading": "やすむ",
+          "romaji": "yasumu",
+          "chinese": "休息",
+          "example": "少し休みましょう。",
+          "exampleChinese": "稍微休息一下吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "和旅伴討論今天的行程。",
+      "lines": [
+        { "speaker": "A", "japanese": "今日はどこに行きますか？", "chinese": "今天要去哪裡？" },
+        { "speaker": "B", "japanese": "浅草に行きたいです。", "chinese": "我想去淺草。" },
+        { "speaker": "A", "japanese": "浅草で何をしますか？", "chinese": "在淺草要做什麼？" },
+        { "speaker": "B", "japanese": "お寺を見て、お土産を買います。", "chinese": "看寺廟，然後買伴手禮。" },
+        { "speaker": "A", "japanese": "お昼は何を食べますか？", "chinese": "午餐吃什麼？" },
+        { "speaker": "B", "japanese": "天ぷらを食べたいです。", "chinese": "我想吃天婦羅。" },
+        { "speaker": "A", "japanese": "いいですね。電車で行きましょう。", "chinese": "好耶。搭電車去吧。" },
+        { "speaker": "B", "japanese": "はい、行きましょう！", "chinese": "好，走吧！" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "晚上回到飯店，聊今天做了什麼。",
+      "lines": [
+        { "speaker": "A", "japanese": "今日は楽しかったですね。", "chinese": "今天很開心呢。" },
+        { "speaker": "B", "japanese": "はい。たくさん歩きました。", "chinese": "是啊。走了很多路。" },
+        { "speaker": "A", "japanese": "天ぷら、おいしかったですね。", "chinese": "天婦羅很好吃呢。" },
+        { "speaker": "B", "japanese": "はい、とてもおいしかったです。お土産も買いました。", "chinese": "是的，非常好吃。也買了伴手禮。" },
+        { "speaker": "A", "japanese": "明日はどこに行きたいですか？", "chinese": "明天想去哪裡？" },
+        { "speaker": "B", "japanese": "秋葉原に行きたいです。", "chinese": "想去秋葉原。" },
+        { "speaker": "A", "japanese": "いいですね。今日はゆっくり休みましょう。", "chinese": "好啊。今天好好休息吧。" },
+        { "speaker": "B", "japanese": "はい、おやすみなさい。", "chinese": "好的，晚安。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "ます形",
+          "meaning": "動詞的禮貌形式",
+          "structure": "動詞ます形（肯定：〜ます／否定：〜ません／過去：〜ました／過去否定：〜ませんでした）",
+          "examples": [
+            { "japanese": "毎日コーヒーを飲みます。", "chinese": "每天喝咖啡。" },
+            { "japanese": "昨日、映画を見ました。", "chinese": "昨天看了電影。" },
+            { "japanese": "明日は学校に行きません。", "chinese": "明天不去學校。" }
+          ],
+          "note": "「ます形」是日語動詞最基本的禮貌形式，和不認識的人或長輩說話時使用。動詞分為三類：五段動詞（如行く→行きます）、一段動詞（如食べる→食べます）、不規則動詞（する→します、来る→来ます）。初學者先記住常用動詞的ます形即可。"
+        },
+        {
+          "pattern": "〜たいです",
+          "meaning": "想要做〜",
+          "structure": "動詞ます形去掉「ます」+ たいです",
+          "examples": [
+            { "japanese": "ラーメンを食べたいです。", "chinese": "我想吃拉麵。" },
+            { "japanese": "京都に行きたいです。", "chinese": "我想去京都。" },
+            { "japanese": "お土産を買いたいです。", "chinese": "我想買伴手禮。" }
+          ],
+          "note": "「〜たいです」用來表達自己的願望和想要做的事情。只用於第一人稱（我）。問別人時用「〜たいですか？」。注意：不能用「〜たいです」描述第三人稱的願望，那需要用「〜たがっています」。"
+        },
+        {
+          "pattern": "〜ましょう",
+          "meaning": "一起〜吧",
+          "structure": "動詞ます形去掉「ます」+ ましょう",
+          "examples": [
+            { "japanese": "一緒に食べましょう。", "chinese": "一起吃吧。" },
+            { "japanese": "タクシーに乗りましょう。", "chinese": "搭計程車吧。" },
+            { "japanese": "写真を撮りましょう。", "chinese": "拍照吧。" }
+          ],
+          "note": "「〜ましょう」用來提議一起做某事，語氣積極且有禮貌。如果要更委婉地提議，可以用「〜ませんか？」（要不要一起〜？），語氣更柔和。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "行く",
+          "reading": "いく",
+          "romaji": "iku",
+          "chinese": "去",
+          "example": "明日、京都に行きます。",
+          "exampleChinese": "明天去京都。"
+        },
+        {
+          "japanese": "食べる",
+          "reading": "たべる",
+          "romaji": "taberu",
+          "chinese": "吃",
+          "example": "寿司を食べます。",
+          "exampleChinese": "吃壽司。"
+        },
+        {
+          "japanese": "飲む",
+          "reading": "のむ",
+          "romaji": "nomu",
+          "chinese": "喝",
+          "example": "お茶を飲みます。",
+          "exampleChinese": "喝茶。"
+        },
+        {
+          "japanese": "買う",
+          "reading": "かう",
+          "romaji": "kau",
+          "chinese": "買",
+          "example": "お土産を買います。",
+          "exampleChinese": "買伴手禮。"
+        },
+        {
+          "japanese": "見る",
+          "reading": "みる",
+          "romaji": "miru",
+          "chinese": "看",
+          "example": "桜を見ます。",
+          "exampleChinese": "看櫻花。"
+        },
+        {
+          "japanese": "乗る",
+          "reading": "のる",
+          "romaji": "noru",
+          "chinese": "搭乘",
+          "example": "電車に乗ります。",
+          "exampleChinese": "搭電車。"
+        },
+        {
+          "japanese": "歩く",
+          "reading": "あるく",
+          "romaji": "aruku",
+          "chinese": "走路",
+          "example": "公園を歩きます。",
+          "exampleChinese": "在公園散步。"
+        },
+        {
+          "japanese": "撮る",
+          "reading": "とる",
+          "romaji": "toru",
+          "chinese": "拍（照片）",
+          "example": "写真を撮ってもいいですか？",
+          "exampleChinese": "可以拍照嗎？"
+        },
+        {
+          "japanese": "泊まる",
+          "reading": "とまる",
+          "romaji": "tomaru",
+          "chinese": "住宿",
+          "example": "このホテルに泊まります。",
+          "exampleChinese": "住在這間飯店。"
+        },
+        {
+          "japanese": "休む",
+          "reading": "やすむ",
+          "romaji": "yasumu",
+          "chinese": "休息",
+          "example": "少し休みましょう。",
+          "exampleChinese": "稍微休息一下吧。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「食べます」的原形（辞書形）是？",
+          "options": ["食べる", "食む", "食う", "食びる"],
+          "correct": 0,
+          "explanation": "「食べます」的原形是「食べる（たべる）」，是一段動詞（上一段動詞）。"
+        },
+        {
+          "question": "「京都に行きたいです」是什麼意思？",
+          "options": ["去過京都了", "我想去京都", "不去京都", "一起去京都吧"],
+          "correct": 1,
+          "explanation": "「〜たいです」表示「想要做〜」，所以「行きたいです」是「想去」的意思。"
+        },
+        {
+          "question": "「一緒に食べましょう」是什麼意思？",
+          "options": ["我想一起吃", "一起吃吧", "可以一起吃嗎？", "不要一起吃"],
+          "correct": 1,
+          "explanation": "「〜ましょう」是提議的表達，「一緒に食べましょう」是「一起吃吧」的意思。"
+        },
+        {
+          "question": "「来る」的ます形是？",
+          "options": ["来ます", "来ります", "きます", "くります"],
+          "correct": 2,
+          "explanation": "「来る（くる）」是不規則動詞，ます形是「来ます（きます）」。注意讀音從「くる」變成「きます」。"
+        },
+        {
+          "question": "「お土産を買いました」是什麼意思？",
+          "options": ["想買伴手禮", "買了伴手禮", "沒買伴手禮", "要去買伴手禮"],
+          "correct": 1,
+          "explanation": "「〜ました」是ます形的過去式，「買いました」是「買了」的意思。"
+        },
+        {
+          "question": "想說「我想喝茶」，應該怎麼說？",
+          "options": ["お茶を飲みます", "お茶を飲みたいです", "お茶を飲みましょう", "お茶を飲みません"],
+          "correct": 1,
+          "explanation": "「飲みたいです」是「想喝」的意思，用ます形去掉「ます」加「たいです」。"
+        },
+        {
+          "question": "「写真を撮ってもいいですか？」是什麼意思？",
+          "options": ["請幫我拍照", "可以拍照嗎？", "不能拍照", "我拍了照片"],
+          "correct": 1,
+          "explanation": "「〜てもいいですか？」是詢問許可的表達，整句是「可以拍照嗎？」"
+        },
+        {
+          "question": "「する」的ます形是？",
+          "options": ["すます", "します", "しります", "するます"],
+          "correct": 1,
+          "explanation": "「する」是不規則動詞，ます形是「します」。例如「勉強する」→「勉強します」。"
+        }
+      ]
+    }
+  ]
+}

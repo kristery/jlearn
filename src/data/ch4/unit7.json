@@ -1,0 +1,456 @@
+{
+  "id": "ch4-unit7",
+  "title": "電器3C購物：秋葉原與家電量販店",
+  "intro": "日本的電器和3C產品品質優良、價格實惠，是許多旅客的必買清單。本單元教你在秋葉原或家電量販店買電子產品時會用到的日語，包括詢問電壓、保固、以及各種3C相關詞彙。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "家電",
+          "reading": "かでん",
+          "romaji": "kaden",
+          "chinese": "家電",
+          "example": "日本の家電は品質がいいです。",
+          "exampleChinese": "日本的家電品質很好。"
+        },
+        {
+          "japanese": "電圧",
+          "reading": "でんあつ",
+          "romaji": "den'atsu",
+          "chinese": "電壓",
+          "example": "この製品の電圧は何ボルトですか？",
+          "exampleChinese": "這個產品的電壓是幾伏特？"
+        },
+        {
+          "japanese": "変圧器",
+          "reading": "へんあつき",
+          "romaji": "hen'atsuki",
+          "chinese": "變壓器",
+          "example": "海外で使うには変圧器が必要ですか？",
+          "exampleChinese": "在海外使用需要變壓器嗎？"
+        },
+        {
+          "japanese": "SIMカード",
+          "reading": "シムカード",
+          "romaji": "shimu kādo",
+          "chinese": "SIM卡",
+          "example": "SIMフリーのスマホはありますか？",
+          "exampleChinese": "有無鎖版的手機嗎？"
+        },
+        {
+          "japanese": "充電器",
+          "reading": "じゅうでんき",
+          "romaji": "jūdenki",
+          "chinese": "充電器",
+          "example": "USB-Cの充電器はありますか？",
+          "exampleChinese": "有USB-C的充電器嗎？"
+        },
+        {
+          "japanese": "イヤホン",
+          "reading": "イヤホン",
+          "romaji": "iyahon",
+          "chinese": "耳機",
+          "example": "ワイヤレスイヤホンが欲しいのですが。",
+          "exampleChinese": "我想要無線耳機。"
+        },
+        {
+          "japanese": "保証書",
+          "reading": "ほしょうしょ",
+          "romaji": "hoshōsho",
+          "chinese": "保固書",
+          "example": "保証書はついていますか？",
+          "exampleChinese": "有附保固書嗎？"
+        },
+        {
+          "japanese": "海外対応",
+          "reading": "かいがいたいおう",
+          "romaji": "kaigai taiō",
+          "chinese": "支援海外使用",
+          "example": "この製品は海外対応ですか？",
+          "exampleChinese": "這個產品支援海外使用嗎？"
+        },
+        {
+          "japanese": "炊飯器",
+          "reading": "すいはんき",
+          "romaji": "suihanki",
+          "chinese": "電子鍋／電鍋",
+          "example": "人気の炊飯器はどれですか？",
+          "exampleChinese": "受歡迎的電子鍋是哪一款？"
+        },
+        {
+          "japanese": "ドライヤー",
+          "reading": "ドライヤー",
+          "romaji": "doraiyā",
+          "chinese": "吹風機",
+          "example": "このドライヤーは海外でも使えますか？",
+          "exampleChinese": "這個吹風機在海外也可以用嗎？"
+        },
+        {
+          "japanese": "モバイルバッテリー",
+          "reading": "モバイルバッテリー",
+          "romaji": "mobairu batterī",
+          "chinese": "行動電源",
+          "example": "大容量のモバイルバッテリーはありますか？",
+          "exampleChinese": "有大容量的行動電源嗎？"
+        },
+        {
+          "japanese": "量販店",
+          "reading": "りょうはんてん",
+          "romaji": "ryōhanten",
+          "chinese": "量販店",
+          "example": "家電量販店でまとめ買いしました。",
+          "exampleChinese": "在家電量販店大量採購了。"
+        },
+        {
+          "japanese": "展示品",
+          "reading": "てんじひん",
+          "romaji": "tenjihin",
+          "chinese": "展示品",
+          "example": "展示品は割引がありますか？",
+          "exampleChinese": "展示品有折扣嗎？"
+        },
+        {
+          "japanese": "取扱説明書",
+          "reading": "とりあつかいせつめいしょ",
+          "romaji": "toriatsukai setsumeisho",
+          "chinese": "使用說明書",
+          "example": "英語の取扱説明書はありますか？",
+          "exampleChinese": "有英語的使用說明書嗎？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：在家電量販店買電子產品",
+      "scene": "在大型家電量販店選購電子產品，詢問店員相關資訊",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、ワイヤレスイヤホンを探しているのですが。",
+          "chinese": "不好意思，我在找無線耳機。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ワイヤレスイヤホンはこちらのコーナーにございます。ご予算はおいくらぐらいですか？",
+          "chinese": "無線耳機在這邊的區域。您的預算大概多少？"
+        },
+        {
+          "speaker": "A",
+          "japanese": "15000円ぐらいで、ノイズキャンセリング機能付きのものが欲しいです。",
+          "chinese": "大概15000日圓左右，我想要有降噪功能的。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "でしたら、こちらの商品がおすすめです。ノイズキャンセリングの性能が高くて人気があります。",
+          "chinese": "那的話，推薦這款商品。降噪性能很好，很受歡迎。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "試聴できますか？",
+          "chinese": "可以試聽嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、展示品でお試しいただけます。どうぞ。",
+          "chinese": "可以的，可以用展示品試聽。請。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "いい音ですね。これにします。免税は対応していますか？",
+          "chinese": "音質很好呢。我要這個。可以辦免稅嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、パスポートをお見せいただければ免税でご購入いただけます。",
+          "chinese": "可以的，只要出示護照就可以免稅購買。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：詢問電壓與保固",
+      "scene": "購買電器產品時，確認是否能在海外使用以及保固事宜",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "この炊飯器は海外の電圧に対応していますか？",
+          "chinese": "這個電子鍋支援海外的電壓嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "こちらの製品は100V専用ですので、海外では変圧器が必要になります。",
+          "chinese": "這個產品只支援100V，在海外需要變壓器。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "海外対応のモデルはありますか？",
+          "chinese": "有支援海外使用的型號嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、こちらが海外対応モデルです。100V〜240Vまで使えます。",
+          "chinese": "有的，這款是海外對應型號。可以使用100V到240V。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "保証は海外でも使えますか？",
+          "chinese": "保固在海外也能用嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "申し訳ございません、保証は日本国内のみとなっております。",
+          "chinese": "很抱歉，保固僅限日本國內。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "保証期間は何年ですか？",
+          "chinese": "保固期間是幾年？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "メーカー保証が1年です。当店の延長保証に入ると、さらに4年追加で合計5年保証になります。",
+          "chinese": "原廠保固1年。如果加入本店的延長保固，再追加4年，總共5年保固。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "英語の取扱説明書はついていますか？",
+          "chinese": "有附英語的使用說明書嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "海外対応モデルには英語と中国語の説明書がついております。",
+          "chinese": "海外對應型號附有英語和中文的說明書。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～に対応していますか",
+          "meaning": "支援～嗎？／相容～嗎？",
+          "structure": "名詞 ＋ に対応（たいおう）していますか",
+          "examples": [
+            {
+              "japanese": "海外の電圧に対応していますか？",
+              "chinese": "支援海外的電壓嗎？"
+            },
+            {
+              "japanese": "この充電器はiPhoneに対応していますか？",
+              "chinese": "這個充電器相容iPhone嗎？"
+            },
+            {
+              "japanese": "日本語に対応していますか？",
+              "chinese": "支援日語嗎？"
+            }
+          ],
+          "note": "「対応する」是「對應、支援」的意思。買電子產品時非常實用，可以用來確認產品是否支援某種規格或功能。"
+        },
+        {
+          "pattern": "～は使えますか",
+          "meaning": "～可以用嗎？",
+          "structure": "名詞 ＋ は使えますか",
+          "examples": [
+            {
+              "japanese": "このドライヤーは台湾で使えますか？",
+              "chinese": "這個吹風機在台灣可以用嗎？"
+            },
+            {
+              "japanese": "保証は海外でも使えますか？",
+              "chinese": "保固在海外也能用嗎？"
+            },
+            {
+              "japanese": "クレジットカードは使えますか？",
+              "chinese": "可以用信用卡嗎？"
+            }
+          ],
+          "note": "「使えますか」是「使う（使用）」的可能形。用來詢問某個東西是否能在特定場合或地點使用。"
+        },
+        {
+          "pattern": "～年保証",
+          "meaning": "～年保固",
+          "structure": "數字 ＋ 年保証（ねんほしょう）",
+          "examples": [
+            {
+              "japanese": "メーカー保証は1年です。",
+              "chinese": "原廠保固是1年。"
+            },
+            {
+              "japanese": "延長保証で合計5年保証になります。",
+              "chinese": "延長保固後總共是5年保固。"
+            },
+            {
+              "japanese": "この商品には3年保証がついています。",
+              "chinese": "這個商品附有3年保固。"
+            }
+          ],
+          "note": "購買電器時，確認保固期間很重要。「メーカー保証」是原廠保固，「延長保証」是延長保固，通常由店家提供，可能需要額外付費。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "家電",
+          "reading": "かでん",
+          "romaji": "kaden",
+          "chinese": "家電"
+        },
+        {
+          "japanese": "電圧",
+          "reading": "でんあつ",
+          "romaji": "den'atsu",
+          "chinese": "電壓"
+        },
+        {
+          "japanese": "変圧器",
+          "reading": "へんあつき",
+          "romaji": "hen'atsuki",
+          "chinese": "變壓器"
+        },
+        {
+          "japanese": "充電器",
+          "reading": "じゅうでんき",
+          "romaji": "jūdenki",
+          "chinese": "充電器"
+        },
+        {
+          "japanese": "イヤホン",
+          "reading": "イヤホン",
+          "romaji": "iyahon",
+          "chinese": "耳機"
+        },
+        {
+          "japanese": "保証書",
+          "reading": "ほしょうしょ",
+          "romaji": "hoshōsho",
+          "chinese": "保固書"
+        },
+        {
+          "japanese": "炊飯器",
+          "reading": "すいはんき",
+          "romaji": "suihanki",
+          "chinese": "電子鍋／電鍋"
+        },
+        {
+          "japanese": "モバイルバッテリー",
+          "reading": "モバイルバッテリー",
+          "romaji": "mobairu batterī",
+          "chinese": "行動電源"
+        },
+        {
+          "japanese": "海外対応",
+          "reading": "かいがいたいおう",
+          "romaji": "kaigai taiō",
+          "chinese": "支援海外使用"
+        },
+        {
+          "japanese": "取扱説明書",
+          "reading": "とりあつかいせつめいしょ",
+          "romaji": "toriatsukai setsumeisho",
+          "chinese": "使用說明書"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "你想問這個產品是否支援海外電壓，應該怎麼說？",
+          "options": [
+            "この製品は高いですか？",
+            "この製品は海外の電圧に対応していますか？",
+            "この製品は海外で売っていますか？",
+            "この製品は海外から来ましたか？"
+          ],
+          "correct": 1,
+          "explanation": "「海外の電圧に対応していますか」是「支援海外電壓嗎」的意思。買電器帶回國前一定要確認！"
+        },
+        {
+          "question": "「変圧器」是什麼？",
+          "options": [
+            "充電器",
+            "變壓器",
+            "轉接頭",
+            "電池"
+          ],
+          "correct": 1,
+          "explanation": "「変圧器（へんあつき）」是變壓器。日本電壓是100V，如果你的國家電壓不同，可能需要變壓器。"
+        },
+        {
+          "question": "店員說「保証は日本国内のみとなっております」，是什麼意思？",
+          "options": [
+            "保固在全世界都有效。",
+            "保固僅限日本國內。",
+            "保固需要另外購買。",
+            "沒有保固。"
+          ],
+          "correct": 1,
+          "explanation": "「日本国内のみ」是「僅限日本國內」的意思。很多日本家電的保固不適用於海外。"
+        },
+        {
+          "question": "「SIMフリー」是什麼意思？",
+          "options": [
+            "免費的SIM卡",
+            "沒有SIM卡",
+            "無鎖版（不綁定電信商）",
+            "SIM卡壞了"
+          ],
+          "correct": 2,
+          "explanation": "「SIMフリー」是指手機不綁定特定電信商，可以自由插入任何SIM卡使用。"
+        },
+        {
+          "question": "「展示品は割引がありますか？」是在問什麼？",
+          "options": [
+            "展示品可以買嗎？",
+            "展示品有折扣嗎？",
+            "展示品是新的嗎？",
+            "展示品有保固嗎？"
+          ],
+          "correct": 1,
+          "explanation": "「割引（わりびき）」是折扣的意思。展示品因為被客人試用過，通常會有折扣。"
+        },
+        {
+          "question": "你想要一個有降噪功能的耳機，應該怎麼說？",
+          "options": [
+            "安いイヤホンが欲しいです。",
+            "ノイズキャンセリング機能付きのイヤホンが欲しいです。",
+            "大きいイヤホンが欲しいです。",
+            "白いイヤホンが欲しいです。"
+          ],
+          "correct": 1,
+          "explanation": "「ノイズキャンセリング機能付き」是「附有降噪功能」的意思。「～付き」表示附帶某種功能。"
+        },
+        {
+          "question": "日本的家用電壓是多少？",
+          "options": [
+            "110V",
+            "100V",
+            "220V",
+            "240V"
+          ],
+          "correct": 1,
+          "explanation": "日本的家用電壓是100V，和很多國家不同。購買電器時要確認是否支援你國家的電壓。"
+        },
+        {
+          "question": "「取扱説明書」是什麼？",
+          "options": [
+            "保固書",
+            "收據",
+            "使用說明書",
+            "退貨單"
+          ],
+          "correct": 2,
+          "explanation": "「取扱説明書（とりあつかいせつめいしょ）」是使用說明書。購買海外對應型號時，通常會附多國語言的說明書。"
+        }
+      ]
+    }
+  ]
+}

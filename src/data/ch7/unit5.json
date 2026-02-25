@@ -1,0 +1,401 @@
+{
+  "id": "ch7-unit5",
+  "title": "日本市場探險：築地、黑門、錦市場",
+  "intro": "日本的傳統市場是感受當地飲食文化的最佳地點！從東京的築地市場、大阪的黑門市場到京都的錦市場，每個市場都有獨特的美食和氛圍。這一課我們要學習在市場購物、試吃和享受食べ歩き的實用日語。一起來逛市場吧！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "市場",
+          "reading": "いちば",
+          "romaji": "ichiba",
+          "chinese": "市場",
+          "example": "築地市場は有名な市場です。",
+          "exampleChinese": "築地市場是有名的市場。"
+        },
+        {
+          "japanese": "鮮魚",
+          "reading": "せんぎょ",
+          "romaji": "sengyo",
+          "chinese": "鮮魚",
+          "example": "この市場は鮮魚が豊富です。",
+          "exampleChinese": "這個市場的鮮魚很豐富。"
+        },
+        {
+          "japanese": "試食",
+          "reading": "ししょく",
+          "romaji": "shishoku",
+          "chinese": "試吃",
+          "example": "試食してもいいですか？",
+          "exampleChinese": "可以試吃嗎？"
+        },
+        {
+          "japanese": "食べ歩き",
+          "reading": "たべあるき",
+          "romaji": "tabearuki",
+          "chinese": "邊走邊吃",
+          "example": "錦市場で食べ歩きを楽しみました。",
+          "exampleChinese": "在錦市場享受了邊走邊吃的樂趣。"
+        },
+        {
+          "japanese": "海鮮丼",
+          "reading": "かいせんどん",
+          "romaji": "kaisendon",
+          "chinese": "海鮮丼",
+          "example": "築地で海鮮丼を食べたいです。",
+          "exampleChinese": "我想在築地吃海鮮丼。"
+        },
+        {
+          "japanese": "串焼き",
+          "reading": "くしやき",
+          "romaji": "kushiyaki",
+          "chinese": "串燒",
+          "example": "串焼きを一本ください。",
+          "exampleChinese": "請給我一串串燒。"
+        },
+        {
+          "japanese": "漬物",
+          "reading": "つけもの",
+          "romaji": "tsukemono",
+          "chinese": "醃漬物、醬菜",
+          "example": "京都の漬物はとても美味しいです。",
+          "exampleChinese": "京都的醃漬物非常好吃。"
+        },
+        {
+          "japanese": "練り物",
+          "reading": "ねりもの",
+          "romaji": "nerimono",
+          "chinese": "魚漿製品（魚板等）",
+          "example": "市場で揚げたての練り物を買いました。",
+          "exampleChinese": "在市場買了現炸的魚漿製品。"
+        },
+        {
+          "japanese": "新鮮",
+          "reading": "しんせん",
+          "romaji": "shinsen",
+          "chinese": "新鮮",
+          "example": "ここの魚はとても新鮮です。",
+          "exampleChinese": "這裡的魚非常新鮮。"
+        },
+        {
+          "japanese": "名物",
+          "reading": "めいぶつ",
+          "romaji": "meibutsu",
+          "chinese": "名產、特產",
+          "example": "大阪の名物はたこ焼きです。",
+          "exampleChinese": "大阪的名產是章魚燒。"
+        },
+        {
+          "japanese": "値段",
+          "reading": "ねだん",
+          "romaji": "nedan",
+          "chinese": "價格",
+          "example": "値段はいくらですか？",
+          "exampleChinese": "價格是多少？"
+        },
+        {
+          "japanese": "一つ",
+          "reading": "ひとつ",
+          "romaji": "hitotsu",
+          "chinese": "一個",
+          "example": "これを一つください。",
+          "exampleChinese": "請給我一個這個。"
+        },
+        {
+          "japanese": "焼きたて",
+          "reading": "やきたて",
+          "romaji": "yakitate",
+          "chinese": "剛烤好的",
+          "example": "焼きたてのたい焼きが美味しいです。",
+          "exampleChinese": "剛烤好的鯛魚燒很好吃。"
+        },
+        {
+          "japanese": "商店街",
+          "reading": "しょうてんがい",
+          "romaji": "shoutengai",
+          "chinese": "商店街",
+          "example": "商店街をぶらぶら歩きました。",
+          "exampleChinese": "在商店街隨意地逛了逛。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：市場攤位購物",
+      "scene": "在黑門市場的海鮮攤位前，旅客想買海鮮串燒。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、この串焼きを一つください。",
+          "chinese": "不好意思，請給我一串這個串燒。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、一つですね。三百円です。",
+          "chinese": "好的，一串對吧。三百日圓。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "美味しそうですね。これは何の魚ですか？",
+          "chinese": "看起來好好吃。這是什麼魚？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ホタテですよ。今朝獲れたばかりで、とても新鮮です。",
+          "chinese": "是扇貝喔。今天早上剛捕的，非常新鮮。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "じゃあ、ホタテも一つお願いします。",
+          "chinese": "那請再給我一個扇貝的。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ありがとうございます！合わせて八百円です。",
+          "chinese": "謝謝！一共八百日圓。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：試吃與推薦",
+      "scene": "在錦市場的漬物店前，旅客向店員詢問試吃。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、この漬物は試食できますか？",
+          "chinese": "不好意思，這個醬菜可以試吃嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、どうぞ！こちらは京都の名物の千枚漬けです。",
+          "chinese": "可以，請！這是京都名產千枚漬。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "わあ、美味しいですね！これが有名ですか？",
+          "chinese": "哇，好好吃！這個很有名嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、錦市場で一番人気がありますよ。お土産にもおすすめです。",
+          "chinese": "是的，在錦市場最受歡迎喔。也很推薦當伴手禮。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "食べ歩きにおすすめのものはありますか？",
+          "chinese": "有沒有推薦邊走邊吃的東西？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "焼きたての練り物が人気ですよ。あちらのお店が有名です。",
+          "chinese": "剛炸好的魚漿製品很受歡迎喔。那邊的店很有名。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "ありがとうございます！行ってみます。",
+          "chinese": "謝謝！我去看看。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～を一つください",
+          "meaning": "請給我一個～",
+          "structure": "名詞 + を + 數量詞 + ください",
+          "examples": [
+            {
+              "japanese": "たこ焼きを一つください。",
+              "chinese": "請給我一份章魚燒。"
+            },
+            {
+              "japanese": "串焼きを二つください。",
+              "chinese": "請給我兩串串燒。"
+            },
+            {
+              "japanese": "この漬物を一つください。",
+              "chinese": "請給我一份這個醬菜。"
+            }
+          ],
+          "note": "在市場或店家購物時最常用的句型。數量詞可以替換：一つ（一個）、二つ（兩個）、三つ（三個）等。串狀食物也可以用「一本（いっぽん）」。"
+        },
+        {
+          "pattern": "～は食べられますか",
+          "meaning": "～可以吃嗎？",
+          "structure": "名詞 + は食べられますか",
+          "examples": [
+            {
+              "japanese": "これは生で食べられますか？",
+              "chinese": "這個可以生吃嗎？"
+            },
+            {
+              "japanese": "この漬物は試食できますか？",
+              "chinese": "這個醬菜可以試吃嗎？"
+            },
+            {
+              "japanese": "ここで食べ歩きはできますか？",
+              "chinese": "這裡可以邊走邊吃嗎？"
+            }
+          ],
+          "note": "「食べられます」是「食べる」的可能形，表示「能夠吃」。詢問能否試吃或某食物是否可食用時非常實用。「できますか」也可以用來詢問是否可以做某事。"
+        },
+        {
+          "pattern": "～が有名です",
+          "meaning": "～很有名",
+          "structure": "名詞 + が有名です",
+          "examples": [
+            {
+              "japanese": "築地市場は海鮮丼が有名です。",
+              "chinese": "築地市場的海鮮丼很有名。"
+            },
+            {
+              "japanese": "黒門市場はふぐが有名です。",
+              "chinese": "黑門市場的河豚很有名。"
+            },
+            {
+              "japanese": "錦市場は漬物が有名です。",
+              "chinese": "錦市場的醃漬物很有名。"
+            }
+          ],
+          "note": "用「が」標示有名的事物，用「は」標示地點作為主題。「～は～が有名です」是介紹某地特色的萬用句型。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小知識：日本市場與食べ歩き禮儀",
+      "content": "<h3>日本市場文化與食べ歩き規則</h3><p>日本的傳統市場不只是購物的地方，更是體驗在地飲食文化的窗口。築地市場（現在的豐洲市場）以新鮮海產聞名，黑門市場被稱為「大阪的廚房」，錦市場則有「京都的廚房」之美譽。</p><p>不過，近年來由於觀光客增多，許多市場對<strong>食べ歩き（邊走邊吃）</strong>制定了新的規則：</p><ul><li><strong>在指定區域食用：</strong>許多店家設有簡易用餐區，請在那裡享用食物，不要邊走邊吃。</li><li><strong>不要邊走邊吃：</strong>有些市場明確禁止在走道上飲食，這樣做可能會妨礙其他人。</li><li><strong>自行處理垃圾：</strong>日本市場通常沒有公共垃圾桶，請將垃圾帶回購買的店家丟棄。</li><li><strong>不要觸碰商品：</strong>想看商品時請詢問店員，不要自己動手拿取。</li></ul><p>遵守這些規則，就能愉快地享受日本市場的美食之旅！</p>",
+      "tips": [
+        "逛市場前先了解該市場的食べ歩き規則，有些市場已經禁止在走道上飲食。",
+        "購買食物後，請在店家指定的區域享用，並將垃圾帶回店家丟棄。",
+        "早上是逛市場的最佳時間，食材最新鮮，人也比較少。"
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "市場",
+          "reading": "いちば",
+          "romaji": "ichiba",
+          "chinese": "市場"
+        },
+        {
+          "japanese": "鮮魚",
+          "reading": "せんぎょ",
+          "romaji": "sengyo",
+          "chinese": "鮮魚"
+        },
+        {
+          "japanese": "試食",
+          "reading": "ししょく",
+          "romaji": "shishoku",
+          "chinese": "試吃"
+        },
+        {
+          "japanese": "食べ歩き",
+          "reading": "たべあるき",
+          "romaji": "tabearuki",
+          "chinese": "邊走邊吃"
+        },
+        {
+          "japanese": "海鮮丼",
+          "reading": "かいせんどん",
+          "romaji": "kaisendon",
+          "chinese": "海鮮丼"
+        },
+        {
+          "japanese": "串焼き",
+          "reading": "くしやき",
+          "romaji": "kushiyaki",
+          "chinese": "串燒"
+        },
+        {
+          "japanese": "漬物",
+          "reading": "つけもの",
+          "romaji": "tsukemono",
+          "chinese": "醃漬物、醬菜"
+        },
+        {
+          "japanese": "新鮮",
+          "reading": "しんせん",
+          "romaji": "shinsen",
+          "chinese": "新鮮"
+        },
+        {
+          "japanese": "名物",
+          "reading": "めいぶつ",
+          "romaji": "meibutsu",
+          "chinese": "名產、特產"
+        },
+        {
+          "japanese": "焼きたて",
+          "reading": "やきたて",
+          "romaji": "yakitate",
+          "chinese": "剛烤好的"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「食べ歩き」的意思是什麼？",
+          "options": ["吃到飽", "邊走邊吃", "外帶", "自助餐"],
+          "correct": 1,
+          "explanation": "「食べ歩き（たべあるき）」是指在市場或商店街一邊走一邊品嚐各種美食的行為。"
+        },
+        {
+          "question": "在市場想買一串串燒，正確的說法是？",
+          "options": ["串焼きが欲しい", "串焼きを一つください", "串焼きを食べます", "串焼きがあります"],
+          "correct": 1,
+          "explanation": "「～を一つください」是在店家購物時請求商品的禮貌說法。"
+        },
+        {
+          "question": "「試食」的意思是什麼？",
+          "options": ["正餐", "試吃", "外帶", "預約"],
+          "correct": 1,
+          "explanation": "「試食（ししょく）」就是試吃的意思，在市場經常可以看到試食的服務。"
+        },
+        {
+          "question": "「築地市場は海鮮丼＿＿有名です」，空格應填入什麼？",
+          "options": ["を", "で", "が", "に"],
+          "correct": 2,
+          "explanation": "「～が有名です」用「が」標示有名的事物。築地市場是以海鮮丼聞名，所以用「海鮮丼が有名です」。"
+        },
+        {
+          "question": "「漬物」是什麼意思？",
+          "options": ["生魚片", "醃漬物、醬菜", "烤肉", "甜點"],
+          "correct": 1,
+          "explanation": "「漬物（つけもの）」是日本的醃漬蔬菜，是日本飲食文化中很重要的一部分。"
+        },
+        {
+          "question": "在日本市場的食べ歩き禮儀中，下列哪項是正確的？",
+          "options": ["可以邊走邊吃任何食物", "垃圾可以丟在路邊", "應在指定區域享用食物", "可以自己拿取商品試吃"],
+          "correct": 2,
+          "explanation": "許多日本市場要求在店家指定的區域享用食物，不要在走道上邊走邊吃。"
+        },
+        {
+          "question": "「名物」的意思是什麼？",
+          "options": ["名人", "名產、特產", "有名的建築", "名牌"],
+          "correct": 1,
+          "explanation": "「名物（めいぶつ）」是指某地的名產或特產，例如大阪的章魚燒、京都的漬物等。"
+        },
+        {
+          "question": "「焼きたて」是什麼意思？",
+          "options": ["烤焦的", "冷凍的", "剛烤好的", "快要烤好的"],
+          "correct": 2,
+          "explanation": "「焼きたて（やきたて）」是「剛烤好的」的意思。「～たて」表示「剛剛做好的」，例如「揚げたて（剛炸好的）」。"
+        }
+      ]
+    }
+  ]
+}

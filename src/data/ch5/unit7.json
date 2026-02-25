@@ -1,0 +1,267 @@
+{
+  "id": "ch5-unit7",
+  "title": "咖啡廳與甜點：來一杯日式下午茶",
+  "intro": "日本的咖啡廳文化獨樹一格，從復古的純喫茶到時尚的連鎖咖啡店，每一家都有獨特的魅力。學會在咖啡廳點飲料、選甜點的日語，享受悠閒的下午茶時光吧！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "カフェ",
+          "reading": "カフェ",
+          "romaji": "kafe",
+          "chinese": "咖啡廳",
+          "example": "駅前のカフェに行きませんか？",
+          "exampleChinese": "要不要去車站前的咖啡廳？"
+        },
+        {
+          "japanese": "コーヒー",
+          "reading": "コーヒー",
+          "romaji": "koohii",
+          "chinese": "咖啡",
+          "example": "ホットコーヒーを一杯ください。",
+          "exampleChinese": "請給我一杯熱咖啡。"
+        },
+        {
+          "japanese": "抹茶ラテ",
+          "reading": "まっちゃラテ",
+          "romaji": "matcha rate",
+          "chinese": "抹茶拿鐵",
+          "example": "抹茶ラテのMサイズをお願いします。",
+          "exampleChinese": "請給我一杯中杯抹茶拿鐵。"
+        },
+        {
+          "japanese": "ケーキ",
+          "reading": "ケーキ",
+          "romaji": "keeki",
+          "chinese": "蛋糕",
+          "example": "ショートケーキはありますか？",
+          "exampleChinese": "有草莓蛋糕嗎？"
+        },
+        {
+          "japanese": "パフェ",
+          "reading": "パフェ",
+          "romaji": "pafe",
+          "chinese": "百匯聖代",
+          "example": "季節限定のパフェをください。",
+          "exampleChinese": "請給我季節限定的百匯聖代。"
+        },
+        {
+          "japanese": "モーニング",
+          "reading": "モーニング",
+          "romaji": "mooningu",
+          "chinese": "早餐套餐（咖啡廳特有）",
+          "example": "モーニングセットはまだやっていますか？",
+          "exampleChinese": "早餐套餐還有供應嗎？"
+        },
+        {
+          "japanese": "ブレンド",
+          "reading": "ブレンド",
+          "romaji": "burendo",
+          "chinese": "綜合咖啡",
+          "example": "ブレンドコーヒーをホットでお願いします。",
+          "exampleChinese": "請給我一杯熱的綜合咖啡。"
+        },
+        {
+          "japanese": "紅茶",
+          "reading": "こうちゃ",
+          "romaji": "koucha",
+          "chinese": "紅茶",
+          "example": "紅茶はミルクとレモン、どちらにしますか？",
+          "exampleChinese": "紅茶要加牛奶還是檸檬？"
+        },
+        {
+          "japanese": "砂糖",
+          "reading": "さとう",
+          "romaji": "satou",
+          "chinese": "砂糖",
+          "example": "砂糖とミルクはいりますか？",
+          "exampleChinese": "需要砂糖和牛奶嗎？"
+        },
+        {
+          "japanese": "甘さ控えめ",
+          "reading": "あまさひかえめ",
+          "romaji": "amasa hikaeme",
+          "chinese": "少糖；甜度減低",
+          "example": "甘さ控えめにできますか？",
+          "exampleChinese": "可以做成少糖的嗎？"
+        },
+        {
+          "japanese": "テイクアウト",
+          "reading": "テイクアウト",
+          "romaji": "teikuauto",
+          "chinese": "外帶",
+          "example": "テイクアウトでお願いします。",
+          "exampleChinese": "我要外帶，麻煩了。"
+        },
+        {
+          "japanese": "店内",
+          "reading": "てんない",
+          "romaji": "tennai",
+          "chinese": "內用",
+          "example": "店内でお召し上がりですか？",
+          "exampleChinese": "要在店內用餐嗎？"
+        },
+        {
+          "japanese": "ワッフル",
+          "reading": "ワッフル",
+          "romaji": "waffuru",
+          "chinese": "鬆餅",
+          "example": "ワッフルにホイップクリームを追加できますか？",
+          "exampleChinese": "鬆餅可以加鮮奶油嗎？"
+        },
+        {
+          "japanese": "セット",
+          "reading": "セット",
+          "romaji": "setto",
+          "chinese": "套餐；組合",
+          "example": "ケーキセットにすると、百円引きです。",
+          "exampleChinese": "選蛋糕套餐的話，可以折一百日圓。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：在咖啡廳點飲料",
+      "scene": "走進一家咖啡廳，點飲料和甜點，享受悠閒的下午時光。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ。店内でお召し上がりですか？テイクアウトですか？", "chinese": "歡迎光臨。請問要內用還是外帶？" },
+        { "speaker": "A", "japanese": "店内でお願いします。", "chinese": "內用，麻煩了。" },
+        { "speaker": "店員", "japanese": "ご注文はお決まりですか？", "chinese": "請問決定好要點什麼了嗎？" },
+        { "speaker": "A", "japanese": "抹茶ラテのMサイズをお願いします。ホットで。", "chinese": "請給我中杯抹茶拿鐵，要熱的。" },
+        { "speaker": "店員", "japanese": "抹茶ラテのMサイズ、ホットですね。甘さはどうしますか？", "chinese": "中杯抹茶拿鐵，熱的。請問甜度呢？" },
+        { "speaker": "A", "japanese": "甘さ控えめでお願いします。", "chinese": "請幫我做少糖的。" },
+        { "speaker": "店員", "japanese": "かしこまりました。ケーキセットにしますか？百円引きになります。", "chinese": "好的。要加蛋糕套餐嗎？可以折一百日圓喔。" },
+        { "speaker": "A", "japanese": "じゃ、ケーキセットにします。チーズケーキをお願いします。", "chinese": "那就選蛋糕套餐。請給我起司蛋糕。" },
+        { "speaker": "店員", "japanese": "合計で六百八十円になります。", "chinese": "總共是六百八十日圓。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：詢問甜點菜單",
+      "scene": "和朋友在咖啡廳聊天，詢問甜點種類並追加點餐。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、デザートメニューを見せてもらえますか？", "chinese": "不好意思，可以讓我看一下甜點菜單嗎？" },
+        { "speaker": "店員", "japanese": "はい、こちらです。季節限定の苺パフェが人気ですよ。", "chinese": "好的，在這裡。季節限定的草莓百匯很受歡迎喔。" },
+        { "speaker": "A", "japanese": "おいしそう！それにします。", "chinese": "看起來好好吃！我要那個。" },
+        { "speaker": "B", "japanese": "私はワッフルにします。ホイップクリームは追加できますか？", "chinese": "我要鬆餅。可以加鮮奶油嗎？" },
+        { "speaker": "店員", "japanese": "はい、プラス五十円で追加できます。", "chinese": "可以的，加五十日圓就可以追加。" },
+        { "speaker": "B", "japanese": "じゃ、お願いします。あと、紅茶もお願いします。ミルクで。", "chinese": "那就麻煩了。還有，也要一杯紅茶，加牛奶的。" },
+        { "speaker": "店員", "japanese": "紅茶のミルクですね。砂糖はお付けしますか？", "chinese": "奶茶對吧。需要附砂糖嗎？" },
+        { "speaker": "B", "japanese": "いいえ、砂糖はいらないです。", "chinese": "不用，不需要砂糖。" },
+        { "speaker": "店員", "japanese": "かしこまりました。少々お待ちください。", "chinese": "好的，請稍等。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～のMサイズ",
+          "meaning": "～的M號（中杯）",
+          "structure": "飲料名 + の + サイズ（S/M/L）",
+          "examples": [
+            { "japanese": "抹茶ラテのMサイズをお願いします。", "chinese": "請給我中杯抹茶拿鐵。" },
+            { "japanese": "アイスコーヒーのLサイズにします。", "chinese": "我要大杯冰咖啡。" },
+            { "japanese": "カフェラテのSサイズをください。", "chinese": "請給我小杯拿鐵。" }
+          ],
+          "note": "日本的咖啡廳通常使用S（small）、M（medium）、L（large）來區分杯型大小。有些店也用「ショート」「トール」「グランデ」等說法。"
+        },
+        {
+          "pattern": "ホットで／アイスで",
+          "meaning": "要熱的／要冰的",
+          "structure": "ホット／アイス + で",
+          "examples": [
+            { "japanese": "コーヒーはホットでお願いします。", "chinese": "咖啡請給我熱的。" },
+            { "japanese": "紅茶はアイスでお願いします。", "chinese": "紅茶請給我冰的。" },
+            { "japanese": "抹茶ラテ、ホットで。", "chinese": "抹茶拿鐵，要熱的。" }
+          ],
+          "note": "「で」表示方式，「ホットで」就是「要熱的」。點飲料時，店員通常會問「ホットとアイス、どちらにしますか？」（要熱的還是冰的？）。"
+        },
+        {
+          "pattern": "～セットにする",
+          "meaning": "選擇～套餐",
+          "structure": "名詞 + セットにする",
+          "examples": [
+            { "japanese": "ケーキセットにします。", "chinese": "我選蛋糕套餐。" },
+            { "japanese": "モーニングセットにしますか？", "chinese": "要選早餐套餐嗎？" },
+            { "japanese": "ドリンクセットにすると、お得ですよ。", "chinese": "選飲料套餐的話，比較划算喔。" }
+          ],
+          "note": "「セット」是套餐的意思。日本咖啡廳常有「ケーキセット」（蛋糕+飲料）或「モーニングセット」（早餐套餐），通常比單點更便宜。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "カフェ", "reading": "カフェ", "romaji": "kafe", "chinese": "咖啡廳" },
+        { "japanese": "コーヒー", "reading": "コーヒー", "romaji": "koohii", "chinese": "咖啡" },
+        { "japanese": "抹茶ラテ", "reading": "まっちゃラテ", "romaji": "matcha rate", "chinese": "抹茶拿鐵" },
+        { "japanese": "ケーキ", "reading": "ケーキ", "romaji": "keeki", "chinese": "蛋糕" },
+        { "japanese": "パフェ", "reading": "パフェ", "romaji": "pafe", "chinese": "百匯聖代" },
+        { "japanese": "モーニング", "reading": "モーニング", "romaji": "mooningu", "chinese": "早餐套餐" },
+        { "japanese": "ブレンド", "reading": "ブレンド", "romaji": "burendo", "chinese": "綜合咖啡" },
+        { "japanese": "甘さ控えめ", "reading": "あまさひかえめ", "romaji": "amasa hikaeme", "chinese": "少糖" },
+        { "japanese": "紅茶", "reading": "こうちゃ", "romaji": "koucha", "chinese": "紅茶" },
+        { "japanese": "セット", "reading": "セット", "romaji": "setto", "chinese": "套餐" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "在日本咖啡廳，店員問「店内でお召し上がりですか？」，你想內用應該怎麼回答？",
+          "options": ["テイクアウトでお願いします", "店内でお願いします", "持ち帰りです", "外で飲みます"],
+          "correct": 1,
+          "explanation": "「店内で」表示在店內用餐，「お願いします」是禮貌的請求。回答「店内でお願いします」就是「內用，麻煩了」。"
+        },
+        {
+          "question": "想點一杯中杯的冰抹茶拿鐵，應該怎麼說？",
+          "options": ["抹茶ラテのLサイズ、ホットで", "抹茶ラテのMサイズ、アイスで", "抹茶ラテのSサイズ、アイスで", "抹茶ラテのMサイズ、ホットで"],
+          "correct": 1,
+          "explanation": "中杯是M サイズ，冰的是アイス。所以正確說法是「抹茶ラテのMサイズ、アイスで」。"
+        },
+        {
+          "question": "「甘さ控えめ」是什麼意思？",
+          "options": ["加糖", "無糖", "少糖", "正常甜度"],
+          "correct": 2,
+          "explanation": "「甘さ」是甜度，「控えめ」是減少、克制的意思。「甘さ控えめ」就是「少糖」。"
+        },
+        {
+          "question": "「ケーキセットにすると、百円引きです」是什麼意思？",
+          "options": ["蛋糕要加一百日圓", "蛋糕套餐可以折一百日圓", "蛋糕一百日圓", "套餐只要一百日圓"],
+          "correct": 1,
+          "explanation": "「～円引き」是「折扣～日圓」的意思。整句表示「選蛋糕套餐的話，可以折一百日圓」。"
+        },
+        {
+          "question": "日本咖啡廳的「モーニング」是什麼？",
+          "options": ["午餐套餐", "早餐套餐", "下午茶套餐", "宵夜套餐"],
+          "correct": 1,
+          "explanation": "「モーニング」源自英文morning，是日本咖啡廳特有的早餐套餐服務，通常在開店到上午10或11點供應。"
+        },
+        {
+          "question": "「ブレンドコーヒー」是什麼意思？",
+          "options": ["黑咖啡", "綜合咖啡", "冰咖啡", "拿鐵"],
+          "correct": 1,
+          "explanation": "「ブレンド」來自英文blend，「ブレンドコーヒー」是用多種咖啡豆混合沖泡的「綜合咖啡」。"
+        },
+        {
+          "question": "想請店員不要加砂糖，應該怎麼說？",
+          "options": ["砂糖をください", "砂糖はいりません", "砂糖が好きです", "砂糖を追加してください"],
+          "correct": 1,
+          "explanation": "「いりません」是「不需要」的意思。「砂糖はいりません」就是「不需要砂糖」。"
+        },
+        {
+          "question": "以下哪個是「百匯聖代」的日文？",
+          "options": ["ワッフル", "ケーキ", "パフェ", "プリン"],
+          "correct": 2,
+          "explanation": "「パフェ」來自法文parfait，是日本咖啡廳常見的精緻甜點「百匯聖代」。"
+        }
+      ]
+    }
+  ]
+}

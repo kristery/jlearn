@@ -1,0 +1,411 @@
+{
+  "id": "ch8-unit9",
+  "title": "旅程結束：感謝、道別與保持聯繫",
+  "intro": "旅程的最後一站，總是充滿不捨和感謝。不管是和旅館的工作人員道別、和旅途中認識的新朋友交換聯絡方式，還是表達對這趟旅程的感動，都需要用到恰當的日語表達。這一課我們要學習告別和保持聯繫的實用日語，讓每一段旅程都有美好的結尾！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "お世話になりました",
+          "reading": "おせわになりました",
+          "romaji": "osewa ni narimashita",
+          "chinese": "承蒙您的照顧了",
+          "example": "短い間でしたが、お世話になりました。",
+          "exampleChinese": "雖然時間很短，但承蒙您的照顧了。"
+        },
+        {
+          "japanese": "また会いましょう",
+          "reading": "またあいましょう",
+          "romaji": "mata aimashou",
+          "chinese": "下次再見吧",
+          "example": "きっとまた会いましょう！",
+          "exampleChinese": "一定要再見面！"
+        },
+        {
+          "japanese": "連絡先",
+          "reading": "れんらくさき",
+          "romaji": "renrakusaki",
+          "chinese": "聯絡方式",
+          "example": "連絡先を交換しませんか？",
+          "exampleChinese": "要不要交換聯絡方式？"
+        },
+        {
+          "japanese": "SNS",
+          "reading": "エスエヌエス",
+          "romaji": "esu enu esu",
+          "chinese": "社群媒體",
+          "example": "SNSのアカウントを教えてください。",
+          "exampleChinese": "請告訴我您的社群媒體帳號。"
+        },
+        {
+          "japanese": "思い出",
+          "reading": "おもいで",
+          "romaji": "omoide",
+          "chinese": "回憶",
+          "example": "素敵な思い出ができました。",
+          "exampleChinese": "留下了美好的回憶。"
+        },
+        {
+          "japanese": "写真",
+          "reading": "しゃしん",
+          "romaji": "shashin",
+          "chinese": "照片",
+          "example": "写真を送りますね。",
+          "exampleChinese": "我會把照片傳給你喔。"
+        },
+        {
+          "japanese": "楽しかった",
+          "reading": "たのしかった",
+          "romaji": "tanoshikatta",
+          "chinese": "很開心（過去式）",
+          "example": "本当に楽しかったです。",
+          "exampleChinese": "真的很開心。"
+        },
+        {
+          "japanese": "お元気で",
+          "reading": "おげんきで",
+          "romaji": "ogenki de",
+          "chinese": "請保重",
+          "example": "お元気で。また会える日を楽しみにしています。",
+          "exampleChinese": "請保重。期待再相見的日子。"
+        },
+        {
+          "japanese": "名残惜しい",
+          "reading": "なごりおしい",
+          "romaji": "nagori oshii",
+          "chinese": "依依不捨",
+          "example": "帰るのが名残惜しいです。",
+          "exampleChinese": "捨不得回去。"
+        },
+        {
+          "japanese": "感動",
+          "reading": "かんどう",
+          "romaji": "kandou",
+          "chinese": "感動",
+          "example": "この旅行で感動しました。",
+          "exampleChinese": "這趟旅行讓我很感動。"
+        },
+        {
+          "japanese": "メールアドレス",
+          "reading": "メールアドレス",
+          "romaji": "meeru adoresu",
+          "chinese": "電子郵件地址",
+          "example": "メールアドレスを教えてもらえますか？",
+          "exampleChinese": "可以告訴我您的電子郵件地址嗎？"
+        },
+        {
+          "japanese": "また来ます",
+          "reading": "またきます",
+          "romaji": "mata kimasu",
+          "chinese": "我會再來的",
+          "example": "絶対にまた来ます！",
+          "exampleChinese": "我一定會再來的！"
+        },
+        {
+          "japanese": "見送り",
+          "reading": "みおくり",
+          "romaji": "miokuri",
+          "chinese": "送別、送行",
+          "example": "見送りに来てくれてありがとう。",
+          "exampleChinese": "謝謝你來送我。"
+        },
+        {
+          "japanese": "約束",
+          "reading": "やくそく",
+          "romaji": "yakusoku",
+          "chinese": "約定",
+          "example": "また会う約束をしました。",
+          "exampleChinese": "約好了要再見面。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：向旅館工作人員道別",
+      "scene": "退房時，向旅館櫃台工作人員表達感謝和道別。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "チェックアウトをお願いします。三日間、お世話になりました。",
+          "chinese": "我要退房。三天來承蒙您的照顧了。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "こちらこそ、ご利用ありがとうございました。ご滞在はいかがでしたか？",
+          "chinese": "我們才要謝謝您的光臨。住宿感覺如何？"
+        },
+        {
+          "speaker": "A",
+          "japanese": "とても素晴らしかったです。お部屋も温泉も最高でした。",
+          "chinese": "非常棒。房間和溫泉都太好了。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "嬉しいお言葉、ありがとうございます。",
+          "chinese": "謝謝您的讚美。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "スタッフの皆さんがとても親切でした。本当にありがとうございました。",
+          "chinese": "工作人員大家都非常親切。真的非常感謝。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ぜひまたお越しください。お待ちしております。",
+          "chinese": "歡迎再來。我們恭候您的光臨。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "はい、絶対にまた来ます！お元気で。",
+          "chinese": "好的，我一定會再來的！請保重。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：和新朋友交換聯絡方式",
+      "scene": "旅途中認識的朋友，在分別前交換聯絡方式。",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "もう帰る時間ですね。名残惜しいです。",
+          "chinese": "要回去的時間到了呢。好捨不得。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "本当ですね。一緒に旅行できて、とても楽しかったです。",
+          "chinese": "真的呢。能一起旅行，真的很開心。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "連絡先を交換しませんか？SNSでつながりましょう。",
+          "chinese": "要不要交換聯絡方式？在社群媒體上保持聯繫吧。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "もちろん！これが私のアカウントです。",
+          "chinese": "當然！這是我的帳號。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "ありがとう！旅行の写真を送りますね。",
+          "chinese": "謝謝！我會把旅行的照片傳給你喔。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "嬉しい！素敵な思い出がたくさんできましたね。",
+          "chinese": "好開心！留下了好多美好的回憶呢。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "今度は台湾に遊びに来てね。案内するよ。",
+          "chinese": "下次來台灣玩吧。我帶你逛。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ありがとう！楽しみにしてるよ。また会いましょう！",
+          "chinese": "謝謝！我很期待喔。下次再見吧！"
+        },
+        {
+          "speaker": "A",
+          "japanese": "いろいろ案内してくれてありがとう。お元気で！",
+          "chinese": "謝謝你帶我到處逛。請保重！"
+        },
+        {
+          "speaker": "B",
+          "japanese": "こちらこそ！また会える日を楽しみにしています。気をつけて帰ってね。",
+          "chinese": "我才要謝謝你！期待再相見的日子。路上小心喔。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～てくれてありがとう",
+          "meaning": "謝謝你（為我）做～",
+          "structure": "動詞て形 + くれてありがとう",
+          "examples": [
+            {
+              "japanese": "案内してくれてありがとう。",
+              "chinese": "謝謝你帶我到處逛。"
+            },
+            {
+              "japanese": "見送りに来てくれてありがとう。",
+              "chinese": "謝謝你來送我。"
+            },
+            {
+              "japanese": "写真を撮ってくれてありがとう。",
+              "chinese": "謝謝你幫我拍照。"
+            }
+          ],
+          "note": "「～てくれて」表示對方為自己做了某事，後面接「ありがとう」表達感謝。是日常對話中非常自然的感謝表達。更禮貌的說法是「～ていただいてありがとうございます」。"
+        },
+        {
+          "pattern": "また～しましょう",
+          "meaning": "下次再一起～吧",
+          "structure": "また + 動詞ます形去掉ます + ましょう",
+          "examples": [
+            {
+              "japanese": "また会いましょう。",
+              "chinese": "下次再見吧。"
+            },
+            {
+              "japanese": "また一緒に旅行しましょう。",
+              "chinese": "下次再一起旅行吧。"
+            },
+            {
+              "japanese": "また日本に来たら、一緒に食べに行きましょう。",
+              "chinese": "下次來日本的話，一起去吃東西吧。"
+            }
+          ],
+          "note": "「また」是「再、又」的意思，「～ましょう」是邀約的句型。道別時用來約定下次再見面或再一起做某事，是非常溫暖的告別方式。"
+        },
+        {
+          "pattern": "～を楽しみにしています",
+          "meaning": "（我）很期待～",
+          "structure": "名詞 + を楽しみにしています",
+          "examples": [
+            {
+              "japanese": "また会える日を楽しみにしています。",
+              "chinese": "期待再相見的日子。"
+            },
+            {
+              "japanese": "次の旅行を楽しみにしています。",
+              "chinese": "很期待下一趟旅行。"
+            },
+            {
+              "japanese": "台湾に行くのを楽しみにしています。",
+              "chinese": "很期待去台灣。"
+            }
+          ],
+          "note": "「楽しみにしている」表示持續期待某事。是道別時表達希望再見面的美好方式。也可以在收到邀請後用來表達自己很期待。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "お世話になりました",
+          "reading": "おせわになりました",
+          "romaji": "osewa ni narimashita",
+          "chinese": "承蒙您的照顧了"
+        },
+        {
+          "japanese": "また会いましょう",
+          "reading": "またあいましょう",
+          "romaji": "mata aimashou",
+          "chinese": "下次再見吧"
+        },
+        {
+          "japanese": "連絡先",
+          "reading": "れんらくさき",
+          "romaji": "renrakusaki",
+          "chinese": "聯絡方式"
+        },
+        {
+          "japanese": "思い出",
+          "reading": "おもいで",
+          "romaji": "omoide",
+          "chinese": "回憶"
+        },
+        {
+          "japanese": "楽しかった",
+          "reading": "たのしかった",
+          "romaji": "tanoshikatta",
+          "chinese": "很開心（過去式）"
+        },
+        {
+          "japanese": "お元気で",
+          "reading": "おげんきで",
+          "romaji": "ogenki de",
+          "chinese": "請保重"
+        },
+        {
+          "japanese": "名残惜しい",
+          "reading": "なごりおしい",
+          "romaji": "nagori oshii",
+          "chinese": "依依不捨"
+        },
+        {
+          "japanese": "見送り",
+          "reading": "みおくり",
+          "romaji": "miokuri",
+          "chinese": "送別、送行"
+        },
+        {
+          "japanese": "約束",
+          "reading": "やくそく",
+          "romaji": "yakusoku",
+          "chinese": "約定"
+        },
+        {
+          "japanese": "感動",
+          "reading": "かんどう",
+          "romaji": "kandou",
+          "chinese": "感動"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「お世話になりました」是什麼意思？",
+          "options": ["你好", "承蒙您的照顧了", "對不起", "再見"],
+          "correct": 1,
+          "explanation": "「お世話になりました」是感謝對方照顧的正式說法，在離開旅館或結束合作時常用。"
+        },
+        {
+          "question": "想和新朋友交換聯絡方式，正確的說法是？",
+          "options": ["連絡先を見せてください", "連絡先を交換しませんか", "連絡先がありますか", "連絡先を買いましょう"],
+          "correct": 1,
+          "explanation": "「連絡先を交換しませんか」是「要不要交換聯絡方式」的意思，用「～しませんか」來提議。"
+        },
+        {
+          "question": "「名残惜しい」的意思是什麼？",
+          "options": ["很開心", "很生氣", "依依不捨", "很無聊"],
+          "correct": 2,
+          "explanation": "「名残惜しい（なごりおしい）」是指對即將分離感到不捨的心情。"
+        },
+        {
+          "question": "「案内してくれてありがとう」是什麼意思？",
+          "options": ["請帶我去", "謝謝你帶我到處逛", "我來帶路", "你要帶路嗎"],
+          "correct": 1,
+          "explanation": "「～てくれてありがとう」是感謝對方為自己做某事的表達，「案内して」是「帶路、導覽」的意思。"
+        },
+        {
+          "question": "「また会える日を楽しみにしています」是什麼意思？",
+          "options": ["不想再見到你", "期待再相見的日子", "今天很開心", "明天見"],
+          "correct": 1,
+          "explanation": "「～を楽しみにしています」是「期待～」的意思，整句表達對再次見面的期待。"
+        },
+        {
+          "question": "「お元気で」是什麼場合使用的？",
+          "options": ["初次見面時", "用餐前", "道別時祝對方保重", "生日祝福"],
+          "correct": 2,
+          "explanation": "「お元気で」是道別時使用的，意思是「請保重」，祝福對方身體健康。"
+        },
+        {
+          "question": "「思い出」的意思是什麼？",
+          "options": ["想法", "回憶", "未來的計畫", "夢想"],
+          "correct": 1,
+          "explanation": "「思い出（おもいで）」是「回憶」的意思，旅行結束時常用來描述旅途中留下的美好記憶。"
+        },
+        {
+          "question": "在日本退房時，對旅館工作人員說什麼比較恰當？",
+          "options": ["さようなら", "お世話になりました", "また来るよ", "バイバイ"],
+          "correct": 1,
+          "explanation": "「お世話になりました」是最恰當的表達，既表達感謝又不失禮貌。「さようなら」較少在這種場合使用。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "ch5-unit6",
+  "title": "居酒屋完全攻略：乾杯、點餐與社交",
+  "intro": "居酒屋是日本獨特的社交場所，不只是喝酒吃飯，更是同事朋友之間增進感情的重要空間。從進門的「お通し」到最後的「割り勘」，讓我們一起學會在居酒屋暢行無阻的日語吧！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "居酒屋",
+          "reading": "いざかや",
+          "romaji": "izakaya",
+          "chinese": "居酒屋",
+          "example": "今日は居酒屋に行きましょう。",
+          "exampleChinese": "今天去居酒屋吧。"
+        },
+        {
+          "japanese": "乾杯",
+          "reading": "かんぱい",
+          "romaji": "kanpai",
+          "chinese": "乾杯",
+          "example": "みんなで乾杯しましょう！",
+          "exampleChinese": "大家一起乾杯吧！"
+        },
+        {
+          "japanese": "飲み放題",
+          "reading": "のみほうだい",
+          "romaji": "nomihoudai",
+          "chinese": "暢飲（喝到飽）",
+          "example": "飲み放題は二時間で三千円です。",
+          "exampleChinese": "暢飲方案是兩小時三千日圓。"
+        },
+        {
+          "japanese": "食べ放題",
+          "reading": "たべほうだい",
+          "romaji": "tabehoudai",
+          "chinese": "吃到飽",
+          "example": "食べ放題のコースにしましょう。",
+          "exampleChinese": "我們選吃到飽的方案吧。"
+        },
+        {
+          "japanese": "お通し",
+          "reading": "おとおし",
+          "romaji": "otooshi",
+          "chinese": "開胃小菜（座位費附帶的小菜）",
+          "example": "お通しは枝豆です。",
+          "exampleChinese": "開胃小菜是毛豆。"
+        },
+        {
+          "japanese": "焼き鳥",
+          "reading": "やきとり",
+          "romaji": "yakitori",
+          "chinese": "烤雞肉串",
+          "example": "焼き鳥を五本ください。",
+          "exampleChinese": "請給我五串烤雞肉串。"
+        },
+        {
+          "japanese": "枝豆",
+          "reading": "えだまめ",
+          "romaji": "edamame",
+          "chinese": "毛豆",
+          "example": "とりあえず枝豆をお願いします。",
+          "exampleChinese": "先來一份毛豆吧。"
+        },
+        {
+          "japanese": "生ビール",
+          "reading": "なまビール",
+          "romaji": "nama biiru",
+          "chinese": "生啤酒",
+          "example": "生ビールを二つください。",
+          "exampleChinese": "請給我兩杯生啤酒。"
+        },
+        {
+          "japanese": "割り勘",
+          "reading": "わりかん",
+          "romaji": "warikan",
+          "chinese": "平均分攤（AA制）",
+          "example": "今日は割り勘にしましょう。",
+          "exampleChinese": "今天我們各付各的吧。"
+        },
+        {
+          "japanese": "おつまみ",
+          "reading": "おつまみ",
+          "romaji": "otsumami",
+          "chinese": "下酒菜",
+          "example": "おつまみは何がありますか？",
+          "exampleChinese": "有什麼下酒菜呢？"
+        },
+        {
+          "japanese": "日本酒",
+          "reading": "にほんしゅ",
+          "romaji": "nihonshu",
+          "chinese": "日本酒；清酒",
+          "example": "日本酒は冷やと熱燗、どちらにしますか？",
+          "exampleChinese": "日本酒要冷的還是熱的？"
+        },
+        {
+          "japanese": "サワー",
+          "reading": "サワー",
+          "romaji": "sawaa",
+          "chinese": "沙瓦（碳酸調酒）",
+          "example": "レモンサワーをお願いします。",
+          "exampleChinese": "請給我一杯檸檬沙瓦。"
+        },
+        {
+          "japanese": "ハイボール",
+          "reading": "ハイボール",
+          "romaji": "haibooru",
+          "chinese": "嗨棒（威士忌蘇打）",
+          "example": "ハイボールをもう一杯ください。",
+          "exampleChinese": "請再給我一杯嗨棒。"
+        },
+        {
+          "japanese": "とりあえず",
+          "reading": "とりあえず",
+          "romaji": "toriaezu",
+          "chinese": "先；暫且",
+          "example": "とりあえず、生ビールで！",
+          "exampleChinese": "先來生啤酒吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：進入居酒屋與點餐",
+      "scene": "下班後和同事一起走進居酒屋，從入座到點第一輪飲料和小菜。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ！何名様ですか？", "chinese": "歡迎光臨！請問幾位？" },
+        { "speaker": "A", "japanese": "四名です。飲み放題のコースはありますか？", "chinese": "四位。請問有暢飲方案嗎？" },
+        { "speaker": "店員", "japanese": "はい、二時間飲み放題で三千円のコースがございます。", "chinese": "有的，我們有兩小時暢飲三千日圓的方案。" },
+        { "speaker": "A", "japanese": "じゃ、それにします。", "chinese": "那就選那個吧。" },
+        { "speaker": "店員", "japanese": "かしこまりました。こちらへどうぞ。お通しは枝豆になります。", "chinese": "好的。這邊請。開胃小菜是毛豆。" },
+        { "speaker": "A", "japanese": "ありがとうございます。とりあえず、生ビールを四つお願いします。", "chinese": "謝謝。先來四杯生啤酒。" },
+        { "speaker": "店員", "japanese": "かしこまりました。お食事のご注文はお決まりですか？", "chinese": "好的。餐點決定好了嗎？" },
+        { "speaker": "A", "japanese": "焼き鳥の盛り合わせと、枝豆をもう一つお願いします。", "chinese": "請給我烤雞串拼盤，再加一份毛豆。" },
+        { "speaker": "B", "japanese": "あと、唐揚げもお願いします。", "chinese": "還有，也要一份炸雞。" },
+        { "speaker": "店員", "japanese": "はい、少々お待ちください。", "chinese": "好的，請稍等。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：和朋友喝酒聊天",
+      "scene": "朋友們在居酒屋續攤，追加點餐並準備結帳。",
+      "lines": [
+        { "speaker": "A", "japanese": "乾杯！お疲れ様でした！", "chinese": "乾杯！辛苦了！" },
+        { "speaker": "B", "japanese": "乾杯！今日も一日頑張ったね。", "chinese": "乾杯！今天也努力了一整天呢。" },
+        { "speaker": "A", "japanese": "もう一杯飲む？次は何にする？", "chinese": "再喝一杯嗎？下一杯要喝什麼？" },
+        { "speaker": "B", "japanese": "じゃ、レモンサワーにする。", "chinese": "那我要檸檬沙瓦。" },
+        { "speaker": "A", "japanese": "すみません、レモンサワーを一つと、ハイボールを一つお願いします。", "chinese": "不好意思，請給我一杯檸檬沙瓦和一杯嗨棒。" },
+        { "speaker": "店員", "japanese": "かしこまりました。", "chinese": "好的。" },
+        { "speaker": "B", "japanese": "おつまみも追加する？", "chinese": "也要追加下酒菜嗎？" },
+        { "speaker": "A", "japanese": "うん、ポテトフライでお願いします。", "chinese": "嗯，來一份薯條吧。" },
+        { "speaker": "B", "japanese": "そろそろ帰ろうか。お会計は割り勘でいい？", "chinese": "差不多該走了吧。帳單各付各的可以嗎？" },
+        { "speaker": "A", "japanese": "うん、割り勘にしよう。すみません、お会計お願いします。", "chinese": "好，就AA制吧。不好意思，請幫我們結帳。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～にする",
+          "meaning": "決定要～；選擇～",
+          "structure": "名詞 + にする",
+          "examples": [
+            { "japanese": "飲み放題のコースにします。", "chinese": "我選暢飲方案。" },
+            { "japanese": "レモンサワーにする。", "chinese": "我要檸檬沙瓦。" },
+            { "japanese": "割り勘にしよう。", "chinese": "就AA制吧。" }
+          ],
+          "note": "「～にする」用於從多個選項中做出選擇。口語中常省略「ます」，直接說「～にする」。加上「よう」變成邀約語氣：「～にしよう」（就選～吧）。"
+        },
+        {
+          "pattern": "～をもう一つ",
+          "meaning": "再來一個～",
+          "structure": "名詞 + をもう + 數量詞",
+          "examples": [
+            { "japanese": "枝豆をもう一つお願いします。", "chinese": "請再來一份毛豆。" },
+            { "japanese": "生ビールをもう一杯ください。", "chinese": "請再給我一杯生啤酒。" },
+            { "japanese": "焼き鳥をもう二本追加してください。", "chinese": "請再追加兩串烤雞串。" }
+          ],
+          "note": "「もう」是「再」的意思，後面接數量詞表示「再來○個」。根據東西不同，數量詞也會不同：杯子用「杯（はい）」、串用「本（ほん）」、盤子用「つ」。"
+        },
+        {
+          "pattern": "～でお願いします",
+          "meaning": "請用～（方式）",
+          "structure": "名詞 + でお願いします",
+          "examples": [
+            { "japanese": "割り勘でお願いします。", "chinese": "請幫我們各付各的。" },
+            { "japanese": "カードでお願いします。", "chinese": "請用信用卡付款。" },
+            { "japanese": "飲み放題でお願いします。", "chinese": "請幫我們選暢飲方案。" }
+          ],
+          "note": "「で」在這裡表示方式或手段，「お願いします」是「拜託了」的意思。整句用於禮貌地提出要求，指定某種方式。"
+        },
+        {
+          "pattern": "とりあえず～",
+          "meaning": "先來～；暫且～",
+          "structure": "とりあえず + 句子",
+          "examples": [
+            { "japanese": "とりあえず、生ビールで！", "chinese": "先來生啤酒！" },
+            { "japanese": "とりあえず、枝豆を注文しよう。", "chinese": "先點毛豆吧。" },
+            { "japanese": "とりあえず、メニューを見ましょう。", "chinese": "先看看菜單吧。" }
+          ],
+          "note": "「とりあえず」是居酒屋的經典開場白。日本人到居酒屋的第一句話通常就是「とりあえず、生（なま）で！」（先來杯生啤！），已經成為一種文化。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小知識",
+      "content": "【居酒屋文化入門】\n\n1. **お通し（開胃小菜）**：在居酒屋坐下後，店家會自動送上一道小菜，這就是「お通し」。它其實等同於座位費（通常300～500日圓），是不能拒絕的。內容由店家決定，客人無法選擇。\n\n2. **飲み放題（暢飲制度）**：大部分居酒屋都提供限時暢飲方案，通常是90分鐘或120分鐘。最後點餐時間（ラストオーダー）通常在結束前30分鐘。團體聚餐時選擇暢飲方案非常划算。\n\n3. **割り勘文化**：日本人聚餐通常習慣「割り勘」（平均分攤），即使每個人吃喝的量不同。不過，如果是上司請客（おごり），就由上司全額買單。\n\n4. **居酒屋禮儀**：幫別人倒酒是一種禮貌，尤其是對上司或長輩。自己的杯子空了，別人也會主動幫你倒。乾杯時要等所有人的飲料都到了才能開始。"
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "居酒屋", "reading": "いざかや", "romaji": "izakaya", "chinese": "居酒屋" },
+        { "japanese": "乾杯", "reading": "かんぱい", "romaji": "kanpai", "chinese": "乾杯" },
+        { "japanese": "飲み放題", "reading": "のみほうだい", "romaji": "nomihoudai", "chinese": "暢飲（喝到飽）" },
+        { "japanese": "食べ放題", "reading": "たべほうだい", "romaji": "tabehoudai", "chinese": "吃到飽" },
+        { "japanese": "お通し", "reading": "おとおし", "romaji": "otooshi", "chinese": "開胃小菜" },
+        { "japanese": "焼き鳥", "reading": "やきとり", "romaji": "yakitori", "chinese": "烤雞肉串" },
+        { "japanese": "生ビール", "reading": "なまビール", "romaji": "nama biiru", "chinese": "生啤酒" },
+        { "japanese": "割り勘", "reading": "わりかん", "romaji": "warikan", "chinese": "平均分攤（AA制）" },
+        { "japanese": "おつまみ", "reading": "おつまみ", "romaji": "otsumami", "chinese": "下酒菜" },
+        { "japanese": "とりあえず", "reading": "とりあえず", "romaji": "toriaezu", "chinese": "先；暫且" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "在居酒屋坐下後，店家自動送上的小菜叫什麼？",
+          "options": ["おつまみ", "お通し", "枝豆", "おすすめ"],
+          "correct": 1,
+          "explanation": "「お通し」是居酒屋在入座後自動附上的小菜，相當於座位費，不能拒絕。「おつまみ」則是泛指下酒菜。"
+        },
+        {
+          "question": "「とりあえず、生で！」是什麼意思？",
+          "options": ["我不喝酒", "先來杯生啤酒！", "我要熱的", "最後再點"],
+          "correct": 1,
+          "explanation": "「とりあえず」是「先」的意思，「生（なま）」是「生ビール」的簡稱。這是居酒屋的經典開場白。"
+        },
+        {
+          "question": "「飲み放題」是什麼意思？",
+          "options": ["禁止喝酒", "免費試喝", "喝到飽（暢飲）", "限量供應"],
+          "correct": 2,
+          "explanation": "「飲み放題（のみほうだい）」是「喝到飽」的意思，通常有時間限制（如兩小時），在居酒屋團體聚餐時很常見。"
+        },
+        {
+          "question": "想再追加一杯生啤酒，應該怎麼說？",
+          "options": ["生ビールをください", "生ビールをもう一杯ください", "生ビールは終わりです", "生ビールにします"],
+          "correct": 1,
+          "explanation": "「もう一杯（いっぱい）」是「再一杯」的意思。「生ビールをもう一杯ください」就是「請再給我一杯生啤酒」。"
+        },
+        {
+          "question": "「割り勘にしよう」是什麼意思？",
+          "options": ["我請客吧", "各付各的吧", "用信用卡付吧", "下次再付吧"],
+          "correct": 1,
+          "explanation": "「割り勘（わりかん）」是「平均分攤」的意思，「にしよう」是「就這樣決定吧」的邀約語氣。"
+        },
+        {
+          "question": "以下哪個是「下酒菜」的日文？",
+          "options": ["お通し", "おつまみ", "焼き鳥", "サワー"],
+          "correct": 1,
+          "explanation": "「おつまみ」是「下酒菜」的泛稱。「お通し」是店家自動送上的小菜，「焼き鳥」是烤雞串，「サワー」是沙瓦調酒。"
+        },
+        {
+          "question": "想用信用卡結帳，應該怎麼說？",
+          "options": ["カードをください", "カードにします", "カードでお願いします", "カードがあります"],
+          "correct": 2,
+          "explanation": "「～でお願いします」表示「請用～方式」。「カードでお願いします」就是「請用信用卡付款」。"
+        },
+        {
+          "question": "在居酒屋乾杯時，正確的禮儀是？",
+          "options": ["自己的飲料到了就可以先喝", "等所有人的飲料都到了再一起乾杯", "不需要乾杯直接吃東西", "只有第一杯需要等"],
+          "correct": 1,
+          "explanation": "日本的居酒屋禮儀是等所有人的飲料都到齊後，大家一起舉杯喊「乾杯！」再開始喝。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "ch2-unit7",
+  "title": "機場出入境：入境審查、海關、行李提領",
+  "intro": "到達日本的第一關就是機場出入境！從填入境卡、通過入境審查、領取行李到海關檢查，每個環節都可能遇到日語對話。本單元教你從下飛機到走出機場大廳的完整實用日語。",
+  "estimatedTime": "30 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "入国審査",
+          "reading": "にゅうこくしんさ",
+          "romaji": "nyuukokushinsa",
+          "chinese": "入境審查",
+          "example": "入国審査はあちらです。",
+          "exampleChinese": "入境審查在那邊。"
+        },
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupooto",
+          "chinese": "護照",
+          "example": "パスポートを見せてください。",
+          "exampleChinese": "請出示護照。"
+        },
+        {
+          "japanese": "税関",
+          "reading": "ぜいかん",
+          "romaji": "zeikan",
+          "chinese": "海關",
+          "example": "税関で申告してください。",
+          "exampleChinese": "請在海關申報。"
+        },
+        {
+          "japanese": "手荷物",
+          "reading": "てにもつ",
+          "romaji": "tenimotsu",
+          "chinese": "手提行李",
+          "example": "手荷物はこちらでお受け取りください。",
+          "exampleChinese": "手提行李請在這邊領取。"
+        },
+        {
+          "japanese": "申告",
+          "reading": "しんこく",
+          "romaji": "shinkoku",
+          "chinese": "申報",
+          "example": "申告するものはありますか？",
+          "exampleChinese": "有需要申報的東西嗎？"
+        },
+        {
+          "japanese": "入国カード",
+          "reading": "にゅうこくカード",
+          "romaji": "nyuukoku kaado",
+          "chinese": "入境卡",
+          "example": "入国カードを記入してください。",
+          "exampleChinese": "請填寫入境卡。"
+        },
+        {
+          "japanese": "滞在期間",
+          "reading": "たいざいきかん",
+          "romaji": "taizaikikan",
+          "chinese": "停留期間",
+          "example": "滞在期間は五日間です。",
+          "exampleChinese": "停留期間是五天。"
+        },
+        {
+          "japanese": "観光",
+          "reading": "かんこう",
+          "romaji": "kankou",
+          "chinese": "觀光",
+          "example": "目的は観光です。",
+          "exampleChinese": "目的是觀光。"
+        },
+        {
+          "japanese": "ターンテーブル",
+          "reading": "ターンテーブル",
+          "romaji": "taanteeburu",
+          "chinese": "行李轉盤",
+          "example": "ターンテーブルは三番です。",
+          "exampleChinese": "行李轉盤在三號。"
+        },
+        {
+          "japanese": "スーツケース",
+          "reading": "スーツケース",
+          "romaji": "suutsukeesu",
+          "chinese": "行李箱",
+          "example": "スーツケースがまだ来ません。",
+          "exampleChinese": "行李箱還沒出來。"
+        },
+        {
+          "japanese": "到着ロビー",
+          "reading": "とうちゃくロビー",
+          "romaji": "touchaku robii",
+          "chinese": "入境大廳",
+          "example": "到着ロビーで待っています。",
+          "exampleChinese": "在入境大廳等。"
+        },
+        {
+          "japanese": "出発ロビー",
+          "reading": "しゅっぱつロビー",
+          "romaji": "shuppatsu robii",
+          "chinese": "出境大廳",
+          "example": "出発ロビーは二階です。",
+          "exampleChinese": "出境大廳在二樓。"
+        },
+        {
+          "japanese": "両替",
+          "reading": "りょうがえ",
+          "romaji": "ryougae",
+          "chinese": "換匯",
+          "example": "両替はどこでできますか？",
+          "exampleChinese": "在哪裡可以換匯？"
+        },
+        {
+          "japanese": "免税",
+          "reading": "めんぜい",
+          "romaji": "menzei",
+          "chinese": "免稅",
+          "example": "免税店でお土産を買いました。",
+          "exampleChinese": "在免稅店買了伴手禮。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在入境審查窗口接受審查官的詢問。",
+      "lines": [
+        { "speaker": "A", "japanese": "パスポートをお願いします。", "chinese": "請出示護照。" },
+        { "speaker": "B", "japanese": "はい、どうぞ。", "chinese": "好的，請看。" },
+        { "speaker": "A", "japanese": "日本に来た目的は何ですか？", "chinese": "來日本的目的是什麼？" },
+        { "speaker": "B", "japanese": "観光です。", "chinese": "觀光。" },
+        { "speaker": "A", "japanese": "滞在期間はどのくらいですか？", "chinese": "停留多久？" },
+        { "speaker": "B", "japanese": "七日間です。", "chinese": "七天。" },
+        { "speaker": "A", "japanese": "どこに泊まりますか？", "chinese": "住在哪裡？" },
+        { "speaker": "B", "japanese": "東京のホテルに泊まります。", "chinese": "住在東京的飯店。" },
+        { "speaker": "A", "japanese": "帰りのチケットはありますか？", "chinese": "有回程機票嗎？" },
+        { "speaker": "B", "japanese": "はい、あります。これです。", "chinese": "有的。在這裡。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "通過海關和行李提領區。",
+      "lines": [
+        { "speaker": "A", "japanese": "申告するものはありますか？", "chinese": "有需要申報的東西嗎？" },
+        { "speaker": "B", "japanese": "いいえ、ありません。", "chinese": "沒有。" },
+        { "speaker": "A", "japanese": "スーツケースを開けてください。", "chinese": "請打開行李箱。" },
+        { "speaker": "B", "japanese": "はい、どうぞ。", "chinese": "好的，請看。" },
+        { "speaker": "A", "japanese": "大丈夫です。どうぞお通りください。", "chinese": "沒問題。請通過。" },
+        { "speaker": "B", "japanese": "ありがとうございます。すみません、両替はどこですか？", "chinese": "謝謝。不好意思，換匯在哪裡？" },
+        { "speaker": "A", "japanese": "到着ロビーを出て右にあります。", "chinese": "出了入境大廳往右走就有。" },
+        { "speaker": "B", "japanese": "わかりました。ありがとうございます。", "chinese": "我知道了。謝謝。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜の目的は",
+          "meaning": "〜的目的是",
+          "structure": "名詞 + の + 目的（もくてき）+ は + 名詞 + です",
+          "examples": [
+            { "japanese": "旅行の目的は観光です。", "chinese": "旅行的目的是觀光。" },
+            { "japanese": "日本に来た目的は何ですか？", "chinese": "來日本的目的是什麼？" },
+            { "japanese": "今回の目的は友達に会うことです。", "chinese": "這次的目的是和朋友見面。" }
+          ],
+          "note": "入境審查時最常被問到的問題之一。「目的（もくてき）」是「目的」的意思。常見的回答有：観光（觀光）、仕事（工作）、留学（留學）、友達に会う（見朋友）等。"
+        },
+        {
+          "pattern": "〜日間",
+          "meaning": "〜天（表示天數）",
+          "structure": "數字 + 日間（にちかん）",
+          "examples": [
+            { "japanese": "五日間、日本にいます。", "chinese": "在日本待五天。" },
+            { "japanese": "滞在期間は十日間です。", "chinese": "停留期間是十天。" },
+            { "japanese": "三日間の旅行です。", "chinese": "三天的旅行。" }
+          ],
+          "note": "「〜日間」用來表示天數。注意讀法：一日間（いちにちかん）、二日間（ふつかかん）、三日間（みっかかん）、四日間（よっかかん）、五日間（いつかかん）、六日間（むいかかん）、七日間（なのかかん）。天數的計算方式和日期的讀法一樣不規則。"
+        },
+        {
+          "pattern": "〜を持っています",
+          "meaning": "持有〜；帶著〜",
+          "structure": "名詞 + を + 持っています（もっています）",
+          "examples": [
+            { "japanese": "パスポートを持っています。", "chinese": "我帶著護照。" },
+            { "japanese": "帰りのチケットを持っています。", "chinese": "我有回程機票。" },
+            { "japanese": "日本円を持っていません。", "chinese": "我沒有日幣。" }
+          ],
+          "note": "「持っています」是「持つ（もつ）」的て形加「います」，表示持有某物的狀態。否定形是「持っていません」。在機場很常用，像是被問到是否有回程機票、是否帶著申報物品等。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "入国審査",
+          "reading": "にゅうこくしんさ",
+          "romaji": "nyuukokushinsa",
+          "chinese": "入境審查",
+          "example": "入国審査はあちらです。",
+          "exampleChinese": "入境審查在那邊。"
+        },
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupooto",
+          "chinese": "護照",
+          "example": "パスポートを見せてください。",
+          "exampleChinese": "請出示護照。"
+        },
+        {
+          "japanese": "税関",
+          "reading": "ぜいかん",
+          "romaji": "zeikan",
+          "chinese": "海關",
+          "example": "税関で申告してください。",
+          "exampleChinese": "請在海關申報。"
+        },
+        {
+          "japanese": "申告",
+          "reading": "しんこく",
+          "romaji": "shinkoku",
+          "chinese": "申報",
+          "example": "申告するものはありますか？",
+          "exampleChinese": "有需要申報的東西嗎？"
+        },
+        {
+          "japanese": "観光",
+          "reading": "かんこう",
+          "romaji": "kankou",
+          "chinese": "觀光",
+          "example": "目的は観光です。",
+          "exampleChinese": "目的是觀光。"
+        },
+        {
+          "japanese": "スーツケース",
+          "reading": "スーツケース",
+          "romaji": "suutsukeesu",
+          "chinese": "行李箱",
+          "example": "スーツケースがまだ来ません。",
+          "exampleChinese": "行李箱還沒出來。"
+        },
+        {
+          "japanese": "両替",
+          "reading": "りょうがえ",
+          "romaji": "ryougae",
+          "chinese": "換匯",
+          "example": "両替はどこでできますか？",
+          "exampleChinese": "在哪裡可以換匯？"
+        },
+        {
+          "japanese": "免税",
+          "reading": "めんぜい",
+          "romaji": "menzei",
+          "chinese": "免稅",
+          "example": "免税店でお土産を買いました。",
+          "exampleChinese": "在免稅店買了伴手禮。"
+        },
+        {
+          "japanese": "滞在期間",
+          "reading": "たいざいきかん",
+          "romaji": "taizaikikan",
+          "chinese": "停留期間",
+          "example": "滞在期間は五日間です。",
+          "exampleChinese": "停留期間是五天。"
+        },
+        {
+          "japanese": "到着ロビー",
+          "reading": "とうちゃくロビー",
+          "romaji": "touchaku robii",
+          "chinese": "入境大廳",
+          "example": "到着ロビーで待っています。",
+          "exampleChinese": "在入境大廳等。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "入境審查官問「日本に来た目的は何ですか？」，你應該回答什麼？",
+          "options": ["五日間です", "東京です", "観光です", "はい、あります"],
+          "correct": 2,
+          "explanation": "這是在問「來日本的目的是什麼」，所以回答「観光です（觀光）」最合適。"
+        },
+        {
+          "question": "「税関」是什麼？",
+          "options": ["入境審查", "海關", "行李轉盤", "免稅店"],
+          "correct": 1,
+          "explanation": "「税関（ぜいかん）」是「海關」的意思，是通過入境審查後要經過的檢查站。"
+        },
+        {
+          "question": "「スーツケースがまだ来ません」是什麼意思？",
+          "options": ["行李箱太大了", "行李箱還沒出來", "行李箱壞了", "行李箱丟了"],
+          "correct": 1,
+          "explanation": "「まだ来ません」是「還沒來」的意思，整句是「行李箱還沒出來」。"
+        },
+        {
+          "question": "「申告するものはありますか？」該怎麼理解？",
+          "options": ["您要買東西嗎？", "您有預約嗎？", "有需要申報的東西嗎？", "您的行李在哪裡？"],
+          "correct": 2,
+          "explanation": "「申告（しんこく）」是「申報」，「申告するもの」是「需要申報的東西」，這是海關常問的問題。"
+        },
+        {
+          "question": "「七日間」的讀法是？",
+          "options": ["しちにちかん", "なのかかん", "ななにちかん", "しちじつかん"],
+          "correct": 1,
+          "explanation": "「七日間」讀作「なのかかん」，是不規則讀法。七日讀作「なのか」。"
+        },
+        {
+          "question": "「両替」是什麼意思？",
+          "options": ["找零", "退稅", "換匯", "付款"],
+          "correct": 2,
+          "explanation": "「両替（りょうがえ）」是「換匯」的意思，在機場或銀行都可以進行。"
+        },
+        {
+          "question": "「パスポートを持っていません」是什麼意思？",
+          "options": ["護照不見了", "我沒有護照", "護照過期了", "我沒帶護照"],
+          "correct": 3,
+          "explanation": "「持っていません」是「沒有持有」的意思，但在機場的情境中更常表示「沒帶」。如果護照根本沒有，也可以用這個表達。"
+        },
+        {
+          "question": "下飛機後，正確的順序是？",
+          "options": ["海關 → 入境審查 → 行李提領", "入境審查 → 行李提領 → 海關", "行李提領 → 海關 → 入境審查", "入境審查 → 海關 → 行李提領"],
+          "correct": 1,
+          "explanation": "正確順序是：先通過入境審查（入国審査），再去行李轉盤（ターンテーブル）領取行李，最後通過海關（税関）。"
+        }
+      ]
+    }
+  ]
+}

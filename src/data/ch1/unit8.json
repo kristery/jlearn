@@ -1,0 +1,348 @@
+{
+  "id": "ch1-unit8",
+  "title": "時間表達進階：星期、月份、日期的說法",
+  "intro": "在日本旅遊時，搞懂日期和星期的說法非常重要！無論是預約餐廳、查看營業時間，還是安排行程，都會用到這些表達。本單元將帶你學會星期一到日、一月到十二月、以及日期的各種說法。",
+  "estimatedTime": "30 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "月曜日",
+          "reading": "げつようび",
+          "romaji": "getsuyoubi",
+          "chinese": "星期一",
+          "example": "月曜日は仕事です。",
+          "exampleChinese": "星期一要工作。"
+        },
+        {
+          "japanese": "火曜日",
+          "reading": "かようび",
+          "romaji": "kayoubi",
+          "chinese": "星期二",
+          "example": "火曜日に会いましょう。",
+          "exampleChinese": "星期二見面吧。"
+        },
+        {
+          "japanese": "水曜日",
+          "reading": "すいようび",
+          "romaji": "suiyoubi",
+          "chinese": "星期三",
+          "example": "水曜日は定休日です。",
+          "exampleChinese": "星期三是公休日。"
+        },
+        {
+          "japanese": "木曜日",
+          "reading": "もくようび",
+          "romaji": "mokuyoubi",
+          "chinese": "星期四",
+          "example": "木曜日に予約しました。",
+          "exampleChinese": "預約了星期四。"
+        },
+        {
+          "japanese": "金曜日",
+          "reading": "きんようび",
+          "romaji": "kinyoubi",
+          "chinese": "星期五",
+          "example": "金曜日の夜は居酒屋に行きます。",
+          "exampleChinese": "星期五晚上去居酒屋。"
+        },
+        {
+          "japanese": "土曜日",
+          "reading": "どようび",
+          "romaji": "doyoubi",
+          "chinese": "星期六",
+          "example": "土曜日は休みです。",
+          "exampleChinese": "星期六放假。"
+        },
+        {
+          "japanese": "日曜日",
+          "reading": "にちようび",
+          "romaji": "nichiyoubi",
+          "chinese": "星期日",
+          "example": "日曜日に京都に行きます。",
+          "exampleChinese": "星期天去京都。"
+        },
+        {
+          "japanese": "一月",
+          "reading": "いちがつ",
+          "romaji": "ichigatsu",
+          "chinese": "一月",
+          "example": "一月は寒いです。",
+          "exampleChinese": "一月很冷。"
+        },
+        {
+          "japanese": "四月",
+          "reading": "しがつ",
+          "romaji": "shigatsu",
+          "chinese": "四月",
+          "example": "四月に桜が咲きます。",
+          "exampleChinese": "四月櫻花開。"
+        },
+        {
+          "japanese": "七月",
+          "reading": "しちがつ",
+          "romaji": "shichigatsu",
+          "chinese": "七月",
+          "example": "七月に花火大会があります。",
+          "exampleChinese": "七月有煙火大會。"
+        },
+        {
+          "japanese": "誕生日",
+          "reading": "たんじょうび",
+          "romaji": "tanjoubi",
+          "chinese": "生日",
+          "example": "誕生日はいつですか？",
+          "exampleChinese": "生日是什麼時候？"
+        },
+        {
+          "japanese": "祝日",
+          "reading": "しゅくじつ",
+          "romaji": "shukujitsu",
+          "chinese": "國定假日",
+          "example": "明日は祝日です。",
+          "exampleChinese": "明天是國定假日。"
+        },
+        {
+          "japanese": "予定",
+          "reading": "よてい",
+          "romaji": "yotei",
+          "chinese": "預定；計畫",
+          "example": "来週の予定はありますか？",
+          "exampleChinese": "下週有什麼計畫嗎？"
+        },
+        {
+          "japanese": "来月",
+          "reading": "らいげつ",
+          "romaji": "raigetsu",
+          "chinese": "下個月",
+          "example": "来月、日本に行きます。",
+          "exampleChinese": "下個月去日本。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在飯店櫃台詢問活動的日期。",
+      "lines": [
+        { "speaker": "A", "japanese": "すみません、花火大会はいつですか？", "chinese": "不好意思，煙火大會是什麼時候？" },
+        { "speaker": "B", "japanese": "七月二十日の土曜日です。", "chinese": "七月二十號星期六。" },
+        { "speaker": "A", "japanese": "何時からですか？", "chinese": "幾點開始？" },
+        { "speaker": "B", "japanese": "七時からです。", "chinese": "從七點開始。" },
+        { "speaker": "A", "japanese": "チケットは必要ですか？", "chinese": "需要門票嗎？" },
+        { "speaker": "B", "japanese": "いいえ、無料ですよ。", "chinese": "不用，是免費的喔。" },
+        { "speaker": "A", "japanese": "ありがとうございます。楽しみです！", "chinese": "謝謝。好期待！" },
+        { "speaker": "B", "japanese": "ぜひ行ってくださいね。", "chinese": "請一定要去喔。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "和朋友約下週的行程。",
+      "lines": [
+        { "speaker": "A", "japanese": "来週、いつが暇ですか？", "chinese": "下週什麼時候有空？" },
+        { "speaker": "B", "japanese": "水曜日と金曜日が暇です。", "chinese": "星期三和星期五有空。" },
+        { "speaker": "A", "japanese": "じゃ、金曜日はどうですか？", "chinese": "那星期五如何？" },
+        { "speaker": "B", "japanese": "いいですよ。何をしますか？", "chinese": "好啊。要做什麼？" },
+        { "speaker": "A", "japanese": "浅草に行きませんか？", "chinese": "要不要去淺草？" },
+        { "speaker": "B", "japanese": "いいですね！何月何日ですか？", "chinese": "好啊！幾月幾號？" },
+        { "speaker": "A", "japanese": "三月十四日です。", "chinese": "三月十四號。" },
+        { "speaker": "B", "japanese": "わかりました。楽しみにしています。", "chinese": "知道了。很期待。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～月～日",
+          "meaning": "幾月幾號",
+          "structure": "數字 + 月 + 數字 + 日",
+          "examples": [
+            { "japanese": "三月十四日に出発します。", "chinese": "三月十四號出發。" },
+            { "japanese": "十二月二十五日はクリスマスです。", "chinese": "十二月二十五號是聖誕節。" },
+            { "japanese": "四月一日から学校が始まります。", "chinese": "四月一號開始上學。" }
+          ],
+          "note": "日期的讀法有很多不規則：一日（ついたち）、二日（ふつか）、三日（みっか）、四日（よっか）、五日（いつか）、六日（むいか）、七日（なのか）、八日（ようか）、九日（ここのか）、十日（とおか）、十四日（じゅうよっか）、二十日（はつか）、二十四日（にじゅうよっか）。其他日期用數字加「にち」即可。"
+        },
+        {
+          "pattern": "～曜日に",
+          "meaning": "在星期～",
+          "structure": "星期幾 + に + 動作",
+          "examples": [
+            { "japanese": "月曜日に会議があります。", "chinese": "星期一有會議。" },
+            { "japanese": "土曜日に買い物に行きます。", "chinese": "星期六去購物。" },
+            { "japanese": "日曜日に友達と会います。", "chinese": "星期天和朋友見面。" }
+          ],
+          "note": "表示在某個星期幾做某事時，用助詞「に」。但如果是「毎週月曜日」（每週一）等習慣性動作，「に」可以省略。"
+        },
+        {
+          "pattern": "いつですか",
+          "meaning": "是什麼時候？",
+          "structure": "名詞 + は + いつですか",
+          "examples": [
+            { "japanese": "試験はいつですか？", "chinese": "考試是什麼時候？" },
+            { "japanese": "お祭りはいつですか？", "chinese": "祭典是什麼時候？" },
+            { "japanese": "出発はいつですか？", "chinese": "出發是什麼時候？" }
+          ],
+          "note": "「いつ」是詢問時間的疑問詞，和「どこ」（哪裡）、「だれ」（誰）一樣是基本的疑問詞。回答時用具體的日期或星期。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小教室",
+      "content": "日本的曆法與節日文化有許多獨特之處，了解這些可以讓你的旅程更加順利！",
+      "tips": [
+        "日本除了西曆，還有「令和」等年號（元号），官方文件常用年號表示年份，例如令和八年就是 2026 年。",
+        "日本的「黃金週」（ゴールデンウィーク）是四月底到五月初的連假，旅遊景點會非常擁擠，住宿也較貴。",
+        "日本一年有 16 天國定假日（祝日），如果假日碰到星期天，隔天星期一會補假（振替休日）。",
+        "星期幾的說法來自古代的七曜：月、火、水、木、金、土、日，分別對應月亮和太陽系的行星。",
+        "日本的新年（お正月）是一月一日到三日，是最重要的節日，很多店家會休息，要特別注意。",
+        "八月中旬的「お盆」是日本的中元節，也是返鄉高峰期，交通和住宿都要提前預訂。"
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "月曜日",
+          "reading": "げつようび",
+          "romaji": "getsuyoubi",
+          "chinese": "星期一",
+          "example": "月曜日は仕事です。",
+          "exampleChinese": "星期一要工作。"
+        },
+        {
+          "japanese": "火曜日",
+          "reading": "かようび",
+          "romaji": "kayoubi",
+          "chinese": "星期二",
+          "example": "火曜日に会いましょう。",
+          "exampleChinese": "星期二見面吧。"
+        },
+        {
+          "japanese": "水曜日",
+          "reading": "すいようび",
+          "romaji": "suiyoubi",
+          "chinese": "星期三",
+          "example": "水曜日は定休日です。",
+          "exampleChinese": "星期三是公休日。"
+        },
+        {
+          "japanese": "金曜日",
+          "reading": "きんようび",
+          "romaji": "kinyoubi",
+          "chinese": "星期五",
+          "example": "金曜日の夜は居酒屋に行きます。",
+          "exampleChinese": "星期五晚上去居酒屋。"
+        },
+        {
+          "japanese": "日曜日",
+          "reading": "にちようび",
+          "romaji": "nichiyoubi",
+          "chinese": "星期日",
+          "example": "日曜日に京都に行きます。",
+          "exampleChinese": "星期天去京都。"
+        },
+        {
+          "japanese": "四月",
+          "reading": "しがつ",
+          "romaji": "shigatsu",
+          "chinese": "四月",
+          "example": "四月に桜が咲きます。",
+          "exampleChinese": "四月櫻花開。"
+        },
+        {
+          "japanese": "七月",
+          "reading": "しちがつ",
+          "romaji": "shichigatsu",
+          "chinese": "七月",
+          "example": "七月に花火大会があります。",
+          "exampleChinese": "七月有煙火大會。"
+        },
+        {
+          "japanese": "誕生日",
+          "reading": "たんじょうび",
+          "romaji": "tanjoubi",
+          "chinese": "生日",
+          "example": "誕生日はいつですか？",
+          "exampleChinese": "生日是什麼時候？"
+        },
+        {
+          "japanese": "祝日",
+          "reading": "しゅくじつ",
+          "romaji": "shukujitsu",
+          "chinese": "國定假日",
+          "example": "明日は祝日です。",
+          "exampleChinese": "明天是國定假日。"
+        },
+        {
+          "japanese": "予定",
+          "reading": "よてい",
+          "romaji": "yotei",
+          "chinese": "預定；計畫",
+          "example": "来週の予定はありますか？",
+          "exampleChinese": "下週有什麼計畫嗎？"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「すいようび」是星期幾？",
+          "options": ["星期一", "星期二", "星期三", "星期四"],
+          "correct": 2,
+          "explanation": "「すいようび」是「水曜日」，也就是星期三。水曜日的「水」對應水星。"
+        },
+        {
+          "question": "四月的日語讀音是？",
+          "options": ["よんがつ", "しがつ", "よがつ", "しげつ"],
+          "correct": 1,
+          "explanation": "四月讀作「しがつ」，不讀「よんがつ」。這是特殊讀法，需要記住。"
+        },
+        {
+          "question": "「誕生日はいつですか？」是什麼意思？",
+          "options": ["生日快樂！", "生日是什麼時候？", "今天是生日嗎？", "生日想要什麼？"],
+          "correct": 1,
+          "explanation": "「いつですか」是「什麼時候」的意思，所以整句是「生日是什麼時候？」"
+        },
+        {
+          "question": "一月一日的讀法是？",
+          "options": ["いちがつ いちにち", "いちがつ ついたち", "ひとつき ひとひ", "いちげつ いちじつ"],
+          "correct": 1,
+          "explanation": "一月讀「いちがつ」，一日讀「ついたち」，這是不規則讀法，要特別記住。"
+        },
+        {
+          "question": "日本的「黃金週」大約是什麼時候？",
+          "options": ["一月初", "三月中", "四月底到五月初", "八月中"],
+          "correct": 2,
+          "explanation": "黃金週（ゴールデンウィーク）是四月底到五月初的連假，包含多個國定假日。"
+        },
+        {
+          "question": "「土曜日に買い物に行きます」是什麼意思？",
+          "options": ["星期六去工作", "星期六去購物", "星期六去上學", "星期六去旅行"],
+          "correct": 1,
+          "explanation": "「買い物に行きます」是「去購物」的意思，「土曜日に」表示「在星期六」。"
+        },
+        {
+          "question": "七月的讀法是？",
+          "options": ["なながつ", "しちがつ", "なながつ", "ひちがつ"],
+          "correct": 1,
+          "explanation": "七月讀作「しちがつ」。注意：口語中為了避免和「一（いち）」混淆，有時也會說「なながつ」，但正式讀法是「しちがつ」。"
+        },
+        {
+          "question": "「来月、日本に行きます」是什麼意思？",
+          "options": ["上個月去了日本", "下個月去日本", "每個月去日本", "這個月去日本"],
+          "correct": 1,
+          "explanation": "「来月」是「下個月」的意思。「先月」是上個月，「今月」是這個月。"
+        }
+      ]
+    }
+  ]
+}

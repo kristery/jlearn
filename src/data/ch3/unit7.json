@@ -1,0 +1,476 @@
+{
+  "id": "ch3-unit7",
+  "title": "飯店設施使用：洗衣、健身房、商務中心",
+  "intro": "飯店裡除了睡覺以外，還有各種方便的設施可以利用。本單元教你如何詢問並使用洗衣設備、健身房、商務中心等設施，讓你的住宿體驗更加舒適便利。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "コインランドリー",
+          "reading": "コインランドリー",
+          "romaji": "koin randorī",
+          "chinese": "投幣式洗衣房",
+          "example": "コインランドリーは地下1階にあります。",
+          "exampleChinese": "投幣式洗衣房在地下1樓。"
+        },
+        {
+          "japanese": "フィットネスジム",
+          "reading": "フィットネスジム",
+          "romaji": "fittonesu jimu",
+          "chinese": "健身房",
+          "example": "フィットネスジムは宿泊者は無料です。",
+          "exampleChinese": "住宿旅客可以免費使用健身房。"
+        },
+        {
+          "japanese": "ビジネスセンター",
+          "reading": "ビジネスセンター",
+          "romaji": "bijinesu sentā",
+          "chinese": "商務中心",
+          "example": "ビジネスセンターでコピーできますか？",
+          "exampleChinese": "可以在商務中心影印嗎？"
+        },
+        {
+          "japanese": "プリンター",
+          "reading": "プリンター",
+          "romaji": "purintā",
+          "chinese": "印表機",
+          "example": "プリンターを使いたいのですが。",
+          "exampleChinese": "我想使用印表機。"
+        },
+        {
+          "japanese": "製氷機",
+          "reading": "せいひょうき",
+          "romaji": "seihyōki",
+          "chinese": "製冰機",
+          "example": "製氷機は各階のエレベーター横にあります。",
+          "exampleChinese": "製冰機在每層樓的電梯旁邊。"
+        },
+        {
+          "japanese": "乾燥機",
+          "reading": "かんそうき",
+          "romaji": "kansōki",
+          "chinese": "烘乾機",
+          "example": "乾燥機は30分で200円です。",
+          "exampleChinese": "烘乾機30分鐘200日圓。"
+        },
+        {
+          "japanese": "洗剤",
+          "reading": "せんざい",
+          "romaji": "senzai",
+          "chinese": "洗衣精",
+          "example": "洗剤は自動投入です。",
+          "exampleChinese": "洗衣精是自動投入的。"
+        },
+        {
+          "japanese": "自動販売機",
+          "reading": "じどうはんばいき",
+          "romaji": "jidō hanbaiki",
+          "chinese": "自動販賣機",
+          "example": "自動販売機は3階にあります。",
+          "exampleChinese": "自動販賣機在3樓。"
+        },
+        {
+          "japanese": "両替",
+          "reading": "りょうがえ",
+          "romaji": "ryōgae",
+          "chinese": "換零錢／兌換",
+          "example": "フロントで両替できますか？",
+          "exampleChinese": "可以在櫃台換零錢嗎？"
+        },
+        {
+          "japanese": "プール",
+          "reading": "プール",
+          "romaji": "pūru",
+          "chinese": "游泳池",
+          "example": "プールは何時まで使えますか？",
+          "exampleChinese": "游泳池可以用到幾點？"
+        },
+        {
+          "japanese": "電子レンジ",
+          "reading": "でんしレンジ",
+          "romaji": "denshi renji",
+          "chinese": "微波爐",
+          "example": "電子レンジはありますか？",
+          "exampleChinese": "有微波爐嗎？"
+        },
+        {
+          "japanese": "ルームキー",
+          "reading": "ルームキー",
+          "romaji": "rūmu kī",
+          "chinese": "房卡／房間鑰匙",
+          "example": "ジムを使うにはルームキーが必要です。",
+          "exampleChinese": "使用健身房需要房卡。"
+        },
+        {
+          "japanese": "宿泊者",
+          "reading": "しゅくはくしゃ",
+          "romaji": "shukuhakusha",
+          "chinese": "住宿旅客",
+          "example": "宿泊者は無料でご利用いただけます。",
+          "exampleChinese": "住宿旅客可以免費使用。"
+        },
+        {
+          "japanese": "利用時間",
+          "reading": "りようじかん",
+          "romaji": "riyō jikan",
+          "chinese": "使用時間",
+          "example": "ジムの利用時間は朝6時から夜10時までです。",
+          "exampleChinese": "健身房的使用時間是早上6點到晚上10點。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一：詢問飯店設施",
+      "scene": "在飯店櫃台詢問各種設施的位置和使用方式",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、ホテルの設備について聞きたいのですが。",
+          "chinese": "不好意思，我想問一下飯店的設施。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、何でもお聞きください。",
+          "chinese": "好的，請隨便問。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "フィットネスジムは何階ですか？",
+          "chinese": "健身房在幾樓？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "フィットネスジムは5階にございます。朝6時から夜10時までご利用いただけます。",
+          "chinese": "健身房在5樓。早上6點到晚上10點可以使用。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "使うのに何か必要ですか？",
+          "chinese": "使用需要什麼嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ルームキーをお持ちください。宿泊者の方は無料です。",
+          "chinese": "請帶房卡。住宿旅客免費。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "ビジネスセンターもありますか？",
+          "chinese": "也有商務中心嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、2階にございます。プリンターとコピー機がご利用いただけます。",
+          "chinese": "有的，在2樓。可以使用印表機和影印機。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "印刷は1枚いくらですか？",
+          "chinese": "列印一張多少錢？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "白黒は1枚10円、カラーは1枚50円です。",
+          "chinese": "黑白一張10日圓，彩色一張50日圓。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "製氷機はどこにありますか？",
+          "chinese": "製冰機在哪裡？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "各階のエレベーター横にございます。24時間ご自由にお使いください。",
+          "chinese": "在每層樓的電梯旁邊。24小時請自由使用。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二：使用洗衣設備",
+      "scene": "到投幣式洗衣房洗衣服，向工作人員詢問使用方法",
+      "lines": [
+        {
+          "speaker": "A",
+          "japanese": "すみません、コインランドリーの使い方を教えてください。",
+          "chinese": "不好意思，請告訴我投幣式洗衣機的使用方法。"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい。まず洗濯物を入れて、コインを入れてスタートボタンを押してください。",
+          "chinese": "好的。首先放入衣物，投入硬幣，然後按啟動鈕。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "洗濯は1回いくらですか？",
+          "chinese": "洗一次多少錢？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "洗濯は1回300円です。洗剤は自動投入ですので、別に買わなくて大丈夫です。",
+          "chinese": "洗一次300日圓。洗衣精是自動投入的，不需要另外買。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "乾燥機もありますか？",
+          "chinese": "也有烘乾機嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "はい、隣にあります。30分200円で、100円硬貨のみ使えます。",
+          "chinese": "有的，在旁邊。30分鐘200日圓，只能用100日圓硬幣。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "100円硬貨がないのですが、両替はできますか？",
+          "chinese": "我沒有100日圓硬幣，可以換零錢嗎？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "ランドリールームの中に両替機がございます。1000円札が使えます。",
+          "chinese": "洗衣房裡有兌幣機。可以用1000日圓紙鈔。"
+        },
+        {
+          "speaker": "A",
+          "japanese": "コインランドリーは何時まで使えますか？",
+          "chinese": "投幣式洗衣房可以用到幾點？"
+        },
+        {
+          "speaker": "B",
+          "japanese": "24時間ご利用いただけます。ただし、夜11時以降は音にご配慮ください。",
+          "chinese": "24小時都可以使用。不過，晚上11點以後請注意音量。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～は何階ですか",
+          "meaning": "～在幾樓？",
+          "structure": "場所／設施名 ＋ は何階（なんがい/なんかい）ですか",
+          "examples": [
+            {
+              "japanese": "フィットネスジムは何階ですか？",
+              "chinese": "健身房在幾樓？"
+            },
+            {
+              "japanese": "コインランドリーは何階ですか？",
+              "chinese": "投幣式洗衣房在幾樓？"
+            },
+            {
+              "japanese": "レストランは何階ですか？",
+              "chinese": "餐廳在幾樓？"
+            }
+          ],
+          "note": "在飯店裡詢問設施位置時最常用的句型。回答通常是「～階にあります」或更禮貌的「～階にございます」。"
+        },
+        {
+          "pattern": "～の使い方",
+          "meaning": "～的使用方法",
+          "structure": "名詞 ＋ の使い方（つかいかた）",
+          "examples": [
+            {
+              "japanese": "コインランドリーの使い方を教えてください。",
+              "chinese": "請告訴我投幣式洗衣機的使用方法。"
+            },
+            {
+              "japanese": "プリンターの使い方がわかりません。",
+              "chinese": "我不知道印表機的使用方法。"
+            },
+            {
+              "japanese": "この機械の使い方を教えていただけますか？",
+              "chinese": "可以教我這台機器的使用方法嗎？"
+            }
+          ],
+          "note": "「使い方」是「使い（使用）」加上「方（方法）」。這個構造可以套用在很多動詞上：読み方（讀法）、書き方（寫法）、食べ方（吃法）等。"
+        },
+        {
+          "pattern": "～は何時までですか",
+          "meaning": "～到幾點？",
+          "structure": "設施／服務 ＋ は何時（なんじ）までですか",
+          "examples": [
+            {
+              "japanese": "プールは何時まで使えますか？",
+              "chinese": "游泳池可以用到幾點？"
+            },
+            {
+              "japanese": "フィットネスジムは何時までですか？",
+              "chinese": "健身房到幾點？"
+            },
+            {
+              "japanese": "ルームサービスは何時までですか？",
+              "chinese": "客房服務到幾點？"
+            }
+          ],
+          "note": "「何時まで」是「到幾點」，「何時から」是「從幾點」。兩個搭配使用：「何時から何時までですか？」就是「從幾點到幾點？」。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "コインランドリー",
+          "reading": "コインランドリー",
+          "romaji": "koin randorī",
+          "chinese": "投幣式洗衣房"
+        },
+        {
+          "japanese": "フィットネスジム",
+          "reading": "フィットネスジム",
+          "romaji": "fittonesu jimu",
+          "chinese": "健身房"
+        },
+        {
+          "japanese": "ビジネスセンター",
+          "reading": "ビジネスセンター",
+          "romaji": "bijinesu sentā",
+          "chinese": "商務中心"
+        },
+        {
+          "japanese": "製氷機",
+          "reading": "せいひょうき",
+          "romaji": "seihyōki",
+          "chinese": "製冰機"
+        },
+        {
+          "japanese": "乾燥機",
+          "reading": "かんそうき",
+          "romaji": "kansōki",
+          "chinese": "烘乾機"
+        },
+        {
+          "japanese": "洗剤",
+          "reading": "せんざい",
+          "romaji": "senzai",
+          "chinese": "洗衣精"
+        },
+        {
+          "japanese": "プリンター",
+          "reading": "プリンター",
+          "romaji": "purintā",
+          "chinese": "印表機"
+        },
+        {
+          "japanese": "両替",
+          "reading": "りょうがえ",
+          "romaji": "ryōgae",
+          "chinese": "換零錢／兌換"
+        },
+        {
+          "japanese": "自動販売機",
+          "reading": "じどうはんばいき",
+          "romaji": "jidō hanbaiki",
+          "chinese": "自動販賣機"
+        },
+        {
+          "japanese": "利用時間",
+          "reading": "りようじかん",
+          "romaji": "riyō jikan",
+          "chinese": "使用時間"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "你想問健身房在幾樓，應該怎麼說？",
+          "options": [
+            "フィットネスジムはどこですか？",
+            "フィットネスジムは何階ですか？",
+            "フィットネスジムはいくらですか？",
+            "フィットネスジムは何時ですか？"
+          ],
+          "correct": 1,
+          "explanation": "「何階ですか」是「在幾樓」的意思。「フィットネスジムは何階ですか」就是問健身房在幾樓。"
+        },
+        {
+          "question": "「コインランドリーの使い方を教えてください」是在問什麼？",
+          "options": [
+            "投幣式洗衣房在哪裡？",
+            "投幣式洗衣房多少錢？",
+            "請告訴我投幣式洗衣機的使用方法。",
+            "投幣式洗衣房到幾點？"
+          ],
+          "correct": 2,
+          "explanation": "「使い方」是「使用方法」，「教えてください」是「請告訴我」。整句是在詢問使用方法。"
+        },
+        {
+          "question": "「製氷機」是什麼？",
+          "options": [
+            "微波爐",
+            "製冰機",
+            "烘乾機",
+            "自動販賣機"
+          ],
+          "correct": 1,
+          "explanation": "「製氷（せいひょう）」是製冰，「機」是機器。「製氷機」就是製冰機，飯店裡很常見。"
+        },
+        {
+          "question": "工作人員說「100円硬貨のみ使えます」，是什麼意思？",
+          "options": [
+            "只要100日圓就可以使用。",
+            "只能使用100日圓硬幣。",
+            "不能使用100日圓硬幣。",
+            "100日圓硬幣最划算。"
+          ],
+          "correct": 1,
+          "explanation": "「のみ」是「只有」的意思，「100円硬貨のみ使えます」就是「只能使用100日圓硬幣」。"
+        },
+        {
+          "question": "你想問游泳池可以用到幾點，應該怎麼說？",
+          "options": [
+            "プールはどこですか？",
+            "プールはいくらですか？",
+            "プールは何時までですか？",
+            "プールは何階ですか？"
+          ],
+          "correct": 2,
+          "explanation": "「何時まで」是「到幾點」的意思。「プールは何時までですか」就是問游泳池開放到幾點。"
+        },
+        {
+          "question": "「宿泊者は無料です」是什麼意思？",
+          "options": [
+            "住宿旅客不能使用。",
+            "住宿旅客可以免費使用。",
+            "住宿旅客需要預約。",
+            "住宿旅客打折。"
+          ],
+          "correct": 1,
+          "explanation": "「宿泊者」是住宿旅客，「無料」是免費。「宿泊者は無料です」就是住宿旅客免費。"
+        },
+        {
+          "question": "「両替」是什麼意思？",
+          "options": [
+            "付款",
+            "找零",
+            "換零錢／兌換",
+            "退款"
+          ],
+          "correct": 2,
+          "explanation": "「両替（りょうがえ）」是換零錢或兌換貨幣的意思。在洗衣房換硬幣或在銀行換外幣都可以用。"
+        },
+        {
+          "question": "「洗剤は自動投入です」是什麼意思？",
+          "options": [
+            "洗衣精需要自己買。",
+            "洗衣精是自動投入的。",
+            "洗衣精放在旁邊。",
+            "洗衣精已經用完了。"
+          ],
+          "correct": 1,
+          "explanation": "「自動投入」是自動加入的意思。也就是說機器會自動放入洗衣精，不需要自己準備。"
+        }
+      ]
+    }
+  ]
+}

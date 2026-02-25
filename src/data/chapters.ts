@@ -30,6 +30,9 @@ export const chapters: Chapter[] = [
       { id: 'unit5', title: '如何請別人幫幫忙？學會禮貌表達', type: 'lesson', estimatedTime: '15 分鐘', description: '學習請求幫助的禮貌句型' },
       { id: 'unit6', title: '從「頑張ります」開始的生活常用對話', type: 'lesson', estimatedTime: '15 分鐘', description: '日常生活中最常用的短句與回應' },
       { id: 'unit7', title: '想跟日本人打招呼嗎？從自我介紹開始！', type: 'lesson', estimatedTime: '20 分鐘', description: '學會完整的自我介紹與打招呼方式' },
+      { id: 'unit8', title: '時間表達進階：星期、月份、日期的說法', type: 'lesson', estimatedTime: '20 分鐘', description: '掌握星期、月份與日期的日語表達' },
+      { id: 'unit9', title: '旅遊常用形容詞：大小、遠近、好吃難吃', type: 'lesson', estimatedTime: '20 分鐘', description: '學會描述事物的常用い形容詞' },
+      { id: 'unit10', title: '旅遊必備動詞：行く、食べる、買う', type: 'lesson', estimatedTime: '20 分鐘', description: '掌握旅遊最常用的動詞與ます形' },
     ]
   },
   {
@@ -43,6 +46,9 @@ export const chapters: Chapter[] = [
       { id: 'unit2', title: '出門不慌張！交通實用會話', type: 'lesson', estimatedTime: '20 分鐘', description: '計程車、巴士、地鐵的實用會話' },
       { id: 'unit3', title: '文化小教室｜大眾交通工具規則', type: 'culture', estimatedTime: '10 分鐘', description: '了解日本搭車禮儀與規則' },
       { id: 'unit4', title: '聽力、口說練習', type: 'practice', estimatedTime: '15 分鐘', description: '第二章綜合聽力與口說練習' },
+      { id: 'unit5', title: '新幹線搭乘攻略：買票、找座位、車上用語', type: 'lesson', estimatedTime: '20 分鐘', description: '學會搭新幹線的完整流程與用語' },
+      { id: 'unit6', title: '租車自駕遊：租車、加油、停車場日語', type: 'lesson', estimatedTime: '20 分鐘', description: '自駕旅遊的租車與駕駛相關日語' },
+      { id: 'unit7', title: '機場出入境：入境審查、海關、行李提領', type: 'lesson', estimatedTime: '20 分鐘', description: '機場出入境的完整日語對話' },
     ]
   },
   {
@@ -56,6 +62,9 @@ export const chapters: Chapter[] = [
       { id: 'unit2', title: '住宿突發狀況！解決東西遺失與電器故障問題', type: 'lesson', estimatedTime: '20 分鐘', description: '遇到問題時如何用日語求助' },
       { id: 'unit3', title: '文化小教室｜全裸＋毛巾＋牛奶，日本溫泉背後的秘密！', type: 'culture', estimatedTime: '10 分鐘', description: '日本溫泉禮儀與有趣文化' },
       { id: 'unit4', title: '聽力、口說練習', type: 'practice', estimatedTime: '15 分鐘', description: '第三章綜合聽力與口說練習' },
+      { id: 'unit5', title: '民宿與Airbnb：和房東溝通的實用日語', type: 'lesson', estimatedTime: '20 分鐘', description: '民宿入住與房東溝通的實用日語' },
+      { id: 'unit6', title: '日式旅館體驗：榻榻米、浴衣、懷石料理', type: 'lesson', estimatedTime: '20 分鐘', description: '日式旅館的獨特體驗與相關用語' },
+      { id: 'unit7', title: '飯店設施使用：洗衣、健身房、商務中心', type: 'lesson', estimatedTime: '15 分鐘', description: '飯店各項設施的使用方式與日語' },
     ]
   },
   {
@@ -70,6 +79,9 @@ export const chapters: Chapter[] = [
       { id: 'unit3', title: '便利商店會話攻略！聽懂就好，不必背長長的敬語', type: 'lesson', estimatedTime: '15 分鐘', description: '便利商店店員常說的話與回應方式' },
       { id: 'unit4', title: '文化小教室｜日本折扣解析：看懂割引、特売、點數回饋', type: 'culture', estimatedTime: '10 分鐘', description: '日本購物折扣制度全解析' },
       { id: 'unit5', title: '聽力、口說練習', type: 'practice', estimatedTime: '15 分鐘', description: '第四章綜合聽力與口說練習' },
+      { id: 'unit6', title: '退稅攻略：免稅手續與相關日語', type: 'lesson', estimatedTime: '20 分鐘', description: '免稅購物流程與退稅相關日語' },
+      { id: 'unit7', title: '電器3C購物：秋葉原與家電量販店', type: 'lesson', estimatedTime: '20 分鐘', description: '電器3C產品的購物日語' },
+      { id: 'unit8', title: '伴手禮挑選：送禮文化與人氣土產', type: 'lesson', estimatedTime: '15 分鐘', description: '伴手禮挑選與送禮相關日語' },
     ]
   },
   {
@@ -84,6 +96,9 @@ export const chapters: Chapter[] = [
       { id: 'unit3', title: '安心點餐～挑食、過敏、吃素必備用語', type: 'lesson', estimatedTime: '15 分鐘', description: '飲食限制相關的重要表達' },
       { id: 'unit4', title: '文化小教室｜日本用餐禮儀、居酒屋文化', type: 'culture', estimatedTime: '10 分鐘', description: '日本用餐禮儀和居酒屋文化' },
       { id: 'unit5', title: '聽力、口說練習', type: 'practice', estimatedTime: '15 分鐘', description: '第五章綜合聽力與口說練習' },
+      { id: 'unit6', title: '居酒屋完全攻略：乾杯、點餐與社交', type: 'lesson', estimatedTime: '20 分鐘', description: '居酒屋點餐、社交與文化' },
+      { id: 'unit7', title: '咖啡廳與甜點：來一杯日式下午茶', type: 'lesson', estimatedTime: '15 分鐘', description: '咖啡廳點餐與甜點相關日語' },
+      { id: 'unit8', title: '便當與外帶：テイクアウト文化', type: 'lesson', estimatedTime: '15 分鐘', description: '外帶文化與便當相關日語' },
     ]
   },
   {
@@ -97,6 +112,9 @@ export const chapters: Chapter[] = [
       { id: 'unit2', title: '神社小白救星！參拜、御守、抽籤一次學', type: 'lesson', estimatedTime: '20 分鐘', description: '神社參拜完整流程與相關日語' },
       { id: 'unit3', title: '文化小教室｜和服穿對超重要：左前右前一次搞懂', type: 'culture', estimatedTime: '10 分鐘', description: '和服穿著規則與文化意涵' },
       { id: 'unit4', title: '聽力、口說練習', type: 'practice', estimatedTime: '15 分鐘', description: '第六章綜合聽力與口說練習' },
+      { id: 'unit5', title: '溫泉入門：泡湯用語與禮儀實戰', type: 'lesson', estimatedTime: '20 分鐘', description: '溫泉相關用語與入浴禮儀' },
+      { id: 'unit6', title: '祭典與花火大會：夏日風物詩', type: 'lesson', estimatedTime: '20 分鐘', description: '日本祭典與花火大會相關日語' },
+      { id: 'unit7', title: '遊樂園攻略：迪士尼與環球影城實用日語', type: 'lesson', estimatedTime: '20 分鐘', description: '主題遊樂園的實用日語' },
     ]
   },
   {
@@ -110,6 +128,9 @@ export const chapters: Chapter[] = [
       { id: 'unit2', title: '私藏美食分享', type: 'lesson', estimatedTime: '15 分鐘', description: '在地人才知道的美食推薦' },
       { id: 'unit3', title: '靜岡特色文化', type: 'culture', estimatedTime: '10 分鐘', description: '認識靜岡的特色文化與方言' },
       { id: 'unit4', title: '綜合聽力小測驗＋分享你愛的日本美食', type: 'homework', estimatedTime: '20 分鐘', description: '綜合測驗與互動分享' },
+      { id: 'unit5', title: '日本市場探險：築地、黑門、錦市場', type: 'lesson', estimatedTime: '20 分鐘', description: '日本傳統市場的購物與美食日語' },
+      { id: 'unit6', title: '溫泉鄉小旅行：箱根、別府、草津', type: 'lesson', estimatedTime: '20 分鐘', description: '溫泉鄉旅行的實用日語' },
+      { id: 'unit7', title: '季節限定體驗：賞櫻、紅葉、雪祭', type: 'lesson', estimatedTime: '20 分鐘', description: '季節限定活動的相關日語' },
     ]
   },
   {
@@ -125,6 +146,9 @@ export const chapters: Chapter[] = [
       { id: 'unit4', title: '旅日前小提醒', type: 'lesson', estimatedTime: '10 分鐘', description: '出發前的重要注意事項' },
       { id: 'unit5', title: '文化小教室｜認識敬語：為什麼日語這麼講究禮貌？', type: 'culture', estimatedTime: '15 分鐘', description: '敬語入門與日本禮貌文化' },
       { id: 'unit6', title: '【BONUS】語言學習經驗分享', type: 'bonus', estimatedTime: '10 分鐘', description: '語言學習的寶貴經驗與建議' },
+      { id: 'unit7', title: '日本送禮文化：お土産、お中元、お歳暮', type: 'lesson', estimatedTime: '15 分鐘', description: '日本送禮文化與相關日語' },
+      { id: 'unit8', title: '緊急狀況處理：生病、遺失、求助', type: 'lesson', estimatedTime: '20 分鐘', description: '緊急狀況的求助日語' },
+      { id: 'unit9', title: '旅程結束：感謝、道別與保持聯繫', type: 'lesson', estimatedTime: '15 分鐘', description: '旅程結束的感謝與道別用語' },
     ]
   }
 ];
