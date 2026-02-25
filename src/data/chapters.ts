@@ -101,14 +101,14 @@ export const chapters: Chapter[] = [
   },
   {
     id: 7,
-    title: '黑木太太帶路，景點與美食的私藏地',
+    title: '在地探索指南，景點與美食的私藏地',
     subtitle: '在地人推薦',
-    description: '跟著黑木太太探索私藏景點、道地美食，以及她的家鄉靜岡的特色文化。',
+    description: '探索私藏景點、道地美食，以及靜岡的特色文化。',
     icon: '🗾',
     units: [
-      { id: 'unit1', title: '私藏景點分享', type: 'lesson', estimatedTime: '15 分鐘', description: '黑木太太推薦的私房景點與相關日語' },
+      { id: 'unit1', title: '私藏景點分享', type: 'lesson', estimatedTime: '15 分鐘', description: '在地人推薦的私房景點與相關日語' },
       { id: 'unit2', title: '私藏美食分享', type: 'lesson', estimatedTime: '15 分鐘', description: '在地人才知道的美食推薦' },
-      { id: 'unit3', title: '黑木太太的家鄉！靜岡特色文化', type: 'culture', estimatedTime: '10 分鐘', description: '認識靜岡的特色文化與方言' },
+      { id: 'unit3', title: '靜岡特色文化', type: 'culture', estimatedTime: '10 分鐘', description: '認識靜岡的特色文化與方言' },
       { id: 'unit4', title: '綜合聽力小測驗＋分享你愛的日本美食', type: 'homework', estimatedTime: '20 分鐘', description: '綜合測驗與互動分享' },
     ]
   },
@@ -124,7 +124,7 @@ export const chapters: Chapter[] = [
       { id: 'unit3', title: '什麼情況下需鞠躬彎腰？', type: 'lesson', estimatedTime: '10 分鐘', description: '日本鞠躬禮儀完全指南' },
       { id: 'unit4', title: '旅日前小提醒', type: 'lesson', estimatedTime: '10 分鐘', description: '出發前的重要注意事項' },
       { id: 'unit5', title: '文化小教室｜認識敬語：為什麼日語這麼講究禮貌？', type: 'culture', estimatedTime: '15 分鐘', description: '敬語入門與日本禮貌文化' },
-      { id: 'unit6', title: '【BONUS】黑木 & Kuma 桑語言學習經驗分享', type: 'bonus', estimatedTime: '10 分鐘', description: '語言學習的寶貴經驗與建議' },
+      { id: 'unit6', title: '【BONUS】語言學習經驗分享', type: 'bonus', estimatedTime: '10 分鐘', description: '語言學習的寶貴經驗與建議' },
     ]
   }
 ];
