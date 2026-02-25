@@ -115,6 +115,7 @@ export const chapters: Chapter[] = [
       { id: 'unit5', title: '溫泉入門：泡湯用語與禮儀實戰', type: 'lesson', estimatedTime: '20 分鐘', description: '溫泉相關用語與入浴禮儀' },
       { id: 'unit6', title: '祭典與花火大會：夏日風物詩', type: 'lesson', estimatedTime: '20 分鐘', description: '日本祭典與花火大會相關日語' },
       { id: 'unit7', title: '遊樂園攻略：迪士尼與環球影城實用日語', type: 'lesson', estimatedTime: '20 分鐘', description: '主題遊樂園的實用日語' },
+      { id: 'unit8', title: '年末年始：跨年、初詣與新年文化', type: 'lesson', estimatedTime: '20 分鐘', description: '日本跨年與新年的文化習俗與相關日語' },
     ]
   },
   {
