@@ -1,0 +1,248 @@
+{
+  "id": "ch6-unit4",
+  "title": "聽力、口說練習",
+  "intro": "第六章的總複習時間！這一課透過一段完整的觀光對話，串聯你學到的禁止句型、神社參拜用語和文化知識。跟著對話一起練習，讓你的日本旅遊會話更加流暢。",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字複習",
+      "items": [
+        {
+          "japanese": "撮影禁止",
+          "reading": "さつえいきんし",
+          "romaji": "satsuei kinshi",
+          "chinese": "禁止拍攝",
+          "example": "この建物の中は撮影禁止です。",
+          "exampleChinese": "這棟建築物裡面禁止拍攝。"
+        },
+        {
+          "japanese": "立入禁止",
+          "reading": "たちいりきんし",
+          "romaji": "tachiiri kinshi",
+          "chinese": "禁止進入",
+          "example": "この先は立入禁止です。",
+          "exampleChinese": "前方禁止進入。"
+        },
+        {
+          "japanese": "神社",
+          "reading": "じんじゃ",
+          "romaji": "jinja",
+          "chinese": "神社",
+          "example": "伏見稲荷大社は有名な神社です。",
+          "exampleChinese": "伏見稻荷大社是有名的神社。"
+        },
+        {
+          "japanese": "鳥居",
+          "reading": "とりい",
+          "romaji": "torii",
+          "chinese": "鳥居",
+          "example": "鳥居の前で一礼しましょう。",
+          "exampleChinese": "在鳥居前鞠一躬吧。"
+        },
+        {
+          "japanese": "手水舎",
+          "reading": "てみずや",
+          "romaji": "temizuya",
+          "chinese": "淨手處",
+          "example": "手水舎で手を清めましょう。",
+          "exampleChinese": "在淨手處洗手吧。"
+        },
+        {
+          "japanese": "お守り",
+          "reading": "おまもり",
+          "romaji": "omamori",
+          "chinese": "御守",
+          "example": "お守りをいただけますか？",
+          "exampleChinese": "可以請給我御守嗎？"
+        },
+        {
+          "japanese": "おみくじ",
+          "reading": "おみくじ",
+          "romaji": "omikuji",
+          "chinese": "抽籤",
+          "example": "おみくじを引いてみましょう！",
+          "exampleChinese": "來抽籤試試看吧！"
+        },
+        {
+          "japanese": "着物",
+          "reading": "きもの",
+          "romaji": "kimono",
+          "chinese": "和服",
+          "example": "着物を着て写真を撮りたいです。",
+          "exampleChinese": "想穿和服拍照。"
+        },
+        {
+          "japanese": "右前",
+          "reading": "みぎまえ",
+          "romaji": "migimae",
+          "chinese": "右前（正確穿法）",
+          "example": "和服は右前が正しいです。",
+          "exampleChinese": "和服右前才是正確的。"
+        },
+        {
+          "japanese": "着付け",
+          "reading": "きつけ",
+          "romaji": "kitsuke",
+          "chinese": "穿著和服",
+          "example": "着付けは三十分かかります。",
+          "exampleChinese": "穿和服需要三十分鐘。"
+        },
+        {
+          "japanese": "マナー",
+          "reading": "マナー",
+          "romaji": "manaa",
+          "chinese": "禮儀",
+          "example": "観光マナーを守りましょう。",
+          "exampleChinese": "遵守觀光禮儀吧。"
+        },
+        {
+          "japanese": "順番",
+          "reading": "じゅんばん",
+          "romaji": "junban",
+          "chinese": "順序",
+          "example": "順番を守ってください。",
+          "exampleChinese": "請遵守順序。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "綜合複習對話",
+      "scene": "小明和朋友小美一起去京都觀光，先去神社參拜，再去租和服體驗，途中遇到各種觀光景點的規定。",
+      "lines": [
+        { "speaker": "小明", "japanese": "京都に着いたよ！まず伏見稲荷大社に行こう。", "chinese": "到京都了！先去伏見稻荷大社吧。" },
+        { "speaker": "小美", "japanese": "わあ、鳥居がたくさん！写真撮ってもいい？", "chinese": "哇，好多鳥居！可以拍照嗎？" },
+        { "speaker": "小明", "japanese": "ここは大丈夫だよ。でも建物の中は撮影禁止のところもあるから、看板を見てね。", "chinese": "這裡可以喔。但建築物裡面有些地方禁止拍攝，要看告示牌喔。" },
+        { "speaker": "小美", "japanese": "分かった。あ、手水舎があるよ。手を清めよう。", "chinese": "我知道了。啊，有淨手處。來洗手吧。" },
+        { "speaker": "小明", "japanese": "うん。右手で柄杓を持って、左手を洗って…次に左手で持って、右手を洗う。", "chinese": "嗯。右手拿勺子洗左手⋯⋯再換左手拿洗右手。" },
+        { "speaker": "小美", "japanese": "お賽銭はいくら入れる？", "chinese": "香油錢要投多少？" },
+        { "speaker": "小明", "japanese": "五円がいいよ。「ご縁」と同じ発音だから、縁起がいいんだって。", "chinese": "五日圓最好。因為跟「好緣分」同音，很吉利。" },
+        { "speaker": "小美", "japanese": "じゃ、二礼二拍手一礼だね。（参拝する）", "chinese": "那就二鞠躬二拍手一鞠躬吧。（參拜）" },
+        { "speaker": "小明", "japanese": "お守りも買おう。すみません、学業のお守りをいただけますか？", "chinese": "也來買御守吧。不好意思，可以請給我學業御守嗎？" },
+        { "speaker": "巫女", "japanese": "はい、八百円です。", "chinese": "好的，八百日圓。" },
+        { "speaker": "小美", "japanese": "私はおみくじを引きたい！おみくじはいくらですか？", "chinese": "我想抽籤！抽籤多少錢？" },
+        { "speaker": "巫女", "japanese": "二百円です。", "chinese": "兩百日圓。" },
+        { "speaker": "小美", "japanese": "（おみくじを引いて）見て！大吉だよ！", "chinese": "（抽了籤）你看！大吉耶！" },
+        { "speaker": "小明", "japanese": "いいなあ！じゃ、次は着物レンタルに行こう！", "chinese": "好好喔！那接下來去租和服吧！" },
+        { "speaker": "小美", "japanese": "楽しみ！右前だよね？左前は絶対ダメって聞いたよ。", "chinese": "好期待！要穿右前對吧？聽說左前是絕對不行的。" },
+        { "speaker": "小明", "japanese": "うん、左前は亡くなった人の着方だから、気をつけてね。", "chinese": "嗯，左前是去世的人的穿法，要注意喔。" },
+        { "speaker": "店員", "japanese": "お好きな着物をお選びください。着付けは三十分ほどかかります。", "chinese": "請選擇喜歡的和服。穿著大約需要三十分鐘。" },
+        { "speaker": "小美", "japanese": "この花柄がかわいい！これにします。", "chinese": "這個花紋好可愛！我要這個。" },
+        { "speaker": "小明", "japanese": "（着付けの後）すごい！似合ってるよ！写真撮ろう！", "chinese": "（穿好後）好好看！很適合你！來拍照吧！" },
+        { "speaker": "小美", "japanese": "竹林で撮りたい！でも走らないでね、着物だから小さい歩幅で歩かないと。", "chinese": "我想在竹林拍！但不要跑喔，穿和服要小步走才行。" },
+        { "speaker": "小明", "japanese": "了解！あ、ここは立入禁止だって。あっちの道から行こう。", "chinese": "了解！啊，這裡寫著禁止進入。走那邊的路吧。" },
+        { "speaker": "小美", "japanese": "マナーを守って、京都を楽しもう！", "chinese": "遵守禮儀，好好享受京都吧！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記複習",
+      "points": [
+        {
+          "pattern": "～てもいいですか / ～ないでください",
+          "meaning": "可以～嗎？ / 請不要～",
+          "structure": "動詞て形 + もいいですか / 動詞ない形 + でください",
+          "examples": [
+            { "japanese": "写真を撮ってもいいですか？", "chinese": "可以拍照嗎？" },
+            { "japanese": "触らないでください。", "chinese": "請不要觸摸。" },
+            { "japanese": "ここで食べてもいいですか？", "chinese": "可以在這裡吃東西嗎？" }
+          ],
+          "note": "「～てもいいですか」用來詢問許可，「～ないでください」用來禮貌地請求對方不要做某事。在觀光景點這兩個句型都非常實用。"
+        },
+        {
+          "pattern": "～をいただけますか / ～はいくらですか",
+          "meaning": "可以請給我～嗎？ / ～多少錢？",
+          "structure": "名詞 + をいただけますか / 名詞 + はいくらですか",
+          "examples": [
+            { "japanese": "お守りをいただけますか？", "chinese": "可以請給我御守嗎？" },
+            { "japanese": "おみくじはいくらですか？", "chinese": "抽籤多少錢？" },
+            { "japanese": "絵馬をいただけますか？", "chinese": "可以請給我繪馬嗎？" }
+          ],
+          "note": "在神社購物時，用「いただけますか」比「ください」更禮貌。「はいくらですか」則是詢問價格的基本句型。"
+        },
+        {
+          "pattern": "～にします / ～にしよう",
+          "meaning": "我要～ / 我們就～吧",
+          "structure": "名詞 + にします（禮貌）/ 名詞 + にしよう（朋友間）",
+          "examples": [
+            { "japanese": "この花柄にします。", "chinese": "我要這個花紋的。" },
+            { "japanese": "着物にしよう。", "chinese": "選和服吧。" },
+            { "japanese": "伏見稲荷に行こう。", "chinese": "去伏見稻荷吧。" }
+          ],
+          "note": "「にします」用於向店員做選擇時（禮貌），「にしよう」用於和朋友一起做決定時（輕鬆）。「行こう」是「行きましょう」的口語版。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "撮影禁止", "reading": "さつえいきんし", "romaji": "satsuei kinshi", "chinese": "禁止拍攝" },
+        { "japanese": "立入禁止", "reading": "たちいりきんし", "romaji": "tachiiri kinshi", "chinese": "禁止進入" },
+        { "japanese": "二礼二拍手一礼", "reading": "にれいにはくしゅいちれい", "romaji": "nirei nihakushu ichirei", "chinese": "二鞠躬二拍手一鞠躬" },
+        { "japanese": "お守り", "reading": "おまもり", "romaji": "omamori", "chinese": "御守" },
+        { "japanese": "おみくじ", "reading": "おみくじ", "romaji": "omikuji", "chinese": "抽籤" },
+        { "japanese": "着物", "reading": "きもの", "romaji": "kimono", "chinese": "和服" },
+        { "japanese": "右前", "reading": "みぎまえ", "romaji": "migimae", "chinese": "右前（正確穿法）" },
+        { "japanese": "着付け", "reading": "きつけ", "romaji": "kitsuke", "chinese": "穿著和服" },
+        { "japanese": "マナー", "reading": "マナー", "romaji": "manaa", "chinese": "禮儀" },
+        { "japanese": "鳥居", "reading": "とりい", "romaji": "torii", "chinese": "鳥居" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "綜合複習測驗",
+      "questions": [
+        {
+          "question": "在神社參拜道上，為什麼不能走正中央？",
+          "options": ["因為正中央太擁擠", "因為正中央是神明走的路", "因為正中央比較危險", "因為有規定只能走左邊"],
+          "correct": 1,
+          "explanation": "參拜道的正中央被認為是「神様の通り道」（神明的通道），所以參拜者應該走旁邊以示敬意。"
+        },
+        {
+          "question": "看到「立入禁止」的標示，你應該怎麼做？",
+          "options": ["快速通過就好", "不可以進入該區域", "可以進去但不能拍照", "只有外國人不能進入"],
+          "correct": 1,
+          "explanation": "「立入禁止」就是「禁止進入」的意思，任何人都不可以進入該區域。"
+        },
+        {
+          "question": "和服穿成「左前」會怎麼樣？",
+          "options": ["很時尚", "是正確的穿法", "是壽衣的穿法，非常不吉利", "只有男性可以這樣穿"],
+          "correct": 2,
+          "explanation": "「左前」是為死者穿壽衣的穿法，活人穿成左前是大忌。正確的穿法是「右前」。"
+        },
+        {
+          "question": "在神社，以下哪個行為是正確的？",
+          "options": ["用筷子投賽銭", "在手水舎直接用嘴喝水", "投五円硬幣求好緣分", "在本殿前大聲說話"],
+          "correct": 2,
+          "explanation": "投五円（ごえん）是因為與「ご縁」（好緣分）諧音，被認為能帶來好運。手水舎要用手接水漱口，不能直接喝。"
+        },
+        {
+          "question": "以下關於租借和服的敘述，哪個是正確的？",
+          "options": ["不需要預約，直接去就好", "和服要自己穿", "穿好大約需要 20～30 分鐘，由專業人員協助", "可以把和服帶回家"],
+          "correct": 2,
+          "explanation": "租借和服時由專業人員幫忙穿著（着付け），通常需要 20～30 分鐘。建議事先預約，且需在指定時間前歸還。"
+        },
+        {
+          "question": "想問某個地方能不能拍照，最禮貌的問法是？",
+          "options": ["写真を撮ります", "写真を撮ってもいいですか？", "撮影禁止ですか？", "写真を撮りたいです"],
+          "correct": 1,
+          "explanation": "「写真を撮ってもいいですか？」（可以拍照嗎？）是詢問許可的禮貌說法，在觀光景點最為恰當。"
+        },
+        {
+          "question": "神社的「二礼二拍手一礼」正確順序是？",
+          "options": ["拍手兩次→鞠躬兩次→祈禱→鞠躬一次", "鞠躬兩次→拍手兩次→祈禱→鞠躬一次", "鞠躬一次→拍手兩次→祈禱→鞠躬兩次", "拍手一次→鞠躬兩次→祈禱→拍手一次"],
+          "correct": 1,
+          "explanation": "正確順序是：先鞠躬兩次（二礼），再拍手兩次（二拍手），然後祈禱，最後再鞠躬一次（一礼）。"
+        },
+        {
+          "question": "穿和服時，以下哪個行為是正確的？",
+          "options": ["大步走路展現氣勢", "小步走路，動作優雅", "跑步趕時間", "雙手大幅度擺動"],
+          "correct": 1,
+          "explanation": "穿和服時要小步走路、動作優雅、手肘不要抬太高。這不僅是禮儀，也能避免弄鬆和服。"
+        }
+      ]
+    }
+  ]
+}

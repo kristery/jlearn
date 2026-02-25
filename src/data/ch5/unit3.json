@@ -1,0 +1,275 @@
+{
+  "id": "ch5-unit3",
+  "title": "安心點餐～挑食、過敏、吃素必備用語",
+  "intro": "有食物過敏？吃素？不敢吃某些食材？在日本點餐時，能清楚表達自己的飲食限制非常重要。這一課教你如何用日文說明過敏原、詢問食材成分，讓你在日本也能安心用餐。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "アレルギー",
+          "reading": "アレルギー",
+          "romaji": "arerugii",
+          "chinese": "過敏",
+          "example": "卵アレルギーがあります。",
+          "exampleChinese": "我有蛋過敏。"
+        },
+        {
+          "japanese": "卵",
+          "reading": "たまご",
+          "romaji": "tamago",
+          "chinese": "蛋",
+          "example": "卵は入っていますか？",
+          "exampleChinese": "裡面有蛋嗎？"
+        },
+        {
+          "japanese": "牛乳",
+          "reading": "ぎゅうにゅう",
+          "romaji": "gyuunyuu",
+          "chinese": "牛奶",
+          "example": "牛乳アレルギーがあります。",
+          "exampleChinese": "我有牛奶過敏。"
+        },
+        {
+          "japanese": "小麦",
+          "reading": "こむぎ",
+          "romaji": "komugi",
+          "chinese": "小麥",
+          "example": "小麦は食べられません。",
+          "exampleChinese": "我不能吃小麥。"
+        },
+        {
+          "japanese": "えび",
+          "reading": "えび",
+          "romaji": "ebi",
+          "chinese": "蝦",
+          "example": "えびアレルギーがあるので、えび抜きでお願いします。",
+          "exampleChinese": "我有蝦子過敏，請幫我去掉蝦子。"
+        },
+        {
+          "japanese": "ベジタリアン",
+          "reading": "ベジタリアン",
+          "romaji": "bejitarian",
+          "chinese": "素食者",
+          "example": "私はベジタリアンです。",
+          "exampleChinese": "我是素食者。"
+        },
+        {
+          "japanese": "肉",
+          "reading": "にく",
+          "romaji": "niku",
+          "chinese": "肉",
+          "example": "肉は食べられません。",
+          "exampleChinese": "我不能吃肉。"
+        },
+        {
+          "japanese": "魚",
+          "reading": "さかな",
+          "romaji": "sakana",
+          "chinese": "魚",
+          "example": "魚は大丈夫ですか？",
+          "exampleChinese": "有魚可以嗎？"
+        },
+        {
+          "japanese": "抜き",
+          "reading": "ぬき",
+          "romaji": "nuki",
+          "chinese": "去掉；不要",
+          "example": "ネギ抜きでお願いします。",
+          "exampleChinese": "請幫我去掉蔥。"
+        },
+        {
+          "japanese": "入っていますか",
+          "reading": "はいっていますか",
+          "romaji": "haitte imasu ka",
+          "chinese": "裡面有（含）嗎？",
+          "example": "この料理に卵は入っていますか？",
+          "exampleChinese": "這道菜裡面有蛋嗎？"
+        },
+        {
+          "japanese": "食べられません",
+          "reading": "たべられません",
+          "romaji": "taberaremasen",
+          "chinese": "不能吃",
+          "example": "甲殻類は食べられません。",
+          "exampleChinese": "我不能吃甲殼類。"
+        },
+        {
+          "japanese": "辛い",
+          "reading": "からい",
+          "romaji": "karai",
+          "chinese": "辣的",
+          "example": "辛い料理は食べられません。",
+          "exampleChinese": "我不能吃辣的。"
+        },
+        {
+          "japanese": "ナッツ",
+          "reading": "ナッツ",
+          "romaji": "nattsu",
+          "chinese": "堅果",
+          "example": "ナッツアレルギーがあります。",
+          "exampleChinese": "我有堅果過敏。"
+        },
+        {
+          "japanese": "甲殻類",
+          "reading": "こうかくるい",
+          "romaji": "koukakurui",
+          "chinese": "甲殼類",
+          "example": "甲殻類は全部食べられません。",
+          "exampleChinese": "甲殼類全部不能吃。"
+        },
+        {
+          "japanese": "グルテンフリー",
+          "reading": "グルテンフリー",
+          "romaji": "gurutenfurii",
+          "chinese": "無麩質",
+          "example": "グルテンフリーのメニューはありますか？",
+          "exampleChinese": "有無麩質的菜單嗎？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "小美有蛋過敏和堅果過敏，而且不吃肉。她在餐廳跟店員溝通自己的飲食需求。",
+      "lines": [
+        { "speaker": "店員", "japanese": "ご注文はお決まりですか？", "chinese": "請問您決定好要點什麼了嗎？" },
+        { "speaker": "小美", "japanese": "すみません、質問してもいいですか？", "chinese": "不好意思，我可以問一下嗎？" },
+        { "speaker": "店員", "japanese": "はい、どうぞ。", "chinese": "好的，請說。" },
+        { "speaker": "小美", "japanese": "私は卵アレルギーとナッツアレルギーがあります。この定食に卵やナッツは入っていますか？", "chinese": "我有蛋過敏和堅果過敏。這個定食裡面有蛋或堅果嗎？" },
+        { "speaker": "店員", "japanese": "少々お待ちください。確認します。…はい、卵が入っています。ナッツは入っていません。", "chinese": "請稍等，我確認一下。⋯⋯是的，裡面有蛋。堅果沒有。" },
+        { "speaker": "小美", "japanese": "そうですか。卵抜きにできますか？", "chinese": "這樣啊。可以去掉蛋嗎？" },
+        { "speaker": "店員", "japanese": "はい、卵抜きにできますよ。", "chinese": "可以的，可以幫您去掉蛋。" },
+        { "speaker": "小美", "japanese": "ありがとうございます。あと、肉も食べられないんです。ベジタリアン向けのメニューはありますか？", "chinese": "謝謝。另外，我也不能吃肉。有素食的菜單嗎？" },
+        { "speaker": "店員", "japanese": "こちらの野菜カレーはいかがですか？肉は入っていません。", "chinese": "這個蔬菜咖哩如何？裡面沒有肉。" },
+        { "speaker": "小美", "japanese": "それはグルテンフリーですか？友達がグルテンフリーの食事を探しているんです。", "chinese": "那個是無麩質的嗎？朋友在找無麩質的餐點。" },
+        { "speaker": "店員", "japanese": "申し訳ございません、カレーのルーに小麦が入っています。グルテンフリーのメニューはこちらのサラダプレートになります。", "chinese": "非常抱歉，咖哩的醬料裡面有小麥。無麩質的菜單是這個沙拉盤。" },
+        { "speaker": "小美", "japanese": "分かりました。じゃ、私は野菜カレーを卵抜きでお願いします。友達はサラダプレートにします。", "chinese": "我知道了。那我要蔬菜咖哩，請去掉蛋。朋友要沙拉盤。" },
+        { "speaker": "店員", "japanese": "かしこまりました。アレルギーの件、キッチンにもしっかり伝えますのでご安心ください。", "chinese": "好的，沒問題。過敏的事情我會確實轉告廚房，請放心。" },
+        { "speaker": "小美", "japanese": "ありがとうございます。助かります！", "chinese": "謝謝。幫了大忙！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～が入っていますか？",
+          "meaning": "裡面有～嗎？",
+          "structure": "食材名 + が入っていますか？",
+          "examples": [
+            { "japanese": "この料理に卵が入っていますか？", "chinese": "這道菜裡面有蛋嗎？" },
+            { "japanese": "小麦が入っていますか？", "chinese": "裡面有小麥嗎？" },
+            { "japanese": "ナッツは入っていますか？", "chinese": "裡面有堅果嗎？" }
+          ],
+          "note": "「入っています」是「入る（進入）」的持續狀態，表示某個東西已經包含在裡面。用這個句型可以確認食材成分。"
+        },
+        {
+          "pattern": "～アレルギーがあります",
+          "meaning": "我有～過敏",
+          "structure": "過敏原 + アレルギーがあります",
+          "examples": [
+            { "japanese": "卵アレルギーがあります。", "chinese": "我有蛋過敏。" },
+            { "japanese": "えびアレルギーがあります。", "chinese": "我有蝦子過敏。" },
+            { "japanese": "ナッツアレルギーがあります。", "chinese": "我有堅果過敏。" }
+          ],
+          "note": "直接在過敏原後面接「アレルギーがあります」即可。建議事先記好自己的過敏原日文，在日本用餐時非常實用。"
+        },
+        {
+          "pattern": "～抜きでお願いします",
+          "meaning": "請幫我去掉～",
+          "structure": "食材名 + 抜き + でお願いします",
+          "examples": [
+            { "japanese": "ネギ抜きでお願いします。", "chinese": "請幫我去掉蔥。" },
+            { "japanese": "わさび抜きでお願いします。", "chinese": "請幫我去掉芥末。" },
+            { "japanese": "卵抜きでお願いします。", "chinese": "請幫我去掉蛋。" }
+          ],
+          "note": "「抜き（ぬき）」就是「去掉、不要」的意思。非常實用的句型，不管是過敏還是單純挑食都用得到！"
+        },
+        {
+          "pattern": "～は食べられません",
+          "meaning": "我不能吃～",
+          "structure": "食材名 + は食べられません",
+          "examples": [
+            { "japanese": "肉は食べられません。", "chinese": "我不能吃肉。" },
+            { "japanese": "生ものは食べられません。", "chinese": "我不能吃生食。" },
+            { "japanese": "甲殻類は食べられません。", "chinese": "我不能吃甲殼類。" }
+          ],
+          "note": "「食べられません」是「食べる（吃）」的可能形否定。用這個句型可以明確表達你無法食用某種食物。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "アレルギー", "reading": "アレルギー", "romaji": "arerugii", "chinese": "過敏" },
+        { "japanese": "卵", "reading": "たまご", "romaji": "tamago", "chinese": "蛋" },
+        { "japanese": "小麦", "reading": "こむぎ", "romaji": "komugi", "chinese": "小麥" },
+        { "japanese": "抜き", "reading": "ぬき", "romaji": "nuki", "chinese": "去掉；不要" },
+        { "japanese": "ベジタリアン", "reading": "ベジタリアン", "romaji": "bejitarian", "chinese": "素食者" },
+        { "japanese": "辛い", "reading": "からい", "romaji": "karai", "chinese": "辣的" },
+        { "japanese": "ナッツ", "reading": "ナッツ", "romaji": "nattsu", "chinese": "堅果" },
+        { "japanese": "甲殻類", "reading": "こうかくるい", "romaji": "koukakurui", "chinese": "甲殼類" },
+        { "japanese": "グルテンフリー", "reading": "グルテンフリー", "romaji": "gurutenfurii", "chinese": "無麩質" },
+        { "japanese": "食べられません", "reading": "たべられません", "romaji": "taberaremasen", "chinese": "不能吃" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "有蛋過敏，應該怎麼告訴店員？",
+          "options": ["卵が好きじゃないです", "卵アレルギーがあります", "卵は要りません", "卵を抜きます"],
+          "correct": 1,
+          "explanation": "表達過敏的正確說法是「～アレルギーがあります」。「卵アレルギーがあります」就是「我有蛋過敏」。"
+        },
+        {
+          "question": "想請店員把蔥去掉，應該怎麼說？",
+          "options": ["ネギはいいです", "ネギを取ってください", "ネギ抜きでお願いします", "ネギはダメです"],
+          "correct": 2,
+          "explanation": "「～抜きでお願いします」是請店員去掉某食材的標準說法。「ネギ抜きでお願いします」就是「請幫我去掉蔥」。"
+        },
+        {
+          "question": "「この料理に小麦が入っていますか？」是什麼意思？",
+          "options": ["這道菜好吃嗎？", "這道菜裡有小麥嗎？", "這道菜可以加小麥嗎？", "這道菜是小麥做的嗎？"],
+          "correct": 1,
+          "explanation": "「～が入っていますか？」是詢問是否含有某食材。這句話是在問「這道菜裡有小麥嗎？」"
+        },
+        {
+          "question": "「辛い」的讀音和意思是什麼？",
+          "options": ["つらい／難過的", "からい／辣的", "にがい／苦的", "すっぱい／酸的"],
+          "correct": 1,
+          "explanation": "「辛い」在食物的語境中讀作「からい」，意思是「辣的」。注意它也可以讀作「つらい」表示痛苦，但在美食場景中通常是「辣」。"
+        },
+        {
+          "question": "告訴店員自己是素食者，下列哪個說法最恰當？",
+          "options": ["野菜が好きです", "肉が嫌いです", "私はベジタリアンです", "肉はまずいです"],
+          "correct": 2,
+          "explanation": "最直接明確的說法是「私はベジタリアンです」（我是素食者）。這樣店員可以馬上理解你的飲食限制。"
+        },
+        {
+          "question": "「ナッツ」是什麼意思？",
+          "options": ["堅果", "牛奶", "蝦子", "小麥"],
+          "correct": 0,
+          "explanation": "「ナッツ」是堅果的意思，來自英文 nuts。堅果過敏（ナッツアレルギー）是常見的過敏之一。"
+        },
+        {
+          "question": "「グルテンフリーのメニューはありますか？」是什麼意思？",
+          "options": ["有免費的菜單嗎？", "有無麩質的菜單嗎？", "有素食菜單嗎？", "有英文菜單嗎？"],
+          "correct": 1,
+          "explanation": "「グルテンフリー」是「無麩質」的意思（來自英文 gluten-free）。這句是在問有沒有無麩質的餐點選擇。"
+        },
+        {
+          "question": "「甲殻類」指的是什麼？",
+          "options": ["蛋類", "堅果類", "甲殼類（蝦、蟹等）", "乳製品"],
+          "correct": 2,
+          "explanation": "「甲殻類（こうかくるい）」是甲殼類的意思，包括蝦（えび）和蟹（かに）等。有甲殼類過敏的人要特別注意。"
+        }
+      ]
+    }
+  ]
+}

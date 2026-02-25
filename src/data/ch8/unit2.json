@@ -1,0 +1,399 @@
+{
+  "id": "ch8-unit2",
+  "title": "從語言看台日思維差異：如何避免文化尷尬？",
+  "intro": "日本文化中有許多「潛規則」，不像台灣那麼直接。日本人擅長「讀空氣」、用委婉的方式表達拒絕，還區分「建前」（表面話）和「本音」（真心話）。學會這些文化眉角，才能避免讓彼此尷尬！這一課我們來了解這些台日思維差異，讓你在日本更自在地交流。",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "遠慮",
+          "reading": "えんりょ",
+          "romaji": "enryo",
+          "chinese": "客氣、顧慮",
+          "example": "遠慮しないでください。",
+          "exampleChinese": "請不要客氣。"
+        },
+        {
+          "japanese": "空気を読む",
+          "reading": "くうきをよむ",
+          "romaji": "kuuki wo yomu",
+          "chinese": "讀空氣、察言觀色",
+          "example": "日本では空気を読むことが大切です。",
+          "exampleChinese": "在日本，察言觀色很重要。"
+        },
+        {
+          "japanese": "建前",
+          "reading": "たてまえ",
+          "romaji": "tatemae",
+          "chinese": "表面話、場面話",
+          "example": "それは建前だと思います。",
+          "exampleChinese": "我覺得那是場面話。"
+        },
+        {
+          "japanese": "本音",
+          "reading": "ほんね",
+          "romaji": "honne",
+          "chinese": "真心話、內心真正的想法",
+          "example": "本音を言ってもいいですか？",
+          "exampleChinese": "我可以說真心話嗎？"
+        },
+        {
+          "japanese": "曖昧",
+          "reading": "あいまい",
+          "romaji": "aimai",
+          "chinese": "曖昧、模糊",
+          "example": "日本語は曖昧な表現が多いです。",
+          "exampleChinese": "日語中有很多曖昧模糊的表達。"
+        },
+        {
+          "japanese": "お世辞",
+          "reading": "おせじ",
+          "romaji": "oseji",
+          "chinese": "恭維、客套話",
+          "example": "お世辞じゃなくて、本当に上手ですよ。",
+          "exampleChinese": "不是客套話，你真的很厲害喔。"
+        },
+        {
+          "japanese": "謙遜",
+          "reading": "けんそん",
+          "romaji": "kenson",
+          "chinese": "謙虛",
+          "example": "日本人は謙遜する文化があります。",
+          "exampleChinese": "日本人有謙虛的文化。"
+        },
+        {
+          "japanese": "失礼",
+          "reading": "しつれい",
+          "romaji": "shitsurei",
+          "chinese": "失禮、不好意思",
+          "example": "失礼ですが、お名前は？",
+          "exampleChinese": "不好意思，請問您的名字是？"
+        },
+        {
+          "japanese": "迷惑",
+          "reading": "めいわく",
+          "romaji": "meiwaku",
+          "chinese": "造成困擾",
+          "example": "迷惑をかけてすみません。",
+          "exampleChinese": "造成你的困擾真抱歉。"
+        },
+        {
+          "japanese": "我慢",
+          "reading": "がまん",
+          "romaji": "gaman",
+          "chinese": "忍耐",
+          "example": "日本人は我慢することが多いです。",
+          "exampleChinese": "日本人經常忍耐。"
+        },
+        {
+          "japanese": "気遣い",
+          "reading": "きづかい",
+          "romaji": "kizukai",
+          "chinese": "體貼、關心",
+          "example": "日本人は気遣いが上手です。",
+          "exampleChinese": "日本人很擅長體貼別人。"
+        },
+        {
+          "japanese": "察する",
+          "reading": "さっする",
+          "romaji": "sassuru",
+          "chinese": "體察、揣摩",
+          "example": "相手の気持ちを察することが大切です。",
+          "exampleChinese": "體察對方的心情很重要。"
+        },
+        {
+          "japanese": "都合",
+          "reading": "つごう",
+          "romaji": "tsugou",
+          "chinese": "方便、時間合適",
+          "example": "都合が悪いです。",
+          "exampleChinese": "不太方便。"
+        },
+        {
+          "japanese": "和",
+          "reading": "わ",
+          "romaji": "wa",
+          "chinese": "和諧、和睦",
+          "example": "日本人は和を大切にします。",
+          "exampleChinese": "日本人重視和諧。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "Kuma桑邀請日本朋友佐藤小姐週末出去玩，但佐藤小姐其實不太方便。注意她委婉拒絕的方式。",
+      "lines": [
+        {
+          "speaker": "Kuma桑",
+          "japanese": "佐藤さん、土曜日に一緒に買い物に行きませんか？",
+          "chinese": "佐藤小姐，星期六要不要一起去逛街？"
+        },
+        {
+          "speaker": "佐藤",
+          "japanese": "土曜日ですか…ちょっと…",
+          "chinese": "星期六啊⋯有點⋯"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "あ、都合が悪いですか？",
+          "chinese": "啊，不方便嗎？"
+        },
+        {
+          "speaker": "佐藤",
+          "japanese": "すみません、ちょっと用事があるかもしれません。",
+          "chinese": "不好意思，我可能有點事。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "そうですか。じゃあ、日曜日はどうですか？",
+          "chinese": "這樣啊。那星期天怎麼樣？"
+        },
+        {
+          "speaker": "佐藤",
+          "japanese": "日曜日も…ちょっと難しいかもしれません。すみません。",
+          "chinese": "星期天也⋯可能有點困難。不好意思。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "わかりました。じゃあ、また今度にしましょう。",
+          "chinese": "我了解了。那就下次再約吧。"
+        },
+        {
+          "speaker": "佐藤",
+          "japanese": "はい、ぜひ！また誘ってくださいね。",
+          "chinese": "好的，一定！請再邀請我喔。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "もちろん！気遣いありがとうございます。",
+          "chinese": "當然！謝謝你的體貼。"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "Kumaさん、佐藤さんの「ちょっと…」は、遠慮してるんだと思いますよ。",
+          "chinese": "Kuma桑，佐藤小姐的「有點⋯」，我覺得她是在客氣地拒絕喔。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "ああ、そうなんですか。空気を読むのは難しいですね。",
+          "chinese": "啊，原來如此。讀空氣真的好難啊。"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "大丈夫ですよ。日本人も時々わからないです。",
+          "chinese": "沒關係的。日本人有時候也搞不清楚呢。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "ちょっと…（委婉拒絕）",
+          "meaning": "有點⋯（其實是在拒絕）",
+          "structure": "ちょっと + …（後面不說完）",
+          "examples": [
+            {
+              "japanese": "A: 今夜飲みに行きませんか？ B: ちょっと…",
+              "chinese": "A: 今晚要不要去喝一杯？B: 有點⋯（= 不太方便）"
+            },
+            {
+              "japanese": "A: この仕事を手伝ってくれませんか？ B: ちょっと難しいです…",
+              "chinese": "A: 可以幫我做這個工作嗎？B: 有點困難⋯（= 我不太想做）"
+            },
+            {
+              "japanese": "A: 明日の会議に来られますか？ B: 明日はちょっと…",
+              "chinese": "A: 明天的會議你能來嗎？B: 明天有點⋯（= 我不能去）"
+            }
+          ],
+          "note": "日本人很少直接說「いいえ（不要）」，而是用「ちょっと⋯」來委婉拒絕。後面故意不說完，讓對方自己理解意思。這是非常重要的日本文化特色！如果對方說「ちょっと⋯」，通常就是在婉拒了。"
+        },
+        {
+          "pattern": "～かもしれません",
+          "meaning": "也許～、可能～",
+          "structure": "動詞普通形 / 形容詞 / 名詞 + かもしれません",
+          "examples": [
+            {
+              "japanese": "明日は雨が降るかもしれません。",
+              "chinese": "明天可能會下雨。"
+            },
+            {
+              "japanese": "ちょっと遅れるかもしれません。",
+              "chinese": "可能會稍微遲到。"
+            },
+            {
+              "japanese": "用事があるかもしれません。",
+              "chinese": "可能有事。"
+            }
+          ],
+          "note": "「かもしれません」表示不確定的推測，語氣比「でしょう」更不確定。日本人常用這個句型來讓說法更委婉、不那麼絕對。"
+        },
+        {
+          "pattern": "～と思います",
+          "meaning": "我覺得～、我認為～",
+          "structure": "普通形 + と思います",
+          "examples": [
+            {
+              "japanese": "日本の文化は面白いと思います。",
+              "chinese": "我覺得日本的文化很有趣。"
+            },
+            {
+              "japanese": "彼は来ないと思います。",
+              "chinese": "我覺得他不會來。"
+            },
+            {
+              "japanese": "それは建前だと思います。",
+              "chinese": "我覺得那是場面話。"
+            }
+          ],
+          "note": "「～と思います」用來表達自己的意見或想法。加上「と思います」可以讓語氣更柔和，不那麼武斷，很符合日本人避免太直接的文化習慣。"
+        },
+        {
+          "pattern": "～んだと思います",
+          "meaning": "我覺得是因為～（推測原因）",
+          "structure": "普通形 + んだと思います",
+          "examples": [
+            {
+              "japanese": "遠慮してるんだと思います。",
+              "chinese": "我覺得她是在客氣（婉拒）。"
+            },
+            {
+              "japanese": "忙しいんだと思います。",
+              "chinese": "我覺得（他）是太忙了。"
+            },
+            {
+              "japanese": "都合が悪いんだと思います。",
+              "chinese": "我覺得他是不方便。"
+            }
+          ],
+          "note": "「んだ」是「のだ」的口語形，用來解釋或推測原因。「～んだと思います」是在推測某件事背後的原因或理由，語氣非常自然。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "遠慮",
+          "reading": "えんりょ",
+          "romaji": "enryo",
+          "chinese": "客氣、顧慮"
+        },
+        {
+          "japanese": "空気を読む",
+          "reading": "くうきをよむ",
+          "romaji": "kuuki wo yomu",
+          "chinese": "讀空氣、察言觀色"
+        },
+        {
+          "japanese": "建前",
+          "reading": "たてまえ",
+          "romaji": "tatemae",
+          "chinese": "表面話、場面話"
+        },
+        {
+          "japanese": "本音",
+          "reading": "ほんね",
+          "romaji": "honne",
+          "chinese": "真心話"
+        },
+        {
+          "japanese": "曖昧",
+          "reading": "あいまい",
+          "romaji": "aimai",
+          "chinese": "曖昧、模糊"
+        },
+        {
+          "japanese": "気遣い",
+          "reading": "きづかい",
+          "romaji": "kizukai",
+          "chinese": "體貼、關心"
+        },
+        {
+          "japanese": "迷惑",
+          "reading": "めいわく",
+          "romaji": "meiwaku",
+          "chinese": "造成困擾"
+        },
+        {
+          "japanese": "我慢",
+          "reading": "がまん",
+          "romaji": "gaman",
+          "chinese": "忍耐"
+        },
+        {
+          "japanese": "察する",
+          "reading": "さっする",
+          "romaji": "sassuru",
+          "chinese": "體察、揣摩"
+        },
+        {
+          "japanese": "和",
+          "reading": "わ",
+          "romaji": "wa",
+          "chinese": "和諧、和睦"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "日本人說「ちょっと⋯」通常代表什麼意思？",
+          "options": ["等一下", "我很期待", "委婉地拒絕", "我很開心"],
+          "correct": 2,
+          "explanation": "日本人說「ちょっと⋯」然後話不說完，通常就是在委婉地拒絕。這是非常重要的日本文化特色。"
+        },
+        {
+          "question": "「空気を読む」是什麼意思？",
+          "options": ["閱讀書籍", "呼吸新鮮空氣", "察言觀色", "看天氣預報"],
+          "correct": 2,
+          "explanation": "「空気を読む」字面意思是「讀空氣」，實際意思是察言觀色、理解氛圍的意思。"
+        },
+        {
+          "question": "「建前」和「本音」分別是什麼意思？",
+          "options": ["前面和後面", "表面話和真心話", "過去和現在", "左邊和右邊"],
+          "correct": 1,
+          "explanation": "「建前（たてまえ）」是表面話、場面話，「本音（ほんね）」是真心話、內心真正的想法。這是日本文化中非常重要的概念。"
+        },
+        {
+          "question": "想表達「我覺得日語很有趣」，正確的說法是？",
+          "options": ["日本語は面白いでした", "日本語は面白いと思います", "日本語は面白いでしょう", "日本語は面白いかもしれません"],
+          "correct": 1,
+          "explanation": "「～と思います」是「我覺得～」的意思。「日本語は面白いと思います」是最正確的表達。"
+        },
+        {
+          "question": "「遠慮しないでください」是什麼意思？",
+          "options": ["請不要來", "請不要說話", "請不要客氣", "請不要走"],
+          "correct": 2,
+          "explanation": "「遠慮しないでください」是「請不要客氣」的意思。「遠慮」是客氣、顧慮的意思。"
+        },
+        {
+          "question": "「気遣い」是什麼意思？",
+          "options": ["生氣", "體貼、關心", "不在乎", "擔心"],
+          "correct": 1,
+          "explanation": "「気遣い（きづかい）」是體貼、關心的意思。日本人很重視對他人的気遣い。"
+        },
+        {
+          "question": "「都合が悪い」是什麼意思？",
+          "options": ["身體不好", "天氣不好", "不方便", "味道不好"],
+          "correct": 2,
+          "explanation": "「都合が悪い」是「不方便」的意思。「都合」是時間安排、方便與否的意思。常用於婉拒邀約。"
+        },
+        {
+          "question": "日本人重視「和」的文化，「和」是什麼意思？",
+          "options": ["食物", "和諧", "天氣", "金錢"],
+          "correct": 1,
+          "explanation": "「和（わ）」是和諧、和睦的意思。日本人非常重視團體的和諧，避免正面衝突，這也是為什麼他們經常使用委婉表達的原因。"
+        }
+      ]
+    }
+  ]
+}

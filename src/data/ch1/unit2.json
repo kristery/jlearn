@@ -1,0 +1,374 @@
+{
+  "id": "ch1-unit2",
+  "title": "學數字不出錯！教你價格與時間",
+  "intro": "數字是旅行中最不可或缺的能力！不論是買東西看價格、搭車看時刻表，都需要聽懂和說出日語數字。本單元從 1 到 10000，再到時間表達，一次學會！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "一",
+          "reading": "いち",
+          "romaji": "ichi",
+          "chinese": "一",
+          "example": "一つください。",
+          "exampleChinese": "請給我一個。"
+        },
+        {
+          "japanese": "二",
+          "reading": "に",
+          "romaji": "ni",
+          "chinese": "二",
+          "example": "二番線です。",
+          "exampleChinese": "是第二月台。"
+        },
+        {
+          "japanese": "三",
+          "reading": "さん",
+          "romaji": "san",
+          "chinese": "三",
+          "example": "三時に会いましょう。",
+          "exampleChinese": "三點見吧。"
+        },
+        {
+          "japanese": "四",
+          "reading": "よん／し",
+          "romaji": "yon / shi",
+          "chinese": "四",
+          "example": "四人です。",
+          "exampleChinese": "四個人。"
+        },
+        {
+          "japanese": "五",
+          "reading": "ご",
+          "romaji": "go",
+          "chinese": "五",
+          "example": "五分待ってください。",
+          "exampleChinese": "請等五分鐘。"
+        },
+        {
+          "japanese": "六",
+          "reading": "ろく",
+          "romaji": "roku",
+          "chinese": "六",
+          "example": "六百円です。",
+          "exampleChinese": "六百日圓。"
+        },
+        {
+          "japanese": "七",
+          "reading": "なな／しち",
+          "romaji": "nana / shichi",
+          "chinese": "七",
+          "example": "七時に起きます。",
+          "exampleChinese": "七點起床。"
+        },
+        {
+          "japanese": "八",
+          "reading": "はち",
+          "romaji": "hachi",
+          "chinese": "八",
+          "example": "八百屋に行きます。",
+          "exampleChinese": "去蔬果店。"
+        },
+        {
+          "japanese": "九",
+          "reading": "きゅう／く",
+          "romaji": "kyuu / ku",
+          "chinese": "九",
+          "example": "九時半です。",
+          "exampleChinese": "九點半。"
+        },
+        {
+          "japanese": "十",
+          "reading": "じゅう",
+          "romaji": "juu",
+          "chinese": "十",
+          "example": "十分ぐらいです。",
+          "exampleChinese": "大約十分鐘。"
+        },
+        {
+          "japanese": "百",
+          "reading": "ひゃく",
+          "romaji": "hyaku",
+          "chinese": "百",
+          "example": "三百円です。",
+          "exampleChinese": "三百日圓。"
+        },
+        {
+          "japanese": "千",
+          "reading": "せん",
+          "romaji": "sen",
+          "chinese": "千",
+          "example": "二千円でお願いします。",
+          "exampleChinese": "用兩千日圓結帳。"
+        },
+        {
+          "japanese": "万",
+          "reading": "まん",
+          "romaji": "man",
+          "chinese": "萬",
+          "example": "一万円札しかありません。",
+          "exampleChinese": "我只有一萬日圓的紙鈔。"
+        },
+        {
+          "japanese": "円",
+          "reading": "えん",
+          "romaji": "en",
+          "chinese": "日圓",
+          "example": "全部で千五百円です。",
+          "exampleChinese": "全部一千五百日圓。"
+        },
+        {
+          "japanese": "時",
+          "reading": "じ",
+          "romaji": "ji",
+          "chinese": "〜點（時間）",
+          "example": "今何時ですか？",
+          "exampleChinese": "現在幾點？"
+        },
+        {
+          "japanese": "分",
+          "reading": "ふん／ぷん",
+          "romaji": "fun / pun",
+          "chinese": "〜分（時間）",
+          "example": "十五分です。",
+          "exampleChinese": "十五分。"
+        },
+        {
+          "japanese": "半",
+          "reading": "はん",
+          "romaji": "han",
+          "chinese": "半（時間）",
+          "example": "三時半です。",
+          "exampleChinese": "三點半。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在便利商店結帳，詢問價格並付款。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ。", "chinese": "歡迎光臨。" },
+        { "speaker": "旅客", "japanese": "すみません、これはいくらですか？", "chinese": "不好意思，這個多少錢？" },
+        { "speaker": "店員", "japanese": "三百五十円です。", "chinese": "三百五十日圓。" },
+        { "speaker": "旅客", "japanese": "じゃ、これをください。千円でお願いします。", "chinese": "那我要這個。用一千日圓結帳。" },
+        { "speaker": "店員", "japanese": "六百五十円のお返しです。ありがとうございます。", "chinese": "找您六百五十日圓。謝謝。" },
+        { "speaker": "旅客", "japanese": "あの、あれはいくらですか？", "chinese": "請問，那個多少錢？" },
+        { "speaker": "店員", "japanese": "あちらは八百円です。", "chinese": "那個是八百日圓。" },
+        { "speaker": "旅客", "japanese": "じゃ、それもお願いします。", "chinese": "那也請給我那個。" },
+        { "speaker": "店員", "japanese": "全部で八百円です。一万円からでよろしいですか？", "chinese": "全部八百日圓。用一萬日圓找零可以嗎？" },
+        { "speaker": "旅客", "japanese": "はい、お願いします。", "chinese": "好的，麻煩了。" },
+        { "speaker": "店員", "japanese": "九千二百円のお返しです。ありがとうございました。", "chinese": "找您九千兩百日圓。謝謝惠顧。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。", "chinese": "謝謝。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在車站詢問電車時刻，以及和朋友約時間。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、今何時ですか？", "chinese": "不好意思，現在幾點？" },
+        { "speaker": "站務員", "japanese": "今、十時十五分です。", "chinese": "現在十點十五分。" },
+        { "speaker": "旅客", "japanese": "次の電車は何時ですか？", "chinese": "下一班電車幾點？" },
+        { "speaker": "站務員", "japanese": "次の電車は十時半です。", "chinese": "下一班電車是十點半。" },
+        { "speaker": "旅客", "japanese": "最終電車は何時ですか？", "chinese": "末班電車幾點？" },
+        { "speaker": "站務員", "japanese": "最終は十一時五十分です。", "chinese": "末班是十一點五十分。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。", "chinese": "謝謝。" },
+        { "speaker": "站務員", "japanese": "どういたしまして。", "chinese": "不客氣。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜円です",
+          "meaning": "〜日圓",
+          "structure": "數字 + 円 + です",
+          "examples": [
+            { "japanese": "五百円です。", "chinese": "五百日圓。" },
+            { "japanese": "千二百円です。", "chinese": "一千兩百日圓。" },
+            { "japanese": "二万五千円です。", "chinese": "兩萬五千日圓。" }
+          ],
+          "note": "說價格時，數字後面加上「円（えん）」。注意：三百（さんびゃく）、六百（ろっぴゃく）、八百（はっぴゃく）等發音有變化。"
+        },
+        {
+          "pattern": "いくらですか？",
+          "meaning": "多少錢？",
+          "structure": "（名詞 + は +）いくらですか？",
+          "examples": [
+            { "japanese": "これはいくらですか？", "chinese": "這個多少錢？" },
+            { "japanese": "全部でいくらですか？", "chinese": "全部多少錢？" },
+            { "japanese": "一つ、いくらですか？", "chinese": "一個多少錢？" }
+          ],
+          "note": "「いくら」是詢問價格的疑問詞。購物必備句！"
+        },
+        {
+          "pattern": "〜時〜分です",
+          "meaning": "〜點〜分",
+          "structure": "數字 + 時 +（數字 + 分）+ です",
+          "examples": [
+            { "japanese": "今三時十五分です。", "chinese": "現在三點十五分。" },
+            { "japanese": "七時半です。", "chinese": "七點半。" },
+            { "japanese": "十二時五十分です。", "chinese": "十二點五十分。" }
+          ],
+          "note": "「半（はん）」代表「半」，即 30 分。注意「分」的讀音：一分（いっぷん）、三分（さんぷん）、四分（よんぷん）、六分（ろっぷん）、八分（はっぷん）、十分（じゅっぷん）。"
+        },
+        {
+          "pattern": "何時ですか？",
+          "meaning": "幾點？",
+          "structure": "（主題 + は +）何時 + ですか？",
+          "examples": [
+            { "japanese": "今何時ですか？", "chinese": "現在幾點？" },
+            { "japanese": "電車は何時ですか？", "chinese": "電車幾點？" },
+            { "japanese": "お店は何時からですか？", "chinese": "店家幾點開始營業？" }
+          ],
+          "note": "「何時（なんじ）」是詢問時間的疑問詞。搭車、約見面時間都會用到！"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "百",
+          "reading": "ひゃく",
+          "romaji": "hyaku",
+          "chinese": "百",
+          "example": "三百円です。",
+          "exampleChinese": "三百日圓。"
+        },
+        {
+          "japanese": "千",
+          "reading": "せん",
+          "romaji": "sen",
+          "chinese": "千",
+          "example": "二千円でお願いします。",
+          "exampleChinese": "用兩千日圓結帳。"
+        },
+        {
+          "japanese": "万",
+          "reading": "まん",
+          "romaji": "man",
+          "chinese": "萬",
+          "example": "一万円札しかありません。",
+          "exampleChinese": "我只有一萬日圓的紙鈔。"
+        },
+        {
+          "japanese": "円",
+          "reading": "えん",
+          "romaji": "en",
+          "chinese": "日圓",
+          "example": "全部で千五百円です。",
+          "exampleChinese": "全部一千五百日圓。"
+        },
+        {
+          "japanese": "時",
+          "reading": "じ",
+          "romaji": "ji",
+          "chinese": "〜點（時間）",
+          "example": "今何時ですか？",
+          "exampleChinese": "現在幾點？"
+        },
+        {
+          "japanese": "分",
+          "reading": "ふん／ぷん",
+          "romaji": "fun / pun",
+          "chinese": "〜分（時間）",
+          "example": "十五分です。",
+          "exampleChinese": "十五分。"
+        },
+        {
+          "japanese": "半",
+          "reading": "はん",
+          "romaji": "han",
+          "chinese": "半（時間）",
+          "example": "三時半です。",
+          "exampleChinese": "三點半。"
+        },
+        {
+          "japanese": "四",
+          "reading": "よん／し",
+          "romaji": "yon / shi",
+          "chinese": "四",
+          "example": "四人です。",
+          "exampleChinese": "四個人。"
+        },
+        {
+          "japanese": "七",
+          "reading": "なな／しち",
+          "romaji": "nana / shichi",
+          "chinese": "七",
+          "example": "七時に起きます。",
+          "exampleChinese": "七點起床。"
+        },
+        {
+          "japanese": "九",
+          "reading": "きゅう／く",
+          "romaji": "kyuu / ku",
+          "chinese": "九",
+          "example": "九時半です。",
+          "exampleChinese": "九點半。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「さんびゃくごじゅうえん」是多少錢？",
+          "options": ["150 円", "305 円", "350 円", "3500 円"],
+          "correct": 2,
+          "explanation": "「さんびゃく（300）＋ごじゅう（50）＋えん（円）」＝ 350 円。注意三百的讀音是「さんびゃく」而非「さんひゃく」。"
+        },
+        {
+          "question": "「いくらですか」是什麼意思？",
+          "options": ["幾點？", "在哪裡？", "多少錢？", "什麼時候？"],
+          "correct": 2,
+          "explanation": "「いくらですか」是詢問價格的說法，意思是「多少錢？」"
+        },
+        {
+          "question": "「九時半」是幾點？",
+          "options": ["9:00", "9:15", "9:30", "9:50"],
+          "correct": 2,
+          "explanation": "「半（はん）」代表 30 分，所以「九時半」是 9:30。"
+        },
+        {
+          "question": "想問「現在幾點？」要怎麼說？",
+          "options": ["今いくらですか？", "今どこですか？", "今何時ですか？", "今何分ですか？"],
+          "correct": 2,
+          "explanation": "「今何時ですか？」是「現在幾點？」的意思。「何時（なんじ）」是詢問時間的用法。"
+        },
+        {
+          "question": "「ろっぴゃくえん」是多少？",
+          "options": ["60 円", "160 円", "600 円", "6000 円"],
+          "correct": 2,
+          "explanation": "「ろっぴゃく」是六百的讀音（發生了音變），所以答案是 600 円。"
+        },
+        {
+          "question": "「はっぴゃくえん」是多少？",
+          "options": ["80 円", "800 円", "180 円", "8000 円"],
+          "correct": 1,
+          "explanation": "「はっぴゃく」是八百的讀音（發生了音變），所以答案是 800 円。八的百位也會產生促音＋半濁音的音變。"
+        },
+        {
+          "question": "店員說「きゅうせんにひゃくえんのおかえしです」，找了多少錢？",
+          "options": ["920 円", "9020 円", "9200 円", "2900 円"],
+          "correct": 2,
+          "explanation": "「きゅうせん（9000）＋にひゃく（200）＋えん（円）」＝ 9200 円。「お返し（おかえし）」是找零的意思。"
+        },
+        {
+          "question": "「じゅういちじごじゅっぷん」是幾點幾分？",
+          "options": ["1:50", "10:50", "11:50", "11:15"],
+          "correct": 2,
+          "explanation": "「じゅういちじ（11 時）＋ごじゅっぷん（50 分）」＝ 11:50。注意「十分」的讀音是「じゅっぷん」，帶有促音和半濁音。"
+        }
+      ]
+    }
+  ]
+}

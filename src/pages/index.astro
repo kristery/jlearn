@@ -1,0 +1,116 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ChapterCard from '../components/ChapterCard.astro';
+import { chapters } from '../data/chapters';
+---
+<BaseLayout>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden">
+    <div class="absolute inset-0 seigaiha-pattern opacity-30"></div>
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 pt-16 pb-20 text-center">
+      <div class="absolute top-10 left-10 text-4xl opacity-20 animate-float">🌸</div>
+      <div class="absolute top-20 right-16 text-3xl opacity-15 animate-float" style="animation-delay: 1s">🌸</div>
+      <div class="absolute bottom-10 left-1/4 text-2xl opacity-10 animate-float" style="animation-delay: 2s">🌸</div>
+
+      <div class="animate-fade-in">
+        <span class="inline-block text-sm font-medium text-matcha-400 bg-matcha-50 px-4 py-1.5 rounded-full mb-6">
+          黑木太太的日語教室
+        </span>
+        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-ink leading-tight mb-4">
+          日本旅遊日語<br/>
+          <span class="text-sakura-400">從零開始</span>
+        </h1>
+        <p class="text-lg text-ink-light max-w-xl mx-auto mb-8 leading-relaxed">
+          用最生活化的方式學日文，8 大主題涵蓋交通、住宿、購物、美食，<br class="hidden sm:block"/>
+          讓你的日本之旅不再只靠翻譯機！
+        </p>
+        <div class="flex flex-col sm:flex-row gap-3 justify-center">
+          <a href="#chapters" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-matcha-400 text-white rounded-xl font-medium hover:bg-matcha-500 transition-colors shadow-sm">
+            開始學習
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
+            </svg>
+          </a>
+          <a href="#about" class="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-ink-light rounded-xl font-medium hover:bg-warm-100 transition-colors border border-warm-200">
+            了解更多
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What you'll learn -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-16">
+    <h2 class="text-2xl font-bold text-ink text-center mb-10">你可以學到</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+      {[
+        { icon: '🚃', label: '交通日語', desc: '問路、搭車、買票' },
+        { icon: '🏨', label: '住宿會話', desc: '入住、退房、求助' },
+        { icon: '🛍️', label: '購物對話', desc: '問尺寸、找商品、結帳' },
+        { icon: '🍜', label: '美食點餐', desc: '看菜單、點餐、結帳' },
+        { icon: '⛩️', label: '景點文化', desc: '參拜、體驗、禁忌' },
+        { icon: '🙇', label: '禮儀知識', desc: '鞠躬、敬語、寒暄' },
+        { icon: '🗣️', label: '聽力口說', desc: '聽得懂、說得出' },
+        { icon: '🎌', label: '文化差異', desc: '避開尷尬地雷' },
+      ].map((item) => (
+        <div class="bg-white rounded-2xl border border-warm-200/50 p-5 text-center card-hover">
+          <div class="text-3xl mb-2">{item.icon}</div>
+          <h3 class="font-semibold text-sm text-ink mb-1">{item.label}</h3>
+          <p class="text-xs text-ink-lighter">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Chapters -->
+  <section id="chapters" class="max-w-5xl mx-auto px-4 sm:px-6 py-16">
+    <div class="text-center mb-10">
+      <h2 class="text-2xl font-bold text-ink mb-2">課程章節</h2>
+      <p class="text-sm text-ink-lighter">8 大章節，40+ 個單元，從基礎到進階一次搞定</p>
+    </div>
+    <div class="grid sm:grid-cols-2 gap-5">
+      {chapters.map((ch) => (
+        <ChapterCard
+          id={ch.id}
+          title={ch.title}
+          subtitle={ch.subtitle}
+          description={ch.description}
+          icon={ch.icon}
+          unitCount={ch.units.length}
+        />
+      ))}
+    </div>
+  </section>
+
+  <!-- Target Audience -->
+  <section id="about" class="max-w-5xl mx-auto px-4 sm:px-6 py-16">
+    <div class="bg-gradient-to-br from-sakura-50 to-matcha-50 rounded-3xl p-8 sm:p-12">
+      <h2 class="text-2xl font-bold text-ink mb-8 text-center">誰適合這堂課？</h2>
+      <div class="grid sm:grid-cols-2 gap-6">
+        {[
+          { icon: '✈️', text: '喜歡到日本旅遊，想在交通、住宿、購物、餐廳等情境中不靠翻譯機、敢開口說' },
+          { icon: '📈', text: '希望提升旅遊體驗，讓你的日本行更順暢、有趣、對話互動更加流暢' },
+          { icon: '🎌', text: '對日本文化有興趣，想了解道地生活習慣與情境，避免旅遊犯錯或誤踩地雷' },
+          { icon: '🌱', text: '零基礎或初學程度者都能參加，帶你逐步熟悉熱門旅遊日語' },
+        ].map((item) => (
+          <div class="flex items-start gap-3">
+            <span class="text-2xl shrink-0">{item.icon}</span>
+            <p class="text-sm text-ink-light leading-relaxed">{item.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-16 text-center">
+    <h2 class="text-2xl font-bold text-ink mb-3">準備好了嗎？</h2>
+    <p class="text-ink-lighter mb-6">從第一章開始你的日語學習之旅吧！</p>
+    <a href={`${import.meta.env.BASE_URL}chapters/1`} class="inline-flex items-center gap-2 px-8 py-3.5 bg-matcha-400 text-white rounded-xl font-medium hover:bg-matcha-500 transition-colors shadow-sm text-lg">
+      開始第一課
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
+      </svg>
+    </a>
+  </section>
+</BaseLayout>

@@ -1,0 +1,407 @@
+{
+  "id": "ch7-unit2",
+  "title": "私藏美食分享",
+  "intro": "到日本旅遊，怎麼能錯過在地美食呢？從路邊攤到排隊名店，黑木太太要帶你認識日本各地的特色小吃！這一課我們會學到如何詢問在地美食、在攤位點餐，還有那些讓人流口水的日本街頭美食名稱。準備好肚子了嗎？",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "名物",
+          "reading": "めいぶつ",
+          "romaji": "meibutsu",
+          "chinese": "名產、當地特產",
+          "example": "大阪の名物はたこ焼きです。",
+          "exampleChinese": "大阪的名產是章魚燒。"
+        },
+        {
+          "japanese": "食べ歩き",
+          "reading": "たべあるき",
+          "romaji": "tabearuki",
+          "chinese": "邊走邊吃、吃透透",
+          "example": "商店街で食べ歩きをしました。",
+          "exampleChinese": "我在商店街邊走邊吃。"
+        },
+        {
+          "japanese": "行列",
+          "reading": "ぎょうれつ",
+          "romaji": "gyouretsu",
+          "chinese": "排隊",
+          "example": "あのラーメン屋はいつも行列ができています。",
+          "exampleChinese": "那間拉麵店總是大排長龍。"
+        },
+        {
+          "japanese": "人気",
+          "reading": "にんき",
+          "romaji": "ninki",
+          "chinese": "人氣、受歡迎",
+          "example": "この店は人気があります。",
+          "exampleChinese": "這家店很受歡迎。"
+        },
+        {
+          "japanese": "屋台",
+          "reading": "やたい",
+          "romaji": "yatai",
+          "chinese": "路邊攤、小吃攤",
+          "example": "屋台で焼き鳥を食べました。",
+          "exampleChinese": "我在路邊攤吃了烤雞串。"
+        },
+        {
+          "japanese": "抹茶",
+          "reading": "まっちゃ",
+          "romaji": "maccha",
+          "chinese": "抹茶",
+          "example": "抹茶アイスが好きです。",
+          "exampleChinese": "我喜歡抹茶冰淇淋。"
+        },
+        {
+          "japanese": "たい焼き",
+          "reading": "たいやき",
+          "romaji": "taiyaki",
+          "chinese": "鯛魚燒",
+          "example": "たい焼きの中にあんこが入っています。",
+          "exampleChinese": "鯛魚燒裡面有紅豆餡。"
+        },
+        {
+          "japanese": "たこ焼き",
+          "reading": "たこやき",
+          "romaji": "takoyaki",
+          "chinese": "章魚燒",
+          "example": "たこ焼きを六個ください。",
+          "exampleChinese": "請給我六個章魚燒。"
+        },
+        {
+          "japanese": "お好み焼き",
+          "reading": "おこのみやき",
+          "romaji": "okonomiyaki",
+          "chinese": "大阪燒",
+          "example": "お好み焼きはソースが美味しいです。",
+          "exampleChinese": "大阪燒的醬汁很好吃。"
+        },
+        {
+          "japanese": "焼き鳥",
+          "reading": "やきとり",
+          "romaji": "yakitori",
+          "chinese": "烤雞串",
+          "example": "焼き鳥は塩がおすすめです。",
+          "exampleChinese": "烤雞串推薦鹽味的。"
+        },
+        {
+          "japanese": "出汁",
+          "reading": "だし",
+          "romaji": "dashi",
+          "chinese": "高湯、湯底",
+          "example": "この出汁はとても美味しいです。",
+          "exampleChinese": "這個高湯非常好喝。"
+        },
+        {
+          "japanese": "具",
+          "reading": "ぐ",
+          "romaji": "gu",
+          "chinese": "配料、食材",
+          "example": "おでんの具は何がありますか？",
+          "exampleChinese": "關東煮有什麼配料？"
+        },
+        {
+          "japanese": "揚げ物",
+          "reading": "あげもの",
+          "romaji": "agemono",
+          "chinese": "炸物、油炸食品",
+          "example": "揚げ物が大好きです。",
+          "exampleChinese": "我超愛炸物。"
+        },
+        {
+          "japanese": "焼きそば",
+          "reading": "やきそば",
+          "romaji": "yakisoba",
+          "chinese": "日式炒麵",
+          "example": "屋台の焼きそばは最高です！",
+          "exampleChinese": "路邊攤的日式炒麵超讚！"
+        },
+        {
+          "japanese": "美味しい",
+          "reading": "おいしい",
+          "romaji": "oishii",
+          "chinese": "好吃的、美味的",
+          "example": "このラーメンは美味しいです！",
+          "exampleChinese": "這碗拉麵好吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "Kuma桑和黑木太太在靜岡的商店街逛路邊攤，黑木太太介紹當地美食。",
+      "lines": [
+        {
+          "speaker": "Kuma桑",
+          "japanese": "黒木さん、静岡の名物は何ですか？",
+          "chinese": "黑木太太，靜岡的名產是什麼？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "静岡おでんが有名ですよ。あの屋台で食べられます。",
+          "chinese": "靜岡關東煮很有名喔。可以在那個攤位吃到。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "へえ！食べてみたいです。一番人気は何ですか？",
+          "chinese": "哇！我想吃吃看。最受歡迎的是什麼？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "黒はんぺんが一番人気です。出汁がとても美味しいんですよ。",
+          "chinese": "黑半片（黑魚板）最受歡迎。高湯非常好喝喔。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "他にどんな具がありますか？",
+          "chinese": "還有什麼其他的配料？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "大根、たまご、こんにゃくなどがありますよ。全部美味しいです！",
+          "chinese": "有白蘿蔔、雞蛋、蒟蒻等等。全部都好吃！"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "じゃあ、黒はんぺんを二つください。",
+          "chinese": "那請給我兩個黑魚板。"
+        },
+        {
+          "speaker": "屋台のおじさん",
+          "japanese": "はい、二つで300円です。からしもつけますか？",
+          "chinese": "好的，兩個300日圓。要加芥末嗎？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "はい、お願いします。",
+          "chinese": "好的，麻煩了。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "わあ、本当に美味しい！揚げ物もありますか？",
+          "chinese": "哇，真的好好吃！也有炸物嗎？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "はい！あそこの屋台で焼きそばと揚げ物が食べられますよ。",
+          "chinese": "有！那邊的攤位可以吃到日式炒麵和炸物喔。"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "でしょう？この後、抹茶のたい焼きも食べ歩きしましょう！",
+          "chinese": "對吧？等一下我們也去邊走邊吃抹茶鯛魚燒吧！"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～が有名です",
+          "meaning": "～很有名",
+          "structure": "名詞 + が有名です",
+          "examples": [
+            {
+              "japanese": "この町はうどんが有名です。",
+              "chinese": "這個城鎮的烏龍麵很有名。"
+            },
+            {
+              "japanese": "北海道はラーメンが有名です。",
+              "chinese": "北海道的拉麵很有名。"
+            },
+            {
+              "japanese": "静岡おでんは出汁が有名です。",
+              "chinese": "靜岡關東煮的高湯很有名。"
+            }
+          ],
+          "note": "用來說明某事物很有名。注意和「～で有名です」的差別：「が」用於主語標記，「で」表示原因。例如「大阪はたこ焼きが有名です」和「大阪はたこ焼きで有名です」意思相近。"
+        },
+        {
+          "pattern": "～を食べてみたいです",
+          "meaning": "想要吃吃看～",
+          "structure": "名詞 + を食べてみたいです",
+          "examples": [
+            {
+              "japanese": "静岡おでんを食べてみたいです。",
+              "chinese": "我想吃吃看靜岡關東煮。"
+            },
+            {
+              "japanese": "本場のお好み焼きを食べてみたいです。",
+              "chinese": "我想吃吃看道地的大阪燒。"
+            },
+            {
+              "japanese": "揚げ物を食べてみたいです。",
+              "chinese": "我想吃吃看炸物。"
+            }
+          ],
+          "note": "「～てみたい」表示「想要試試看」，是「～てみる（試著做）」加上「～たい（想要）」的組合。非常實用的旅遊句型！"
+        },
+        {
+          "pattern": "一番人気は何ですか？",
+          "meaning": "最受歡迎的是什麼？",
+          "structure": "一番 + 名詞/形容詞 + は何ですか？",
+          "examples": [
+            {
+              "japanese": "一番人気のメニューは何ですか？",
+              "chinese": "最受歡迎的菜單品項是什麼？"
+            },
+            {
+              "japanese": "一番おすすめは何ですか？",
+              "chinese": "最推薦的是什麼？"
+            },
+            {
+              "japanese": "一番人気の具は何ですか？",
+              "chinese": "最受歡迎的配料是什麼？"
+            }
+          ],
+          "note": "「一番」是「最」的意思，用來詢問最高等級的選項。在餐廳或小吃攤非常實用！"
+        },
+        {
+          "pattern": "～で食べられます",
+          "meaning": "可以在～吃到",
+          "structure": "場所 + で食べられます",
+          "examples": [
+            {
+              "japanese": "あの屋台で食べられますよ。",
+              "chinese": "可以在那個攤位吃到喔。"
+            },
+            {
+              "japanese": "この商店街で焼きそばが食べられます。",
+              "chinese": "在這條商店街可以吃到日式炒麵。"
+            },
+            {
+              "japanese": "駅の近くで名物が食べられます。",
+              "chinese": "在車站附近可以吃到名產。"
+            }
+          ],
+          "note": "「食べられます」是「食べる」的可能形，表示「能夠吃到」。搭配場所助詞「で」，就能說明在哪裡可以吃到某個東西。旅遊問路時超好用！"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "名物",
+          "reading": "めいぶつ",
+          "romaji": "meibutsu",
+          "chinese": "名產、當地特產"
+        },
+        {
+          "japanese": "食べ歩き",
+          "reading": "たべあるき",
+          "romaji": "tabearuki",
+          "chinese": "邊走邊吃、吃透透"
+        },
+        {
+          "japanese": "行列",
+          "reading": "ぎょうれつ",
+          "romaji": "gyouretsu",
+          "chinese": "排隊"
+        },
+        {
+          "japanese": "屋台",
+          "reading": "やたい",
+          "romaji": "yatai",
+          "chinese": "路邊攤、小吃攤"
+        },
+        {
+          "japanese": "出汁",
+          "reading": "だし",
+          "romaji": "dashi",
+          "chinese": "高湯、湯底"
+        },
+        {
+          "japanese": "具",
+          "reading": "ぐ",
+          "romaji": "gu",
+          "chinese": "配料、食材"
+        },
+        {
+          "japanese": "揚げ物",
+          "reading": "あげもの",
+          "romaji": "agemono",
+          "chinese": "炸物、油炸食品"
+        },
+        {
+          "japanese": "焼きそば",
+          "reading": "やきそば",
+          "romaji": "yakisoba",
+          "chinese": "日式炒麵"
+        },
+        {
+          "japanese": "たこ焼き",
+          "reading": "たこやき",
+          "romaji": "takoyaki",
+          "chinese": "章魚燒"
+        },
+        {
+          "japanese": "美味しい",
+          "reading": "おいしい",
+          "romaji": "oishii",
+          "chinese": "好吃的、美味的"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「食べ歩き」是什麼意思？",
+          "options": ["在餐廳吃飯", "邊走邊吃", "快速吃完", "外帶食物"],
+          "correct": 1,
+          "explanation": "「食べ歩き（たべあるき）」是指邊走邊吃各種小吃的意思，是日本商店街常見的享樂方式。"
+        },
+        {
+          "question": "想表達「我想吃吃看章魚燒」，正確的說法是？",
+          "options": ["たこ焼きを食べます", "たこ焼きを食べました", "たこ焼きを食べてみたいです", "たこ焼きを食べています"],
+          "correct": 2,
+          "explanation": "「～を食べてみたいです」是「想要吃吃看～」的意思。「てみたい」表示想嘗試看看。"
+        },
+        {
+          "question": "「屋台」是指什麼？",
+          "options": ["百貨公司", "路邊攤", "高級餐廳", "便利商店"],
+          "correct": 1,
+          "explanation": "「屋台（やたい）」是路邊攤、小吃攤的意思，日本各地的祭典和商店街常見。"
+        },
+        {
+          "question": "「一番人気は何ですか？」是什麼意思？",
+          "options": ["這裡有什麼？", "多少錢？", "最受歡迎的是什麼？", "你喜歡什麼？"],
+          "correct": 2,
+          "explanation": "「一番人気は何ですか？」直譯是「最受歡迎的是什麼？」，是點餐時很實用的問句。"
+        },
+        {
+          "question": "「出汁」的讀音和意思是什麼？",
+          "options": ["でじる — 出口", "だし — 高湯", "しゅつじる — 出發", "でし — 弟子"],
+          "correct": 1,
+          "explanation": "「出汁（だし）」是高湯、湯底的意思，是日本料理的基礎。靜岡關東煮以黑色出汁聞名。"
+        },
+        {
+          "question": "「揚げ物」是什麼意思？",
+          "options": ["燒烤食物", "生食", "炸物", "蒸的食物"],
+          "correct": 2,
+          "explanation": "「揚げ物（あげもの）」是炸物、油炸食品的意思。「揚げる」是「炸」的動詞。"
+        },
+        {
+          "question": "下列哪一個不是日本的街頭小吃？",
+          "options": ["たこ焼き", "焼きそば", "焼き鳥", "紅葉"],
+          "correct": 3,
+          "explanation": "「紅葉（もみじ）」是楓葉的意思，不是小吃。「たこ焼き」是章魚燒、「焼きそば」是日式炒麵、「焼き鳥」是烤雞串，都是日本街頭美食。"
+        },
+        {
+          "question": "「あの屋台で食べられますよ」是什麼意思？",
+          "options": ["那個攤位不能吃", "可以在那個攤位吃到喔", "那個攤位很貴", "那個攤位關了"],
+          "correct": 1,
+          "explanation": "「～で食べられます」是「可以在～吃到」的意思。「食べられます」是「食べる」的可能形。"
+        }
+      ]
+    }
+  ]
+}

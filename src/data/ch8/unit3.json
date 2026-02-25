@@ -1,0 +1,380 @@
+{
+  "id": "ch8-unit3",
+  "title": "什麼情況下需鞠躬彎腰？",
+  "intro": "鞠躬（お辞儀）是日本文化中最具代表性的禮儀之一。不同的場合需要不同角度的鞠躬，從輕輕點頭到深深彎腰，每一種都有其特定的意義。這一課我們來學習鞠躬的學問，讓你在日本不再手足無措！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "お辞儀",
+          "reading": "おじぎ",
+          "romaji": "ojigi",
+          "chinese": "鞠躬",
+          "example": "日本ではお辞儀をよくします。",
+          "exampleChinese": "在日本經常鞠躬。"
+        },
+        {
+          "japanese": "会釈",
+          "reading": "えしゃく",
+          "romaji": "eshaku",
+          "chinese": "點頭禮、微微鞠躬",
+          "example": "すれ違う時に会釈をしました。",
+          "exampleChinese": "擦身而過時點了個頭。"
+        },
+        {
+          "japanese": "敬礼",
+          "reading": "けいれい",
+          "romaji": "keirei",
+          "chinese": "敬禮式鞠躬（約30度）",
+          "example": "お客様には敬礼をします。",
+          "exampleChinese": "對客人會行敬禮式鞠躬。"
+        },
+        {
+          "japanese": "最敬礼",
+          "reading": "さいけいれい",
+          "romaji": "saikeirei",
+          "chinese": "最高敬禮（深深鞠躬約45度）",
+          "example": "謝罪の時は最敬礼をします。",
+          "exampleChinese": "道歉的時候會行最高敬禮。"
+        },
+        {
+          "japanese": "頭",
+          "reading": "あたま",
+          "romaji": "atama",
+          "chinese": "頭",
+          "example": "頭を下げてお辞儀をします。",
+          "exampleChinese": "低下頭鞠躬。"
+        },
+        {
+          "japanese": "腰",
+          "reading": "こし",
+          "romaji": "koshi",
+          "chinese": "腰",
+          "example": "腰から曲げてお辞儀をします。",
+          "exampleChinese": "從腰部彎曲鞠躬。"
+        },
+        {
+          "japanese": "角度",
+          "reading": "かくど",
+          "romaji": "kakudo",
+          "chinese": "角度",
+          "example": "お辞儀の角度は場面によって違います。",
+          "exampleChinese": "鞠躬的角度會隨場合不同而改變。"
+        },
+        {
+          "japanese": "挨拶",
+          "reading": "あいさつ",
+          "romaji": "aisatsu",
+          "chinese": "打招呼、寒暄",
+          "example": "朝の挨拶は大切です。",
+          "exampleChinese": "早上的打招呼很重要。"
+        },
+        {
+          "japanese": "感謝",
+          "reading": "かんしゃ",
+          "romaji": "kansha",
+          "chinese": "感謝",
+          "example": "感謝の気持ちを込めてお辞儀をします。",
+          "exampleChinese": "帶著感謝的心情鞠躬。"
+        },
+        {
+          "japanese": "謝罪",
+          "reading": "しゃざい",
+          "romaji": "shazai",
+          "chinese": "道歉、謝罪",
+          "example": "謝罪する時は深くお辞儀をします。",
+          "exampleChinese": "道歉的時候要深深地鞠躬。"
+        },
+        {
+          "japanese": "礼儀",
+          "reading": "れいぎ",
+          "romaji": "reigi",
+          "chinese": "禮儀、禮貌",
+          "example": "日本は礼儀を大切にする国です。",
+          "exampleChinese": "日本是重視禮儀的國家。"
+        },
+        {
+          "japanese": "名刺",
+          "reading": "めいし",
+          "romaji": "meishi",
+          "chinese": "名片",
+          "example": "名刺を渡す時もお辞儀をします。",
+          "exampleChinese": "遞名片的時候也要鞠躬。"
+        },
+        {
+          "japanese": "初対面",
+          "reading": "しょたいめん",
+          "romaji": "shotaimen",
+          "chinese": "初次見面",
+          "example": "初対面の時は丁寧にお辞儀をしましょう。",
+          "exampleChinese": "初次見面的時候要認真鞠躬。"
+        },
+        {
+          "japanese": "丁寧",
+          "reading": "ていねい",
+          "romaji": "teinei",
+          "chinese": "有禮貌的、仔細的",
+          "example": "丁寧な挨拶が大切です。",
+          "exampleChinese": "有禮貌的問候很重要。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "Kuma桑在日本旅館辦理入住時，觀察到各種鞠躬場景，向黑木太太詢問。",
+      "lines": [
+        {
+          "speaker": "Kuma桑",
+          "japanese": "黒木さん、日本の人はよくお辞儀をしますね。",
+          "chinese": "黑木太太，日本人經常鞠躬呢。"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "そうですね。お辞儀は日本の大切な礼儀です。",
+          "chinese": "是啊。鞠躬是日本重要的禮儀。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "さっき、旅館の人が深くお辞儀をしてくれました。あれは何ですか？",
+          "chinese": "剛才旅館的人深深鞠躬了。那是什麼？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "あれは「敬礼」です。お客様への丁寧な挨拶ですよ。",
+          "chinese": "那是「敬禮」。是對客人有禮貌的問候喔。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "角度が違うお辞儀がありますか？",
+          "chinese": "有不同角度的鞠躬嗎？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "はい、三種類ありますよ。会釈は15度、敬礼は30度、最敬礼は45度です。",
+          "chinese": "有的，有三種喔。會釋是15度、敬禮是30度、最敬禮是45度。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "えっ、そんなに細かいんですか！初対面の時はどうすればいいですか？",
+          "chinese": "欸，這麼細嗎！初次見面的時候要怎麼做？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "初対面の時は、敬礼くらいがちょうどいいです。名刺を渡す場合も同じです。",
+          "chinese": "初次見面的時候，敬禮的程度剛好。遞名片的時候也一樣。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "謝る時は最敬礼ですか？",
+          "chinese": "道歉的時候是最敬禮嗎？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "はい、謝罪する場合は最敬礼をします。でも、旅行者は会釈だけで十分ですよ。心が大切です。",
+          "chinese": "是的，道歉的時候要行最敬禮。不過旅客只要會釋就足夠了。心意最重要。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "鞠躬的三種角度",
+      "content": "<h3>日本鞠躬的學問</h3><p>鞠躬在日本不只是一個動作，更是一種表達心意的方式。根據場合和對象的不同，鞠躬的角度也不一樣。</p><h3>1. 會釋（えしゃく）— 約15度</h3><p><strong>使用場合：</strong>日常打招呼、在走廊與人擦身而過、進出電梯時。</p><p>這是最輕鬆的鞠躬，只要微微低頭就好。就像我們在台灣路上遇到認識的人會點點頭一樣。</p><p><strong>例：</strong>在旅館走廊遇到工作人員時，微微點頭就很得體了。</p><h3>2. 敬禮（けいれい）— 約30度</h3><p><strong>使用場合：</strong>對客人、長輩、上司打招呼，進入店家時，正式場合的問候。</p><p>這是最常見也最標準的鞠躬。從腰部彎曲約30度，目光看向前方約1.5公尺的地面。</p><p><strong>例：</strong>在旅館辦理入住時，櫃台人員會對你行敬禮。</p><h3>3. 最敬禮（さいけいれい）— 約45度</h3><p><strong>使用場合：</strong>深深的感謝、鄭重的道歉、非常正式的場合。</p><p>這是最正式的鞠躬，從腰部深深彎曲約45度。通常只在非常重要或嚴肅的場合使用。</p><p><strong>例：</strong>鄭重道歉或表達深深感謝的時候。</p><h3>旅遊小提示</h3><p>作為外國旅客，你不需要太在意鞠躬的角度，但在以下情況輕輕鞠躬會讓日本人覺得很有禮貌：</p><ul><li>在旅館、餐廳對服務人員表示感謝時</li><li>接受對方的幫忙之後</li><li>初次見面自我介紹時</li><li>道別的時候</li></ul><p>記住，<strong>心意比角度更重要</strong>。即使你的鞠躬不太標準，日本人也會因為你的心意而感到開心的！</p>",
+      "tips": [
+        "旅遊時不需要太在意角度，微微點頭鞠躬就很禮貌了。",
+        "鞠躬時眼睛不要直視對方，自然地看向下方。",
+        "日本人打電話時也會不自覺地鞠躬，這是文化的力量！",
+        "握手在日本不常見，鞠躬才是主流的問候方式。"
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～の時",
+          "meaning": "～的時候",
+          "structure": "名詞 + の時 / 動詞普通形 + 時",
+          "examples": [
+            {
+              "japanese": "挨拶の時、お辞儀をします。",
+              "chinese": "打招呼的時候鞠躬。"
+            },
+            {
+              "japanese": "感謝する時、頭を下げます。",
+              "chinese": "感謝的時候低頭。"
+            },
+            {
+              "japanese": "初対面の時は丁寧にお辞儀をします。",
+              "chinese": "初次見面的時候要認真地鞠躬。"
+            }
+          ],
+          "note": "「～の時」或「～時」用來表示某個動作發生的時間點。名詞後面接「の時」，動詞普通形後面直接接「時」。"
+        },
+        {
+          "pattern": "～する場合",
+          "meaning": "～的場合、～的情況",
+          "structure": "動詞普通形 + 場合",
+          "examples": [
+            {
+              "japanese": "謝罪する場合は、深くお辞儀をします。",
+              "chinese": "道歉的情況，要深深鞠躬。"
+            },
+            {
+              "japanese": "初めて会う場合は、名刺を渡します。",
+              "chinese": "初次見面的情況，要交換名片。"
+            },
+            {
+              "japanese": "お客様に会う場合は、敬礼をします。",
+              "chinese": "見到客人的情況，要行敬禮。"
+            }
+          ],
+          "note": "「場合」比「時」更正式，通常用於描述規則或條件。在說明禮儀規範時特別常用。"
+        },
+        {
+          "pattern": "～くらいがちょうどいい",
+          "meaning": "～的程度剛好",
+          "structure": "名詞/動詞 + くらいがちょうどいい",
+          "examples": [
+            {
+              "japanese": "敬礼くらいがちょうどいいです。",
+              "chinese": "敬禮的程度剛好。"
+            },
+            {
+              "japanese": "15度くらいがちょうどいいです。",
+              "chinese": "15度左右剛好。"
+            },
+            {
+              "japanese": "軽い会釈くらいがちょうどいいです。",
+              "chinese": "輕輕的會釋程度就剛好了。"
+            }
+          ],
+          "note": "「くらい」表示「大約、程度」，「ちょうどいい」表示「剛好」。合起來用來建議一個適當的程度或標準，語氣溫和實用。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "お辞儀",
+          "reading": "おじぎ",
+          "romaji": "ojigi",
+          "chinese": "鞠躬"
+        },
+        {
+          "japanese": "会釈",
+          "reading": "えしゃく",
+          "romaji": "eshaku",
+          "chinese": "點頭禮（約15度）"
+        },
+        {
+          "japanese": "敬礼",
+          "reading": "けいれい",
+          "romaji": "keirei",
+          "chinese": "敬禮式鞠躬（約30度）"
+        },
+        {
+          "japanese": "最敬礼",
+          "reading": "さいけいれい",
+          "romaji": "saikeirei",
+          "chinese": "最高敬禮（約45度）"
+        },
+        {
+          "japanese": "挨拶",
+          "reading": "あいさつ",
+          "romaji": "aisatsu",
+          "chinese": "打招呼、寒暄"
+        },
+        {
+          "japanese": "礼儀",
+          "reading": "れいぎ",
+          "romaji": "reigi",
+          "chinese": "禮儀、禮貌"
+        },
+        {
+          "japanese": "名刺",
+          "reading": "めいし",
+          "romaji": "meishi",
+          "chinese": "名片"
+        },
+        {
+          "japanese": "初対面",
+          "reading": "しょたいめん",
+          "romaji": "shotaimen",
+          "chinese": "初次見面"
+        },
+        {
+          "japanese": "感謝",
+          "reading": "かんしゃ",
+          "romaji": "kansha",
+          "chinese": "感謝"
+        },
+        {
+          "japanese": "謝罪",
+          "reading": "しゃざい",
+          "romaji": "shazai",
+          "chinese": "道歉、謝罪"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「会釈」的鞠躬角度大約是幾度？",
+          "options": ["5度", "15度", "30度", "45度"],
+          "correct": 1,
+          "explanation": "「会釈（えしゃく）」是最輕微的鞠躬，大約15度，用於日常的輕鬆打招呼。"
+        },
+        {
+          "question": "在什麼情況下需要行「最敬礼」？",
+          "options": ["日常打招呼", "在走廊擦身而過", "深深地道歉或感謝", "點餐的時候"],
+          "correct": 2,
+          "explanation": "「最敬礼」是最正式的鞠躬（約45度），用於深深地道歉或表達鄭重的感謝。"
+        },
+        {
+          "question": "「挨拶の時、お辞儀をします」是什麼意思？",
+          "options": ["鞠躬是打招呼", "打招呼的時候鞠躬", "不用鞠躬", "鞠躬很辛苦"],
+          "correct": 1,
+          "explanation": "「挨拶の時、お辞儀をします」的意思是「打招呼的時候鞠躬」。「～の時」表示「～的時候」。"
+        },
+        {
+          "question": "對旅館櫃台人員表示感謝時，什麼程度的鞠躬最適合？",
+          "options": ["不用鞠躬", "微微點頭就好", "彎腰90度", "跪下來"],
+          "correct": 1,
+          "explanation": "作為旅客，微微點頭（会釈程度）就已經很有禮貌了。不需要行太正式的鞠躬。"
+        },
+        {
+          "question": "「お辞儀」的正確讀音是什麼？",
+          "options": ["おじぎ", "おしぎ", "おにぎ", "おてぎ"],
+          "correct": 0,
+          "explanation": "「お辞儀」的讀音是「おじぎ」，意思是鞠躬。"
+        },
+        {
+          "question": "「礼儀」是什麼意思？",
+          "options": ["禮物", "禮儀、禮貌", "例子", "利益"],
+          "correct": 1,
+          "explanation": "「礼儀（れいぎ）」是禮儀、禮貌的意思。日本是非常重視礼儀的國家。"
+        },
+        {
+          "question": "初次見面遞名片時，適合什麼程度的鞠躬？",
+          "options": ["不用鞠躬", "會釋（15度）", "敬禮（30度）", "最敬禮（45度）"],
+          "correct": 2,
+          "explanation": "初次見面遞名片時，適合行敬禮（約30度）的鞠躬，表示尊重。"
+        },
+        {
+          "question": "「敬礼くらいがちょうどいいです」是什麼意思？",
+          "options": ["敬禮不太好", "敬禮的程度剛好", "要行最敬禮", "不用鞠躬"],
+          "correct": 1,
+          "explanation": "「～くらいがちょうどいい」是「～的程度剛好」的意思。敬禮程度（約30度）在初次見面等場合最適合。"
+        }
+      ]
+    }
+  ]
+}

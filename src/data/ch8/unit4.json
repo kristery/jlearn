@@ -1,0 +1,397 @@
+{
+  "id": "ch8-unit4",
+  "title": "旅日前小提醒",
+  "intro": "出發去日本之前，有些重要的東西可不能忘記帶！從護照到轉接頭，從緊急電話到大使館資訊，這一課幫你整理出旅日前的必備清單。萬一在日本遇到緊急狀況，你也能用日語求助！做好萬全準備，才能安心享受旅程。",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupooto",
+          "chinese": "護照",
+          "example": "パスポートを忘れないでください。",
+          "exampleChinese": "請不要忘記護照。"
+        },
+        {
+          "japanese": "保険",
+          "reading": "ほけん",
+          "romaji": "hoken",
+          "chinese": "保險",
+          "example": "旅行保険に入りましたか？",
+          "exampleChinese": "你有買旅遊保險嗎？"
+        },
+        {
+          "japanese": "両替",
+          "reading": "りょうがえ",
+          "romaji": "ryougae",
+          "chinese": "換匯",
+          "example": "空港で両替できます。",
+          "exampleChinese": "可以在機場換匯。"
+        },
+        {
+          "japanese": "充電器",
+          "reading": "じゅうでんき",
+          "romaji": "juudenki",
+          "chinese": "充電器",
+          "example": "充電器を持ってきましたか？",
+          "exampleChinese": "你有帶充電器嗎？"
+        },
+        {
+          "japanese": "変換プラグ",
+          "reading": "へんかんプラグ",
+          "romaji": "henkan puragu",
+          "chinese": "轉接頭",
+          "example": "日本では変換プラグが必要ですか？",
+          "exampleChinese": "在日本需要轉接頭嗎？"
+        },
+        {
+          "japanese": "薬",
+          "reading": "くすり",
+          "romaji": "kusuri",
+          "chinese": "藥",
+          "example": "薬を持っていますか？",
+          "exampleChinese": "你有帶藥嗎？"
+        },
+        {
+          "japanese": "コンセント",
+          "reading": "コンセント",
+          "romaji": "konsento",
+          "chinese": "插座",
+          "example": "コンセントはどこですか？",
+          "exampleChinese": "插座在哪裡？"
+        },
+        {
+          "japanese": "電圧",
+          "reading": "でんあつ",
+          "romaji": "denatsu",
+          "chinese": "電壓",
+          "example": "日本の電圧は100ボルトです。",
+          "exampleChinese": "日本的電壓是100伏特。"
+        },
+        {
+          "japanese": "緊急",
+          "reading": "きんきゅう",
+          "romaji": "kinkyuu",
+          "chinese": "緊急",
+          "example": "緊急の場合は110番に電話してください。",
+          "exampleChinese": "緊急的情況請打110。"
+        },
+        {
+          "japanese": "大使館",
+          "reading": "たいしかん",
+          "romaji": "taishikan",
+          "chinese": "大使館",
+          "example": "台湾の大使館はどこですか？",
+          "exampleChinese": "台灣的大使館（代表處）在哪裡？"
+        },
+        {
+          "japanese": "110番",
+          "reading": "ひゃくとおばん",
+          "romaji": "hyakutooban",
+          "chinese": "報警電話（110）",
+          "example": "泥棒です！110番してください！",
+          "exampleChinese": "有小偷！請打110！"
+        },
+        {
+          "japanese": "119番",
+          "reading": "ひゃくじゅうきゅうばん",
+          "romaji": "hyakujuukyuuban",
+          "chinese": "急救電話（119）",
+          "example": "救急車を呼んでください！119番です。",
+          "exampleChinese": "請叫救護車！打119。"
+        },
+        {
+          "japanese": "助けて",
+          "reading": "たすけて",
+          "romaji": "tasukete",
+          "chinese": "救命、幫幫我",
+          "example": "助けてください！",
+          "exampleChinese": "請幫幫我！"
+        },
+        {
+          "japanese": "病院",
+          "reading": "びょういん",
+          "romaji": "byouin",
+          "chinese": "醫院",
+          "example": "近くに病院はありますか？",
+          "exampleChinese": "附近有醫院嗎？"
+        },
+        {
+          "japanese": "落とし物",
+          "reading": "おとしもの",
+          "romaji": "otoshimono",
+          "chinese": "遺失物",
+          "example": "落とし物をしました。",
+          "exampleChinese": "我掉了東西。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "Kuma桑在日本旅遊時，身體不舒服，向旅館櫃台求助。",
+      "lines": [
+        {
+          "speaker": "Kuma桑",
+          "japanese": "すみません、ちょっと体の調子が悪いです。",
+          "chinese": "不好意思，我身體有點不舒服。"
+        },
+        {
+          "speaker": "櫃台人員",
+          "japanese": "大丈夫ですか？どうしましたか？",
+          "chinese": "沒事吧？怎麼了？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "頭が痛くて、熱があるかもしれません。",
+          "chinese": "頭很痛，可能有發燒。"
+        },
+        {
+          "speaker": "櫃台人員",
+          "japanese": "薬は持っていますか？",
+          "chinese": "你有帶藥嗎？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "いいえ、持っていません。近くに病院はありますか？",
+          "chinese": "沒有，我沒帶。附近有醫院嗎？"
+        },
+        {
+          "speaker": "櫃台人員",
+          "japanese": "はい、歩いて五分のところにクリニックがあります。保険は持っていますか？",
+          "chinese": "有的，走路五分鐘的地方有一間診所。你有帶保險嗎？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "はい、旅行保険があります。",
+          "chinese": "有，我有旅遊保險。"
+        },
+        {
+          "speaker": "櫃台人員",
+          "japanese": "よかったです。パスポートと保険証を持って行ってくださいね。",
+          "chinese": "太好了。請帶著護照和保險證明去喔。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "ありがとうございます。もし急に悪くなったら、どうすればいいですか？",
+          "chinese": "謝謝。如果突然變嚴重的話，該怎麼辦？"
+        },
+        {
+          "speaker": "櫃台人員",
+          "japanese": "その場合は119番に電話してください。救急車が来ますよ。",
+          "chinese": "那種情況請打119。救護車會來的。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "わかりました。緊急の時は119番ですね。",
+          "chinese": "我知道了。緊急的時候打119對吧。"
+        },
+        {
+          "speaker": "櫃台人員",
+          "japanese": "はい。警察は110番です。何かあったらフロントに連絡してくださいね。",
+          "chinese": "是的。報警是110。有什麼事的話請聯絡櫃台喔。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "助かります。ありがとうございます。",
+          "chinese": "幫了大忙了。非常感謝。"
+        },
+        {
+          "speaker": "櫃台人員",
+          "japanese": "お大事に。ゆっくり休んでくださいね。",
+          "chinese": "請多保重。好好休息喔。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～を持っていますか",
+          "meaning": "你有帶～嗎？/你有～嗎？",
+          "structure": "名詞 + を持っていますか",
+          "examples": [
+            {
+              "japanese": "パスポートを持っていますか？",
+              "chinese": "你有帶護照嗎？"
+            },
+            {
+              "japanese": "現金を持っていますか？",
+              "chinese": "你有帶現金嗎？"
+            },
+            {
+              "japanese": "薬を持っていますか？",
+              "chinese": "你有帶藥嗎？"
+            }
+          ],
+          "note": "「持っている」是「持つ（拿、持有）」的進行式，表示目前身上有帶著某個東西。旅遊中非常常用！"
+        },
+        {
+          "pattern": "～が必要です",
+          "meaning": "需要～",
+          "structure": "名詞 + が必要です",
+          "examples": [
+            {
+              "japanese": "変換プラグが必要です。",
+              "chinese": "需要轉接頭。"
+            },
+            {
+              "japanese": "薬が必要です。",
+              "chinese": "需要藥。"
+            },
+            {
+              "japanese": "パスポートが必要です。",
+              "chinese": "需要護照。"
+            }
+          ],
+          "note": "「必要（ひつよう）」是「必要、需要」的意思。「～が必要です」用來表達需要某個東西。"
+        },
+        {
+          "pattern": "～たら、どうすればいいですか",
+          "meaning": "如果～的話，該怎麼辦？",
+          "structure": "動詞た形 + ら、どうすればいいですか",
+          "examples": [
+            {
+              "japanese": "急に悪くなったら、どうすればいいですか？",
+              "chinese": "如果突然變嚴重的話，該怎麼辦？"
+            },
+            {
+              "japanese": "パスポートを落としたら、どうすればいいですか？",
+              "chinese": "如果護照掉了的話，該怎麼辦？"
+            },
+            {
+              "japanese": "道に迷ったら、どうすればいいですか？",
+              "chinese": "如果迷路了的話，該怎麼辦？"
+            }
+          ],
+          "note": "「～たら」是假設條件的句型，表示「如果～的話」。搭配「どうすればいいですか（該怎麼辦）」，可以詢問在各種突發狀況下該如何應對，旅遊中非常實用！"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupooto",
+          "chinese": "護照"
+        },
+        {
+          "japanese": "保険",
+          "reading": "ほけん",
+          "romaji": "hoken",
+          "chinese": "保險"
+        },
+        {
+          "japanese": "両替",
+          "reading": "りょうがえ",
+          "romaji": "ryougae",
+          "chinese": "換匯"
+        },
+        {
+          "japanese": "緊急",
+          "reading": "きんきゅう",
+          "romaji": "kinkyuu",
+          "chinese": "緊急"
+        },
+        {
+          "japanese": "助けて",
+          "reading": "たすけて",
+          "romaji": "tasukete",
+          "chinese": "救命、幫幫我"
+        },
+        {
+          "japanese": "病院",
+          "reading": "びょういん",
+          "romaji": "byouin",
+          "chinese": "醫院"
+        },
+        {
+          "japanese": "落とし物",
+          "reading": "おとしもの",
+          "romaji": "otoshimono",
+          "chinese": "遺失物"
+        },
+        {
+          "japanese": "110番",
+          "reading": "ひゃくとおばん",
+          "romaji": "hyakutooban",
+          "chinese": "報警電話"
+        },
+        {
+          "japanese": "119番",
+          "reading": "ひゃくじゅうきゅうばん",
+          "romaji": "hyakujuukyuuban",
+          "chinese": "急救電話（救護車、消防車）"
+        },
+        {
+          "japanese": "薬",
+          "reading": "くすり",
+          "romaji": "kusuri",
+          "chinese": "藥"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "日本的緊急報警電話號碼是幾號？",
+          "options": ["119", "110", "911", "112"],
+          "correct": 1,
+          "explanation": "日本的報警電話是110番。119番是急救和消防的電話。"
+        },
+        {
+          "question": "日本的電壓是多少？",
+          "options": ["220伏特", "110伏特", "100伏特", "240伏特"],
+          "correct": 2,
+          "explanation": "日本的電壓是100伏特，比台灣的110伏特略低。大多數台灣的電器可以直接使用，但插座形狀可能不同。"
+        },
+        {
+          "question": "「薬を持っていますか」是什麼意思？",
+          "options": ["你要買藥嗎？", "你有帶藥嗎？", "你在吃藥嗎？", "你需要藥嗎？"],
+          "correct": 1,
+          "explanation": "「～を持っていますか」是「你有帶～嗎？」的意思。「薬を持っていますか」就是問你有沒有帶藥。"
+        },
+        {
+          "question": "想叫救護車時，應該打什麼電話？",
+          "options": ["110番", "119番", "104番", "120番"],
+          "correct": 1,
+          "explanation": "在日本叫救護車要打119番。110番是報警電話。"
+        },
+        {
+          "question": "「変換プラグが必要です」是什麼意思？",
+          "options": ["轉接頭壞了", "不需要轉接頭", "需要轉接頭", "有帶轉接頭"],
+          "correct": 2,
+          "explanation": "「～が必要です」是「需要～」的意思。「変換プラグが必要です」就是「需要轉接頭」。"
+        },
+        {
+          "question": "「助けてください！」是什麼意思？",
+          "options": ["請等一下", "請幫幫我！", "請坐下", "請安靜"],
+          "correct": 1,
+          "explanation": "「助けてください！」是「請幫幫我！」的意思，是緊急求救時最重要的一句話。"
+        },
+        {
+          "question": "「落とし物をしました」是什麼意思？",
+          "options": ["我買了東西", "我掉了東西", "我找到了東西", "我忘了東西"],
+          "correct": 1,
+          "explanation": "「落とし物（おとしもの）」是遺失物的意思。「落とし物をしました」就是「我掉了東西」。"
+        },
+        {
+          "question": "「急に悪くなったら、どうすればいいですか」是什麼意思？",
+          "options": ["我已經變嚴重了", "如果突然變嚴重的話，該怎麼辦？", "你覺得會變嚴重嗎？", "不會變嚴重的"],
+          "correct": 1,
+          "explanation": "「～たら、どうすればいいですか」是「如果～的話，該怎麼辦？」。用來詢問突發狀況的應對方式。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "id": "ch4-unit2",
+  "title": "買衣服實戰，輕鬆問尺寸與顏色",
+  "intro": "在日本買衣服是一大樂趣！但尺寸和台灣不太一樣，顏色的說法也要學。本單元教你如何試穿、詢問尺寸和顏色，讓你買到心儀的衣服！",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "サイズ",
+          "reading": "サイズ",
+          "romaji": "saizu",
+          "chinese": "尺寸",
+          "example": "Mサイズはありますか？",
+          "exampleChinese": "有 M 號嗎？"
+        },
+        {
+          "japanese": "色",
+          "reading": "いろ",
+          "romaji": "iro",
+          "chinese": "顏色",
+          "example": "他の色はありますか？",
+          "exampleChinese": "有其他顏色嗎？"
+        },
+        {
+          "japanese": "赤",
+          "reading": "あか",
+          "romaji": "aka",
+          "chinese": "紅色",
+          "example": "赤はありますか？",
+          "exampleChinese": "有紅色嗎？"
+        },
+        {
+          "japanese": "青",
+          "reading": "あお",
+          "romaji": "ao",
+          "chinese": "藍色",
+          "example": "青いシャツをください。",
+          "exampleChinese": "請給我藍色襯衫。"
+        },
+        {
+          "japanese": "白",
+          "reading": "しろ",
+          "romaji": "shiro",
+          "chinese": "白色",
+          "example": "白のTシャツが欲しいです。",
+          "exampleChinese": "我想要白色T恤。"
+        },
+        {
+          "japanese": "黒",
+          "reading": "くろ",
+          "romaji": "kuro",
+          "chinese": "黑色",
+          "example": "黒はとても人気があります。",
+          "exampleChinese": "黑色很受歡迎。"
+        },
+        {
+          "japanese": "試着",
+          "reading": "しちゃく",
+          "romaji": "shichaku",
+          "chinese": "試穿",
+          "example": "試着してもいいですか？",
+          "exampleChinese": "可以試穿嗎？"
+        },
+        {
+          "japanese": "大きい",
+          "reading": "おおきい",
+          "romaji": "ōkii",
+          "chinese": "大的",
+          "example": "もう少し大きいのはありますか？",
+          "exampleChinese": "有再大一點的嗎？"
+        },
+        {
+          "japanese": "小さい",
+          "reading": "ちいさい",
+          "romaji": "chiisai",
+          "chinese": "小的",
+          "example": "ちょっと小さいです。",
+          "exampleChinese": "有點小。"
+        },
+        {
+          "japanese": "ぴったり",
+          "reading": "ぴったり",
+          "romaji": "pittari",
+          "chinese": "剛剛好",
+          "example": "このサイズはぴったりです。",
+          "exampleChinese": "這個尺寸剛剛好。"
+        },
+        {
+          "japanese": "着る",
+          "reading": "きる",
+          "romaji": "kiru",
+          "chinese": "穿（上衣）",
+          "example": "このジャケットを着てみたいです。",
+          "exampleChinese": "我想試穿這件外套。"
+        },
+        {
+          "japanese": "丈",
+          "reading": "たけ",
+          "romaji": "take",
+          "chinese": "長度",
+          "example": "丈が長すぎます。",
+          "exampleChinese": "長度太長了。"
+        },
+        {
+          "japanese": "半袖",
+          "reading": "はんそで",
+          "romaji": "hansode",
+          "chinese": "短袖",
+          "example": "半袖のシャツはありますか？",
+          "exampleChinese": "有短袖襯衫嗎？"
+        },
+        {
+          "japanese": "長袖",
+          "reading": "ながそで",
+          "romaji": "nagasode",
+          "chinese": "長袖",
+          "example": "長袖の方がいいです。",
+          "exampleChinese": "長袖的比較好。"
+        },
+        {
+          "japanese": "柄",
+          "reading": "がら",
+          "romaji": "gara",
+          "chinese": "花紋／圖案",
+          "example": "無地と柄、どちらがいいですか？",
+          "exampleChinese": "素色和花紋，哪個好呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "在服飾店試穿衣服，詢問不同尺寸、顏色、袖長與花紋",
+      "lines": [
+        {
+          "speaker": "あなた",
+          "japanese": "すみません、このシャツを試着してもいいですか？",
+          "chinese": "不好意思，這件襯衫可以試穿嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "はい、どうぞ。試着室はあちらです。",
+          "chinese": "可以的。試衣間在那邊。"
+        },
+        {
+          "speaker": "（試穿後）あなた",
+          "japanese": "ちょっと小さいです。もう少し大きいのはありますか？",
+          "chinese": "有點小。有再大一點的嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "今お持ちのはMサイズですね。Lサイズをお持ちしますね。",
+          "chinese": "您現在拿的是 M 號。我去拿 L 號。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "ありがとうございます。あ、これは他の色はありますか？",
+          "chinese": "謝謝。啊，這件有其他顏色嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "はい、白と黒と青がございます。",
+          "chinese": "有的，有白色、黑色和藍色。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "青を見せてください。あと、半袖はありますか？",
+          "chinese": "請讓我看藍色的。另外，有短袖嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "半袖は今の時期は長袖しかないのですが…。こちらのLサイズの青です。",
+          "chinese": "短袖的話，現在這個季節只有長袖……。這是L號藍色的。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "わかりました。このシャツは柄のもありますか？",
+          "chinese": "好的。這款襯衫有花紋的嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "はい、ストライプ柄がございます。こちらです。",
+          "chinese": "有的，有條紋花紋的。在這裡。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "きれいですね。丈はどうですか？",
+          "chinese": "好漂亮。長度怎麼樣？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "お客様にはぴったりだと思いますよ。",
+          "chinese": "我覺得對您來說剛剛好喔。"
+        },
+        {
+          "speaker": "（試穿後）あなた",
+          "japanese": "ぴったりです！これにします。",
+          "chinese": "剛剛好！我要這件。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "ありがとうございます。レジでお会計をどうぞ。",
+          "chinese": "謝謝。請到收銀台結帳。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～のサイズはありますか？",
+          "meaning": "有～尺寸嗎？",
+          "structure": "尺寸（S/M/L）＋ のサイズ ＋ はありますか？",
+          "examples": [
+            {
+              "japanese": "Mサイズはありますか？",
+              "chinese": "有 M 號嗎？"
+            },
+            {
+              "japanese": "もう少し大きいサイズはありますか？",
+              "chinese": "有再大一點的尺寸嗎？"
+            },
+            {
+              "japanese": "フリーサイズですか？",
+              "chinese": "是均碼嗎？"
+            }
+          ],
+          "note": "在日本買衣服，尺寸標示和台灣可能不同。日本的 M 號通常偏小，建議多試穿。用「もう少し大きい／小さい」來表達想要大一點或小一點。"
+        },
+        {
+          "pattern": "試着してもいいですか？",
+          "meaning": "可以試穿嗎？",
+          "structure": "動詞て形 ＋ もいいですか？",
+          "examples": [
+            {
+              "japanese": "試着してもいいですか？",
+              "chinese": "可以試穿嗎？"
+            },
+            {
+              "japanese": "写真を撮ってもいいですか？",
+              "chinese": "可以拍照嗎？"
+            },
+            {
+              "japanese": "触ってもいいですか？",
+              "chinese": "可以摸嗎？"
+            }
+          ],
+          "note": "「～てもいいですか？」是請求許可的萬用句型，意思是「可以做～嗎？」。在日本的服飾店，試穿前一定要先問店員，直接拿進試衣間是不禮貌的！"
+        },
+        {
+          "pattern": "～色はありますか？",
+          "meaning": "有～顏色嗎？",
+          "structure": "顏色 ＋ はありますか？ 或 他の色はありますか？",
+          "examples": [
+            {
+              "japanese": "赤はありますか？",
+              "chinese": "有紅色嗎？"
+            },
+            {
+              "japanese": "他の色はありますか？",
+              "chinese": "有其他顏色嗎？"
+            },
+            {
+              "japanese": "黒と白、どちらがありますか？",
+              "chinese": "黑色和白色，有哪個？"
+            }
+          ],
+          "note": "詢問顏色時，可以直接說顏色名稱加上「はありますか」。如果不確定有什麼顏色，可以用「他の色（ほかのいろ）」問「有其他顏色嗎」。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "サイズ",
+          "reading": "サイズ",
+          "romaji": "saizu",
+          "chinese": "尺寸"
+        },
+        {
+          "japanese": "試着",
+          "reading": "しちゃく",
+          "romaji": "shichaku",
+          "chinese": "試穿"
+        },
+        {
+          "japanese": "ぴったり",
+          "reading": "ぴったり",
+          "romaji": "pittari",
+          "chinese": "剛剛好"
+        },
+        {
+          "japanese": "色",
+          "reading": "いろ",
+          "romaji": "iro",
+          "chinese": "顏色"
+        },
+        {
+          "japanese": "丈",
+          "reading": "たけ",
+          "romaji": "take",
+          "chinese": "長度"
+        },
+        {
+          "japanese": "半袖",
+          "reading": "はんそで",
+          "romaji": "hansode",
+          "chinese": "短袖"
+        },
+        {
+          "japanese": "長袖",
+          "reading": "ながそで",
+          "romaji": "nagasode",
+          "chinese": "長袖"
+        },
+        {
+          "japanese": "柄",
+          "reading": "がら",
+          "romaji": "gara",
+          "chinese": "花紋／圖案"
+        },
+        {
+          "japanese": "大きい",
+          "reading": "おおきい",
+          "romaji": "ōkii",
+          "chinese": "大的"
+        },
+        {
+          "japanese": "小さい",
+          "reading": "ちいさい",
+          "romaji": "chiisai",
+          "chinese": "小的"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "你想試穿一件衣服，應該怎麼說？",
+          "options": [
+            "これを着てください。",
+            "試着してもいいですか？",
+            "これを買いたいです。",
+            "サイズを教えてください。"
+          ],
+          "correct": 1,
+          "explanation": "「試着してもいいですか？」是「可以試穿嗎？」的意思。在日本服飾店試穿前一定要先問店員。"
+        },
+        {
+          "question": "「もう少し大きいのはありますか？」是什麼意思？",
+          "options": [
+            "有再小一點的嗎？",
+            "有再便宜一點的嗎？",
+            "有再大一點的嗎？",
+            "有其他顏色嗎？"
+          ],
+          "correct": 2,
+          "explanation": "「もう少し」是「再一點」，「大きい」是「大的」。整句是問「有再大一點的嗎？」。"
+        },
+        {
+          "question": "「ぴったりです」是什麼意思？",
+          "options": [
+            "太大了",
+            "太小了",
+            "很漂亮",
+            "剛剛好"
+          ],
+          "correct": 3,
+          "explanation": "「ぴったり」是「剛剛好、完美合適」的意思。試穿衣服覺得合身時就可以說這句！"
+        },
+        {
+          "question": "你想看藍色的款式，應該怎麼說？",
+          "options": [
+            "青をください。",
+            "青を見せてください。",
+            "青が好きです。",
+            "青は高いですか？"
+          ],
+          "correct": 1,
+          "explanation": "「見せてください」是「請給我看」的意思。「青を見せてください」就是「請讓我看藍色的」。"
+        },
+        {
+          "question": "以下哪個不是顏色的日語？",
+          "options": [
+            "赤（あか）",
+            "棚（たな）",
+            "白（しろ）",
+            "黒（くろ）"
+          ],
+          "correct": 1,
+          "explanation": "「棚（たな）」是「架子」的意思，不是顏色。赤是紅色、白是白色、黒是黑色。"
+        },
+        {
+          "question": "「半袖」和「長袖」分別是什麼意思？",
+          "options": [
+            "半袖＝長袖、長袖＝短袖",
+            "半袖＝短袖、長袖＝長袖",
+            "半袖＝半價、長袖＝全價",
+            "半袖＝左邊、長袖＝右邊"
+          ],
+          "correct": 1,
+          "explanation": "「半袖（はんそで）」是短袖，「長袖（ながそで）」是長袖。「袖（そで）」就是袖子的意思。"
+        },
+        {
+          "question": "「丈が長すぎます」是什麼意思？",
+          "options": [
+            "尺寸太大了。",
+            "長度太長了。",
+            "顏色太深了。",
+            "價格太高了。"
+          ],
+          "correct": 1,
+          "explanation": "「丈（たけ）」是長度，「長すぎます」是「太長了」。整句就是「長度太長了」。"
+        },
+        {
+          "question": "「柄」是什麼意思？",
+          "options": [
+            "尺寸",
+            "質料",
+            "花紋／圖案",
+            "品牌"
+          ],
+          "correct": 2,
+          "explanation": "「柄（がら）」是花紋、圖案的意思。「無地（むじ）」是素色，「柄」是有花紋的。"
+        }
+      ]
+    }
+  ]
+}

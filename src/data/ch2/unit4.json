@@ -1,0 +1,301 @@
+{
+  "id": "ch2-unit4",
+  "title": "聽力、口說練習",
+  "intro": "恭喜你完成了第二章的學習！本單元將透過一個完整的情境對話，把前面學到的交通用語全部串起來。從下飛機開始，到搭電車、轉乘、搭計程車，一次複習所有重點。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字（複習）",
+      "items": [
+        {
+          "japanese": "電車",
+          "reading": "でんしゃ",
+          "romaji": "densha",
+          "chinese": "電車",
+          "example": "電車で新宿に行きます。",
+          "exampleChinese": "搭電車去新宿。"
+        },
+        {
+          "japanese": "乗り換え",
+          "reading": "のりかえ",
+          "romaji": "norikae",
+          "chinese": "轉車",
+          "example": "東京駅で乗り換えます。",
+          "exampleChinese": "在東京站轉車。"
+        },
+        {
+          "japanese": "タクシー",
+          "reading": "タクシー",
+          "romaji": "takushii",
+          "chinese": "計程車",
+          "example": "タクシーで行きましょう。",
+          "exampleChinese": "搭計程車去吧。"
+        },
+        {
+          "japanese": "空港",
+          "reading": "くうこう",
+          "romaji": "kuukou",
+          "chinese": "機場",
+          "example": "空港からホテルまでどのくらいかかりますか？",
+          "exampleChinese": "從機場到飯店大約要多久？"
+        },
+        {
+          "japanese": "片道",
+          "reading": "かたみち",
+          "romaji": "katamichi",
+          "chinese": "單程",
+          "example": "片道でお願いします。",
+          "exampleChinese": "請給我單程的。"
+        },
+        {
+          "japanese": "ホーム",
+          "reading": "ホーム",
+          "romaji": "hoomu",
+          "chinese": "月台",
+          "example": "何番ホームですか？",
+          "exampleChinese": "在幾號月台？"
+        },
+        {
+          "japanese": "降りる",
+          "reading": "おりる",
+          "romaji": "oriru",
+          "chinese": "下車",
+          "example": "新宿で降りてください。",
+          "exampleChinese": "請在新宿下車。"
+        },
+        {
+          "japanese": "まっすぐ",
+          "reading": "まっすぐ",
+          "romaji": "massugu",
+          "chinese": "直走",
+          "example": "まっすぐ行くとホテルがあります。",
+          "exampleChinese": "直走就會看到飯店。"
+        },
+        {
+          "japanese": "信号",
+          "reading": "しんごう",
+          "romaji": "shingou",
+          "chinese": "紅綠燈",
+          "example": "二つ目の信号を左に曲がります。",
+          "exampleChinese": "在第二個紅綠燈左轉。"
+        },
+        {
+          "japanese": "止めてください",
+          "reading": "とめてください",
+          "romaji": "tomete kudasai",
+          "chinese": "請停車",
+          "example": "あの角で止めてください。",
+          "exampleChinese": "請在那個轉角停車。"
+        },
+        {
+          "japanese": "領収書",
+          "reading": "りょうしゅうしょ",
+          "romaji": "ryoushuusho",
+          "chinese": "收據",
+          "example": "領収書をお願いします。",
+          "exampleChinese": "請給我收據。"
+        },
+        {
+          "japanese": "急行",
+          "reading": "きゅうこう",
+          "romaji": "kyuukou",
+          "chinese": "急行（快車）",
+          "example": "急行のほうが早いです。",
+          "exampleChinese": "快車比較快。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話（綜合練習）",
+      "scene": "小林（旅客）從成田機場出發前往東京市區的飯店，全程使用各種交通工具。",
+      "lines": [
+        { "speaker": "小林", "japanese": "すみません、東京駅まで行きたいです。どうやって行けばいいですか？", "chinese": "不好意思，我想去東京站。要怎麼去比較好？" },
+        { "speaker": "案內員", "japanese": "成田エクスプレスが一番便利ですよ。片道三千七十円です。", "chinese": "成田特快最方便喔。單程三千零七十日圓。" },
+        { "speaker": "小林", "japanese": "ホームはどこですか？", "chinese": "月台在哪裡？" },
+        { "speaker": "案內員", "japanese": "地下一階の一番ホームです。改札口はあちらです。", "chinese": "在地下一樓的第一月台。剪票口在那邊。" },
+        { "speaker": "小林", "japanese": "ICカードで乗れますか？", "chinese": "可以用 IC 卡搭嗎？" },
+        { "speaker": "案內員", "japanese": "すみません、成田エクスプレスは特急なので、切符が必要です。あちらの券売機で買えますよ。", "chinese": "不好意思，成田特快是特急列車，需要車票。可以在那邊的售票機購買。" },
+        { "speaker": "（車內廣播）", "japanese": "まもなく東京です。お乗り換えのお客様はお忘れ物のないようご注意ください。", "chinese": "即將到達東京站。要轉車的旅客請注意不要遺忘物品。" },
+        { "speaker": "小林", "japanese": "（到了東京站）すみません、新宿行きは何番ホームですか？", "chinese": "（到了東京站）不好意思，去新宿的在幾號月台？" },
+        { "speaker": "站務員", "japanese": "中央線で四番ホームです。オレンジの電車です。急行のほうが早いですよ。", "chinese": "搭中央線，在第四月台。是橘色的電車。搭快車比較快喔。" },
+        { "speaker": "小林", "japanese": "急行は何分ぐらいですか？", "chinese": "搭快車大約幾分鐘？" },
+        { "speaker": "站務員", "japanese": "十五分ぐらいです。", "chinese": "大約十五分鐘。" },
+        { "speaker": "小林", "japanese": "ありがとうございます。（到了新宿）", "chinese": "謝謝。（到了新宿）" },
+        { "speaker": "小林", "japanese": "（搭計程車）すみません、このホテルまでお願いします。", "chinese": "（搭計程車）不好意思，麻煩到這間飯店。" },
+        { "speaker": "司機", "japanese": "はい。まっすぐ行って二つ目の信号を左ですね。", "chinese": "好的。直走到第二個紅綠燈左轉對吧。" },
+        { "speaker": "小林", "japanese": "はい、ここで止めてください。領収書をお願いします。", "chinese": "是的，請在這裡停車。請給我收據。" },
+        { "speaker": "司機", "japanese": "はい、どうぞ。千二百円です。ありがとうございました。", "chinese": "好的，請拿。一千兩百日圓。非常感謝。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記（總複習）",
+      "points": [
+        {
+          "pattern": "第二章重點句型總整理",
+          "meaning": "交通相關的核心句型",
+          "structure": "情境 → 句型",
+          "examples": [
+            { "japanese": "〜行きはどこですか？", "chinese": "去〜的在哪裡？（問方向）" },
+            { "japanese": "〜までお願いします。", "chinese": "麻煩到〜。（搭計程車）" },
+            { "japanese": "〜で降ります。", "chinese": "在〜下車。（搭巴士/電車）" },
+            { "japanese": "ここで止めてください。", "chinese": "請在這裡停車。（搭計程車）" },
+            { "japanese": "〜に乗り換えたいです。", "chinese": "我想轉乘〜。（轉車）" },
+            { "japanese": "ICカードで払えますか？", "chinese": "可以用 IC 卡付嗎？（付款）" },
+            { "japanese": "領収書をお願いします。", "chinese": "請給我收據。（索取收據）" }
+          ],
+          "note": "這些是第二章最核心的句型，涵蓋了問路、搭車、付款等所有交通場景。建議多練習到脫口而出！"
+        },
+        {
+          "pattern": "方向指示的組合",
+          "meaning": "告訴別人怎麼走的組合句",
+          "structure": "地標 + を／に + 方向動作",
+          "examples": [
+            { "japanese": "まっすぐ行ってください。", "chinese": "請直走。" },
+            { "japanese": "信号を右に曲がってください。", "chinese": "在紅綠燈右轉。" },
+            { "japanese": "二つ目の交差点を左に曲がってください。", "chinese": "在第二個十字路口左轉。" },
+            { "japanese": "あの角で止めてください。", "chinese": "請在那個轉角停車。" }
+          ],
+          "note": "日本人給方向指示時，常用紅綠燈（信号）、十字路口（交差点）、轉角（角）等地標。搭配「まっすぐ」（直走）、「右に曲がって」（右轉）、「左に曲がって」（左轉）就能聽懂大部分的指路內容。"
+        },
+        {
+          "pattern": "〜のほうが〜です（比較）",
+          "meaning": "〜比較〜（比較兩個選項）",
+          "structure": "A + のほうが + 形容詞 + です",
+          "examples": [
+            { "japanese": "急行のほうが早いです。", "chinese": "快車比較快。" },
+            { "japanese": "タクシーのほうが便利です。", "chinese": "計程車比較方便。" },
+            { "japanese": "バスのほうが安いです。", "chinese": "巴士比較便宜。" }
+          ],
+          "note": "在選擇交通工具時經常用到的比較句型。「〜のほうが」表示「〜那邊比較......」，後面接形容詞。在日本旅行中比較價格、時間、方便度時非常好用。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "乗り換え",
+          "reading": "のりかえ",
+          "romaji": "norikae",
+          "chinese": "轉車",
+          "example": "東京駅で乗り換えます。",
+          "exampleChinese": "在東京站轉車。"
+        },
+        {
+          "japanese": "片道",
+          "reading": "かたみち",
+          "romaji": "katamichi",
+          "chinese": "單程",
+          "example": "片道でお願いします。",
+          "exampleChinese": "請給我單程的。"
+        },
+        {
+          "japanese": "降りる",
+          "reading": "おりる",
+          "romaji": "oriru",
+          "chinese": "下車",
+          "example": "次で降ります。",
+          "exampleChinese": "下一站下車。"
+        },
+        {
+          "japanese": "まっすぐ",
+          "reading": "まっすぐ",
+          "romaji": "massugu",
+          "chinese": "直走",
+          "example": "まっすぐ行ってください。",
+          "exampleChinese": "請直走。"
+        },
+        {
+          "japanese": "空港",
+          "reading": "くうこう",
+          "romaji": "kuukou",
+          "chinese": "機場",
+          "example": "空港に着きました。",
+          "exampleChinese": "到機場了。"
+        },
+        {
+          "japanese": "止めてください",
+          "reading": "とめてください",
+          "romaji": "tomete kudasai",
+          "chinese": "請停車",
+          "example": "ここで止めてください。",
+          "exampleChinese": "請在這裡停車。"
+        },
+        {
+          "japanese": "領収書",
+          "reading": "りょうしゅうしょ",
+          "romaji": "ryoushuusho",
+          "chinese": "收據",
+          "example": "領収書をお願いします。",
+          "exampleChinese": "請給我收據。"
+        },
+        {
+          "japanese": "急行",
+          "reading": "きゅうこう",
+          "romaji": "kyuukou",
+          "chinese": "急行（快車）",
+          "example": "急行のほうが早いです。",
+          "exampleChinese": "快車比較快。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "從機場到東京市區，以下哪個說法正確？",
+          "options": ["東京まで降りたいです。", "東京まで行きたいです。", "東京まで乗り換えたいです。", "東京まで止めてください。"],
+          "correct": 1,
+          "explanation": "「東京まで行きたいです」是「我想去東京」。「まで」表目的地，「行きたいです」是想去的意思。"
+        },
+        {
+          "question": "站務員說「四番ホームです」，意思是？",
+          "options": ["四點鐘出發", "要轉四次車", "在第四月台", "票價四百元"],
+          "correct": 2,
+          "explanation": "「四番ホーム」是「第四月台」的意思。「番（ばん）」表示號碼，「ホーム」是月台。"
+        },
+        {
+          "question": "搭計程車到了目的地附近，應該說？",
+          "options": ["ここで降ります。", "ここで止めてください。", "ここで乗り換えます。", "ここまで行きたいです。"],
+          "correct": 1,
+          "explanation": "搭計程車時用「ここで止めてください」（請在這裡停車）。「降ります」通常用於電車和巴士。"
+        },
+        {
+          "question": "想用 IC 卡付計程車費，應該問？",
+          "options": ["ICカードはどこですか？", "ICカードで払えますか？", "ICカードをください。", "ICカードに乗れますか？"],
+          "correct": 1,
+          "explanation": "「ICカードで払えますか？」是「可以用 IC 卡付款嗎？」。「払える」是「払う」（付）的可能形。"
+        },
+        {
+          "question": "車內廣播說「お乗り換えのお客様」指的是？",
+          "options": ["要下車的旅客", "要轉車的旅客", "要買票的旅客", "要上車的旅客"],
+          "correct": 1,
+          "explanation": "「お乗り換えのお客様」是「要轉車的旅客」的禮貌說法。「乗り換え」是轉車的意思。"
+        },
+        {
+          "question": "「急行のほうが早いです」是什麼意思？",
+          "options": ["快車太快了。", "快車比較快。", "慢車比較快。", "快車和慢車一樣快。"],
+          "correct": 1,
+          "explanation": "「〜のほうが〜です」是比較句型。「急行のほうが早いです」就是「快車比較快」。"
+        },
+        {
+          "question": "搭完計程車想要收據，應該說？",
+          "options": ["お釣りをください。", "メーターを見せてください。", "領収書をお願いします。", "ICカードでお願いします。"],
+          "correct": 2,
+          "explanation": "「領収書をお願いします」是「請給我收據」的意思。在日本搭計程車後索取收據（領収書）是很常見的做法。"
+        },
+        {
+          "question": "以下哪一句話在搭巴士時最常用？",
+          "options": ["ここで止めてください。", "領収書をお願いします。", "次、降ります。", "信号を右に曲がってください。"],
+          "correct": 2,
+          "explanation": "搭巴士時要下車前說「次、降ります」（我下一站要下車），然後按下車鈴。「止めてください」是搭計程車時用的，「信号を右に曲がって」是給計程車司機指路用的。"
+        }
+      ]
+    }
+  ]
+}

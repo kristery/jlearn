@@ -1,0 +1,356 @@
+{
+  "id": "ch2-unit1",
+  "title": "搭電車不迷路！必學問路用語",
+  "intro": "日本的鐵道系統是全世界最複雜也最準時的！從新幹線到地下鐵，各種路線讓人眼花撩亂。本單元教你在車站買票、問月台、搞懂指定席和自由席，讓你搭電車像在地人一樣順暢。",
+  "estimatedTime": "30 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "電車",
+          "reading": "でんしゃ",
+          "romaji": "densha",
+          "chinese": "電車",
+          "example": "電車は何時に来ますか？",
+          "exampleChinese": "電車幾點來？"
+        },
+        {
+          "japanese": "新幹線",
+          "reading": "しんかんせん",
+          "romaji": "shinkansen",
+          "chinese": "新幹線",
+          "example": "新幹線で東京に行きます。",
+          "exampleChinese": "搭新幹線去東京。"
+        },
+        {
+          "japanese": "乗り換え",
+          "reading": "のりかえ",
+          "romaji": "norikae",
+          "chinese": "轉車；換乘",
+          "example": "ここで乗り換えてください。",
+          "exampleChinese": "請在這裡換車。"
+        },
+        {
+          "japanese": "ホーム",
+          "reading": "ホーム",
+          "romaji": "hoomu",
+          "chinese": "月台",
+          "example": "三番ホームです。",
+          "exampleChinese": "在第三月台。"
+        },
+        {
+          "japanese": "改札口",
+          "reading": "かいさつぐち",
+          "romaji": "kaisatsuguchi",
+          "chinese": "剪票口",
+          "example": "改札口を出て左に行ってください。",
+          "exampleChinese": "出了剪票口往左走。"
+        },
+        {
+          "japanese": "片道",
+          "reading": "かたみち",
+          "romaji": "katamichi",
+          "chinese": "單程",
+          "example": "片道切符をください。",
+          "exampleChinese": "請給我單程票。"
+        },
+        {
+          "japanese": "往復",
+          "reading": "おうふく",
+          "romaji": "oufuku",
+          "chinese": "來回",
+          "example": "往復切符はいくらですか？",
+          "exampleChinese": "來回票多少錢？"
+        },
+        {
+          "japanese": "指定席",
+          "reading": "していせき",
+          "romaji": "shiteiseki",
+          "chinese": "對號座",
+          "example": "指定席を予約したいです。",
+          "exampleChinese": "我想預約對號座。"
+        },
+        {
+          "japanese": "自由席",
+          "reading": "じゆうせき",
+          "romaji": "jiyuuseki",
+          "chinese": "自由座",
+          "example": "自由席でいいです。",
+          "exampleChinese": "自由座就可以了。"
+        },
+        {
+          "japanese": "次",
+          "reading": "つぎ",
+          "romaji": "tsugi",
+          "chinese": "下一個",
+          "example": "次の駅はどこですか？",
+          "exampleChinese": "下一站是哪裡？"
+        },
+        {
+          "japanese": "終電",
+          "reading": "しゅうでん",
+          "romaji": "shuuden",
+          "chinese": "末班車",
+          "example": "終電は何時ですか？",
+          "exampleChinese": "末班車幾點？"
+        },
+        {
+          "japanese": "ICカード",
+          "reading": "アイシーカード",
+          "romaji": "aisii kaado",
+          "chinese": "IC 卡（Suica / PASMO 等）",
+          "example": "ICカードで乗れますか？",
+          "exampleChinese": "可以用 IC 卡搭乘嗎？"
+        },
+        {
+          "japanese": "時刻表",
+          "reading": "じこくひょう",
+          "romaji": "jikokuhyou",
+          "chinese": "時刻表",
+          "example": "時刻表を見てください。",
+          "exampleChinese": "請看一下時刻表。"
+        },
+        {
+          "japanese": "各駅停車",
+          "reading": "かくえきていしゃ",
+          "romaji": "kakuekiteisha",
+          "chinese": "各站停車（慢車）",
+          "example": "各駅停車は時間がかかります。",
+          "exampleChinese": "各站停車比較花時間。"
+        },
+        {
+          "japanese": "急行",
+          "reading": "きゅうこう",
+          "romaji": "kyuukou",
+          "chinese": "急行（快車）",
+          "example": "急行に乗ったほうが早いです。",
+          "exampleChinese": "搭快車比較快。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在 JR 車站的售票處，旅客想買新幹線的票前往京都。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、京都行きの新幹線はどこから乗れますか？", "chinese": "不好意思，去京都的新幹線從哪裡搭？" },
+        { "speaker": "站務員", "japanese": "新幹線は十四番ホームです。切符はお持ちですか？", "chinese": "新幹線在第十四月台。您有車票嗎？" },
+        { "speaker": "旅客", "japanese": "まだです。京都まで一枚お願いします。片道でいいです。", "chinese": "還沒有。請給我一張到京都的票。單程就好。" },
+        { "speaker": "站務員", "japanese": "指定席と自由席、どちらがいいですか？", "chinese": "對號座和自由座，您要哪一種？" },
+        { "speaker": "旅客", "japanese": "自由席でお願いします。いくらですか？", "chinese": "請給我自由座。多少錢？" },
+        { "speaker": "站務員", "japanese": "自由席は一万三千三百二十円です。", "chinese": "自由座是一萬三千三百二十日圓。" },
+        { "speaker": "旅客", "japanese": "はい、お願いします。次の新幹線は何時ですか？", "chinese": "好的，麻煩了。下一班新幹線幾點？" },
+        { "speaker": "站務員", "japanese": "次は十一時二十分発です。十四番ホームへどうぞ。", "chinese": "下一班是十一點二十分出發。請到第十四月台。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。乗り換えはありますか？", "chinese": "謝謝。需要轉車嗎？" },
+        { "speaker": "站務員", "japanese": "いいえ、乗り換えなしで京都まで直接行けますよ。", "chinese": "不用，不需轉車直接到京都喔。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在私鐵車站，旅客不確定該搭快車還是慢車。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、渋谷まで行きたいです。急行と各駅停車、どちらがいいですか？", "chinese": "不好意思，我想去澀谷。快車和慢車，哪個好？" },
+        { "speaker": "站務員", "japanese": "急行のほうが早いですよ。十五分で着きます。", "chinese": "快車比較快喔。十五分鐘就到了。" },
+        { "speaker": "旅客", "japanese": "各駅停車だとどのくらいかかりますか？", "chinese": "搭慢車的話大約要多久？" },
+        { "speaker": "站務員", "japanese": "三十分ぐらいですね。", "chinese": "大約三十分鐘左右。" },
+        { "speaker": "旅客", "japanese": "じゃ、急行に乗ります。何番ホームですか？", "chinese": "那我搭快車。在幾號月台？" },
+        { "speaker": "站務員", "japanese": "二番ホームです。時刻表はあそこにありますよ。", "chinese": "在第二月台。時刻表在那邊喔。" },
+        { "speaker": "旅客", "japanese": "終電は何時ですか？", "chinese": "末班車幾點？" },
+        { "speaker": "站務員", "japanese": "終電は十一時四十五分です。お気をつけて。", "chinese": "末班車是十一點四十五分。請注意。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜行きはどこですか？",
+          "meaning": "去〜的（車）在哪裡？",
+          "structure": "地名 + 行き + は + どこですか？",
+          "examples": [
+            { "japanese": "京都行きはどこですか？", "chinese": "去京都的在哪裡？" },
+            { "japanese": "渋谷行きのホームはどこですか？", "chinese": "去澀谷的月台在哪裡？" },
+            { "japanese": "空港行きのバスはどこですか？", "chinese": "去機場的巴士在哪裡？" }
+          ],
+          "note": "「〜行き（〜いき/〜ゆき）」表示目的地方向。車站月台上的電子看板會顯示「東京行き」「新宿行き」等，非常實用。"
+        },
+        {
+          "pattern": "〜に乗り換えたいです",
+          "meaning": "我想轉乘〜",
+          "structure": "路線名 + に + 乗り換えたいです",
+          "examples": [
+            { "japanese": "山手線に乗り換えたいです。", "chinese": "我想轉乘山手線。" },
+            { "japanese": "地下鉄に乗り換えたいです。", "chinese": "我想轉乘地下鐵。" },
+            { "japanese": "急行に乗り換えたいです。", "chinese": "我想轉乘快車。" }
+          ],
+          "note": "「乗り換える（のりかえる）」是轉乘的動詞。「〜たいです」表示「想要〜」，是表達願望的句型。"
+        },
+        {
+          "pattern": "〜番ホームです",
+          "meaning": "在第〜月台",
+          "structure": "數字 + 番 + ホーム + です",
+          "examples": [
+            { "japanese": "三番ホームです。", "chinese": "在第三月台。" },
+            { "japanese": "京都行きは十四番ホームです。", "chinese": "去京都的在第十四月台。" },
+            { "japanese": "急行は二番ホームです。", "chinese": "快車在第二月台。" }
+          ],
+          "note": "「番（ばん）」是表示順序、號碼的量詞。月台號碼用「〜番ホーム」或「〜番線（ばんせん）」表示。"
+        },
+        {
+          "pattern": "〜のほうが〜です",
+          "meaning": "〜比較〜",
+          "structure": "名詞 + のほうが + 形容詞 + です",
+          "examples": [
+            { "japanese": "急行のほうが早いです。", "chinese": "快車比較快。" },
+            { "japanese": "自由席のほうが安いです。", "chinese": "自由座比較便宜。" },
+            { "japanese": "各駅停車のほうが空いています。", "chinese": "慢車比較空。" }
+          ],
+          "note": "「〜のほうが」是比較句型，表示「〜那邊比較」。在兩個選項中比較時非常好用，搭配形容詞使用。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "電車",
+          "reading": "でんしゃ",
+          "romaji": "densha",
+          "chinese": "電車",
+          "example": "電車は何時に来ますか？",
+          "exampleChinese": "電車幾點來？"
+        },
+        {
+          "japanese": "新幹線",
+          "reading": "しんかんせん",
+          "romaji": "shinkansen",
+          "chinese": "新幹線",
+          "example": "新幹線で東京に行きます。",
+          "exampleChinese": "搭新幹線去東京。"
+        },
+        {
+          "japanese": "乗り換え",
+          "reading": "のりかえ",
+          "romaji": "norikae",
+          "chinese": "轉車；換乘",
+          "example": "ここで乗り換えてください。",
+          "exampleChinese": "請在這裡換車。"
+        },
+        {
+          "japanese": "時刻表",
+          "reading": "じこくひょう",
+          "romaji": "jikokuhyou",
+          "chinese": "時刻表",
+          "example": "時刻表を見てください。",
+          "exampleChinese": "請看一下時刻表。"
+        },
+        {
+          "japanese": "各駅停車",
+          "reading": "かくえきていしゃ",
+          "romaji": "kakuekiteisha",
+          "chinese": "各站停車（慢車）",
+          "example": "各駅停車は時間がかかります。",
+          "exampleChinese": "各站停車比較花時間。"
+        },
+        {
+          "japanese": "急行",
+          "reading": "きゅうこう",
+          "romaji": "kyuukou",
+          "chinese": "急行（快車）",
+          "example": "急行に乗ったほうが早いです。",
+          "exampleChinese": "搭快車比較快。"
+        },
+        {
+          "japanese": "指定席",
+          "reading": "していせき",
+          "romaji": "shiteiseki",
+          "chinese": "對號座",
+          "example": "指定席を予約したいです。",
+          "exampleChinese": "我想預約對號座。"
+        },
+        {
+          "japanese": "終電",
+          "reading": "しゅうでん",
+          "romaji": "shuuden",
+          "chinese": "末班車",
+          "example": "終電は何時ですか？",
+          "exampleChinese": "末班車幾點？"
+        },
+        {
+          "japanese": "片道",
+          "reading": "かたみち",
+          "romaji": "katamichi",
+          "chinese": "單程",
+          "example": "片道切符をください。",
+          "exampleChinese": "請給我單程票。"
+        },
+        {
+          "japanese": "ホーム",
+          "reading": "ホーム",
+          "romaji": "hoomu",
+          "chinese": "月台",
+          "example": "三番ホームです。",
+          "exampleChinese": "在第三月台。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「片道」是什麼意思？",
+          "options": ["來回", "單程", "月票", "一日券"],
+          "correct": 1,
+          "explanation": "「片道（かたみち）」是「單程」的意思。「往復（おうふく）」才是「來回」。"
+        },
+        {
+          "question": "想問去京都的月台在哪裡，應該說？",
+          "options": ["京都はどこですか？", "京都行きはどこですか？", "京都に行きます。", "京都まで乗り換えです。"],
+          "correct": 1,
+          "explanation": "「京都行き（きょうといき）はどこですか？」是「去京都的在哪裡？」的意思。「〜行き」表示目的地方向。"
+        },
+        {
+          "question": "「自由席」和「指定席」的差別是？",
+          "options": ["價格和速度不同", "自由座不用指定座位，指定座有固定座號", "一個是電車，一個是新幹線", "沒有差別"],
+          "correct": 1,
+          "explanation": "「自由席」是自由入座，不指定位子；「指定席」有固定的座位號碼，需提前預約或加價。"
+        },
+        {
+          "question": "「終電は何時ですか？」是什麼意思？",
+          "options": ["下一班電車幾點？", "末班車幾點？", "電車要多久？", "電車站在哪裡？"],
+          "correct": 1,
+          "explanation": "「終電（しゅうでん）」是末班車的意思。晚上出遊時一定要注意末班車時間！"
+        },
+        {
+          "question": "「乗り換え」是什麼意思？",
+          "options": ["買票", "上車", "轉車", "下車"],
+          "correct": 2,
+          "explanation": "「乗り換え（のりかえ）」是轉車、換乘的意思。車站內也常看到「乗り換え」的指示牌。"
+        },
+        {
+          "question": "「時刻表」的讀音是？",
+          "options": ["じこくひょう", "じかんひょう", "ときひょう", "じこくほう"],
+          "correct": 0,
+          "explanation": "「時刻表」的讀音是「じこくひょう」，意思是時刻表。車站裡到處都可以看到，記住這個詞就能查詢發車時間。"
+        },
+        {
+          "question": "「各駅停車」和「急行」的差別是？",
+          "options": ["沒有差別", "各駅停車每站都停，急行只停大站", "各駅停車不停站，急行每站停", "各駅停車是新幹線，急行是電車"],
+          "correct": 1,
+          "explanation": "「各駅停車（かくえきていしゃ）」是每站都停的慢車；「急行（きゅうこう）」是只停主要大站的快車，速度較快。"
+        },
+        {
+          "question": "「急行のほうが早いです」是什麼意思？",
+          "options": ["快車太快了。", "快車比較快。", "快車比較慢。", "快車很便宜。"],
+          "correct": 1,
+          "explanation": "「〜のほうが〜です」是比較句型。「急行のほうが早いです」就是「快車比較快」。"
+        }
+      ]
+    }
+  ]
+}

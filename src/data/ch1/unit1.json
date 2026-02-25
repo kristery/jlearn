@@ -1,0 +1,348 @@
+{
+  "id": "ch1-unit1",
+  "title": "五十音教學，平假名 & 片假名應用",
+  "intro": "學完五十音之後，讓我們立刻把假名用在生活中！本單元收錄了在日本車站與公共場所最常見的單字，幫助你一下飛機就能看懂標示、順利移動。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "出口",
+          "reading": "でぐち",
+          "romaji": "deguchi",
+          "chinese": "出口",
+          "example": "出口はあちらです。",
+          "exampleChinese": "出口在那邊。"
+        },
+        {
+          "japanese": "入口",
+          "reading": "いりぐち",
+          "romaji": "iriguchi",
+          "chinese": "入口",
+          "example": "入口はどこですか？",
+          "exampleChinese": "入口在哪裡？"
+        },
+        {
+          "japanese": "駅",
+          "reading": "えき",
+          "romaji": "eki",
+          "chinese": "車站",
+          "example": "駅はここです。",
+          "exampleChinese": "車站在這裡。"
+        },
+        {
+          "japanese": "トイレ",
+          "reading": "トイレ",
+          "romaji": "toire",
+          "chinese": "廁所",
+          "example": "トイレはどこですか？",
+          "exampleChinese": "廁所在哪裡？"
+        },
+        {
+          "japanese": "エレベーター",
+          "reading": "エレベーター",
+          "romaji": "erebeetaa",
+          "chinese": "電梯",
+          "example": "エレベーターはあちらです。",
+          "exampleChinese": "電梯在那邊。"
+        },
+        {
+          "japanese": "エスカレーター",
+          "reading": "エスカレーター",
+          "romaji": "esukareetaa",
+          "chinese": "手扶梯",
+          "example": "エスカレーターで二階に行きます。",
+          "exampleChinese": "搭手扶梯到二樓。"
+        },
+        {
+          "japanese": "きっぷ",
+          "reading": "きっぷ",
+          "romaji": "kippu",
+          "chinese": "車票",
+          "example": "きっぷを買います。",
+          "exampleChinese": "買車票。"
+        },
+        {
+          "japanese": "改札",
+          "reading": "かいさつ",
+          "romaji": "kaisatsu",
+          "chinese": "剪票口",
+          "example": "改札はあそこです。",
+          "exampleChinese": "剪票口在那裡。"
+        },
+        {
+          "japanese": "案内",
+          "reading": "あんない",
+          "romaji": "annai",
+          "chinese": "導覽；服務台",
+          "example": "案内所はどこですか？",
+          "exampleChinese": "服務台在哪裡？"
+        },
+        {
+          "japanese": "地図",
+          "reading": "ちず",
+          "romaji": "chizu",
+          "chinese": "地圖",
+          "example": "地図をください。",
+          "exampleChinese": "請給我地圖。"
+        },
+        {
+          "japanese": "階段",
+          "reading": "かいだん",
+          "romaji": "kaidan",
+          "chinese": "樓梯",
+          "example": "階段はどこですか？",
+          "exampleChinese": "樓梯在哪裡？"
+        },
+        {
+          "japanese": "乗り場",
+          "reading": "のりば",
+          "romaji": "noriba",
+          "chinese": "乘車處；月台",
+          "example": "バス乗り場はあちらです。",
+          "exampleChinese": "公車乘車處在那邊。"
+        },
+        {
+          "japanese": "お手洗い",
+          "reading": "おてあらい",
+          "romaji": "otearai",
+          "chinese": "洗手間（廁所的禮貌說法）",
+          "example": "お手洗いはどこですか？",
+          "exampleChinese": "洗手間在哪裡？"
+        },
+        {
+          "japanese": "ホテル",
+          "reading": "ホテル",
+          "romaji": "hoteru",
+          "chinese": "飯店",
+          "example": "ホテルは駅の近くです。",
+          "exampleChinese": "飯店在車站附近。"
+        },
+        {
+          "japanese": "コンビニ",
+          "reading": "コンビニ",
+          "romaji": "konbini",
+          "chinese": "便利商店",
+          "example": "コンビニはあそこです。",
+          "exampleChinese": "便利商店在那裡。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在車站找不到出口，向站務人員詢問方向。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、出口はどこですか？", "chinese": "不好意思，請問出口在哪裡？" },
+        { "speaker": "站務員", "japanese": "出口はあちらです。改札を出て右です。", "chinese": "出口在那邊。出了剪票口往右走。" },
+        { "speaker": "旅客", "japanese": "トイレはどこですか？", "chinese": "廁所在哪裡？" },
+        { "speaker": "站務員", "japanese": "トイレは改札の中にあります。エレベーターの隣です。", "chinese": "廁所在剪票口裡面，電梯旁邊。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。地図はありますか？", "chinese": "謝謝。請問有地圖嗎？" },
+        { "speaker": "站務員", "japanese": "はい、案内所にあります。どうぞ。", "chinese": "有的，在服務台那邊。請過去看看。" },
+        { "speaker": "旅客", "japanese": "エスカレーターはどこですか？", "chinese": "手扶梯在哪裡？" },
+        { "speaker": "站務員", "japanese": "エスカレーターはあそこです。階段の隣です。", "chinese": "手扶梯在那裡。在樓梯旁邊。" },
+        { "speaker": "旅客", "japanese": "この近くにコンビニはありますか？", "chinese": "這附近有便利商店嗎？" },
+        { "speaker": "站務員", "japanese": "はい、改札を出て左にあります。", "chinese": "有的，出了剪票口往左就有。" },
+        { "speaker": "旅客", "japanese": "ホテルへのバス乗り場はどこですか？", "chinese": "去飯店的公車乘車處在哪裡？" },
+        { "speaker": "站務員", "japanese": "バス乗り場は出口を出てまっすぐです。", "chinese": "公車乘車處出了出口直走就到了。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "剛到飯店，在大廳向櫃台人員詢問設施位置。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、お手洗いはどこですか？", "chinese": "不好意思，洗手間在哪裡？" },
+        { "speaker": "櫃台", "japanese": "お手洗いはあちらです。エレベーターの隣です。", "chinese": "洗手間在那邊。電梯旁邊。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。近くにコンビニはありますか？", "chinese": "謝謝。附近有便利商店嗎？" },
+        { "speaker": "櫃台", "japanese": "はい、ホテルの隣にあります。", "chinese": "有的，飯店隔壁就有。" },
+        { "speaker": "旅客", "japanese": "駅はここから遠いですか？", "chinese": "車站離這裡遠嗎？" },
+        { "speaker": "櫃台", "japanese": "いいえ、駅は近いですよ。歩いて五分です。", "chinese": "不會，車站很近喔。走路五分鐘。" },
+        { "speaker": "旅客", "japanese": "地図はありますか？", "chinese": "有地圖嗎？" },
+        { "speaker": "櫃台", "japanese": "はい、どうぞ。この地図をお使いください。", "chinese": "有的，請拿。請使用這張地圖。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜は〜です",
+          "meaning": "〜是〜",
+          "structure": "名詞 + は + 名詞 + です",
+          "examples": [
+            { "japanese": "ここは駅です。", "chinese": "這裡是車站。" },
+            { "japanese": "あれはエレベーターです。", "chinese": "那個是電梯。" },
+            { "japanese": "あそこはコンビニです。", "chinese": "那裡是便利商店。" }
+          ],
+          "note": "「は」在這裡讀作「wa」而不是「ha」，是日語最基本的句型。「です」是禮貌的語尾，相當於中文的「是」。"
+        },
+        {
+          "pattern": "〜はどこですか？",
+          "meaning": "〜在哪裡？",
+          "structure": "名詞 + は + どこ + ですか？",
+          "examples": [
+            { "japanese": "トイレはどこですか？", "chinese": "廁所在哪裡？" },
+            { "japanese": "出口はどこですか？", "chinese": "出口在哪裡？" },
+            { "japanese": "駅はどこですか？", "chinese": "車站在哪裡？" },
+            { "japanese": "ホテルはどこですか？", "chinese": "飯店在哪裡？" }
+          ],
+          "note": "「どこ」是疑問詞，意思是「哪裡」。「ですか」是「です」的疑問形式。這是旅行中最常用的問句之一，一定要記住！"
+        },
+        {
+          "pattern": "〜はありますか？",
+          "meaning": "有〜嗎？",
+          "structure": "名詞 + は + ありますか？",
+          "examples": [
+            { "japanese": "地図はありますか？", "chinese": "有地圖嗎？" },
+            { "japanese": "コンビニはありますか？", "chinese": "有便利商店嗎？" },
+            { "japanese": "トイレはありますか？", "chinese": "有廁所嗎？" }
+          ],
+          "note": "「あります」用來表示無生命物品的存在，相當於中文的「有」。問句用「ありますか？」，很適合用來詢問設施是否存在。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "出口",
+          "reading": "でぐち",
+          "romaji": "deguchi",
+          "chinese": "出口",
+          "example": "出口はあちらです。",
+          "exampleChinese": "出口在那邊。"
+        },
+        {
+          "japanese": "入口",
+          "reading": "いりぐち",
+          "romaji": "iriguchi",
+          "chinese": "入口",
+          "example": "入口はどこですか？",
+          "exampleChinese": "入口在哪裡？"
+        },
+        {
+          "japanese": "駅",
+          "reading": "えき",
+          "romaji": "eki",
+          "chinese": "車站",
+          "example": "駅はここです。",
+          "exampleChinese": "車站在這裡。"
+        },
+        {
+          "japanese": "トイレ",
+          "reading": "トイレ",
+          "romaji": "toire",
+          "chinese": "廁所",
+          "example": "トイレはどこですか？",
+          "exampleChinese": "廁所在哪裡？"
+        },
+        {
+          "japanese": "階段",
+          "reading": "かいだん",
+          "romaji": "kaidan",
+          "chinese": "樓梯",
+          "example": "階段はどこですか？",
+          "exampleChinese": "樓梯在哪裡？"
+        },
+        {
+          "japanese": "乗り場",
+          "reading": "のりば",
+          "romaji": "noriba",
+          "chinese": "乘車處；月台",
+          "example": "バス乗り場はあちらです。",
+          "exampleChinese": "公車乘車處在那邊。"
+        },
+        {
+          "japanese": "お手洗い",
+          "reading": "おてあらい",
+          "romaji": "otearai",
+          "chinese": "洗手間",
+          "example": "お手洗いはどこですか？",
+          "exampleChinese": "洗手間在哪裡？"
+        },
+        {
+          "japanese": "ホテル",
+          "reading": "ホテル",
+          "romaji": "hoteru",
+          "chinese": "飯店",
+          "example": "ホテルは駅の近くです。",
+          "exampleChinese": "飯店在車站附近。"
+        },
+        {
+          "japanese": "コンビニ",
+          "reading": "コンビニ",
+          "romaji": "konbini",
+          "chinese": "便利商店",
+          "example": "コンビニはあそこです。",
+          "exampleChinese": "便利商店在那裡。"
+        },
+        {
+          "japanese": "地図",
+          "reading": "ちず",
+          "romaji": "chizu",
+          "chinese": "地圖",
+          "example": "地図をください。",
+          "exampleChinese": "請給我地圖。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「でぐち」對應的漢字是哪一個？",
+          "options": ["入口", "出口", "改札", "案内"],
+          "correct": 1,
+          "explanation": "「でぐち」的漢字是「出口」，意思是 exit（出口）。"
+        },
+        {
+          "question": "「トイレはどこですか？」是什麼意思？",
+          "options": ["廁所在那邊。", "廁所在哪裡？", "這裡是廁所。", "廁所很遠。"],
+          "correct": 1,
+          "explanation": "「〜はどこですか？」表示「〜在哪裡？」，所以整句是「廁所在哪裡？」"
+        },
+        {
+          "question": "下列哪個是片假名單字？",
+          "options": ["出口", "きっぷ", "エレベーター", "改札"],
+          "correct": 2,
+          "explanation": "「エレベーター」是片假名，來自英語 elevator，外來語通常使用片假名書寫。"
+        },
+        {
+          "question": "「えき」是什麼意思？",
+          "options": ["地圖", "車票", "車站", "手扶梯"],
+          "correct": 2,
+          "explanation": "「えき」的漢字是「駅」，意思是車站。"
+        },
+        {
+          "question": "想請人給你地圖，應該說？",
+          "options": ["地図はどこですか？", "地図をください。", "地図は駅です。", "地図がありません。"],
+          "correct": 1,
+          "explanation": "「地図をください」意思是「請給我地圖」，「ください」是「請給我」的意思。"
+        },
+        {
+          "question": "「かいだん」的漢字是什麼？",
+          "options": ["改札", "階段", "案内", "会談"],
+          "correct": 1,
+          "explanation": "「かいだん」的漢字是「階段」，意思是樓梯。注意不要跟「改札（かいさつ）」搞混。"
+        },
+        {
+          "question": "「お手洗い」和「トイレ」的關係是？",
+          "options": ["完全不同的意思", "「お手洗い」是「廁所」的禮貌說法", "「トイレ」比較禮貌", "一個指浴室，一個指廁所"],
+          "correct": 1,
+          "explanation": "「お手洗い（おてあらい）」和「トイレ」都是指廁所，但「お手洗い」是更有禮貌的說法，在正式場合或對長輩時使用更為得體。"
+        },
+        {
+          "question": "「コンビニ」是什麼的縮寫？",
+          "options": ["コンピューター", "コンビニエンスストア", "コンビネーション", "コンパニー"],
+          "correct": 1,
+          "explanation": "「コンビニ」是「コンビニエンスストア（convenience store）」的縮寫，也就是便利商店。日本到處都有便利商店，非常方便！"
+        }
+      ]
+    }
+  ]
+}

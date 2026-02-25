@@ -1,0 +1,241 @@
+{
+  "id": "ch6-unit3",
+  "title": "文化小教室｜和服穿對超重要：左前右前一次搞懂",
+  "intro": "穿和服是來日本旅遊的熱門體驗，但你知道和服的穿法有嚴格的規定嗎？穿錯邊可是大忌！這一課帶你了解和服的穿著規範、浴衣和著物的差別，以及租借和服的實用流程。",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "着物",
+          "reading": "きもの",
+          "romaji": "kimono",
+          "chinese": "和服（正式）",
+          "example": "着物を着て京都を散歩しましょう。",
+          "exampleChinese": "穿上和服在京都散步吧。"
+        },
+        {
+          "japanese": "浴衣",
+          "reading": "ゆかた",
+          "romaji": "yukata",
+          "chinese": "浴衣（休閒和服）",
+          "example": "夏祭りに浴衣を着ます。",
+          "exampleChinese": "夏日祭典穿浴衣。"
+        },
+        {
+          "japanese": "帯",
+          "reading": "おび",
+          "romaji": "obi",
+          "chinese": "腰帶（和服用）",
+          "example": "帯の結び方が難しいです。",
+          "exampleChinese": "腰帶的綁法很難。"
+        },
+        {
+          "japanese": "草履",
+          "reading": "ぞうり",
+          "romaji": "zouri",
+          "chinese": "草履（正式和服搭配的鞋）",
+          "example": "着物には草履を合わせます。",
+          "exampleChinese": "和服要搭配草履。"
+        },
+        {
+          "japanese": "下駄",
+          "reading": "げた",
+          "romaji": "geta",
+          "chinese": "木屐",
+          "example": "浴衣には下駄を履きます。",
+          "exampleChinese": "浴衣搭配木屐。"
+        },
+        {
+          "japanese": "右前",
+          "reading": "みぎまえ",
+          "romaji": "migimae",
+          "chinese": "右前（正確的和服穿法）",
+          "example": "和服は右前が正しい着方です。",
+          "exampleChinese": "和服右前才是正確的穿法。"
+        },
+        {
+          "japanese": "左前",
+          "reading": "ひだりまえ",
+          "romaji": "hidarimae",
+          "chinese": "左前（壽衣的穿法，大忌）",
+          "example": "左前は亡くなった人の着方です。絶対にダメです。",
+          "exampleChinese": "左前是去世的人的穿法。絕對不行。"
+        },
+        {
+          "japanese": "襦袢",
+          "reading": "じゅばん",
+          "romaji": "juban",
+          "chinese": "襯衣（和服的內襯）",
+          "example": "着物の下に襦袢を着ます。",
+          "exampleChinese": "和服裡面穿襯衣。"
+        },
+        {
+          "japanese": "袴",
+          "reading": "はかま",
+          "romaji": "hakama",
+          "chinese": "袴（和服下半身的裙褲）",
+          "example": "卒業式に袴を着る人が多いです。",
+          "exampleChinese": "畢業典禮穿袴的人很多。"
+        },
+        {
+          "japanese": "羽織",
+          "reading": "はおり",
+          "romaji": "haori",
+          "chinese": "羽織（和服外套）",
+          "example": "寒い日は羽織を着ましょう。",
+          "exampleChinese": "天冷的時候穿羽織吧。"
+        },
+        {
+          "japanese": "足袋",
+          "reading": "たび",
+          "romaji": "tabi",
+          "chinese": "分趾襪（和服專用的襪子）",
+          "example": "足袋は白いのが基本です。",
+          "exampleChinese": "分趾襪基本上是白色的。"
+        },
+        {
+          "japanese": "着付け",
+          "reading": "きつけ",
+          "romaji": "kitsuke",
+          "chinese": "穿著和服（的技術）",
+          "example": "着付けは専門のスタッフがしてくれます。",
+          "exampleChinese": "穿和服由專業人員幫忙。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "小美和朋友小明在京都租借和服，從選擇到穿著的完整體驗。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ！着物レンタルですか？", "chinese": "歡迎光臨！要租和服嗎？" },
+        { "speaker": "小美", "japanese": "はい、二人でお願いします。予約した林です。", "chinese": "是的，兩個人，麻煩了。我姓林，有預約。" },
+        { "speaker": "店員", "japanese": "林様ですね。着物と浴衣、どちらにしますか？", "chinese": "林小姐對吧。要和服還是浴衣呢？" },
+        { "speaker": "小美", "japanese": "着物と浴衣は何が違うんですか？", "chinese": "和服和浴衣有什麼不同？" },
+        { "speaker": "店員", "japanese": "着物はフォーマルで、浴衣はカジュアルです。着物の方が華やかですよ。", "chinese": "和服是正式的，浴衣是休閒的。和服比較華麗喔。" },
+        { "speaker": "小美", "japanese": "じゃ、着物にします！帯はどれがいいですか？", "chinese": "那我要和服！腰帶哪個好呢？" },
+        { "speaker": "店員", "japanese": "こちらの帯はこの着物によく合いますよ。", "chinese": "這條腰帶跟這件和服很搭喔。" },
+        { "speaker": "小明", "japanese": "着付けはどのくらいかかりますか？", "chinese": "穿著要多久？" },
+        { "speaker": "店員", "japanese": "三十分ほどです。まず足袋を履いて、襦袢を着てから着物を着ます。", "chinese": "大約三十分鐘。先穿上分趾襪，然後穿襯衣，再穿和服。" },
+        { "speaker": "小美", "japanese": "右前ですよね？左前はダメなんですよね。", "chinese": "要穿右前對吧？左前是不行的吧。" },
+        { "speaker": "店員", "japanese": "はい、その通りです。左前は亡くなった方の着方なので、気をつけてくださいね。でも着付けは私たちがしますのでご安心ください。", "chinese": "是的，沒錯。左前是去世的人的穿法，要注意喔。不過穿著由我們來，請放心。" },
+        { "speaker": "小明", "japanese": "草履と下駄はどちらですか？", "chinese": "要穿草履還是木屐？" },
+        { "speaker": "店員", "japanese": "着物には草履が合いますよ。浴衣なら下駄ですね。", "chinese": "和服搭配草履比較適合喔。浴衣的話就是木屐。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～と～は何が違うんですか？",
+          "meaning": "～和～有什麼不同？",
+          "structure": "名詞A + と + 名詞B + は何が違うんですか？",
+          "examples": [
+            { "japanese": "着物と浴衣は何が違うんですか？", "chinese": "和服和浴衣有什麼不同？" },
+            { "japanese": "神社とお寺は何が違うんですか？", "chinese": "神社和寺廟有什麼不同？" },
+            { "japanese": "草履と下駄は何が違うんですか？", "chinese": "草履和木屐有什麼不同？" }
+          ],
+          "note": "這是詢問兩個東西差異的實用句型。「んですか」帶有想了解原因或背景的語氣，比單純的「ですか」更自然。"
+        },
+        {
+          "pattern": "～の方が～です",
+          "meaning": "～比較～",
+          "structure": "名詞 + の方が + 形容詞 + です",
+          "examples": [
+            { "japanese": "着物の方が華やかですよ。", "chinese": "和服比較華麗喔。" },
+            { "japanese": "浴衣の方が涼しいです。", "chinese": "浴衣比較涼快。" },
+            { "japanese": "草履の方がフォーマルです。", "chinese": "草履比較正式。" }
+          ],
+          "note": "這是比較句型。「の方が」表示「比較起來～那邊更～」。在日常會話中非常常用。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "文化小教室",
+      "content": "<h3>右前 vs 左前：穿錯就是大忌！</h3><p>和服最重要的穿著規則就是「<strong>右前</strong>」，也就是<strong>右邊的衣襟在內（先穿），左邊的衣襟在外（後蓋上去）</strong>。從穿著者的角度來看，是右手邊的布料先貼著身體。</p><p>為什麼這麼重要？因為「<strong>左前</strong>」（左邊在內、右邊在外）是<strong>壽衣的穿法</strong>，只有在為死者穿衣時才會這樣穿。如果活人穿成左前，在日本人眼中是非常不吉利的，等於是穿著壽衣在街上走！</p><p><strong>簡單記法</strong>：從正面看過去，衣襟呈現「y」字形（左上右下）就是正確的。或者記住「右手可以輕鬆伸進懷裡」就是對的。</p><h3>浴衣 vs 著物：有什麼不同？</h3><table><tr><th></th><th>浴衣（ゆかた）</th><th>著物（きもの）</th></tr><tr><td><strong>材質</strong></td><td>棉質，輕薄</td><td>絲綢等高級材質</td></tr><tr><td><strong>場合</strong></td><td>夏季祭典、旅館、花火大會</td><td>正式場合、婚禮、成人式</td></tr><tr><td><strong>內衣</strong></td><td>不需要穿長襦袢</td><td>需要穿長襦袢（內襯）</td></tr><tr><td><strong>價格</strong></td><td>相對便宜</td><td>昂貴</td></tr><tr><td><strong>鞋子</strong></td><td>木屐（下駄／げた）</td><td>草履（ぞうり）</td></tr></table><p>簡單來說，<strong>浴衣是休閒版的和服</strong>，著物才是正式的和服。觀光客體驗通常穿的是浴衣或觀光用的著物。</p><h3>租借和服的流程</h3><ol><li><strong>預約</strong>：建議事先在網路上預約和服租借店（着物レンタル）。</li><li><strong>選擇</strong>：到店後挑選喜歡的和服花色和腰帶（帯／おび）。</li><li><strong>著裝</strong>：由專業人員幫你穿上和服，通常需要 20～30 分鐘。</li><li><strong>髮型</strong>：部分店家提供髮型設計（ヘアセット），可以加購。</li><li><strong>出門觀光</strong>：穿著和服去逛街、拍照、參拜神社！</li><li><strong>歸還</strong>：在指定時間前回到店裡歸還。大多數店家要求當天歸還。</li></ol><h3>穿和服時的注意事項</h3><ul><li><strong>走路要小步</strong>：和服裙擺較窄，走大步容易走光或弄鬆。</li><li><strong>坐下要注意</strong>：坐下時先撫平後方的布料，不要直接一屁股坐下去。</li><li><strong>上廁所有技巧</strong>：要把和服下擺一層一層提起來，建議使用夾子固定。</li><li><strong>不要大幅度擺動手臂</strong>：保持優雅的動作，手肘不要抬太高。</li><li><strong>注意天氣</strong>：穿和服怕雨，建議避開雨天。</li></ul><h3>拍照小技巧</h3><ul><li>側身 45 度角拍照最好看，可以展現和服的線條。</li><li>手輕輕放在身前或提著小包（巾着／きんちゃく），姿態更優雅。</li><li>在神社鳥居、竹林、古街道等地方拍照最有氛圍。</li><li>微微低頭或回眸的姿勢，營造日式古典美。</li></ul>",
+      "tips": [
+        "和服一定要穿「右前」（右邊在內），穿反了是壽衣的穿法，是大忌！",
+        "簡單記法：從正面看衣襟呈「y」字形就是對的。",
+        "浴衣是夏季休閒穿著，著物是正式場合穿的。觀光客通常穿浴衣體驗。",
+        "租借和服建議事先上網預約，當天到店可能沒有名額。",
+        "穿和服時走路要小步，動作要優雅，避免大幅度的動作。",
+        "拍照時側身 45 度角最好看，搭配神社或古街景色更有味道。"
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "着物", "reading": "きもの", "romaji": "kimono", "chinese": "和服（正式）" },
+        { "japanese": "浴衣", "reading": "ゆかた", "romaji": "yukata", "chinese": "浴衣（休閒和服）" },
+        { "japanese": "帯", "reading": "おび", "romaji": "obi", "chinese": "腰帶（和服用）" },
+        { "japanese": "草履", "reading": "ぞうり", "romaji": "zouri", "chinese": "草履" },
+        { "japanese": "下駄", "reading": "げた", "romaji": "geta", "chinese": "木屐" },
+        { "japanese": "右前", "reading": "みぎまえ", "romaji": "migimae", "chinese": "右前（正確穿法）" },
+        { "japanese": "袴", "reading": "はかま", "romaji": "hakama", "chinese": "袴（裙褲）" },
+        { "japanese": "足袋", "reading": "たび", "romaji": "tabi", "chinese": "分趾襪" },
+        { "japanese": "着付け", "reading": "きつけ", "romaji": "kitsuke", "chinese": "穿著和服" },
+        { "japanese": "羽織", "reading": "はおり", "romaji": "haori", "chinese": "羽織（和服外套）" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "和服的正確穿法是？",
+          "options": ["左前（左邊在內）", "右前（右邊在內）", "左右都可以", "男右女左"],
+          "correct": 1,
+          "explanation": "和服的正確穿法是「右前」，也就是右邊的衣襟先貼身，左邊蓋在外面。「左前」是壽衣的穿法，活人穿是大忌。"
+        },
+        {
+          "question": "從正面看，穿正確的和服衣襟呈什麼形狀？",
+          "options": ["V 字形", "y 字形", "X 字形", "一字形"],
+          "correct": 1,
+          "explanation": "從正面看，正確穿著的和服衣襟呈「y」字形（左上右下），這是最簡單的判斷方式。"
+        },
+        {
+          "question": "浴衣和著物最大的差別是什麼？",
+          "options": ["顏色不同", "浴衣是休閒的，著物是正式的", "大小不同", "穿法不同"],
+          "correct": 1,
+          "explanation": "浴衣是休閒版的和服，材質輕薄，適合夏季祭典等場合。著物是正式的和服，材質高級，用於婚禮等正式場合。"
+        },
+        {
+          "question": "租借和服時，以下哪個建議是正確的？",
+          "options": ["不用預約直接去就好", "建議事先在網路上預約", "只能在飯店租", "需要自己帶配件"],
+          "correct": 1,
+          "explanation": "建議事先在網路上預約和服租借店，尤其是在京都等熱門觀光地，當天到店可能沒有名額或選擇有限。"
+        },
+        {
+          "question": "穿和服時應該注意什麼？",
+          "options": ["走大步比較帥氣", "動作大一點比較活潑", "走路要小步，動作要優雅", "跑步的話要提起裙擺"],
+          "correct": 2,
+          "explanation": "穿和服時走路要小步、動作要優雅，手肘不要抬太高，這樣才符合和服的穿著禮儀，也能避免弄鬆和服。"
+        },
+        {
+          "question": "「帯」是什麼？",
+          "options": ["和服的袖子", "和服的腰帶", "和服的內襯", "和服的鞋子"],
+          "correct": 1,
+          "explanation": "「帯（おび）」是和服的腰帶，用來固定和服的重要配件。帶子的綁法有很多種花樣。"
+        },
+        {
+          "question": "穿著物時應該穿什麼鞋？",
+          "options": ["運動鞋", "下駄（木屐）", "草履", "拖鞋"],
+          "correct": 2,
+          "explanation": "正式的著物搭配草履（ぞうり），休閒的浴衣搭配下駄（げた）。穿著物的時候要先穿上白色的足袋（分趾襪）。"
+        },
+        {
+          "question": "「足袋」是什麼？",
+          "options": ["和服的外套", "和服專用的分趾襪", "木屐的另一個名字", "和服的裙褲"],
+          "correct": 1,
+          "explanation": "「足袋（たび）」是和服專用的分趾襪，大拇趾和其他四趾分開，方便穿草履或木屐。基本上是白色的。"
+        }
+      ]
+    }
+  ]
+}

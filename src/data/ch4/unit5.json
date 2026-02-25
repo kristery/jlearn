@@ -1,0 +1,420 @@
+{
+  "id": "ch4-unit5",
+  "title": "聽力、口說練習",
+  "intro": "這是第四章的總複習！讓我們回顧藥妝店、服飾店、便利商店的所有購物日語，透過一段完整的購物情境對話和測驗來鞏固學習成果。",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字複習",
+      "items": [
+        {
+          "japanese": "日焼け止め",
+          "reading": "ひやけどめ",
+          "romaji": "hiyakedome",
+          "chinese": "防曬乳",
+          "example": "日焼け止めは夏の必需品です。",
+          "exampleChinese": "防曬乳是夏天的必需品。"
+        },
+        {
+          "japanese": "免税",
+          "reading": "めんぜい",
+          "romaji": "menzei",
+          "chinese": "免稅",
+          "example": "この店は免税対応していますか？",
+          "exampleChinese": "這家店有提供免稅服務嗎？"
+        },
+        {
+          "japanese": "試着",
+          "reading": "しちゃく",
+          "romaji": "shichaku",
+          "chinese": "試穿",
+          "example": "試着室で試してみます。",
+          "exampleChinese": "我在試衣間試試看。"
+        },
+        {
+          "japanese": "サイズ",
+          "reading": "サイズ",
+          "romaji": "saizu",
+          "chinese": "尺寸",
+          "example": "ワンサイズ大きいのをください。",
+          "exampleChinese": "請給我大一號的。"
+        },
+        {
+          "japanese": "レジ袋",
+          "reading": "レジぶくろ",
+          "romaji": "reji bukuro",
+          "chinese": "塑膠袋",
+          "example": "レジ袋は有料です。",
+          "exampleChinese": "塑膠袋需要付費。"
+        },
+        {
+          "japanese": "ポイントカード",
+          "reading": "ポイントカード",
+          "romaji": "pointo kādo",
+          "chinese": "集點卡",
+          "example": "ポイントカードを作りますか？",
+          "exampleChinese": "要辦集點卡嗎？"
+        },
+        {
+          "japanese": "割引",
+          "reading": "わりびき",
+          "romaji": "waribiki",
+          "chinese": "折扣",
+          "example": "この商品は２割引です。",
+          "exampleChinese": "這個商品打八折。"
+        },
+        {
+          "japanese": "クレジットカード",
+          "reading": "クレジットカード",
+          "romaji": "kurejitto kādo",
+          "chinese": "信用卡",
+          "example": "クレジットカードは使えますか？",
+          "exampleChinese": "可以用信用卡嗎？"
+        },
+        {
+          "japanese": "色",
+          "reading": "いろ",
+          "romaji": "iro",
+          "chinese": "顏色",
+          "example": "何色がありますか？",
+          "exampleChinese": "有什麼顏色？"
+        },
+        {
+          "japanese": "お弁当",
+          "reading": "おべんとう",
+          "romaji": "obentō",
+          "chinese": "便當",
+          "example": "お弁当は種類が多いです。",
+          "exampleChinese": "便當的種類很多。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話：完整購物一日遊",
+      "scene": "從藥妝店到服飾店，再到便利商店的完整購物體驗",
+      "lines": [
+        {
+          "speaker": "（藥妝店）あなた",
+          "japanese": "すみません、風邪薬を探しています。",
+          "chinese": "不好意思，我在找感冒藥。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "風邪薬はこちらの棚にございます。どんな症状ですか？",
+          "chinese": "感冒藥在這邊的架子上。是什麼症狀呢？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "のどが痛いです。あと、日焼け止めもお願いします。",
+          "chinese": "喉嚨痛。另外，也麻煩給我防曬乳。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "日焼け止めはあちらの棚です。こちらの風邪薬がおすすめですよ。",
+          "chinese": "防曬乳在那邊的架子。推薦這款感冒藥。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "ありがとうございます。これとこれで、免税できますか？",
+          "chinese": "謝謝。這個和這個，可以免稅嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "はい、合計で５，０００円以上ですので免税可能です。パスポートをお願いします。",
+          "chinese": "好的，合計超過5,000日圓所以可以免稅。請出示護照。"
+        },
+        {
+          "speaker": "（服飾店）あなた",
+          "japanese": "すみません、このジャケットの Mサイズはありますか？",
+          "chinese": "不好意思，這件外套有M號嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "はい、ございます。こちらです。試着されますか？",
+          "chinese": "有的。在這裡。要試穿嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、試着してもいいですか？",
+          "chinese": "好的，可以試穿嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "もちろんです。試着室はあちらです。",
+          "chinese": "當然可以。試衣間在那邊。"
+        },
+        {
+          "speaker": "（試穿後）あなた",
+          "japanese": "ちょっと大きいです。Sサイズはありますか？あと、黒はありますか？",
+          "chinese": "有點大。有S號嗎？另外，有黑色嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "Sサイズの黒ですね。お持ちします。少々お待ちください。",
+          "chinese": "S號黑色對吧。我去拿。請稍等。"
+        },
+        {
+          "speaker": "（試穿後）あなた",
+          "japanese": "ぴったりです！これにします。クレジットカードで払えますか？",
+          "chinese": "剛剛好！我要這件。可以用信用卡付嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "はい、もちろんです。今セール中で２割引ですので、６，４００円になります。",
+          "chinese": "可以的。現在特賣中打八折，所以是6,400日圓。"
+        },
+        {
+          "speaker": "（便利商店）店員",
+          "japanese": "いらっしゃいませ。ポイントカードはお持ちですか？",
+          "chinese": "歡迎光臨。請問有集點卡嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "ないです。",
+          "chinese": "沒有。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "お弁当、温めますか？",
+          "chinese": "便當要加熱嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、お願いします。お箸もお願いします。",
+          "chinese": "好的，麻煩了。也請給我筷子。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "かしこまりました。合計で９５０円になります。",
+          "chinese": "好的。合計950日圓。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "現金でお願いします。",
+          "chinese": "用現金，麻煩了。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "１，０００円お預かりします。５０円のお返しです。ありがとうございました。",
+          "chinese": "收您1,000日圓。找您50日圓。謝謝惠顧。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記（第四章總複習）",
+      "points": [
+        {
+          "pattern": "～を探しています（複習）",
+          "meaning": "我在找～",
+          "structure": "名詞 ＋ を ＋ 探しています",
+          "examples": [
+            {
+              "japanese": "風邪薬を探しています。",
+              "chinese": "我在找感冒藥。"
+            },
+            {
+              "japanese": "Mサイズを探しています。",
+              "chinese": "我在找M號的。"
+            },
+            {
+              "japanese": "黒いジャケットを探しています。",
+              "chinese": "我在找黑色外套。"
+            }
+          ],
+          "note": "這是購物時最實用的開場白。不論在藥妝店還是服飾店，用「～を探しています」就能讓店員知道你需要什麼，並主動幫你。"
+        },
+        {
+          "pattern": "～てもいいですか？（複習）",
+          "meaning": "可以～嗎？",
+          "structure": "動詞て形 ＋ もいいですか？",
+          "examples": [
+            {
+              "japanese": "試着してもいいですか？",
+              "chinese": "可以試穿嗎？"
+            },
+            {
+              "japanese": "写真を撮ってもいいですか？",
+              "chinese": "可以拍照嗎？"
+            },
+            {
+              "japanese": "触ってもいいですか？",
+              "chinese": "可以摸（看）嗎？"
+            }
+          ],
+          "note": "請求許可的萬用句型。在日本購物時，試穿衣服、觸摸商品之前都應該先問一聲，這是基本禮貌。"
+        },
+        {
+          "pattern": "～でお願いします（複習）",
+          "meaning": "用～，麻煩了",
+          "structure": "付款方式等 ＋ でお願いします",
+          "examples": [
+            {
+              "japanese": "現金でお願いします。",
+              "chinese": "用現金，麻煩了。"
+            },
+            {
+              "japanese": "クレジットカードでお願いします。",
+              "chinese": "用信用卡，麻煩了。"
+            },
+            {
+              "japanese": "Suicaでお願いします。",
+              "chinese": "用 Suica，麻煩了。"
+            }
+          ],
+          "note": "選擇付款方式的萬用句型。記住「で」表示「用～」的手段。不論現金、信用卡還是電子支付，都用這個句型！"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "日焼け止め",
+          "reading": "ひやけどめ",
+          "romaji": "hiyakedome",
+          "chinese": "防曬乳"
+        },
+        {
+          "japanese": "免税",
+          "reading": "めんぜい",
+          "romaji": "menzei",
+          "chinese": "免稅"
+        },
+        {
+          "japanese": "試着",
+          "reading": "しちゃく",
+          "romaji": "shichaku",
+          "chinese": "試穿"
+        },
+        {
+          "japanese": "割引",
+          "reading": "わりびき",
+          "romaji": "waribiki",
+          "chinese": "折扣"
+        },
+        {
+          "japanese": "ポイントカード",
+          "reading": "ポイントカード",
+          "romaji": "pointo kādo",
+          "chinese": "集點卡"
+        },
+        {
+          "japanese": "レジ袋",
+          "reading": "レジぶくろ",
+          "romaji": "reji bukuro",
+          "chinese": "塑膠袋"
+        },
+        {
+          "japanese": "サイズ",
+          "reading": "サイズ",
+          "romaji": "saizu",
+          "chinese": "尺寸"
+        },
+        {
+          "japanese": "クレジットカード",
+          "reading": "クレジットカード",
+          "romaji": "kurejitto kādo",
+          "chinese": "信用卡"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "你在藥妝店想找感冒藥，最自然的說法是？",
+          "options": [
+            "風邪薬はどこですか？",
+            "風邪薬を探しています。",
+            "風邪薬を食べたいです。",
+            "風邪薬が壊れています。"
+          ],
+          "correct": 1,
+          "explanation": "「風邪薬を探しています」是「我在找感冒藥」的意思。用「探しています」比直接問位置更自然，店員也會主動帶你去找。"
+        },
+        {
+          "question": "試穿後覺得太大，想要小一號，怎麼說？",
+          "options": [
+            "もう少し大きいのはありますか？",
+            "もう少し安いのはありますか？",
+            "もう少し小さいのはありますか？",
+            "他の色はありますか？"
+          ],
+          "correct": 2,
+          "explanation": "「もう少し小さいのはありますか？」是「有再小一點的嗎？」的意思。可以換成具體尺寸如「Sサイズはありますか？」。"
+        },
+        {
+          "question": "「２割引」等於台灣的幾折？",
+          "options": [
+            "打二折",
+            "打六折",
+            "打八折",
+            "打九折"
+          ],
+          "correct": 2,
+          "explanation": "「２割引」= 減20% = 剩80%，等於台灣的打八折。日本的割引數字越大，折扣越多。"
+        },
+        {
+          "question": "便利商店店員問「温めますか？」你不想加熱，該怎麼回答？",
+          "options": [
+            "はい、お願いします。",
+            "温めてください。",
+            "いいえ、大丈夫です。",
+            "はい、温めます。"
+          ],
+          "correct": 2,
+          "explanation": "「いいえ、大丈夫です」是「不用了，沒關係」的意思。在便利商店用「大丈夫です」來婉拒是最自然的回答。"
+        },
+        {
+          "question": "以下哪個是辦理免稅必須出示的東西？",
+          "options": [
+            "信用卡",
+            "集點卡",
+            "護照",
+            "飯店房卡"
+          ],
+          "correct": 2,
+          "explanation": "在日本辦理免稅需要出示護照（パスポート）。同一店鋪當天消費滿5,000日圓以上（未稅）即可申請。"
+        },
+        {
+          "question": "你想用 Suica 付款，應該怎麼說？",
+          "options": [
+            "Suicaをください。",
+            "Suicaはありますか？",
+            "Suicaでお願いします。",
+            "Suicaを見せてください。"
+          ],
+          "correct": 2,
+          "explanation": "「～でお願いします」是選擇付款方式的萬用句型。「Suicaでお願いします」就是「用Suica付款，麻煩了」。"
+        },
+        {
+          "question": "「ぴったりです」是什麼意思？",
+          "options": [
+            "太貴了",
+            "太大了",
+            "很漂亮",
+            "剛剛好"
+          ],
+          "correct": 3,
+          "explanation": "「ぴったり」是剛剛好、完美合適的意思。試穿衣服覺得合身的時候就可以說「ぴったりです！」。"
+        },
+        {
+          "question": "店員說「１，０００円お預かりします。５０円のお返しです」，是什麼意思？",
+          "options": [
+            "總共1,050日圓。",
+            "收您1,000日圓，找您50日圓。",
+            "打折後是950日圓。",
+            "還差50日圓。"
+          ],
+          "correct": 1,
+          "explanation": "「お預かりします」是「收您（多少錢）」，「お返しです」是「找零」。整句是「收您1,000日圓，找您50日圓」。"
+        }
+      ]
+    }
+  ]
+}

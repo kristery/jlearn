@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import UnitCard from '../../components/UnitCard.astro';
+import { chapters } from '../../data/chapters';
+
+export function getStaticPaths() {
+  return chapters.map((ch) => ({
+    params: { chapter: String(ch.id) },
+    props: { chapter: ch },
+  }));
+}
+
+const { chapter } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const prevChapter = chapters.find((c) => c.id === chapter.id - 1);
+const nextChapter = chapters.find((c) => c.id === chapter.id + 1);
+---
+<BaseLayout title={`第${chapter.id}章 ${chapter.title} | JLearn`}>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Breadcrumb -->
+    <nav class="flex items-center gap-2 text-sm text-ink-lighter mb-8">
+      <a href={base} class="hover:text-matcha-400 transition-colors">首頁</a>
+      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+      </svg>
+      <span class="text-ink font-medium">第 {chapter.id} 章</span>
+    </nav>
+
+    <!-- Chapter header -->
+    <div class="mb-10">
+      <div class="flex items-center gap-4 mb-4">
+        <div class="w-14 h-14 rounded-2xl bg-matcha-400 text-white flex items-center justify-center text-2xl font-bold shrink-0">
+          {chapter.id}
+        </div>
+        <div>
+          <h1 class="text-2xl sm:text-3xl font-bold text-ink">{chapter.title}</h1>
+          <p class="text-sm text-ink-lighter mt-1">{chapter.subtitle}</p>
+        </div>
+      </div>
+      <p class="text-ink-light leading-relaxed">{chapter.description}</p>
+      <div class="flex items-center gap-4 mt-4 text-sm text-ink-lighter">
+        <span>{chapter.icon} {chapter.units.length} 個單元</span>
+      </div>
+    </div>
+
+    <!-- Units list -->
+    <div class="space-y-3">
+      {chapter.units.map((unit, index) => (
+        <UnitCard
+          chapterId={chapter.id}
+          unitIndex={index}
+          id={unit.id}
+          title={unit.title}
+          type={unit.type}
+          estimatedTime={unit.estimatedTime}
+          description={unit.description}
+        />
+      ))}
+    </div>
+
+    <!-- Navigation -->
+    <div class="flex items-center justify-between mt-12 pt-8 border-t border-warm-200/50">
+      {prevChapter ? (
+        <a href={`${base}chapters/${prevChapter.id}`} class="flex items-center gap-2 text-sm text-ink-lighter hover:text-matcha-400 transition-colors">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+          </svg>
+          上一章：{prevChapter.title}
+        </a>
+      ) : <div />}
+      {nextChapter ? (
+        <a href={`${base}chapters/${nextChapter.id}`} class="flex items-center gap-2 text-sm text-ink-lighter hover:text-matcha-400 transition-colors">
+          下一章：{nextChapter.title}
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+        </a>
+      ) : <div />}
+    </div>
+  </div>
+</BaseLayout>

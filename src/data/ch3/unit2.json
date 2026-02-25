@@ -1,0 +1,449 @@
+{
+  "id": "ch3-unit2",
+  "title": "住宿突發狀況！解決東西遺失與電器故障問題",
+  "intro": "住飯店時遇到冷氣壞了、熱水沒了、東西不見了怎麼辦？這一課教你如何用日語向飯店人員求助，從容處理各種突發狀況！",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "忘れ物",
+          "reading": "わすれもの",
+          "romaji": "wasuremono",
+          "chinese": "遺失物",
+          "example": "忘れ物をしました。",
+          "exampleChinese": "我忘了東西。"
+        },
+        {
+          "japanese": "壊れた",
+          "reading": "こわれた",
+          "romaji": "kowareta",
+          "chinese": "壞掉的",
+          "example": "エアコンが壊れています。",
+          "exampleChinese": "冷氣壞掉了。"
+        },
+        {
+          "japanese": "エアコン",
+          "reading": "エアコン",
+          "romaji": "eakon",
+          "chinese": "冷氣／空調",
+          "example": "エアコンが動きません。",
+          "exampleChinese": "冷氣不動了。"
+        },
+        {
+          "japanese": "お湯",
+          "reading": "おゆ",
+          "romaji": "oyu",
+          "chinese": "熱水",
+          "example": "お湯が出ません。",
+          "exampleChinese": "熱水出不來。"
+        },
+        {
+          "japanese": "タオル",
+          "reading": "タオル",
+          "romaji": "taoru",
+          "chinese": "毛巾",
+          "example": "タオルをもう一枚お願いします。",
+          "exampleChinese": "請再給我一條毛巾。"
+        },
+        {
+          "japanese": "シャンプー",
+          "reading": "シャンプー",
+          "romaji": "shanpū",
+          "chinese": "洗髮精",
+          "example": "シャンプーがありません。",
+          "exampleChinese": "沒有洗髮精。"
+        },
+        {
+          "japanese": "トイレットペーパー",
+          "reading": "トイレットペーパー",
+          "romaji": "toiretto pēpā",
+          "chinese": "衛生紙",
+          "example": "トイレットペーパーがなくなりました。",
+          "exampleChinese": "衛生紙用完了。"
+        },
+        {
+          "japanese": "掃除",
+          "reading": "そうじ",
+          "romaji": "sōji",
+          "chinese": "打掃",
+          "example": "部屋の掃除をお願いします。",
+          "exampleChinese": "請幫我打掃房間。"
+        },
+        {
+          "japanese": "隣",
+          "reading": "となり",
+          "romaji": "tonari",
+          "chinese": "隔壁",
+          "example": "隣の部屋がうるさいです。",
+          "exampleChinese": "隔壁房間很吵。"
+        },
+        {
+          "japanese": "うるさい",
+          "reading": "うるさい",
+          "romaji": "urusai",
+          "chinese": "吵鬧的",
+          "example": "夜、隣がうるさくて眠れません。",
+          "exampleChinese": "晚上隔壁太吵，睡不著。"
+        },
+        {
+          "japanese": "電球",
+          "reading": "でんきゅう",
+          "romaji": "denkyū",
+          "chinese": "電燈泡",
+          "example": "電球が切れています。",
+          "exampleChinese": "燈泡燒掉了。"
+        },
+        {
+          "japanese": "水道",
+          "reading": "すいどう",
+          "romaji": "suidō",
+          "chinese": "水管／自來水",
+          "example": "水道から水が漏れています。",
+          "exampleChinese": "水管在漏水。"
+        },
+        {
+          "japanese": "暖房",
+          "reading": "だんぼう",
+          "romaji": "danbō",
+          "chinese": "暖氣",
+          "example": "暖房がつきません。",
+          "exampleChinese": "暖氣開不了。"
+        },
+        {
+          "japanese": "冷房",
+          "reading": "れいぼう",
+          "romaji": "reibō",
+          "chinese": "冷氣（制冷）",
+          "example": "冷房が効きすぎています。",
+          "exampleChinese": "冷氣開太強了。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "住飯店時遇到冷氣壞掉、缺毛巾、燈泡壞了，以及遺失物品等突發狀況",
+      "lines": [
+        {
+          "speaker": "あなた",
+          "japanese": "すみません、部屋のエアコンが壊れています。",
+          "chinese": "不好意思，房間的冷氣壞了。"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "申し訳ございません。すぐに確認いたします。お部屋の番号を教えていただけますか？",
+          "chinese": "非常抱歉。我馬上確認。可以告訴我房間號碼嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "５０３号室です。",
+          "chinese": "503 號房。"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "かしこまりました。係の者をすぐにお送りします。",
+          "chinese": "我知道了。馬上派人過去。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "あと、タオルをもう一枚お願いできますか？",
+          "chinese": "另外，可以再給我一條毛巾嗎？"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "はい、すぐにお届けします。",
+          "chinese": "好的，馬上送過去。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "それと、お湯が出ないのですが…。",
+          "chinese": "還有，熱水出不來……"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "大変申し訳ございません。合わせて確認いたします。",
+          "chinese": "非常抱歉。一起確認處理。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "あ、それから電球も切れているみたいです。",
+          "chinese": "啊，還有燈泡好像也壞了。"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "申し訳ございません。電球もすぐに交換いたします。",
+          "chinese": "非常抱歉。燈泡也馬上更換。"
+        },
+        {
+          "speaker": "（隔天退房時）あなた",
+          "japanese": "すみません、部屋に忘れ物をしたかもしれません。携帯の充電器を忘れました。",
+          "chinese": "不好意思，我可能忘了東西在房間裡。我忘了手機充電器。"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "お部屋を確認いたしますので、少々お待ちください。",
+          "chinese": "我去確認房間，請稍等。"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "お客様、こちらの充電器でしょうか？",
+          "chinese": "客人，是這個充電器嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、それです！ありがとうございます。",
+          "chinese": "是的，就是那個！謝謝。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～が壊れています",
+          "meaning": "～壞掉了（持續狀態）",
+          "structure": "名詞 ＋ が ＋ 壊れています",
+          "examples": [
+            {
+              "japanese": "エアコンが壊れています。",
+              "chinese": "冷氣壞掉了。"
+            },
+            {
+              "japanese": "テレビが壊れています。",
+              "chinese": "電視壞掉了。"
+            },
+            {
+              "japanese": "トイレが壊れています。",
+              "chinese": "馬桶壞掉了。"
+            }
+          ],
+          "note": "「壊れています」是表示「壞掉的狀態」，用「ています」表示持續狀態。如果要說「剛剛壞了」可以用「壊れました」。"
+        },
+        {
+          "pattern": "～がありません",
+          "meaning": "沒有～",
+          "structure": "名詞 ＋ が ＋ ありません",
+          "examples": [
+            {
+              "japanese": "シャンプーがありません。",
+              "chinese": "沒有洗髮精。"
+            },
+            {
+              "japanese": "トイレットペーパーがありません。",
+              "chinese": "沒有衛生紙。"
+            },
+            {
+              "japanese": "ドライヤーがありません。",
+              "chinese": "沒有吹風機。"
+            }
+          ],
+          "note": "「ありません」是「あります（有）」的否定形。用來表示東西不存在或缺少。向飯店反映缺少物品時非常實用！"
+        },
+        {
+          "pattern": "～を忘れました",
+          "meaning": "忘了～",
+          "structure": "名詞 ＋ を ＋ 忘れました",
+          "examples": [
+            {
+              "japanese": "部屋に携帯を忘れました。",
+              "chinese": "把手機忘在房間了。"
+            },
+            {
+              "japanese": "レストランに傘を忘れました。",
+              "chinese": "把傘忘在餐廳了。"
+            },
+            {
+              "japanese": "タクシーに財布を忘れました。",
+              "chinese": "把錢包忘在計程車裡了。"
+            }
+          ],
+          "note": "「忘れました」是「忘記了」。搭配「場所＋に」可以表達在哪裡忘了東西。這在旅行中超級實用！"
+        },
+        {
+          "pattern": "～が切れています",
+          "meaning": "～用完了／斷了",
+          "structure": "名詞 ＋ が ＋ 切れています",
+          "examples": [
+            {
+              "japanese": "電球が切れています。",
+              "chinese": "燈泡燒掉了。"
+            },
+            {
+              "japanese": "トイレットペーパーが切れています。",
+              "chinese": "衛生紙用完了。"
+            },
+            {
+              "japanese": "電池が切れています。",
+              "chinese": "電池沒電了。"
+            }
+          ],
+          "note": "「切れています」表示某物已經用完、斷掉或沒電的狀態。燈泡壞了、東西用完了都可以用這個句型。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "忘れ物",
+          "reading": "わすれもの",
+          "romaji": "wasuremono",
+          "chinese": "遺失物"
+        },
+        {
+          "japanese": "壊れた",
+          "reading": "こわれた",
+          "romaji": "kowareta",
+          "chinese": "壞掉的"
+        },
+        {
+          "japanese": "エアコン",
+          "reading": "エアコン",
+          "romaji": "eakon",
+          "chinese": "冷氣／空調"
+        },
+        {
+          "japanese": "お湯",
+          "reading": "おゆ",
+          "romaji": "oyu",
+          "chinese": "熱水"
+        },
+        {
+          "japanese": "タオル",
+          "reading": "タオル",
+          "romaji": "taoru",
+          "chinese": "毛巾"
+        },
+        {
+          "japanese": "掃除",
+          "reading": "そうじ",
+          "romaji": "sōji",
+          "chinese": "打掃"
+        },
+        {
+          "japanese": "電球",
+          "reading": "でんきゅう",
+          "romaji": "denkyū",
+          "chinese": "電燈泡"
+        },
+        {
+          "japanese": "暖房",
+          "reading": "だんぼう",
+          "romaji": "danbō",
+          "chinese": "暖氣"
+        },
+        {
+          "japanese": "冷房",
+          "reading": "れいぼう",
+          "romaji": "reibō",
+          "chinese": "冷氣（制冷）"
+        },
+        {
+          "japanese": "水道",
+          "reading": "すいどう",
+          "romaji": "suidō",
+          "chinese": "水管／自來水"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "冷氣壞了，你要怎麼跟櫃台說？",
+          "options": [
+            "エアコンがありません。",
+            "エアコンが壊れています。",
+            "エアコンをお願いします。",
+            "エアコンを忘れました。"
+          ],
+          "correct": 1,
+          "explanation": "「エアコンが壊れています」是「冷氣壞掉了」的意思。用「壊れています」表示壞掉的狀態。"
+        },
+        {
+          "question": "「お湯が出ません」是什麼意思？",
+          "options": [
+            "沒有熱水",
+            "熱水太燙",
+            "熱水出不來",
+            "要熱水"
+          ],
+          "correct": 2,
+          "explanation": "「出ません」是「出不來」的意思。「お湯が出ません」就是「熱水出不來」。"
+        },
+        {
+          "question": "你想要再多一條毛巾，應該怎麼說？",
+          "options": [
+            "タオルが壊れました。",
+            "タオルがありません。",
+            "タオルをもう一枚お願いします。",
+            "タオルを忘れました。"
+          ],
+          "correct": 2,
+          "explanation": "「もう一枚」是「再一條」，「お願いします」是「拜託」。合起來就是「請再給我一條毛巾」。"
+        },
+        {
+          "question": "你把手機忘在房間裡了，怎麼說？",
+          "options": [
+            "部屋に携帯が壊れました。",
+            "部屋に携帯がありません。",
+            "部屋に携帯を忘れました。",
+            "部屋の携帯をお願いします。"
+          ],
+          "correct": 2,
+          "explanation": "「部屋に携帯を忘れました」就是「把手機忘在房間了」。「場所＋に＋東西＋を忘れました」是表達遺忘的固定句型。"
+        },
+        {
+          "question": "「隣の部屋がうるさいです」是什麼意思？",
+          "options": [
+            "隔壁房間很暗。",
+            "隔壁房間很吵。",
+            "隔壁房間壞掉了。",
+            "隔壁房間很小。"
+          ],
+          "correct": 1,
+          "explanation": "「隣」是隔壁，「うるさい」是吵鬧的意思。整句就是「隔壁房間很吵」。"
+        },
+        {
+          "question": "「電球が切れています」是什麼意思？",
+          "options": [
+            "電燈泡打開了。",
+            "電燈泡太亮了。",
+            "電燈泡燒掉了。",
+            "電燈泡不見了。"
+          ],
+          "correct": 2,
+          "explanation": "「切れています」表示已經斷掉或壞掉的狀態。「電球が切れています」就是「燈泡燒掉了」。"
+        },
+        {
+          "question": "「暖房」和「冷房」分別是什麼意思？",
+          "options": [
+            "暖房＝冷氣、冷房＝暖氣",
+            "暖房＝暖氣、冷房＝冷氣",
+            "暖房＝浴室、冷房＝廚房",
+            "暖房＝電燈、冷房＝電風扇"
+          ],
+          "correct": 1,
+          "explanation": "「暖房（だんぼう）」是暖氣，「冷房（れいぼう）」是冷氣。冬天用暖房，夏天用冷房。"
+        },
+        {
+          "question": "「水道から水が漏れています」是什麼意思？",
+          "options": [
+            "自來水停了。",
+            "水管在漏水。",
+            "水太熱了。",
+            "水龍頭壞了。"
+          ],
+          "correct": 1,
+          "explanation": "「水道」是水管、自來水，「漏れています」是「在漏」的意思。整句就是「水管在漏水」。"
+        }
+      ]
+    }
+  ]
+}

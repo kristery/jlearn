@@ -1,0 +1,42 @@
+---
+interface DialogueLine {
+  speaker: string;
+  japanese: string;
+  chinese: string;
+}
+
+interface Props {
+  title?: string;
+  scene: string;
+  lines: DialogueLine[];
+}
+
+const { title = '情境對話', scene, lines } = Astro.props;
+---
+<section class="my-10">
+  <h2 class="flex items-center gap-2 text-xl font-bold text-ink mb-2">
+    <span class="w-8 h-8 rounded-lg bg-sakura-100 flex items-center justify-center text-sm">💬</span>
+    {title}
+  </h2>
+  <p class="text-sm text-ink-lighter mb-4 ml-10">情境：{scene}</p>
+  <div class="space-y-3 max-w-lg mx-auto">
+    {lines.map((line) => {
+      const isA = line.speaker === 'A';
+      return (
+        <div class={`flex ${isA ? 'justify-start' : 'justify-end'}`}>
+          <div class={`max-w-[80%] ${isA ? 'order-1' : 'order-1'}`}>
+            <div class="flex items-center gap-2 mb-1">
+              <span class={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold text-white ${isA ? 'bg-matcha-400' : 'bg-sakura-300'}`}>
+                {line.speaker}
+              </span>
+            </div>
+            <div class={`rounded-2xl px-4 py-3 ${isA ? 'bg-matcha-50 rounded-tl-sm' : 'bg-sakura-50 rounded-tr-sm'}`}>
+              <p class="jp-text text-sm font-medium text-ink">{line.japanese}</p>
+              <p class="text-xs text-ink-lighter mt-1">{line.chinese}</p>
+            </div>
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</section>

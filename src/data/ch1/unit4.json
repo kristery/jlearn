@@ -1,0 +1,354 @@
+{
+  "id": "ch1-unit4",
+  "title": "這裡？那裡？哪裡？搞懂日語「こそあど」就不迷路！",
+  "intro": "「こそあど」是日語指示詞的四大家族：「こ」系列（靠近自己的）、「そ」系列（靠近對方的）、「あ」系列（離雙方都遠的）、「ど」系列（疑問詞）。學會這套系統，問路、購物都能精準表達！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "これ",
+          "reading": "これ",
+          "romaji": "kore",
+          "chinese": "這個（靠近自己的東西）",
+          "example": "これはいくらですか？",
+          "exampleChinese": "這個多少錢？"
+        },
+        {
+          "japanese": "それ",
+          "reading": "それ",
+          "romaji": "sore",
+          "chinese": "那個（靠近對方的東西）",
+          "example": "それを見せてください。",
+          "exampleChinese": "請讓我看一下那個。"
+        },
+        {
+          "japanese": "あれ",
+          "reading": "あれ",
+          "romaji": "are",
+          "chinese": "那個（離雙方都遠的東西）",
+          "example": "あれは何ですか？",
+          "exampleChinese": "那個是什麼？"
+        },
+        {
+          "japanese": "どれ",
+          "reading": "どれ",
+          "romaji": "dore",
+          "chinese": "哪一個？",
+          "example": "どれがいいですか？",
+          "exampleChinese": "哪一個好？"
+        },
+        {
+          "japanese": "ここ",
+          "reading": "ここ",
+          "romaji": "koko",
+          "chinese": "這裡",
+          "example": "ここはどこですか？",
+          "exampleChinese": "這裡是哪裡？"
+        },
+        {
+          "japanese": "そこ",
+          "reading": "そこ",
+          "romaji": "soko",
+          "chinese": "那裡（靠近對方的地方）",
+          "example": "そこに置いてください。",
+          "exampleChinese": "請放在那裡。"
+        },
+        {
+          "japanese": "あそこ",
+          "reading": "あそこ",
+          "romaji": "asoko",
+          "chinese": "那裡（遠處）",
+          "example": "トイレはあそこです。",
+          "exampleChinese": "廁所在那裡。"
+        },
+        {
+          "japanese": "どこ",
+          "reading": "どこ",
+          "romaji": "doko",
+          "chinese": "哪裡？",
+          "example": "駅はどこですか？",
+          "exampleChinese": "車站在哪裡？"
+        },
+        {
+          "japanese": "この",
+          "reading": "この",
+          "romaji": "kono",
+          "chinese": "這個〜（後接名詞）",
+          "example": "この電車は東京行きですか？",
+          "exampleChinese": "這班電車是去東京的嗎？"
+        },
+        {
+          "japanese": "その",
+          "reading": "その",
+          "romaji": "sono",
+          "chinese": "那個〜（後接名詞，靠近對方）",
+          "example": "その地図を見せてください。",
+          "exampleChinese": "請讓我看一下那張地圖。"
+        },
+        {
+          "japanese": "あの",
+          "reading": "あの",
+          "romaji": "ano",
+          "chinese": "那個〜（後接名詞，遠處）",
+          "example": "あの建物は何ですか？",
+          "exampleChinese": "那棟建築物是什麼？"
+        },
+        {
+          "japanese": "どの",
+          "reading": "どの",
+          "romaji": "dono",
+          "chinese": "哪個〜？（後接名詞）",
+          "example": "どの電車に乗りますか？",
+          "exampleChinese": "要搭哪班電車？"
+        },
+        {
+          "japanese": "こちら",
+          "reading": "こちら",
+          "romaji": "kochira",
+          "chinese": "這邊（禮貌說法）",
+          "example": "こちらへどうぞ。",
+          "exampleChinese": "這邊請。"
+        },
+        {
+          "japanese": "そちら",
+          "reading": "そちら",
+          "romaji": "sochira",
+          "chinese": "那邊（靠近對方，禮貌說法）",
+          "example": "そちらは何階ですか？",
+          "exampleChinese": "那邊是幾樓？"
+        },
+        {
+          "japanese": "あちら",
+          "reading": "あちら",
+          "romaji": "achira",
+          "chinese": "那邊（遠處，禮貌說法）",
+          "example": "出口はあちらです。",
+          "exampleChinese": "出口在那邊。"
+        },
+        {
+          "japanese": "どちら",
+          "reading": "どちら",
+          "romaji": "dochira",
+          "chinese": "哪邊？（禮貌說法）",
+          "example": "どちらがいいですか？",
+          "exampleChinese": "哪邊比較好？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在百貨公司詢問商品位置，店員引導客人。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、これはいくらですか？", "chinese": "不好意思，這個多少錢？" },
+        { "speaker": "店員", "japanese": "それは三千円です。", "chinese": "那個是三千日圓。" },
+        { "speaker": "旅客", "japanese": "じゃ、あれはいくらですか？", "chinese": "那麼，那個（遠處的）多少錢？" },
+        { "speaker": "店員", "japanese": "あちらは五千円です。こちらへどうぞ。", "chinese": "那邊的是五千日圓。這邊請。" },
+        { "speaker": "旅客", "japanese": "この色はありますか？", "chinese": "有這個顏色的嗎？" },
+        { "speaker": "店員", "japanese": "はい、その隣にあります。", "chinese": "有的，在那個旁邊。" },
+        { "speaker": "旅客", "japanese": "お土産売り場はどこですか？", "chinese": "伴手禮賣場在哪裡？" },
+        { "speaker": "店員", "japanese": "お土産売り場はあそこです。あのエスカレーターで三階に行ってください。", "chinese": "伴手禮賣場在那裡。請搭那邊的手扶梯到三樓。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます！", "chinese": "謝謝！" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在觀光景點和朋友一起看風景，指著不同方向對話。",
+      "lines": [
+        { "speaker": "你", "japanese": "見て！あれは何ですか？", "chinese": "你看！那個是什麼？" },
+        { "speaker": "朋友", "japanese": "あれは東京タワーですよ。", "chinese": "那是東京鐵塔喔。" },
+        { "speaker": "你", "japanese": "すごい！あそこに行きたいです。", "chinese": "好厲害！我想去那裡。" },
+        { "speaker": "朋友", "japanese": "いいですね。あの駅から電車で行けますよ。", "chinese": "好啊。從那個車站搭電車可以到喔。" },
+        { "speaker": "你", "japanese": "どの駅ですか？", "chinese": "哪個車站？" },
+        { "speaker": "朋友", "japanese": "あそこの駅です。ここから歩いて五分です。", "chinese": "那邊那個車站。從這裡走路五分鐘。" },
+        { "speaker": "你", "japanese": "この道をまっすぐ行けばいいですか？", "chinese": "沿著這條路直走就可以了嗎？" },
+        { "speaker": "朋友", "japanese": "はい、そうです。あの信号を右に曲がってください。", "chinese": "對，沒錯。在那個紅綠燈右轉。" },
+        { "speaker": "你", "japanese": "分かりました。行きましょう！", "chinese": "知道了。走吧！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "こそあど系統總覽",
+          "meaning": "日語的指示詞系統",
+          "structure": "こ（近己）/ そ（近對方）/ あ（遠）/ ど（疑問）",
+          "examples": [
+            { "japanese": "これ／それ／あれ／どれ → 代替事物", "chinese": "這個／那個／那個（遠）／哪個" },
+            { "japanese": "ここ／そこ／あそこ／どこ → 表示場所", "chinese": "這裡／那裡／那裡（遠）／哪裡" },
+            { "japanese": "この～／その～／あの～／どの～ → 修飾名詞", "chinese": "這個～／那個～／那個（遠）～／哪個～" },
+            { "japanese": "こちら／そちら／あちら／どちら → 禮貌方向", "chinese": "這邊／那邊／那邊（遠）／哪邊" }
+          ],
+          "note": "「こ」系列指靠近說話者的；「そ」系列指靠近聽話者的；「あ」系列指離雙方都遠的；「ど」系列是疑問詞。這套系統非常有規律，掌握了就能舉一反三！"
+        },
+        {
+          "pattern": "〜はどこですか？",
+          "meaning": "〜在哪裡？",
+          "structure": "名詞 + は + どこ + ですか？",
+          "examples": [
+            { "japanese": "トイレはどこですか？", "chinese": "廁所在哪裡？" },
+            { "japanese": "お土産売り場はどこですか？", "chinese": "伴手禮賣場在哪裡？" },
+            { "japanese": "あの駅はどこですか？", "chinese": "那個車站在哪裡？" }
+          ],
+          "note": "旅行中最實用的問句！想找任何地方，只要把那個地方放在「は」前面就可以了。"
+        },
+        {
+          "pattern": "〜はどれですか？",
+          "meaning": "〜是哪一個？",
+          "structure": "名詞 + は + どれ + ですか？",
+          "examples": [
+            { "japanese": "あなたの荷物はどれですか？", "chinese": "你的行李是哪一個？" },
+            { "japanese": "抹茶味はどれですか？", "chinese": "抹茶口味是哪一個？" },
+            { "japanese": "一番安いのはどれですか？", "chinese": "最便宜的是哪一個？" }
+          ],
+          "note": "從多個選項中詢問「是哪一個」時使用。如果後面要接名詞，要改用「どの」，例如「どの味がいいですか？」（哪個口味好？）"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "これ",
+          "reading": "これ",
+          "romaji": "kore",
+          "chinese": "這個",
+          "example": "これはいくらですか？",
+          "exampleChinese": "這個多少錢？"
+        },
+        {
+          "japanese": "それ",
+          "reading": "それ",
+          "romaji": "sore",
+          "chinese": "那個（靠近對方）",
+          "example": "それを見せてください。",
+          "exampleChinese": "請讓我看一下那個。"
+        },
+        {
+          "japanese": "あそこ",
+          "reading": "あそこ",
+          "romaji": "asoko",
+          "chinese": "那裡（遠處）",
+          "example": "トイレはあそこです。",
+          "exampleChinese": "廁所在那裡。"
+        },
+        {
+          "japanese": "どこ",
+          "reading": "どこ",
+          "romaji": "doko",
+          "chinese": "哪裡？",
+          "example": "駅はどこですか？",
+          "exampleChinese": "車站在哪裡？"
+        },
+        {
+          "japanese": "この",
+          "reading": "この",
+          "romaji": "kono",
+          "chinese": "這個〜（後接名詞）",
+          "example": "この電車は東京行きですか？",
+          "exampleChinese": "這班電車是去東京的嗎？"
+        },
+        {
+          "japanese": "あの",
+          "reading": "あの",
+          "romaji": "ano",
+          "chinese": "那個〜（後接名詞，遠處）",
+          "example": "あの建物は何ですか？",
+          "exampleChinese": "那棟建築物是什麼？"
+        },
+        {
+          "japanese": "こちら",
+          "reading": "こちら",
+          "romaji": "kochira",
+          "chinese": "這邊（禮貌說法）",
+          "example": "こちらへどうぞ。",
+          "exampleChinese": "這邊請。"
+        },
+        {
+          "japanese": "どちら",
+          "reading": "どちら",
+          "romaji": "dochira",
+          "chinese": "哪邊？（禮貌說法）",
+          "example": "どちらがいいですか？",
+          "exampleChinese": "哪邊比較好？"
+        },
+        {
+          "japanese": "どれ",
+          "reading": "どれ",
+          "romaji": "dore",
+          "chinese": "哪一個？",
+          "example": "どれがいいですか？",
+          "exampleChinese": "哪一個好？"
+        },
+        {
+          "japanese": "どの",
+          "reading": "どの",
+          "romaji": "dono",
+          "chinese": "哪個〜？（後接名詞）",
+          "example": "どの電車に乗りますか？",
+          "exampleChinese": "要搭哪班電車？"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "手上拿著一個商品要問價格，應該說？",
+          "options": ["あれはいくらですか？", "それはいくらですか？", "これはいくらですか？", "どれはいくらですか？"],
+          "correct": 2,
+          "explanation": "自己手上拿著的東西離自己最近，要用「これ」。「これはいくらですか？」＝「這個多少錢？」"
+        },
+        {
+          "question": "「あそこ」是什麼意思？",
+          "options": ["這裡", "那裡（靠近對方）", "那裡（遠處）", "哪裡？"],
+          "correct": 2,
+          "explanation": "「あそこ」屬於「あ」系列，指離說話者和聽話者都遠的地方。"
+        },
+        {
+          "question": "想說「哪班電車？」，空格應填什麼？「＿＿電車ですか？」",
+          "options": ["この", "その", "あの", "どの"],
+          "correct": 3,
+          "explanation": "疑問詞用「ど」系列。因為後面接名詞「電車」，所以用「どの」而非「どれ」。"
+        },
+        {
+          "question": "店員指著你旁邊的東西說「それ」，你對應的說法是？",
+          "options": ["これ", "それ", "あれ", "どれ"],
+          "correct": 0,
+          "explanation": "對方用「それ」指靠近你的東西，你自己要說「これ」，因為它靠近你自己。"
+        },
+        {
+          "question": "「こちらへどうぞ」是什麼意思？",
+          "options": ["那邊請。", "這邊請。", "哪邊好？", "那裡是哪裡？"],
+          "correct": 1,
+          "explanation": "「こちら」是「這邊」的禮貌說法，「へ」表示方向，「どうぞ」是「請」。整句是「這邊請」。"
+        },
+        {
+          "question": "「ここはどこですか？」的意思是？",
+          "options": ["這裡有什麼？", "這裡是哪裡？", "那裡在哪裡？", "哪裡比較好？"],
+          "correct": 1,
+          "explanation": "「ここ」是「這裡」，「どこ」是「哪裡」。「ここはどこですか？」就是「這裡是哪裡？」。迷路時可以用這句話問路人。"
+        },
+        {
+          "question": "「あの」和「あれ」的差別是什麼？",
+          "options": ["沒有差別", "「あの」後面要接名詞，「あれ」單獨使用", "「あれ」後面要接名詞", "「あの」用在疑問句"],
+          "correct": 1,
+          "explanation": "「あの」是連體詞，必須後接名詞，如「あの建物」（那棟建築）。「あれ」是代名詞，可以單獨使用，如「あれは何ですか？」（那是什麼？）。"
+        },
+        {
+          "question": "從三個蛋糕中想問「哪一個好吃？」，應該用？",
+          "options": ["どこがおいしいですか？", "どれがおいしいですか？", "どのがおいしいですか？", "どちらがおいしいですか？"],
+          "correct": 1,
+          "explanation": "從多個選項中選一個時用「どれ」。「どちら」通常用在兩個選項中擇一。「どの」後面必須接名詞，如「どのケーキ」。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "id": "ch2-unit2",
+  "title": "出門不慌張！交通實用會話",
+  "intro": "除了電車之外，在日本旅行還會搭到計程車和巴士。本單元教你搭計程車時怎麼跟司機溝通、搭巴士怎麼知道在哪裡下車，以及基本的方向詞彙，讓你出門不再慌張！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "タクシー",
+          "reading": "タクシー",
+          "romaji": "takushii",
+          "chinese": "計程車",
+          "example": "タクシーを呼んでください。",
+          "exampleChinese": "請幫我叫計程車。"
+        },
+        {
+          "japanese": "バス",
+          "reading": "バス",
+          "romaji": "basu",
+          "chinese": "巴士；公車",
+          "example": "バスで行きます。",
+          "exampleChinese": "搭巴士去。"
+        },
+        {
+          "japanese": "空港",
+          "reading": "くうこう",
+          "romaji": "kuukou",
+          "chinese": "機場",
+          "example": "空港までお願いします。",
+          "exampleChinese": "麻煩到機場。"
+        },
+        {
+          "japanese": "停留所",
+          "reading": "ていりゅうじょ",
+          "romaji": "teiryuujo",
+          "chinese": "公車站",
+          "example": "バスの停留所はどこですか？",
+          "exampleChinese": "公車站在哪裡？"
+        },
+        {
+          "japanese": "乗る",
+          "reading": "のる",
+          "romaji": "noru",
+          "chinese": "搭乘；上車",
+          "example": "ここからバスに乗ります。",
+          "exampleChinese": "從這裡搭公車。"
+        },
+        {
+          "japanese": "降りる",
+          "reading": "おりる",
+          "romaji": "oriru",
+          "chinese": "下車",
+          "example": "次の駅で降ります。",
+          "exampleChinese": "在下一站下車。"
+        },
+        {
+          "japanese": "右",
+          "reading": "みぎ",
+          "romaji": "migi",
+          "chinese": "右邊",
+          "example": "右に曲がってください。",
+          "exampleChinese": "請往右轉。"
+        },
+        {
+          "japanese": "左",
+          "reading": "ひだり",
+          "romaji": "hidari",
+          "chinese": "左邊",
+          "example": "左に曲がってください。",
+          "exampleChinese": "請往左轉。"
+        },
+        {
+          "japanese": "まっすぐ",
+          "reading": "まっすぐ",
+          "romaji": "massugu",
+          "chinese": "直走",
+          "example": "まっすぐ行ってください。",
+          "exampleChinese": "請直走。"
+        },
+        {
+          "japanese": "信号",
+          "reading": "しんごう",
+          "romaji": "shingou",
+          "chinese": "紅綠燈",
+          "example": "信号を右に曲がってください。",
+          "exampleChinese": "在紅綠燈處右轉。"
+        },
+        {
+          "japanese": "交差点",
+          "reading": "こうさてん",
+          "romaji": "kousaten",
+          "chinese": "十字路口",
+          "example": "次の交差点を左に曲がります。",
+          "exampleChinese": "在下一個十字路口左轉。"
+        },
+        {
+          "japanese": "ここで止めてください",
+          "reading": "ここでとめてください",
+          "romaji": "koko de tomete kudasai",
+          "chinese": "請在這裡停車",
+          "example": "すみません、ここで止めてください。",
+          "exampleChinese": "不好意思，請在這裡停車。"
+        },
+        {
+          "japanese": "渋滞",
+          "reading": "じゅうたい",
+          "romaji": "juutai",
+          "chinese": "塞車；交通堵塞",
+          "example": "渋滞がひどいですね。",
+          "exampleChinese": "塞車好嚴重啊。"
+        },
+        {
+          "japanese": "メーター",
+          "reading": "メーター",
+          "romaji": "meetaa",
+          "chinese": "計費表",
+          "example": "メーターを見てください。",
+          "exampleChinese": "請看一下計費表。"
+        },
+        {
+          "japanese": "領収書",
+          "reading": "りょうしゅうしょ",
+          "romaji": "ryoushuusho",
+          "chinese": "收據",
+          "example": "領収書をお願いします。",
+          "exampleChinese": "請給我收據。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "搭計程車從飯店到著名觀光景點。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、浅草寺までお願いします。", "chinese": "不好意思，麻煩到淺草寺。" },
+        { "speaker": "司機", "japanese": "浅草寺ですね。かしこまりました。", "chinese": "淺草寺對嗎？好的。" },
+        { "speaker": "旅客", "japanese": "だいたいどのくらいかかりますか？", "chinese": "大約要多久？" },
+        { "speaker": "司機", "japanese": "二十分ぐらいですね。道が混んでいなければ。", "chinese": "大概二十分鐘左右。如果不塞車的話。" },
+        { "speaker": "旅客", "japanese": "いくらぐらいですか？", "chinese": "大概多少錢？" },
+        { "speaker": "司機", "japanese": "千五百円ぐらいだと思います。", "chinese": "我覺得大約一千五百日圓左右。" },
+        { "speaker": "旅客", "japanese": "あ、すみません。あの信号の先で止めてください。", "chinese": "啊，不好意思。請在那個紅綠燈過去之後停車。" },
+        { "speaker": "司機", "japanese": "はい、ここでいいですか？", "chinese": "好的，在這裡可以嗎？" },
+        { "speaker": "旅客", "japanese": "はい、ここで大丈夫です。いくらですか？", "chinese": "是的，這裡可以。多少錢？" },
+        { "speaker": "司機", "japanese": "メーターは千四百二十円です。", "chinese": "計費表顯示一千四百二十日圓。" },
+        { "speaker": "旅客", "japanese": "ICカードで払えますか？", "chinese": "可以用 IC 卡付款嗎？" },
+        { "speaker": "司機", "japanese": "はい、どうぞ。", "chinese": "可以，請。" },
+        { "speaker": "旅客", "japanese": "領収書をお願いします。", "chinese": "請給我收據。" },
+        { "speaker": "司機", "japanese": "はい、どうぞ。ありがとうございます。", "chinese": "好的，請拿。謝謝。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "搭公車去目的地，途中遇到塞車。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、このバスは金閣寺に行きますか？", "chinese": "不好意思，這班公車有到金閣寺嗎？" },
+        { "speaker": "司機", "japanese": "はい、行きますよ。", "chinese": "有的，有到喔。" },
+        { "speaker": "旅客", "japanese": "金閣寺の停留所に着いたら、教えてもらえますか？", "chinese": "到金閣寺的站時可以告訴我嗎？" },
+        { "speaker": "司機", "japanese": "いいですよ。十五分ぐらいです。", "chinese": "可以喔。大約十五分鐘。" },
+        { "speaker": "旅客", "japanese": "あれ、渋滞ですか？", "chinese": "咦，塞車了嗎？" },
+        { "speaker": "司機", "japanese": "そうですね。少し渋滞していますね。", "chinese": "是的。有點塞車呢。" },
+        { "speaker": "司機", "japanese": "はい、次が金閣寺前です。降りてください。", "chinese": "好，下一站就是金閣寺前。請下車。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。いくらですか？", "chinese": "謝謝。多少錢？" },
+        { "speaker": "司機", "japanese": "二百三十円です。", "chinese": "兩百三十日圓。" },
+        { "speaker": "旅客", "japanese": "はい。ありがとうございました。", "chinese": "好的。非常感謝。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜まで行きたいです",
+          "meaning": "我想去〜",
+          "structure": "地名 + まで + 行きたいです",
+          "examples": [
+            { "japanese": "空港まで行きたいです。", "chinese": "我想去機場。" },
+            { "japanese": "東京タワーまで行きたいです。", "chinese": "我想去東京鐵塔。" },
+            { "japanese": "金閣寺まで行きたいです。", "chinese": "我想去金閣寺。" }
+          ],
+          "note": "「まで」表示終點、目的地。「行きたいです」是「行く」（去）的願望形式，表示「想去」。搭計程車時常用「〜までお願いします」（麻煩到〜），更自然也更禮貌。"
+        },
+        {
+          "pattern": "〜で降ります",
+          "meaning": "在〜下車",
+          "structure": "地名／站名 + で + 降ります",
+          "examples": [
+            { "japanese": "次の駅で降ります。", "chinese": "在下一站下車。" },
+            { "japanese": "渋谷で降ります。", "chinese": "在澀谷下車。" },
+            { "japanese": "金閣寺前で降ります。", "chinese": "在金閣寺前下車。" }
+          ],
+          "note": "「降りる（おりる）」是下車的動詞。「で」在這裡表示動作發生的地點。搭巴士時，下車前按鈴，就可以說「次、降ります」（我下一站要下車）。"
+        },
+        {
+          "pattern": "ここで止めてください",
+          "meaning": "請在這裡停車",
+          "structure": "場所 + で + 止めてください",
+          "examples": [
+            { "japanese": "ここで止めてください。", "chinese": "請在這裡停車。" },
+            { "japanese": "あの角で止めてください。", "chinese": "請在那個轉角停車。" },
+            { "japanese": "信号の手前で止めてください。", "chinese": "請在紅綠燈前面停車。" }
+          ],
+          "note": "搭計程車時的必備句！「止める（とめる）」是停止的意思。也可以用方向詞來指引：「右に曲がってください」（請右轉）、「まっすぐ行ってください」（請直走）。"
+        },
+        {
+          "pattern": "〜をお願いします（請求物品）",
+          "meaning": "請給我〜",
+          "structure": "名詞 + を + お願いします",
+          "examples": [
+            { "japanese": "領収書をお願いします。", "chinese": "請給我收據。" },
+            { "japanese": "お釣りをお願いします。", "chinese": "請找零。" },
+            { "japanese": "空港までお願いします。", "chinese": "麻煩到機場。" }
+          ],
+          "note": "搭計程車下車時，如果需要收據（領収書），記得在付完錢後說「領収書をお願いします」。在日本出差的人經常需要收據來報帳。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "タクシー",
+          "reading": "タクシー",
+          "romaji": "takushii",
+          "chinese": "計程車",
+          "example": "タクシーを呼んでください。",
+          "exampleChinese": "請幫我叫計程車。"
+        },
+        {
+          "japanese": "空港",
+          "reading": "くうこう",
+          "romaji": "kuukou",
+          "chinese": "機場",
+          "example": "空港までお願いします。",
+          "exampleChinese": "麻煩到機場。"
+        },
+        {
+          "japanese": "渋滞",
+          "reading": "じゅうたい",
+          "romaji": "juutai",
+          "chinese": "塞車；交通堵塞",
+          "example": "渋滞がひどいですね。",
+          "exampleChinese": "塞車好嚴重啊。"
+        },
+        {
+          "japanese": "メーター",
+          "reading": "メーター",
+          "romaji": "meetaa",
+          "chinese": "計費表",
+          "example": "メーターを見てください。",
+          "exampleChinese": "請看一下計費表。"
+        },
+        {
+          "japanese": "領収書",
+          "reading": "りょうしゅうしょ",
+          "romaji": "ryoushuusho",
+          "chinese": "收據",
+          "example": "領収書をお願いします。",
+          "exampleChinese": "請給我收據。"
+        },
+        {
+          "japanese": "降りる",
+          "reading": "おりる",
+          "romaji": "oriru",
+          "chinese": "下車",
+          "example": "次の駅で降ります。",
+          "exampleChinese": "在下一站下車。"
+        },
+        {
+          "japanese": "右",
+          "reading": "みぎ",
+          "romaji": "migi",
+          "chinese": "右邊",
+          "example": "右に曲がってください。",
+          "exampleChinese": "請往右轉。"
+        },
+        {
+          "japanese": "左",
+          "reading": "ひだり",
+          "romaji": "hidari",
+          "chinese": "左邊",
+          "example": "左に曲がってください。",
+          "exampleChinese": "請往左轉。"
+        },
+        {
+          "japanese": "まっすぐ",
+          "reading": "まっすぐ",
+          "romaji": "massugu",
+          "chinese": "直走",
+          "example": "まっすぐ行ってください。",
+          "exampleChinese": "請直走。"
+        },
+        {
+          "japanese": "信号",
+          "reading": "しんごう",
+          "romaji": "shingou",
+          "chinese": "紅綠燈",
+          "example": "信号を右に曲がってください。",
+          "exampleChinese": "在紅綠燈處右轉。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "搭計程車想請司機到機場，應該說？",
+          "options": ["空港はどこですか？", "空港までお願いします。", "空港に乗り換えたいです。", "空港で降ります。"],
+          "correct": 1,
+          "explanation": "「空港までお願いします」是「麻煩到機場」的意思，是搭計程車時告訴司機目的地的標準說法。"
+        },
+        {
+          "question": "「右に曲がってください」是什麼意思？",
+          "options": ["請直走。", "請往左轉。", "請往右轉。", "請在這裡停車。"],
+          "correct": 2,
+          "explanation": "「右（みぎ）に曲がって（まがって）ください」是「請往右轉」。「曲がる」是轉彎的意思。"
+        },
+        {
+          "question": "想在下一站下車，應該說？",
+          "options": ["次、乗ります。", "次、止めてください。", "次、降ります。", "次、行きます。"],
+          "correct": 2,
+          "explanation": "「次、降ります」是「我下一站要下車」的意思。「降りる（おりる）」是下車的動詞。"
+        },
+        {
+          "question": "「停留所」是什麼意思？",
+          "options": ["計程車站", "公車站", "火車站", "機場"],
+          "correct": 1,
+          "explanation": "「停留所（ていりゅうじょ）」是公車站的意思。注意不要和「駅（えき）」（火車站/電車站）搞混。"
+        },
+        {
+          "question": "「まっすぐ」是什麼意思？",
+          "options": ["左轉", "右轉", "直走", "後退"],
+          "correct": 2,
+          "explanation": "「まっすぐ」是「直走、筆直前進」的意思。「まっすぐ行ってください」就是「請直走」。"
+        },
+        {
+          "question": "「渋滞」的讀音和意思是？",
+          "options": ["しぶたい，意思是遲到", "じゅうたい，意思是塞車", "しぶたい，意思是堵塞", "じゅうたい，意思是遲到"],
+          "correct": 1,
+          "explanation": "「渋滞」的讀音是「じゅうたい」，意思是塞車、交通堵塞。搭計程車遇到塞車時會很常聽到這個詞。"
+        },
+        {
+          "question": "搭完計程車想要收據，應該說？",
+          "options": ["お金をください。", "メーターをお願いします。", "領収書をお願いします。", "お釣りをください。"],
+          "correct": 2,
+          "explanation": "「領収書（りょうしゅうしょ）をお願いします」是「請給我收據」的意思。在日本搭計程車後索取收據是很常見的行為。"
+        },
+        {
+          "question": "「メーターは千四百二十円です」的意思是？",
+          "options": ["請付一千四百二十日圓。", "計費表顯示一千四百二十日圓。", "找您一千四百二十日圓。", "需要一千四百二十日圓。"],
+          "correct": 1,
+          "explanation": "「メーター」是計程車的計費表。「メーターは千四百二十円です」就是「計費表顯示一千四百二十日圓」，也就是車資。"
+        }
+      ]
+    }
+  ]
+}

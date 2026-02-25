@@ -1,0 +1,277 @@
+{
+  "id": "ch5-unit1",
+  "title": "日本餐廳生存術，從入座、點餐到結帳",
+  "intro": "走進日本餐廳的第一步！從被店員招呼的那一刻起，到最後結帳離開，每一個環節都有固定的日文用語。學會這些，你就能在日本餐廳從容應對，不再手忙腳亂。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "いらっしゃいませ",
+          "reading": "いらっしゃいませ",
+          "romaji": "irasshaimase",
+          "chinese": "歡迎光臨",
+          "example": "いらっしゃいませ！何名様ですか？",
+          "exampleChinese": "歡迎光臨！請問幾位？"
+        },
+        {
+          "japanese": "何名様",
+          "reading": "なんめいさま",
+          "romaji": "nanmeisama",
+          "chinese": "幾位（敬語）",
+          "example": "何名様ですか？",
+          "exampleChinese": "請問幾位？"
+        },
+        {
+          "japanese": "メニュー",
+          "reading": "メニュー",
+          "romaji": "menyuu",
+          "chinese": "菜單",
+          "example": "メニューをお願いします。",
+          "exampleChinese": "請給我菜單。"
+        },
+        {
+          "japanese": "注文",
+          "reading": "ちゅうもん",
+          "romaji": "chuumon",
+          "chinese": "點餐；訂單",
+          "example": "ご注文はお決まりですか？",
+          "exampleChinese": "請問您決定好要點什麼了嗎？"
+        },
+        {
+          "japanese": "お会計",
+          "reading": "おかいけい",
+          "romaji": "okaikei",
+          "chinese": "結帳",
+          "example": "お会計をお願いします。",
+          "exampleChinese": "請幫我結帳。"
+        },
+        {
+          "japanese": "別々",
+          "reading": "べつべつ",
+          "romaji": "betsubetsu",
+          "chinese": "分開（各付各的）",
+          "example": "お会計は別々でお願いします。",
+          "exampleChinese": "請幫我們分開結帳。"
+        },
+        {
+          "japanese": "お水",
+          "reading": "おみず",
+          "romaji": "omizu",
+          "chinese": "水",
+          "example": "お水をください。",
+          "exampleChinese": "請給我水。"
+        },
+        {
+          "japanese": "おすすめ",
+          "reading": "おすすめ",
+          "romaji": "osusume",
+          "chinese": "推薦",
+          "example": "おすすめは何ですか？",
+          "exampleChinese": "有什麼推薦的嗎？"
+        },
+        {
+          "japanese": "定食",
+          "reading": "ていしょく",
+          "romaji": "teishoku",
+          "chinese": "定食；套餐",
+          "example": "焼き魚定食をください。",
+          "exampleChinese": "請給我烤魚定食。"
+        },
+        {
+          "japanese": "テーブル",
+          "reading": "テーブル",
+          "romaji": "teeburu",
+          "chinese": "桌位",
+          "example": "テーブル席でお願いします。",
+          "exampleChinese": "請給我桌位。"
+        },
+        {
+          "japanese": "カウンター",
+          "reading": "カウンター",
+          "romaji": "kauntaa",
+          "chinese": "吧檯座位",
+          "example": "カウンター席でもいいですか？",
+          "exampleChinese": "吧檯座位也可以嗎？"
+        },
+        {
+          "japanese": "持ち帰り",
+          "reading": "もちかえり",
+          "romaji": "mochikaeri",
+          "chinese": "外帶",
+          "example": "持ち帰りでお願いします。",
+          "exampleChinese": "我要外帶，麻煩了。"
+        },
+        {
+          "japanese": "予約",
+          "reading": "よやく",
+          "romaji": "yoyaku",
+          "chinese": "預約",
+          "example": "予約していないんですが、席はありますか？",
+          "exampleChinese": "我沒有預約，還有位子嗎？"
+        },
+        {
+          "japanese": "窓際",
+          "reading": "まどぎわ",
+          "romaji": "madogiwa",
+          "chinese": "靠窗的位子",
+          "example": "窓際の席はありますか？",
+          "exampleChinese": "有靠窗的位子嗎？"
+        },
+        {
+          "japanese": "禁煙",
+          "reading": "きんえん",
+          "romaji": "kin'en",
+          "chinese": "禁菸",
+          "example": "禁煙席でお願いします。",
+          "exampleChinese": "請給我禁菸座位。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "小明和朋友走進一家日本餐廳，從入座到結帳的完整體驗。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ！何名様ですか？", "chinese": "歡迎光臨！請問幾位？" },
+        { "speaker": "小明", "japanese": "二名です。予約はしていないんですが…", "chinese": "兩位。我沒有預約⋯⋯" },
+        { "speaker": "店員", "japanese": "大丈夫ですよ。テーブル席とカウンター席、どちらがよろしいですか？", "chinese": "沒關係的。請問要桌位還是吧檯座位呢？" },
+        { "speaker": "小明", "japanese": "テーブル席でお願いします。窓際の席はありますか？", "chinese": "請給我桌位。有靠窗的位子嗎？" },
+        { "speaker": "店員", "japanese": "はい、ございます。こちらへどうぞ。メニューです。", "chinese": "有的。這邊請。這是菜單。" },
+        { "speaker": "小明", "japanese": "ありがとうございます。禁煙席ですよね？", "chinese": "謝謝。這裡是禁菸座位吧？" },
+        { "speaker": "店員", "japanese": "はい、店内はすべて禁煙です。ご安心ください。", "chinese": "是的，店內全面禁菸。請放心。" },
+        { "speaker": "小明", "japanese": "すみません、おすすめは何ですか？", "chinese": "不好意思，有什麼推薦的嗎？" },
+        { "speaker": "店員", "japanese": "今日のおすすめは焼き魚定食です。", "chinese": "今天推薦的是烤魚定食。" },
+        { "speaker": "小明", "japanese": "じゃ、焼き魚定食にします。", "chinese": "那我要烤魚定食。" },
+        { "speaker": "友人", "japanese": "私はカレーライスをください。", "chinese": "我要咖哩飯。" },
+        { "speaker": "店員", "japanese": "お飲み物はいかがですか？", "chinese": "請問需要飲料嗎？" },
+        { "speaker": "小明", "japanese": "お水でいいです。", "chinese": "水就好了。" },
+        { "speaker": "店員", "japanese": "かしこまりました。少々お待ちください。", "chinese": "好的，請稍等。" },
+        { "speaker": "小明", "japanese": "すみません、お会計をお願いします。", "chinese": "不好意思，請幫我結帳。" },
+        { "speaker": "店員", "japanese": "ご一緒ですか？別々ですか？", "chinese": "請問要一起結還是分開結？" },
+        { "speaker": "小明", "japanese": "別々でお願いします。", "chinese": "請分開結帳。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～をください",
+          "meaning": "請給我～",
+          "structure": "名詞 + をください",
+          "examples": [
+            { "japanese": "メニューをください。", "chinese": "請給我菜單。" },
+            { "japanese": "お水をください。", "chinese": "請給我水。" },
+            { "japanese": "焼き魚定食をください。", "chinese": "請給我烤魚定食。" }
+          ],
+          "note": "這是點餐時最基本的句型，用來直接說出你想要的東西。語氣禮貌且自然。"
+        },
+        {
+          "pattern": "～にします",
+          "meaning": "我要～（做出選擇時）",
+          "structure": "名詞 + にします",
+          "examples": [
+            { "japanese": "焼き魚定食にします。", "chinese": "我要烤魚定食。" },
+            { "japanese": "コーヒーにします。", "chinese": "我要咖啡。" },
+            { "japanese": "テーブル席にします。", "chinese": "我要桌位。" }
+          ],
+          "note": "「にします」表示從多個選項中做出決定。跟「ください」不同，這裡強調的是「我選擇這個」。"
+        },
+        {
+          "pattern": "お会計をお願いします",
+          "meaning": "請幫我結帳",
+          "structure": "固定用語",
+          "examples": [
+            { "japanese": "すみません、お会計をお願いします。", "chinese": "不好意思，請幫我結帳。" },
+            { "japanese": "お会計は別々でお願いします。", "chinese": "請幫我們分開結帳。" }
+          ],
+          "note": "結帳時的固定說法。也可以簡短說「お会計」或「チェック、お願いします」。"
+        },
+        {
+          "pattern": "～名です",
+          "meaning": "～位（告知人數）",
+          "structure": "數字 + 名です",
+          "examples": [
+            { "japanese": "二名です。", "chinese": "兩位。" },
+            { "japanese": "一名です。", "chinese": "一位。" },
+            { "japanese": "三名です。", "chinese": "三位。" }
+          ],
+          "note": "進入餐廳時，店員會問「何名様ですか？」，用這個句型回答人數即可。口語中也可以說「二人（ふたり）です」。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "いらっしゃいませ", "reading": "いらっしゃいませ", "romaji": "irasshaimase", "chinese": "歡迎光臨" },
+        { "japanese": "何名様ですか", "reading": "なんめいさまですか", "romaji": "nanmeisama desu ka", "chinese": "請問幾位？" },
+        { "japanese": "メニュー", "reading": "メニュー", "romaji": "menyuu", "chinese": "菜單" },
+        { "japanese": "注文", "reading": "ちゅうもん", "romaji": "chuumon", "chinese": "點餐；訂單" },
+        { "japanese": "お会計", "reading": "おかいけい", "romaji": "okaikei", "chinese": "結帳" },
+        { "japanese": "おすすめ", "reading": "おすすめ", "romaji": "osusume", "chinese": "推薦" },
+        { "japanese": "定食", "reading": "ていしょく", "romaji": "teishoku", "chinese": "定食；套餐" },
+        { "japanese": "持ち帰り", "reading": "もちかえり", "romaji": "mochikaeri", "chinese": "外帶" },
+        { "japanese": "予約", "reading": "よやく", "romaji": "yoyaku", "chinese": "預約" },
+        { "japanese": "禁煙", "reading": "きんえん", "romaji": "kin'en", "chinese": "禁菸" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "走進餐廳後，店員問「何名様ですか？」，如果是三個人，該怎麼回答？",
+          "options": ["三つです", "三名です", "三個です", "三人します"],
+          "correct": 1,
+          "explanation": "回答人數時使用「～名です」。三位就是「三名です」。口語中也可以說「三人（さんにん）です」。"
+        },
+        {
+          "question": "想請店員推薦菜色，應該怎麼問？",
+          "options": ["おすすめをください", "おすすめは何ですか？", "おすすめにします", "おすすめがあります"],
+          "correct": 1,
+          "explanation": "「おすすめは何ですか？」意思是「有什麼推薦的嗎？」，是詢問推薦菜色的標準問法。"
+        },
+        {
+          "question": "決定好要點咖哩飯，應該怎麼說？",
+          "options": ["カレーをします", "カレーにします", "カレーがします", "カレーでします"],
+          "correct": 1,
+          "explanation": "「～にします」表示做出選擇。「カレーにします」就是「我要咖哩飯」。"
+        },
+        {
+          "question": "「別々でお願いします」是什麼意思？",
+          "options": ["請給我菜單", "我要外帶", "請分開結帳", "我要坐吧檯"],
+          "correct": 2,
+          "explanation": "「別々」是「分開」的意思，「別々でお願いします」就是請分開結帳。"
+        },
+        {
+          "question": "以下哪個是「外帶」的日文？",
+          "options": ["持ち帰り", "お会計", "カウンター", "定食"],
+          "correct": 0,
+          "explanation": "「持ち帰り（もちかえり）」是外帶的意思。點餐時可以說「持ち帰りでお願いします」。"
+        },
+        {
+          "question": "「予約」的意思是什麼？",
+          "options": ["點餐", "結帳", "預約", "推薦"],
+          "correct": 2,
+          "explanation": "「予約（よやく）」是預約的意思。到高級餐廳或熱門店家用餐前，建議先打電話或上網預約。"
+        },
+        {
+          "question": "想要靠窗的座位，應該怎麼說？",
+          "options": ["テーブル席でお願いします", "カウンター席でお願いします", "窓際の席はありますか？", "禁煙席でお願いします"],
+          "correct": 2,
+          "explanation": "「窓際（まどぎわ）の席はありますか？」就是「有靠窗的位子嗎？」。「窓際」是靠窗的意思。"
+        },
+        {
+          "question": "「禁煙席でお願いします」是什麼意思？",
+          "options": ["請給我吸菸區的座位", "請給我禁菸區的座位", "請給我靠窗的座位", "請給我吧檯座位"],
+          "correct": 1,
+          "explanation": "「禁煙（きんえん）」是禁菸的意思，「禁煙席でお願いします」就是「請給我禁菸區的座位」。"
+        }
+      ]
+    }
+  ]
+}

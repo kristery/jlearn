@@ -1,0 +1,399 @@
+{
+  "id": "ch8-unit1",
+  "title": "日本人如何開啟對話及寒暄",
+  "intro": "在日本，寒暄（あいさつ）是社交的潤滑劑。從天氣到近況，日本人有一套獨特的閒聊方式。學會這些 small talk 技巧，不僅能幫你打開話題，還能拉近和日本人的距離！這一課我們來學學日本人最常用的寒暄用語吧。",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "天気",
+          "reading": "てんき",
+          "romaji": "tenki",
+          "chinese": "天氣",
+          "example": "今日はいい天気ですね。",
+          "exampleChinese": "今天天氣真好呢。"
+        },
+        {
+          "japanese": "暑い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "chinese": "熱的",
+          "example": "今日は暑いですね。",
+          "exampleChinese": "今天好熱呢。"
+        },
+        {
+          "japanese": "寒い",
+          "reading": "さむい",
+          "romaji": "samui",
+          "chinese": "冷的",
+          "example": "北海道は寒いでしょう。",
+          "exampleChinese": "北海道很冷吧。"
+        },
+        {
+          "japanese": "元気",
+          "reading": "げんき",
+          "romaji": "genki",
+          "chinese": "有精神的、健康的",
+          "example": "お元気ですか？",
+          "exampleChinese": "你好嗎？（你還好嗎？）"
+        },
+        {
+          "japanese": "久しぶり",
+          "reading": "ひさしぶり",
+          "romaji": "hisashiburi",
+          "chinese": "好久不見",
+          "example": "久しぶりですね！",
+          "exampleChinese": "好久不見了呢！"
+        },
+        {
+          "japanese": "最近",
+          "reading": "さいきん",
+          "romaji": "saikin",
+          "chinese": "最近",
+          "example": "最近どうですか？",
+          "exampleChinese": "最近怎麼樣？"
+        },
+        {
+          "japanese": "そうですね",
+          "reading": "そうですね",
+          "romaji": "soudesune",
+          "chinese": "是啊、對呢",
+          "example": "そうですね、今日は暑いですね。",
+          "exampleChinese": "是啊，今天很熱呢。"
+        },
+        {
+          "japanese": "本当に",
+          "reading": "ほんとうに",
+          "romaji": "hontouni",
+          "chinese": "真的",
+          "example": "本当に美味しいですね！",
+          "exampleChinese": "真的好好吃呢！"
+        },
+        {
+          "japanese": "すごい",
+          "reading": "すごい",
+          "romaji": "sugoi",
+          "chinese": "好厲害、好棒",
+          "example": "すごいですね！",
+          "exampleChinese": "好厲害呢！"
+        },
+        {
+          "japanese": "大変",
+          "reading": "たいへん",
+          "romaji": "taihen",
+          "chinese": "辛苦的、不得了的",
+          "example": "それは大変でしたね。",
+          "exampleChinese": "那真是辛苦了呢。"
+        },
+        {
+          "japanese": "趣味",
+          "reading": "しゅみ",
+          "romaji": "shumi",
+          "chinese": "興趣、嗜好",
+          "example": "趣味は何ですか？",
+          "exampleChinese": "你的興趣是什麼？"
+        },
+        {
+          "japanese": "週末",
+          "reading": "しゅうまつ",
+          "romaji": "shuumatsu",
+          "chinese": "週末",
+          "example": "週末は何をしましたか？",
+          "exampleChinese": "週末做了什麼？"
+        },
+        {
+          "japanese": "休み",
+          "reading": "やすみ",
+          "romaji": "yasumi",
+          "chinese": "休息、假日",
+          "example": "明日は休みです。",
+          "exampleChinese": "明天放假。"
+        },
+        {
+          "japanese": "旅行",
+          "reading": "りょこう",
+          "romaji": "ryokou",
+          "chinese": "旅行",
+          "example": "旅行が好きです。",
+          "exampleChinese": "我喜歡旅行。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "Kuma桑在東京的咖啡廳偶遇之前認識的日本朋友田中先生，兩人寒暄聊天。",
+      "lines": [
+        {
+          "speaker": "Kuma桑",
+          "japanese": "あ、田中さん！久しぶりですね！",
+          "chinese": "啊，田中先生！好久不見了呢！"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "おお、Kumaさん！本当に久しぶりですね。お元気ですか？",
+          "chinese": "噢，Kuma桑！真的好久不見了。你好嗎？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "はい、元気です。田中さんは？",
+          "chinese": "是的，我很好。田中先生呢？"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "おかげさまで、元気です。今日はいい天気ですね。",
+          "chinese": "託您的福，我很好。今天天氣真好呢。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "そうですね。でも、少し暑いですね。",
+          "chinese": "是啊。不過有點熱呢。"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "本当に！最近はずっと暑いですね。最近どうですか？",
+          "chinese": "真的！最近一直很熱呢。最近怎麼樣？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "仕事が忙しくて、ちょっと大変です。でも、週末に旅行に行きました。",
+          "chinese": "工作很忙，有點辛苦。不過週末去旅行了。"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "そうなんですか！どこに行きましたか？",
+          "chinese": "是這樣啊！去了哪裡？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "静岡に行きました。とても楽しかったです！",
+          "chinese": "去了靜岡。非常開心！"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "すごいですね！趣味は旅行ですか？",
+          "chinese": "好棒喔！你的興趣是旅行嗎？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "はい、旅行が大好きです。次の休みにも行きたいです。",
+          "chinese": "是的，我超喜歡旅行。下次放假也想去。"
+        },
+        {
+          "speaker": "田中",
+          "japanese": "いいですね！頑張ってください！",
+          "chinese": "好棒！加油喔！"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～ですね",
+          "meaning": "～呢（尋求共鳴、感嘆）",
+          "structure": "形容詞/名詞 + ですね",
+          "examples": [
+            {
+              "japanese": "今日はいい天気ですね。",
+              "chinese": "今天天氣真好呢。"
+            },
+            {
+              "japanese": "この料理は美味しいですね。",
+              "chinese": "這道菜好好吃呢。"
+            },
+            {
+              "japanese": "週末は楽しかったですね。",
+              "chinese": "週末很開心呢。"
+            }
+          ],
+          "note": "句尾的「ね」用來尋求對方的共鳴或表達感嘆。日本人在寒暄中非常常用「～ですね」，表示「你也這麼覺得吧？」的語氣。"
+        },
+        {
+          "pattern": "～でしょう",
+          "meaning": "～吧（推測、確認）",
+          "structure": "形容詞/名詞 + でしょう",
+          "examples": [
+            {
+              "japanese": "明日は寒いでしょう。",
+              "chinese": "明天大概會很冷吧。"
+            },
+            {
+              "japanese": "北海道は雪が多いでしょう。",
+              "chinese": "北海道雪應該很多吧。"
+            },
+            {
+              "japanese": "旅行は楽しかったでしょう？",
+              "chinese": "旅行很開心吧？"
+            }
+          ],
+          "note": "「でしょう」用來表示推測或溫和地向對方確認。語調上揚時是確認，語調下降時是推測。比「です」多了一層不確定或推測的語氣。"
+        },
+        {
+          "pattern": "そうなんですか",
+          "meaning": "是這樣啊（表示理解、附和）",
+          "structure": "そうなんですか（固定用法）",
+          "examples": [
+            {
+              "japanese": "A: 来月日本に行きます。B: そうなんですか！いいですね。",
+              "chinese": "A: 下個月要去日本。B: 是這樣啊！好好喔。"
+            },
+            {
+              "japanese": "A: 最近忙しいです。B: そうなんですか。大変ですね。",
+              "chinese": "A: 最近很忙。B: 是這樣啊。真辛苦呢。"
+            },
+            {
+              "japanese": "A: 趣味は旅行です。B: そうなんですか！すごいですね。",
+              "chinese": "A: 興趣是旅行。B: 是這樣啊！好棒喔。"
+            }
+          ],
+          "note": "「そうなんですか」是聽到對方說的話後，表示理解和回應的常用語。比單純的「そうですか」更有感情，更能表現出你在認真聽對方說話。"
+        },
+        {
+          "pattern": "本当ですか",
+          "meaning": "真的嗎？",
+          "structure": "本当ですか（固定用法）",
+          "examples": [
+            {
+              "japanese": "A: 日本語が上手ですね。B: 本当ですか？ありがとうございます！",
+              "chinese": "A: 你日語好好喔。B: 真的嗎？謝謝！"
+            },
+            {
+              "japanese": "A: 明日は休みですよ。B: 本当ですか！嬉しい！",
+              "chinese": "A: 明天放假喔。B: 真的嗎！好開心！"
+            },
+            {
+              "japanese": "A: 週末に旅行に行きました。B: 本当ですか？いいですね！",
+              "chinese": "A: 週末去旅行了。B: 真的嗎？好好喔！"
+            }
+          ],
+          "note": "「本当ですか」用來表示驚訝或確認對方所說是否為真。在聊天中是非常好用的回應語，可以讓對話更自然地延續下去。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "天気",
+          "reading": "てんき",
+          "romaji": "tenki",
+          "chinese": "天氣"
+        },
+        {
+          "japanese": "久しぶり",
+          "reading": "ひさしぶり",
+          "romaji": "hisashiburi",
+          "chinese": "好久不見"
+        },
+        {
+          "japanese": "元気",
+          "reading": "げんき",
+          "romaji": "genki",
+          "chinese": "有精神的、健康的"
+        },
+        {
+          "japanese": "最近",
+          "reading": "さいきん",
+          "romaji": "saikin",
+          "chinese": "最近"
+        },
+        {
+          "japanese": "趣味",
+          "reading": "しゅみ",
+          "romaji": "shumi",
+          "chinese": "興趣、嗜好"
+        },
+        {
+          "japanese": "週末",
+          "reading": "しゅうまつ",
+          "romaji": "shuumatsu",
+          "chinese": "週末"
+        },
+        {
+          "japanese": "休み",
+          "reading": "やすみ",
+          "romaji": "yasumi",
+          "chinese": "休息、假日"
+        },
+        {
+          "japanese": "旅行",
+          "reading": "りょこう",
+          "romaji": "ryokou",
+          "chinese": "旅行"
+        },
+        {
+          "japanese": "大変",
+          "reading": "たいへん",
+          "romaji": "taihen",
+          "chinese": "辛苦的、不得了的"
+        },
+        {
+          "japanese": "すごい",
+          "reading": "すごい",
+          "romaji": "sugoi",
+          "chinese": "好厲害、好棒"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "和日本人寒暄時，最常用的開場話題是什麼？",
+          "options": ["薪水", "天氣", "年齡", "體重"],
+          "correct": 1,
+          "explanation": "天氣是日本人最常用的寒暄話題。「今日はいい天気ですね」是非常自然的開場白。"
+        },
+        {
+          "question": "「お元気ですか」是什麼意思？",
+          "options": ["你好忙嗎？", "你吃飽了嗎？", "你好嗎？", "你要去哪？"],
+          "correct": 2,
+          "explanation": "「お元気ですか」是「你好嗎？」的意思，是日本人常用的問候語。"
+        },
+        {
+          "question": "「久しぶりですね」應該在什麼時候使用？",
+          "options": ["第一次見面", "每天見面", "好久沒見到對方", "告別的時候"],
+          "correct": 2,
+          "explanation": "「久しぶりですね」是「好久不見了呢」的意思，在很久沒見到對方時使用。"
+        },
+        {
+          "question": "聽到對方分享消息後，表示理解的回應是？",
+          "options": ["すみません", "そうなんですか", "ごめんなさい", "おやすみなさい"],
+          "correct": 1,
+          "explanation": "「そうなんですか」是「是這樣啊」的意思，是聽到對方說話後表示理解和回應的常用語。"
+        },
+        {
+          "question": "「それは大変ですね」最適合用在什麼情境？",
+          "options": ["對方中了彩券", "對方說工作很忙很累", "對方要去旅行", "對方在吃飯"],
+          "correct": 1,
+          "explanation": "「それは大変ですね」是「那真辛苦呢」的意思，適合在對方講述辛苦的事情時表示同理。"
+        },
+        {
+          "question": "「趣味は何ですか？」是什麼意思？",
+          "options": ["你的工作是什麼？", "你的興趣是什麼？", "你的名字是什麼？", "你的年齡是什麼？"],
+          "correct": 1,
+          "explanation": "「趣味（しゅみ）」是興趣、嗜好的意思。「趣味は何ですか？」就是問對方興趣是什麼。"
+        },
+        {
+          "question": "「週末に旅行に行きました」是什麼意思？",
+          "options": ["週末想去旅行", "週末去旅行了", "週末不去旅行", "週末在家休息"],
+          "correct": 1,
+          "explanation": "「行きました」是「行く」的過去式，所以「週末に旅行に行きました」是「週末去旅行了」。"
+        },
+        {
+          "question": "哪一句話最適合在好久不見的朋友面前說？",
+          "options": ["お元気ですか", "久しぶりですね！お元気ですか？", "さようなら", "はじめまして"],
+          "correct": 1,
+          "explanation": "好久不見的朋友見面時，先說「久しぶりですね！」再問「お元気ですか？」是最自然的寒暄方式。"
+        }
+      ]
+    }
+  ]
+}

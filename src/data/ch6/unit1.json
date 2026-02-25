@@ -1,0 +1,276 @@
+{
+  "id": "ch6-unit1",
+  "title": "請不要這樣做！旅遊景點禁止句型",
+  "intro": "日本的觀光景點到處可以看到各種禁止標誌和告示。看懂這些標誌不僅能避免觸犯規定，還能讓你在寺廟、神社等地方展現良好的旅客禮儀。這一課教你讀懂常見的禁止用語和相關句型。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "禁止",
+          "reading": "きんし",
+          "romaji": "kinshi",
+          "chinese": "禁止",
+          "example": "ここは撮影禁止です。",
+          "exampleChinese": "這裡禁止拍照。"
+        },
+        {
+          "japanese": "撮影禁止",
+          "reading": "さつえいきんし",
+          "romaji": "satsuei kinshi",
+          "chinese": "禁止拍攝",
+          "example": "この建物の中は撮影禁止です。",
+          "exampleChinese": "這棟建築物裡面禁止拍攝。"
+        },
+        {
+          "japanese": "飲食禁止",
+          "reading": "いんしょくきんし",
+          "romaji": "inshoku kinshi",
+          "chinese": "禁止飲食",
+          "example": "境内は飲食禁止です。",
+          "exampleChinese": "境內禁止飲食。"
+        },
+        {
+          "japanese": "立入禁止",
+          "reading": "たちいりきんし",
+          "romaji": "tachiiri kinshi",
+          "chinese": "禁止進入",
+          "example": "この先は立入禁止です。",
+          "exampleChinese": "前方禁止進入。"
+        },
+        {
+          "japanese": "触らないでください",
+          "reading": "さわらないでください",
+          "romaji": "sawaranaide kudasai",
+          "chinese": "請不要觸摸",
+          "example": "展示品に触らないでください。",
+          "exampleChinese": "請不要觸摸展示品。"
+        },
+        {
+          "japanese": "静かに",
+          "reading": "しずかに",
+          "romaji": "shizuka ni",
+          "chinese": "安靜地",
+          "example": "お寺の中では静かにしてください。",
+          "exampleChinese": "在寺廟裡面請保持安靜。"
+        },
+        {
+          "japanese": "ゴミ",
+          "reading": "ゴミ",
+          "romaji": "gomi",
+          "chinese": "垃圾",
+          "example": "ゴミは持ち帰ってください。",
+          "exampleChinese": "垃圾請帶回去。"
+        },
+        {
+          "japanese": "捨てないで",
+          "reading": "すてないで",
+          "romaji": "sutenaide",
+          "chinese": "不要丟棄",
+          "example": "ここにゴミを捨てないでください。",
+          "exampleChinese": "請不要在這裡丟垃圾。"
+        },
+        {
+          "japanese": "危険",
+          "reading": "きけん",
+          "romaji": "kiken",
+          "chinese": "危險",
+          "example": "危険ですので、近づかないでください。",
+          "exampleChinese": "很危險，請不要靠近。"
+        },
+        {
+          "japanese": "注意",
+          "reading": "ちゅうい",
+          "romaji": "chuui",
+          "chinese": "注意；小心",
+          "example": "足元に注意してください。",
+          "exampleChinese": "請注意腳下。"
+        },
+        {
+          "japanese": "写真",
+          "reading": "しゃしん",
+          "romaji": "shashin",
+          "chinese": "照片",
+          "example": "写真を撮ってもいいですか？",
+          "exampleChinese": "可以拍照嗎？"
+        },
+        {
+          "japanese": "順番",
+          "reading": "じゅんばん",
+          "romaji": "junban",
+          "chinese": "順序；輪到的順序",
+          "example": "順番を守ってください。",
+          "exampleChinese": "請遵守順序。"
+        },
+        {
+          "japanese": "列",
+          "reading": "れつ",
+          "romaji": "retsu",
+          "chinese": "隊伍；排隊",
+          "example": "列に並んでください。",
+          "exampleChinese": "請排隊。"
+        },
+        {
+          "japanese": "看板",
+          "reading": "かんばん",
+          "romaji": "kanban",
+          "chinese": "告示牌；招牌",
+          "example": "看板をよく読んでください。",
+          "exampleChinese": "請仔細看告示牌。"
+        },
+        {
+          "japanese": "マナー",
+          "reading": "マナー",
+          "romaji": "manaa",
+          "chinese": "禮儀；規矩",
+          "example": "観光マナーを守りましょう。",
+          "exampleChinese": "遵守觀光禮儀吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "小明在京都的寺廟參觀時，差點違反規定，被工作人員和路人提醒。",
+      "lines": [
+        { "speaker": "小明", "japanese": "わあ、すごいお寺！写真撮ろう！", "chinese": "哇，好厲害的寺廟！來拍照吧！" },
+        { "speaker": "工作人員", "japanese": "すみません、こちらは撮影禁止です。", "chinese": "不好意思，這裡禁止拍攝。" },
+        { "speaker": "小明", "japanese": "あ、すみません！看板を見ていませんでした。", "chinese": "啊，對不起！我沒有看到告示牌。" },
+        { "speaker": "工作人員", "japanese": "外ではOKですので、庭では撮影できますよ。", "chinese": "外面可以，庭院裡可以拍照喔。" },
+        { "speaker": "小明", "japanese": "分かりました。ありがとうございます。", "chinese": "我知道了。謝謝。" },
+        { "speaker": "小明", "japanese": "（仏像に手を伸ばして）きれいだなあ…", "chinese": "（把手伸向佛像）好美啊⋯⋯" },
+        { "speaker": "路人", "japanese": "あの、触らないでくださいね。", "chinese": "那個，請不要觸摸喔。" },
+        { "speaker": "小明", "japanese": "あ、はい！すみません。ここは飲食もダメですか？", "chinese": "啊，好的！對不起。這裡也不能吃東西嗎？" },
+        { "speaker": "路人", "japanese": "はい、境内は飲食禁止ですよ。外のベンチなら大丈夫です。", "chinese": "是的，境內禁止飲食喔。外面的長椅就可以了。" },
+        { "speaker": "小明", "japanese": "なるほど。あ、あそこに列ができていますね。順番に並ばないとダメですか？", "chinese": "原來如此。啊，那邊有排隊呢。要按順序排嗎？" },
+        { "speaker": "路人", "japanese": "はい、順番を守ってくださいね。日本では列に並ぶのが基本マナーですよ。", "chinese": "是的，請遵守順序喔。在日本排隊是基本禮儀。" },
+        { "speaker": "小明", "japanese": "分かりました。ゴミはどこに捨てればいいですか？", "chinese": "我知道了。垃圾要丟哪裡呢？" },
+        { "speaker": "路人", "japanese": "日本ではゴミ箱が少ないので、持ち帰るのが基本ですよ。", "chinese": "在日本垃圾桶很少，基本上要自己帶回去喔。" },
+        { "speaker": "小明", "japanese": "分かりました。マナーを守って楽しみます！", "chinese": "我知道了。我會遵守禮儀好好享受的！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～しないでください",
+          "meaning": "請不要～",
+          "structure": "動詞ない形 + でください",
+          "examples": [
+            { "japanese": "触らないでください。", "chinese": "請不要觸摸。" },
+            { "japanese": "ここで食べないでください。", "chinese": "請不要在這裡吃東西。" },
+            { "japanese": "写真を撮らないでください。", "chinese": "請不要拍照。" },
+            { "japanese": "ゴミを捨てないでください。", "chinese": "請不要丟垃圾。" }
+          ],
+          "note": "這是禮貌地請求對方不要做某事的句型。動詞變成「ない形」後加上「でください」。例如「触る→触らない→触らないでください」。"
+        },
+        {
+          "pattern": "～は禁止です",
+          "meaning": "～是被禁止的",
+          "structure": "名詞 + は禁止です / 動詞原形 + のは禁止です",
+          "examples": [
+            { "japanese": "撮影は禁止です。", "chinese": "拍攝是被禁止的。" },
+            { "japanese": "ここで泳ぐのは禁止です。", "chinese": "在這裡游泳是被禁止的。" },
+            { "japanese": "飲食は禁止です。", "chinese": "飲食是被禁止的。" }
+          ],
+          "note": "「禁止」是書面語，常見於標示和告示牌。口語中通常會用「～しないでください」或「～てはいけません」。"
+        },
+        {
+          "pattern": "～てはいけません",
+          "meaning": "不可以～",
+          "structure": "動詞て形 + はいけません",
+          "examples": [
+            { "japanese": "ここに入ってはいけません。", "chinese": "不可以進入這裡。" },
+            { "japanese": "ゴミを捨ててはいけません。", "chinese": "不可以丟垃圾。" },
+            { "japanese": "大声を出してはいけません。", "chinese": "不可以大聲喧嘩。" }
+          ],
+          "note": "比「～しないでください」語氣更強，表示嚴格的禁止。常用於規則說明或長輩對晚輩的訓示。"
+        },
+        {
+          "pattern": "～てもいいですか",
+          "meaning": "可以～嗎？",
+          "structure": "動詞て形 + もいいですか",
+          "examples": [
+            { "japanese": "写真を撮ってもいいですか？", "chinese": "可以拍照嗎？" },
+            { "japanese": "ここに座ってもいいですか？", "chinese": "可以坐這裡嗎？" },
+            { "japanese": "触ってもいいですか？", "chinese": "可以摸嗎？" }
+          ],
+          "note": "在做某件事之前，先用這個句型詢問是否可以。這是非常有禮貌的問法，在觀光景點特別實用。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "禁止", "reading": "きんし", "romaji": "kinshi", "chinese": "禁止" },
+        { "japanese": "撮影禁止", "reading": "さつえいきんし", "romaji": "satsuei kinshi", "chinese": "禁止拍攝" },
+        { "japanese": "飲食禁止", "reading": "いんしょくきんし", "romaji": "inshoku kinshi", "chinese": "禁止飲食" },
+        { "japanese": "立入禁止", "reading": "たちいりきんし", "romaji": "tachiiri kinshi", "chinese": "禁止進入" },
+        { "japanese": "危険", "reading": "きけん", "romaji": "kiken", "chinese": "危險" },
+        { "japanese": "写真", "reading": "しゃしん", "romaji": "shashin", "chinese": "照片" },
+        { "japanese": "順番", "reading": "じゅんばん", "romaji": "junban", "chinese": "順序" },
+        { "japanese": "列", "reading": "れつ", "romaji": "retsu", "chinese": "隊伍；排隊" },
+        { "japanese": "看板", "reading": "かんばん", "romaji": "kanban", "chinese": "告示牌；招牌" },
+        { "japanese": "マナー", "reading": "マナー", "romaji": "manaa", "chinese": "禮儀；規矩" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "看到「撮影禁止」的標示，代表什麼意思？",
+          "options": ["可以自由拍攝", "禁止拍攝", "只能用手機拍", "需要付費才能拍"],
+          "correct": 1,
+          "explanation": "「撮影禁止」就是「禁止拍攝」。「撮影（さつえい）」是拍攝的意思，加上「禁止」就是不允許拍攝。"
+        },
+        {
+          "question": "想請別人不要在這裡丟垃圾，應該怎麼說？",
+          "options": ["ゴミを捨てください", "ゴミを捨てないでください", "ゴミは禁止です", "ゴミを捨てましょう"],
+          "correct": 1,
+          "explanation": "「～ないでください」是請求對方不要做某事。「ゴミを捨てないでください」就是「請不要丟垃圾」。"
+        },
+        {
+          "question": "「立入禁止」是什麼意思？",
+          "options": ["禁止站立", "禁止進入", "禁止拍照", "禁止觸摸"],
+          "correct": 1,
+          "explanation": "「立入（たちいり）」是「進入」的意思，「立入禁止」就是「禁止進入」。"
+        },
+        {
+          "question": "「ここに入ってはいけません」是什麼意思？",
+          "options": ["可以進入這裡", "不可以進入這裡", "請進入這裡", "想進入這裡"],
+          "correct": 1,
+          "explanation": "「～てはいけません」表示嚴格的禁止。「ここに入ってはいけません」就是「不可以進入這裡」。"
+        },
+        {
+          "question": "在日本觀光景點，垃圾通常怎麼處理？",
+          "options": ["丟在路邊", "交給工作人員", "自己帶回去", "丟在便利商店"],
+          "correct": 2,
+          "explanation": "日本街上垃圾桶很少，基本規矩是「ゴミは持ち帰る」（垃圾自己帶回去）。這是日本保持環境整潔的重要文化。"
+        },
+        {
+          "question": "想問能不能拍照，最禮貌的問法是？",
+          "options": ["写真を撮ります", "写真を撮ってもいいですか？", "写真禁止ですか？", "写真を撮りたいです"],
+          "correct": 1,
+          "explanation": "「～てもいいですか？」是詢問許可的禮貌說法。「写真を撮ってもいいですか？」就是「可以拍照嗎？」"
+        },
+        {
+          "question": "「順番を守ってください」是什麼意思？",
+          "options": ["請注意安全", "請遵守順序", "請保持安靜", "請不要亂跑"],
+          "correct": 1,
+          "explanation": "「順番（じゅんばん）」是順序的意思，「守る（まもる）」是遵守。整句就是「請遵守順序」，也就是要排隊。"
+        },
+        {
+          "question": "「マナー」的意思是什麼？",
+          "options": ["經理", "菜單", "禮儀；規矩", "標誌"],
+          "correct": 2,
+          "explanation": "「マナー」來自英文 manner(s)，意思是禮儀、規矩。「マナーを守る」就是遵守禮儀。"
+        }
+      ]
+    }
+  ]
+}

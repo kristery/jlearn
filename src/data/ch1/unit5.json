@@ -1,0 +1,349 @@
+{
+  "id": "ch1-unit5",
+  "title": "如何請別人幫幫忙？學會禮貌表達",
+  "intro": "在日本旅行時，難免需要請人幫忙。本單元教你如何禮貌地開口求助，從請人拍照到問路，學會這些表達讓你的日本行更順利！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "すみません",
+          "reading": "すみません",
+          "romaji": "sumimasen",
+          "chinese": "不好意思；對不起",
+          "example": "すみません、ちょっといいですか？",
+          "exampleChinese": "不好意思，方便打擾一下嗎？"
+        },
+        {
+          "japanese": "お願いします",
+          "reading": "おねがいします",
+          "romaji": "onegaishimasu",
+          "chinese": "拜託了；麻煩您",
+          "example": "これ、お願いします。",
+          "exampleChinese": "這個，麻煩您了。"
+        },
+        {
+          "japanese": "ください",
+          "reading": "ください",
+          "romaji": "kudasai",
+          "chinese": "請（給我）",
+          "example": "水をください。",
+          "exampleChinese": "請給我水。"
+        },
+        {
+          "japanese": "助けて",
+          "reading": "たすけて",
+          "romaji": "tasukete",
+          "chinese": "救命；幫幫我",
+          "example": "助けてください！",
+          "exampleChinese": "請幫幫我！"
+        },
+        {
+          "japanese": "ちょっと",
+          "reading": "ちょっと",
+          "romaji": "chotto",
+          "chinese": "稍微；一下",
+          "example": "ちょっと待ってください。",
+          "exampleChinese": "請稍等一下。"
+        },
+        {
+          "japanese": "教えてください",
+          "reading": "おしえてください",
+          "romaji": "oshiete kudasai",
+          "chinese": "請告訴我",
+          "example": "道を教えてください。",
+          "exampleChinese": "請告訴我怎麼走。"
+        },
+        {
+          "japanese": "手伝って",
+          "reading": "てつだって",
+          "romaji": "tetsudatte",
+          "chinese": "幫忙",
+          "example": "手伝ってください。",
+          "exampleChinese": "請幫幫我。"
+        },
+        {
+          "japanese": "写真",
+          "reading": "しゃしん",
+          "romaji": "shashin",
+          "chinese": "照片",
+          "example": "写真を撮ってもいいですか？",
+          "exampleChinese": "可以拍照嗎？"
+        },
+        {
+          "japanese": "撮って",
+          "reading": "とって",
+          "romaji": "totte",
+          "chinese": "拍（照片）",
+          "example": "写真を撮ってください。",
+          "exampleChinese": "請幫我拍照。"
+        },
+        {
+          "japanese": "大丈夫",
+          "reading": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "chinese": "沒問題；沒關係",
+          "example": "大丈夫ですか？",
+          "exampleChinese": "你還好嗎？／沒問題嗎？"
+        },
+        {
+          "japanese": "道",
+          "reading": "みち",
+          "romaji": "michi",
+          "chinese": "路；道路",
+          "example": "この道をまっすぐ行ってください。",
+          "exampleChinese": "請沿著這條路直走。"
+        },
+        {
+          "japanese": "案内",
+          "reading": "あんない",
+          "romaji": "annai",
+          "chinese": "導覽；引導",
+          "example": "案内してもらえますか？",
+          "exampleChinese": "可以帶我去嗎？"
+        },
+        {
+          "japanese": "翻訳",
+          "reading": "ほんやく",
+          "romaji": "honyaku",
+          "chinese": "翻譯",
+          "example": "翻訳してもらえますか？",
+          "exampleChinese": "可以幫我翻譯嗎？"
+        },
+        {
+          "japanese": "分かりません",
+          "reading": "わかりません",
+          "romaji": "wakarimasen",
+          "chinese": "我不懂；我不知道",
+          "example": "日本語が分かりません。",
+          "exampleChinese": "我不懂日語。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在觀光景點，旅客想請路人幫忙拍照，之後又需要問路。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、ちょっとお願いしてもいいですか？", "chinese": "不好意思，可以麻煩你一下嗎？" },
+        { "speaker": "路人", "japanese": "はい、大丈夫ですよ。", "chinese": "好的，沒問題。" },
+        { "speaker": "旅客", "japanese": "写真を撮ってください。", "chinese": "請幫我拍照。" },
+        { "speaker": "路人", "japanese": "いいですよ。はい、撮りますよ。笑ってください！", "chinese": "好啊。來，要拍囉。請笑一個！" },
+        { "speaker": "旅客", "japanese": "ありがとうございます！あの、もう一つお願いしてもいいですか？", "chinese": "謝謝！那個，可以再麻煩你一件事嗎？" },
+        { "speaker": "路人", "japanese": "どうぞ。", "chinese": "請說。" },
+        { "speaker": "旅客", "japanese": "この近くにコンビニはありますか？道を教えてください。", "chinese": "這附近有便利商店嗎？請告訴我怎麼走。" },
+        { "speaker": "路人", "japanese": "あそこの信号を右に曲がってください。すぐ見えますよ。", "chinese": "在那邊的紅綠燈右轉就好。馬上就看到了。" },
+        { "speaker": "旅客", "japanese": "助かりました。ありがとうございます！", "chinese": "太感謝了。謝謝你！" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在餐廳需要幫忙，以及在路上遇到語言不通的狀況。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、メニューを見せてください。", "chinese": "不好意思，請讓我看一下菜單。" },
+        { "speaker": "店員", "japanese": "はい、どうぞ。", "chinese": "好的，請。" },
+        { "speaker": "旅客", "japanese": "これは何ですか？日本語が分かりません。", "chinese": "這是什麼？我不懂日語。" },
+        { "speaker": "店員", "japanese": "これは天ぷらです。えびの天ぷらですよ。", "chinese": "這是天婦羅。蝦子的天婦羅喔。" },
+        { "speaker": "旅客", "japanese": "英語のメニューはありますか？", "chinese": "有英文的菜單嗎？" },
+        { "speaker": "店員", "japanese": "すみません、英語のメニューはないです。翻訳アプリを使いますか？", "chinese": "不好意思，沒有英文菜單。要使用翻譯 app 嗎？" },
+        { "speaker": "旅客", "japanese": "はい、お願いします。手伝ってください。", "chinese": "好的，麻煩了。請幫幫我。" },
+        { "speaker": "店員", "japanese": "大丈夫ですよ。ゆっくり選んでください。", "chinese": "沒問題的。請慢慢選。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。じゃ、これをお願いします。", "chinese": "謝謝。那我要這個，麻煩了。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜てください",
+          "meaning": "請（做某事）",
+          "structure": "動詞て形 + ください",
+          "examples": [
+            { "japanese": "写真を撮ってください。", "chinese": "請幫我拍照。" },
+            { "japanese": "ちょっと待ってください。", "chinese": "請稍等一下。" },
+            { "japanese": "道を教えてください。", "chinese": "請告訴我怎麼走。" },
+            { "japanese": "ゆっくり話してください。", "chinese": "請說慢一點。" }
+          ],
+          "note": "「〜てください」是最常用的請求句型。動詞要先變成「て形」再加上「ください」。這是禮貌但直接的說法，適用於大部分場合。"
+        },
+        {
+          "pattern": "〜をお願いします",
+          "meaning": "麻煩給我〜",
+          "structure": "名詞 + を + お願いします",
+          "examples": [
+            { "japanese": "お水をお願いします。", "chinese": "麻煩給我水。" },
+            { "japanese": "会計をお願いします。", "chinese": "麻煩結帳。" },
+            { "japanese": "メニューをお願いします。", "chinese": "麻煩給我菜單。" }
+          ],
+          "note": "「お願いします」是非常禮貌的請求方式，適合對陌生人或服務業人員使用。比「ください」更加客氣。"
+        },
+        {
+          "pattern": "すみません的用法",
+          "meaning": "不好意思（搭話開場白）/ 對不起 / 謝謝",
+          "structure": "すみません＋（後續請求或道歉）",
+          "examples": [
+            { "japanese": "すみません、トイレはどこですか？", "chinese": "不好意思，廁所在哪裡？（搭話）" },
+            { "japanese": "すみません、遅れました。", "chinese": "對不起，我遲到了。（道歉）" },
+            { "japanese": "すみません、ありがとうございます。", "chinese": "不好意思，謝謝。（感謝中帶有歉意）" }
+          ],
+          "note": "「すみません」是萬能詞！在日本，搭話、道歉、表達感謝（帶有麻煩到別人的歉意）都能使用。旅行中最常用的是搭話的功能。"
+        },
+        {
+          "pattern": "〜てもいいですか？",
+          "meaning": "可以〜嗎？（請求許可）",
+          "structure": "動詞て形 + もいいですか？",
+          "examples": [
+            { "japanese": "写真を撮ってもいいですか？", "chinese": "可以拍照嗎？" },
+            { "japanese": "ここに座ってもいいですか？", "chinese": "可以坐這裡嗎？" },
+            { "japanese": "触ってもいいですか？", "chinese": "可以碰嗎？" }
+          ],
+          "note": "「〜てもいいですか？」是請求對方許可的句型。回答時可以說「はい、いいですよ」（可以喔）或「すみません、ちょっと......」（不好意思，這有點......）。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "すみません",
+          "reading": "すみません",
+          "romaji": "sumimasen",
+          "chinese": "不好意思；對不起",
+          "example": "すみません、ちょっといいですか？",
+          "exampleChinese": "不好意思，方便打擾一下嗎？"
+        },
+        {
+          "japanese": "お願いします",
+          "reading": "おねがいします",
+          "romaji": "onegaishimasu",
+          "chinese": "拜託了；麻煩您",
+          "example": "これ、お願いします。",
+          "exampleChinese": "這個，麻煩您了。"
+        },
+        {
+          "japanese": "写真",
+          "reading": "しゃしん",
+          "romaji": "shashin",
+          "chinese": "照片",
+          "example": "写真を撮ってもいいですか？",
+          "exampleChinese": "可以拍照嗎？"
+        },
+        {
+          "japanese": "道",
+          "reading": "みち",
+          "romaji": "michi",
+          "chinese": "路；道路",
+          "example": "この道をまっすぐ行ってください。",
+          "exampleChinese": "請沿著這條路直走。"
+        },
+        {
+          "japanese": "翻訳",
+          "reading": "ほんやく",
+          "romaji": "honyaku",
+          "chinese": "翻譯",
+          "example": "翻訳してもらえますか？",
+          "exampleChinese": "可以幫我翻譯嗎？"
+        },
+        {
+          "japanese": "大丈夫",
+          "reading": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "chinese": "沒問題；沒關係",
+          "example": "大丈夫ですか？",
+          "exampleChinese": "你還好嗎？"
+        },
+        {
+          "japanese": "教えてください",
+          "reading": "おしえてください",
+          "romaji": "oshiete kudasai",
+          "chinese": "請告訴我",
+          "example": "道を教えてください。",
+          "exampleChinese": "請告訴我怎麼走。"
+        },
+        {
+          "japanese": "分かりません",
+          "reading": "わかりません",
+          "romaji": "wakarimasen",
+          "chinese": "我不懂；我不知道",
+          "example": "日本語が分かりません。",
+          "exampleChinese": "我不懂日語。"
+        },
+        {
+          "japanese": "手伝って",
+          "reading": "てつだって",
+          "romaji": "tetsudatte",
+          "chinese": "幫忙",
+          "example": "手伝ってください。",
+          "exampleChinese": "請幫幫我。"
+        },
+        {
+          "japanese": "撮って",
+          "reading": "とって",
+          "romaji": "totte",
+          "chinese": "拍（照片）",
+          "example": "写真を撮ってください。",
+          "exampleChinese": "請幫我拍照。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "想請人拍照，應該說？",
+          "options": ["写真をお願いします。", "写真を撮ってください。", "写真はどこですか？", "写真を教えてください。"],
+          "correct": 1,
+          "explanation": "「写真を撮ってください」是「請幫我拍照」的意思。「撮る」（拍攝）的て形是「撮って」。"
+        },
+        {
+          "question": "在日本搭話問路，第一句通常要說什麼？",
+          "options": ["こんにちは", "すみません", "ありがとう", "大丈夫"],
+          "correct": 1,
+          "explanation": "在日本向陌生人搭話時，最常見的開場白是「すみません」（不好意思），表示禮貌地引起對方注意。"
+        },
+        {
+          "question": "「大丈夫ですか？」是什麼意思？",
+          "options": ["多少錢？", "在哪裡？", "你還好嗎？／沒問題嗎？", "請幫幫我。"],
+          "correct": 2,
+          "explanation": "「大丈夫（だいじょうぶ）」是「沒問題、沒關係」的意思，加上「ですか」變成問句就是「你還好嗎？／沒問題嗎？」"
+        },
+        {
+          "question": "「ちょっと待ってください」是什麼意思？",
+          "options": ["請站在這裡。", "請稍等一下。", "請給我一個。", "請幫我拍照。"],
+          "correct": 1,
+          "explanation": "「ちょっと」是「稍微、一下」，「待って」是「等」的て形，「ください」是「請」。合起來就是「請稍等一下」。"
+        },
+        {
+          "question": "以下哪個說法最禮貌？",
+          "options": ["水をください。", "水をお願いします。", "水、ちょうだい。", "水が欲しい。"],
+          "correct": 1,
+          "explanation": "「お願いします」比「ください」更禮貌。「ちょうだい」和「欲しい」比較隨意，不適合對陌生人使用。"
+        },
+        {
+          "question": "想問「可以拍照嗎？」，應該怎麼說？",
+          "options": ["写真を撮ってください。", "写真を撮ってもいいですか？", "写真はどこですか？", "写真をお願いします。"],
+          "correct": 1,
+          "explanation": "「〜てもいいですか？」是請求許可的句型。「写真を撮ってもいいですか？」就是「可以拍照嗎？」。"
+        },
+        {
+          "question": "「日本語が分かりません」是什麼意思？",
+          "options": ["我會說日語。", "我不懂日語。", "日語很難。", "我在學日語。"],
+          "correct": 1,
+          "explanation": "「分かりません」是「分かる（懂）」的否定禮貌形，意思是「不懂、不知道」。整句是「我不懂日語」。"
+        },
+        {
+          "question": "「翻訳してもらえますか？」是什麼意思？",
+          "options": ["可以幫我翻譯嗎？", "請幫我拍照。", "可以帶我去嗎？", "我不懂翻譯。"],
+          "correct": 0,
+          "explanation": "「翻訳する」是「翻譯」，「〜してもらえますか？」是「可以幫我做〜嗎？」的禮貌請求。整句是「可以幫我翻譯嗎？」"
+        }
+      ]
+    }
+  ]
+}

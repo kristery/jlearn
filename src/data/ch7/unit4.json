@@ -1,0 +1,357 @@
+{
+  "id": "ch7-unit4",
+  "title": "綜合聽力小測驗＋分享你愛的日本美食",
+  "intro": "恭喜你完成了第七章的學習！在這一課中，我們會複習本章學過的所有重點單字和句型。同時，也準備了一段綜合情境對話讓你練習。最後，想一想你最喜歡的日本美食或最想去的景點是什麼？試著用日語寫下來吧！這是你的回家作業時間。",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "本章重點複習單字",
+      "items": [
+        {
+          "japanese": "穴場",
+          "reading": "あなば",
+          "romaji": "anaba",
+          "chinese": "私房景點",
+          "example": "穴場を教えてください。",
+          "exampleChinese": "請告訴我私房景點。"
+        },
+        {
+          "japanese": "名物",
+          "reading": "めいぶつ",
+          "romaji": "meibutsu",
+          "chinese": "名產、當地特產",
+          "example": "この町の名物を食べたいです。",
+          "exampleChinese": "我想吃這個城鎮的名產。"
+        },
+        {
+          "japanese": "絶景",
+          "reading": "ぜっけい",
+          "romaji": "zekkei",
+          "chinese": "絕景",
+          "example": "絶景を見に行きましょう。",
+          "exampleChinese": "我們去看絕景吧。"
+        },
+        {
+          "japanese": "食べ歩き",
+          "reading": "たべあるき",
+          "romaji": "tabearuki",
+          "chinese": "邊走邊吃",
+          "example": "食べ歩きが楽しいです。",
+          "exampleChinese": "邊走邊吃很開心。"
+        },
+        {
+          "japanese": "温泉街",
+          "reading": "おんせんがい",
+          "romaji": "onsengai",
+          "chinese": "溫泉街",
+          "example": "温泉街でゆっくりしたいです。",
+          "exampleChinese": "我想在溫泉街悠閒地待一下。"
+        },
+        {
+          "japanese": "写真映え",
+          "reading": "しゃしんばえ",
+          "romaji": "shashinbae",
+          "chinese": "適合拍照",
+          "example": "写真映えするスポットを探しています。",
+          "exampleChinese": "我在找適合拍照的地點。"
+        },
+        {
+          "japanese": "屋台",
+          "reading": "やたい",
+          "romaji": "yatai",
+          "chinese": "路邊攤",
+          "example": "屋台の食べ物が大好きです。",
+          "exampleChinese": "我超喜歡路邊攤的食物。"
+        },
+        {
+          "japanese": "行列",
+          "reading": "ぎょうれつ",
+          "romaji": "gyouretsu",
+          "chinese": "排隊",
+          "example": "行列に並びましょう。",
+          "exampleChinese": "我們去排隊吧。"
+        },
+        {
+          "japanese": "出汁",
+          "reading": "だし",
+          "romaji": "dashi",
+          "chinese": "高湯、湯底",
+          "example": "この出汁は深い味がします。",
+          "exampleChinese": "這個高湯味道很深厚。"
+        },
+        {
+          "japanese": "隠れ家",
+          "reading": "かくれが",
+          "romaji": "kakurega",
+          "chinese": "隱密小店",
+          "example": "隠れ家カフェを見つけました。",
+          "exampleChinese": "我找到了一間隱密的咖啡廳。"
+        },
+        {
+          "japanese": "地元の人",
+          "reading": "じもとのひと",
+          "romaji": "jimoto no hito",
+          "chinese": "在地人",
+          "example": "地元の人に聞いてみましょう。",
+          "exampleChinese": "問問在地人吧。"
+        },
+        {
+          "japanese": "方言",
+          "reading": "ほうげん",
+          "romaji": "hougen",
+          "chinese": "方言",
+          "example": "静岡の方言は面白いです。",
+          "exampleChinese": "靜岡的方言很有趣。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "綜合情境對話",
+      "scene": "Kuma桑回到台灣後，和朋友小美分享在靜岡的旅行經驗。",
+      "lines": [
+        {
+          "speaker": "小美",
+          "japanese": "日本の旅行はどうでしたか？",
+          "chinese": "日本旅行怎麼樣？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "とても楽しかったです！静岡に行きました。",
+          "chinese": "非常開心！我去了靜岡。"
+        },
+        {
+          "speaker": "小美",
+          "japanese": "静岡ですか？何が有名ですか？",
+          "chinese": "靜岡嗎？那裡什麼有名？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "富士山の絶景で有名です。景色が本当に綺麗でしたよ。",
+          "chinese": "以富士山的絕景聞名。風景真的很漂亮喔。"
+        },
+        {
+          "speaker": "小美",
+          "japanese": "いいですね！美味しいものは食べましたか？",
+          "chinese": "好棒！有吃到好吃的東西嗎？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "はい！静岡おでんが名物で、屋台で食べ歩きをしました。出汁がとても美味しかったです。",
+          "chinese": "有！靜岡關東煮是名產，我在路邊攤邊走邊吃。高湯非常好喝。"
+        },
+        {
+          "speaker": "小美",
+          "japanese": "穴場のスポットもありましたか？",
+          "chinese": "有沒有發現什麼私房景點？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "はい、黒木さんが三保の松原をおすすめしてくれました。写真映えしますよ！",
+          "chinese": "有，黑木太太推薦了三保松原給我。很適合拍照喔！"
+        },
+        {
+          "speaker": "小美",
+          "japanese": "他には何をしましたか？",
+          "chinese": "還有做了什麼其他的？"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "隠れ家のカフェにも行きました。地元の人しか知らない場所で、とても素敵でした。",
+          "chinese": "也去了隱密的咖啡廳。是只有在地人才知道的地方，非常棒。"
+        },
+        {
+          "speaker": "小美",
+          "japanese": "いいなあ！私も行ってみたいです。",
+          "chinese": "好羨慕！我也想去看看。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "ぜひ！紅葉の季節がおすすめです。温泉街も空いていて、ゆっくりできますよ。",
+          "chinese": "一定要去！推薦楓葉季。溫泉街也不太擁擠，可以悠閒地逛。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～てくれました",
+          "meaning": "（某人）為我做了～",
+          "structure": "動詞て形 + くれました",
+          "examples": [
+            {
+              "japanese": "黒木さんが三保の松原をおすすめしてくれました。",
+              "chinese": "黑木太太推薦了三保松原給我。"
+            },
+            {
+              "japanese": "地元の人が穴場を教えてくれました。",
+              "chinese": "在地人告訴了我私房景點。"
+            },
+            {
+              "japanese": "友達が写真を撮ってくれました。",
+              "chinese": "朋友幫我拍了照片。"
+            }
+          ],
+          "note": "「～てくれました」表示別人為我（或我方的人）做了某事，帶有感謝的語氣。是日語中表達受到恩惠的重要句型。"
+        },
+        {
+          "pattern": "～は～で、～",
+          "meaning": "～是～，然後～",
+          "structure": "名詞は + 說明 + で、+ 補充說明",
+          "examples": [
+            {
+              "japanese": "静岡おでんが名物で、屋台で食べ歩きをしました。",
+              "chinese": "靜岡關東煮是名產，我在路邊攤邊走邊吃。"
+            },
+            {
+              "japanese": "熱海は温泉で有名で、海も見えます。",
+              "chinese": "熱海以溫泉聞名，也可以看到海。"
+            }
+          ],
+          "note": "「で」可以用來連接兩個句子，表示前後是並列或因果的關係。讓你的描述更流暢，一句話可以講更多資訊。"
+        },
+        {
+          "pattern": "～に行ってみたいです",
+          "meaning": "想去～看看",
+          "structure": "場所 + に行ってみたいです",
+          "examples": [
+            {
+              "japanese": "私も静岡に行ってみたいです。",
+              "chinese": "我也想去靜岡看看。"
+            },
+            {
+              "japanese": "穴場のカフェに行ってみたいです。",
+              "chinese": "想去私房咖啡廳看看。"
+            },
+            {
+              "japanese": "温泉街に行ってみたいです。",
+              "chinese": "想去溫泉街看看。"
+            }
+          ],
+          "note": "「～てみたい」表示「想試試看」，搭配「行く」就變成「想去看看」。和「行きたい」比起來，「行ってみたい」多了一種好奇心和期待感。"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "回家作業：分享你愛的日本美食與景點",
+      "content": "<h3>動動腦，用日語表達看看！</h3><p>學完了第七章，你已經知道如何介紹景點和美食了。現在試著回答以下問題，可以寫在筆記本上，也可以說出來練習：</p><ol><li><strong>あなたの一番好きな日本の食べ物は何ですか？</strong><br/>（你最喜歡的日本食物是什麼？）<br/>提示：「～が一番好きです。」</li><li><strong>日本で行きたい場所はどこですか？</strong><br/>（你想去日本的什麼地方？）<br/>提示：「～に行きたいです。」</li><li><strong>その場所は何で有名ですか？</strong><br/>（那個地方以什麼聞名？）<br/>提示：「～で有名です。」</li></ol><p>不用寫得很完美，重要的是<strong>開口說、動手寫</strong>！語言學習就像食べ歩き一樣，一步一步慢慢來就好。加油！</p>",
+      "tips": [
+        "用學過的句型組合看看，不用害怕犯錯！",
+        "試著錄音，聽聽自己的日語發音。",
+        "可以把你的答案用日語打字，練習輸入法。"
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "～がおすすめです",
+          "reading": "がおすすめです",
+          "romaji": "ga osusume desu",
+          "chinese": "推薦～"
+        },
+        {
+          "japanese": "～で有名です",
+          "reading": "でゆうめいです",
+          "romaji": "de yuumei desu",
+          "chinese": "以～聞名"
+        },
+        {
+          "japanese": "～に行ったことがありますか？",
+          "reading": "にいったことがありますか",
+          "romaji": "ni itta koto ga arimasu ka",
+          "chinese": "你有去過～嗎？"
+        },
+        {
+          "japanese": "～を食べてみたいです",
+          "reading": "をたべてみたいです",
+          "romaji": "wo tabete mitai desu",
+          "chinese": "想要吃吃看～"
+        },
+        {
+          "japanese": "一番人気は何ですか？",
+          "reading": "いちばんにんきはなんですか",
+          "romaji": "ichiban ninki wa nan desu ka",
+          "chinese": "最受歡迎的是什麼？"
+        },
+        {
+          "japanese": "穴場",
+          "reading": "あなば",
+          "romaji": "anaba",
+          "chinese": "私房景點"
+        },
+        {
+          "japanese": "名物",
+          "reading": "めいぶつ",
+          "romaji": "meibutsu",
+          "chinese": "名產、當地特產"
+        },
+        {
+          "japanese": "食べ歩き",
+          "reading": "たべあるき",
+          "romaji": "tabearuki",
+          "chinese": "邊走邊吃"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "綜合小測驗",
+      "questions": [
+        {
+          "question": "想請對方推薦景點，應該怎麼問？",
+          "options": ["おすすめの場所がありますか？", "場所が好きですか？", "場所に行きました。", "場所はどこですか？"],
+          "correct": 0,
+          "explanation": "「おすすめの場所がありますか？」是「有推薦的地方嗎？」的意思，是最自然的問法。"
+        },
+        {
+          "question": "「静岡はお茶＿＿有名です」，空格應填入什麼？",
+          "options": ["が", "を", "で", "に"],
+          "correct": 2,
+          "explanation": "「～で有名です」表示以某事物聞名，所以要用助詞「で」。靜岡以茶聞名。"
+        },
+        {
+          "question": "在路邊攤點餐時，「二つください」是什麼意思？",
+          "options": ["太貴了", "請給我兩個", "我不要", "好好吃"],
+          "correct": 1,
+          "explanation": "「二つください」是「請給我兩個」的意思。「二つ」是兩個，「ください」是請給我。"
+        },
+        {
+          "question": "下列哪個不是靜岡的特產？",
+          "options": ["お茶（綠茶）", "うなぎ（鰻魚）", "さくらえび（櫻花蝦）", "りんご（蘋果）"],
+          "correct": 3,
+          "explanation": "蘋果（りんご）是青森縣的特產，不是靜岡的。靜岡的三大特產是綠茶、鰻魚和櫻花蝦。"
+        },
+        {
+          "question": "「食べ歩きをしました」是什麼意思？",
+          "options": ["我去了餐廳", "我邊走邊吃了", "我做了便當", "我去了超市"],
+          "correct": 1,
+          "explanation": "「食べ歩きをしました」是「邊走邊吃了」的意思。「食べ歩き」是邊走邊品嘗各種小吃的意思。"
+        },
+        {
+          "question": "「黒木さんがおすすめしてくれました」是什麼意思？",
+          "options": ["我推薦了黑木太太", "黑木太太推薦了（給我）", "黑木太太不推薦", "我想推薦給黑木太太"],
+          "correct": 1,
+          "explanation": "「～てくれました」表示別人為我做了某事。「おすすめしてくれました」就是「（為我）推薦了」。"
+        },
+        {
+          "question": "「隠れ家カフェ」是什麼意思？",
+          "options": ["大型連鎖咖啡廳", "隱密的私房咖啡廳", "已經關門的咖啡廳", "很便宜的咖啡廳"],
+          "correct": 1,
+          "explanation": "「隠れ家（かくれが）」是「隱密之處」的意思。「隠れ家カフェ」就是低調隱密的私房咖啡廳。"
+        },
+        {
+          "question": "「行ってみたいです」和「行きたいです」的差別是什麼？",
+          "options": ["完全一樣", "行ってみたいです帶有好奇想試試的語氣", "行きたいです更禮貌", "行ってみたいです是過去式"],
+          "correct": 1,
+          "explanation": "「行ってみたいです」比「行きたいです」多了「てみる（試試看）」的語氣，表示帶著好奇心想去看看。"
+        }
+      ]
+    }
+  ]
+}

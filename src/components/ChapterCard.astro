@@ -1,0 +1,41 @@
+---
+interface Props {
+  id: number;
+  title: string;
+  subtitle: string;
+  description: string;
+  icon: string;
+  unitCount: number;
+}
+
+const { id, title, subtitle, description, icon, unitCount } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+<a href={`${base}chapters/${id}`} class="block card-hover group">
+  <div class="bg-white rounded-2xl border border-warm-200/50 overflow-hidden h-full flex flex-col">
+    <!-- Header with chapter number -->
+    <div class="bg-gradient-to-r from-matcha-50 to-matcha-100/50 px-5 py-4 flex items-center gap-3">
+      <div class="w-10 h-10 rounded-full bg-matcha-400 text-white flex items-center justify-center text-lg font-bold shrink-0">
+        {id}
+      </div>
+      <div class="min-w-0">
+        <h3 class="font-bold text-ink truncate group-hover:text-matcha-500 transition-colors">{title}</h3>
+        <p class="text-xs text-ink-lighter">{subtitle}</p>
+      </div>
+    </div>
+    <!-- Body -->
+    <div class="px-5 py-4 flex-1 flex flex-col">
+      <div class="text-3xl mb-3">{icon}</div>
+      <p class="text-sm text-ink-light leading-relaxed flex-1">{description}</p>
+      <div class="mt-4 flex items-center justify-between">
+        <span class="text-xs text-ink-lighter">{unitCount} 個單元</span>
+        <span class="text-xs text-matcha-400 font-medium group-hover:translate-x-1 transition-transform inline-flex items-center gap-1">
+          開始學習
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+        </span>
+      </div>
+    </div>
+  </div>
+</a>

@@ -1,0 +1,449 @@
+{
+  "id": "ch4-unit3",
+  "title": "便利商店會話攻略！聽懂就好，不必背長長的敬語",
+  "intro": "日本的便利商店是生活中不可或缺的一部分！店員會說很多敬語，但你不需要全部會說，只要聽得懂就好。本單元教你聽懂收銀台的常見對話，輕鬆結帳！",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "レジ袋",
+          "reading": "レジぶくろ",
+          "romaji": "reji bukuro",
+          "chinese": "塑膠袋",
+          "example": "レジ袋はいりますか？",
+          "exampleChinese": "需要塑膠袋嗎？"
+        },
+        {
+          "japanese": "温めますか",
+          "reading": "あたためますか",
+          "romaji": "atatame masu ka",
+          "chinese": "要加熱嗎？",
+          "example": "お弁当、温めますか？",
+          "exampleChinese": "便當要加熱嗎？"
+        },
+        {
+          "japanese": "お箸",
+          "reading": "おはし",
+          "romaji": "ohashi",
+          "chinese": "筷子",
+          "example": "お箸はお付けしますか？",
+          "exampleChinese": "需要附筷子嗎？"
+        },
+        {
+          "japanese": "ストロー",
+          "reading": "ストロー",
+          "romaji": "sutorō",
+          "chinese": "吸管",
+          "example": "ストローはお付けしますか？",
+          "exampleChinese": "需要附吸管嗎？"
+        },
+        {
+          "japanese": "ポイントカード",
+          "reading": "ポイントカード",
+          "romaji": "pointo kādo",
+          "chinese": "集點卡",
+          "example": "ポイントカードはお持ちですか？",
+          "exampleChinese": "有集點卡嗎？"
+        },
+        {
+          "japanese": "支払い",
+          "reading": "しはらい",
+          "romaji": "shiharai",
+          "chinese": "付款",
+          "example": "お支払いは現金ですか？",
+          "exampleChinese": "要用現金付款嗎？"
+        },
+        {
+          "japanese": "現金",
+          "reading": "げんきん",
+          "romaji": "genkin",
+          "chinese": "現金",
+          "example": "現金でお願いします。",
+          "exampleChinese": "用現金，麻煩了。"
+        },
+        {
+          "japanese": "クレジットカード",
+          "reading": "クレジットカード",
+          "romaji": "kurejitto kādo",
+          "chinese": "信用卡",
+          "example": "クレジットカードで払えますか？",
+          "exampleChinese": "可以用信用卡付嗎？"
+        },
+        {
+          "japanese": "レシート",
+          "reading": "レシート",
+          "romaji": "reshīto",
+          "chinese": "收據",
+          "example": "レシートはご利用ですか？",
+          "exampleChinese": "需要收據嗎？"
+        },
+        {
+          "japanese": "お弁当",
+          "reading": "おべんとう",
+          "romaji": "obentō",
+          "chinese": "便當",
+          "example": "お弁当を一つください。",
+          "exampleChinese": "請給我一個便當。"
+        },
+        {
+          "japanese": "おにぎり",
+          "reading": "おにぎり",
+          "romaji": "onigiri",
+          "chinese": "飯糰",
+          "example": "おにぎりを二つください。",
+          "exampleChinese": "請給我兩個飯糰。"
+        },
+        {
+          "japanese": "スプーン",
+          "reading": "スプーン",
+          "romaji": "supūn",
+          "chinese": "湯匙",
+          "example": "スプーンをお付けしますか？",
+          "exampleChinese": "需要附湯匙嗎？"
+        },
+        {
+          "japanese": "電子マネー",
+          "reading": "でんしマネー",
+          "romaji": "denshi manē",
+          "chinese": "電子支付",
+          "example": "電子マネーで払えますか？",
+          "exampleChinese": "可以用電子支付嗎？"
+        },
+        {
+          "japanese": "おつり",
+          "reading": "おつり",
+          "romaji": "otsuri",
+          "chinese": "找零",
+          "example": "おつりは５０円です。",
+          "exampleChinese": "找零是50日圓。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "在便利商店結帳的完整對話",
+      "lines": [
+        {
+          "speaker": "店員",
+          "japanese": "いらっしゃいませ。",
+          "chinese": "歡迎光臨。"
+        },
+        {
+          "speaker": "（把商品放在櫃台上）",
+          "japanese": "",
+          "chinese": ""
+        },
+        {
+          "speaker": "店員",
+          "japanese": "ポイントカードはお持ちですか？",
+          "chinese": "請問有集點卡嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "ないです。",
+          "chinese": "沒有。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "お弁当、温めますか？",
+          "chinese": "便當要加熱嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、お願いします。",
+          "chinese": "好的，麻煩了。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "お箸はお付けしますか？",
+          "chinese": "需要附筷子嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、お願いします。",
+          "chinese": "好的，麻煩了。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "ストローはお付けしますか？",
+          "chinese": "需要附吸管嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "大丈夫です。",
+          "chinese": "不用了。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "レジ袋はご利用ですか？",
+          "chinese": "需要塑膠袋嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "いいえ、大丈夫です。",
+          "chinese": "不用了，沒關係。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "お会計、８５０円になります。お支払い方法はいかがなさいますか？",
+          "chinese": "總共 850 日圓。請問怎麼付款呢？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "クレジットカードでお願いします。",
+          "chinese": "用信用卡，麻煩了。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "こちらにタッチしてください。",
+          "chinese": "請在這裡感應。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "お支払い完了です。レシートはご利用ですか？",
+          "chinese": "付款完成。需要收據嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "いいえ、大丈夫です。",
+          "chinese": "不用了。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "ありがとうございました。またお越しくださいませ。",
+          "chinese": "謝謝惠顧。歡迎再度光臨。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～でよろしいですか？",
+          "meaning": "～這樣可以嗎？（店員確認用語）",
+          "structure": "名詞／內容 ＋ でよろしいですか？",
+          "examples": [
+            {
+              "japanese": "お箸は一膳でよろしいですか？",
+              "chinese": "筷子一雙可以嗎？"
+            },
+            {
+              "japanese": "こちらの商品でよろしいですか？",
+              "chinese": "是這個商品對嗎？"
+            },
+            {
+              "japanese": "温めなくてよろしいですか？",
+              "chinese": "不加熱可以嗎？"
+            }
+          ],
+          "note": "這是店員常用的確認句。「よろしいですか」是「いいですか（可以嗎）」的敬語版。你只要聽懂內容，回答「はい」或「大丈夫です」就好！"
+        },
+        {
+          "pattern": "～円になります",
+          "meaning": "總共是～日圓",
+          "structure": "金額 ＋ 円になります",
+          "examples": [
+            {
+              "japanese": "８５０円になります。",
+              "chinese": "總共 850 日圓。"
+            },
+            {
+              "japanese": "合計で１，２００円になります。",
+              "chinese": "合計 1,200 日圓。"
+            },
+            {
+              "japanese": "税込みで１，０８０円になります。",
+              "chinese": "含稅 1,080 日圓。"
+            }
+          ],
+          "note": "「～になります」是商店結帳時告知金額的標準說法。聽到數字加上「円になります」就知道是在說價格了。"
+        },
+        {
+          "pattern": "～でお願いします",
+          "meaning": "用～，麻煩了（選擇付款方式等）",
+          "structure": "付款方式等 ＋ でお願いします",
+          "examples": [
+            {
+              "japanese": "現金でお願いします。",
+              "chinese": "用現金，麻煩了。"
+            },
+            {
+              "japanese": "クレジットカードでお願いします。",
+              "chinese": "用信用卡，麻煩了。"
+            },
+            {
+              "japanese": "PayPayでお願いします。",
+              "chinese": "用 PayPay，麻煩了。"
+            }
+          ],
+          "note": "選擇付款方式時的萬用句型。除了現金和信用卡，日本還常用電子支付如 PayPay、Suica 等，都可以用「～でお願いします」來表達。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "レジ袋",
+          "reading": "レジぶくろ",
+          "romaji": "reji bukuro",
+          "chinese": "塑膠袋"
+        },
+        {
+          "japanese": "温めますか",
+          "reading": "あたためますか",
+          "romaji": "atatame masu ka",
+          "chinese": "要加熱嗎？"
+        },
+        {
+          "japanese": "お箸",
+          "reading": "おはし",
+          "romaji": "ohashi",
+          "chinese": "筷子"
+        },
+        {
+          "japanese": "ポイントカード",
+          "reading": "ポイントカード",
+          "romaji": "pointo kādo",
+          "chinese": "集點卡"
+        },
+        {
+          "japanese": "現金",
+          "reading": "げんきん",
+          "romaji": "genkin",
+          "chinese": "現金"
+        },
+        {
+          "japanese": "クレジットカード",
+          "reading": "クレジットカード",
+          "romaji": "kurejitto kādo",
+          "chinese": "信用卡"
+        },
+        {
+          "japanese": "レシート",
+          "reading": "レシート",
+          "romaji": "reshīto",
+          "chinese": "收據"
+        },
+        {
+          "japanese": "おにぎり",
+          "reading": "おにぎり",
+          "romaji": "onigiri",
+          "chinese": "飯糰"
+        },
+        {
+          "japanese": "おつり",
+          "reading": "おつり",
+          "romaji": "otsuri",
+          "chinese": "找零"
+        },
+        {
+          "japanese": "電子マネー",
+          "reading": "でんしマネー",
+          "romaji": "denshi manē",
+          "chinese": "電子支付"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "店員問「温めますか？」，是在問什麼？",
+          "options": [
+            "要不要袋子？",
+            "要不要加熱？",
+            "要不要筷子？",
+            "要不要收據？"
+          ],
+          "correct": 1,
+          "explanation": "「温めます」是「加熱」的意思。店員在問你買的食物要不要加熱。回答「はい、お願いします」就是要加熱。"
+        },
+        {
+          "question": "你想用信用卡付款，應該怎麼說？",
+          "options": [
+            "クレジットカードはありますか？",
+            "クレジットカードをお願いします。",
+            "クレジットカードでお願いします。",
+            "クレジットカードを見せてください。"
+          ],
+          "correct": 2,
+          "explanation": "「クレジットカードでお願いします」用「で」表示「用～」，意思是「用信用卡付款，麻煩了」。"
+        },
+        {
+          "question": "店員問「ポイントカードはお持ちですか？」是什麼意思？",
+          "options": [
+            "要不要辦集點卡？",
+            "您有帶集點卡嗎？",
+            "集點卡掉了嗎？",
+            "要用集點卡付款嗎？"
+          ],
+          "correct": 1,
+          "explanation": "「お持ちですか」是「持っていますか（有帶嗎）」的敬語。整句是在問你有沒有帶集點卡。沒有的話回答「ないです」就好。"
+        },
+        {
+          "question": "「850円になります」是什麼意思？",
+          "options": [
+            "可以打折到 850 日圓",
+            "找零 850 日圓",
+            "總共是 850 日圓",
+            "還差 850 日圓"
+          ],
+          "correct": 2,
+          "explanation": "「～円になります」是店員告知金額的標準說法。「850円になります」就是「總共 850 日圓」。"
+        },
+        {
+          "question": "店員說「レシートはご利用ですか？」，你不需要收據，該怎麼回答？",
+          "options": [
+            "はい、お願いします。",
+            "いいえ、大丈夫です。",
+            "レシートをください。",
+            "すみません。"
+          ],
+          "correct": 1,
+          "explanation": "「いいえ、大丈夫です」是「不用了，沒關係」的意思。在日本便利商店，「大丈夫です」是婉拒的萬用回答。"
+        },
+        {
+          "question": "「おにぎり」是什麼？",
+          "options": [
+            "麵包",
+            "便當",
+            "飯糰",
+            "三明治"
+          ],
+          "correct": 2,
+          "explanation": "「おにぎり」是日本飯糰，是便利商店最熱門的商品之一。有各種口味如鮭魚（しゃけ）、梅子（うめ）等。"
+        },
+        {
+          "question": "「おつり」是什麼意思？",
+          "options": [
+            "結帳",
+            "找零",
+            "袋子",
+            "收據"
+          ],
+          "correct": 1,
+          "explanation": "「おつり」是找零的意思。用現金付款時，店員會說「○○円のおつりです」來告訴你找零多少。"
+        },
+        {
+          "question": "你不想要袋子，店員問「レジ袋はご利用ですか？」，你該怎麼回答？",
+          "options": [
+            "はい、お願いします。",
+            "袋をください。",
+            "大丈夫です。",
+            "いくらですか？"
+          ],
+          "correct": 2,
+          "explanation": "「大丈夫です」在這裡是「不用了」的意思，是婉拒的常用說法。不需要袋子時用這句最自然。"
+        }
+      ]
+    }
+  ]
+}

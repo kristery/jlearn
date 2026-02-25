@@ -1,0 +1,275 @@
+{
+  "id": "ch5-unit2",
+  "title": "點餐不NG！看懂菜單＆拉麵券売機",
+  "intro": "日本很多餐廳使用券売機（食券販賣機）來點餐，尤其是拉麵店和牛丼店。學會看懂菜單上的常見料理名稱，以及如何操作券売機，讓你點餐不再慌張！",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "ラーメン",
+          "reading": "ラーメン",
+          "romaji": "raamen",
+          "chinese": "拉麵",
+          "example": "味噌ラーメンをお願いします。",
+          "exampleChinese": "請給我味噌拉麵。"
+        },
+        {
+          "japanese": "うどん",
+          "reading": "うどん",
+          "romaji": "udon",
+          "chinese": "烏龍麵",
+          "example": "温かいうどんにします。",
+          "exampleChinese": "我要熱的烏龍麵。"
+        },
+        {
+          "japanese": "そば",
+          "reading": "そば",
+          "romaji": "soba",
+          "chinese": "蕎麥麵",
+          "example": "ざるそばをください。",
+          "exampleChinese": "請給我冷蕎麥麵。"
+        },
+        {
+          "japanese": "丼",
+          "reading": "どん",
+          "romaji": "don",
+          "chinese": "丼飯；蓋飯",
+          "example": "牛丼の大盛りをください。",
+          "exampleChinese": "請給我大碗牛丼。"
+        },
+        {
+          "japanese": "カレー",
+          "reading": "カレー",
+          "romaji": "karee",
+          "chinese": "咖哩",
+          "example": "カレーライスにします。",
+          "exampleChinese": "我要咖哩飯。"
+        },
+        {
+          "japanese": "天ぷら",
+          "reading": "てんぷら",
+          "romaji": "tenpura",
+          "chinese": "天婦羅",
+          "example": "天ぷら定食をお願いします。",
+          "exampleChinese": "請給我天婦羅定食。"
+        },
+        {
+          "japanese": "焼肉",
+          "reading": "やきにく",
+          "romaji": "yakiniku",
+          "chinese": "燒肉",
+          "example": "焼肉食べ放題に行きましょう！",
+          "exampleChinese": "我們去吃燒肉吃到飽吧！"
+        },
+        {
+          "japanese": "寿司",
+          "reading": "すし",
+          "romaji": "sushi",
+          "chinese": "壽司",
+          "example": "回転寿司に行きたいです。",
+          "exampleChinese": "我想去迴轉壽司。"
+        },
+        {
+          "japanese": "大盛り",
+          "reading": "おおもり",
+          "romaji": "oomori",
+          "chinese": "大碗；加量",
+          "example": "大盛りでお願いします。",
+          "exampleChinese": "請給我大碗的。"
+        },
+        {
+          "japanese": "替え玉",
+          "reading": "かえだま",
+          "romaji": "kaedama",
+          "chinese": "加麵（拉麵用語）",
+          "example": "替え玉をお願いします。",
+          "exampleChinese": "請幫我加麵。"
+        },
+        {
+          "japanese": "券売機",
+          "reading": "けんばいき",
+          "romaji": "kenbaiki",
+          "chinese": "食券販賣機",
+          "example": "券売機で食券を買ってください。",
+          "exampleChinese": "請在食券販賣機買食券。"
+        },
+        {
+          "japanese": "食券",
+          "reading": "しょっけん",
+          "romaji": "shokken",
+          "chinese": "食券；餐券",
+          "example": "食券をスタッフに渡してください。",
+          "exampleChinese": "請把食券交給工作人員。"
+        },
+        {
+          "japanese": "味噌",
+          "reading": "みそ",
+          "romaji": "miso",
+          "chinese": "味噌",
+          "example": "味噌ラーメンが一番好きです。",
+          "exampleChinese": "我最喜歡味噌拉麵。"
+        },
+        {
+          "japanese": "醤油",
+          "reading": "しょうゆ",
+          "romaji": "shouyu",
+          "chinese": "醬油",
+          "example": "醤油ラーメンにします。",
+          "exampleChinese": "我要醬油拉麵。"
+        },
+        {
+          "japanese": "塩",
+          "reading": "しお",
+          "romaji": "shio",
+          "chinese": "鹽",
+          "example": "塩味のスープがさっぱりしていておいしいです。",
+          "exampleChinese": "鹽味的湯頭清爽又好喝。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "小明第一次到拉麵店使用券売機點餐，旁邊的日本人熱心幫忙。",
+      "lines": [
+        { "speaker": "小明", "japanese": "（券売機の前で）えっと、どれにしよう…", "chinese": "（在券賣機前面）嗯，要選哪個好呢⋯⋯" },
+        { "speaker": "日本人", "japanese": "初めてですか？ここの豚骨ラーメンがおすすめですよ。", "chinese": "你是第一次來嗎？這裡的豚骨拉麵很推薦喔。" },
+        { "speaker": "小明", "japanese": "ありがとうございます！味噌と醤油と塩もありますね。どれが人気ですか？", "chinese": "謝謝！也有味噌、醬油和鹽味呢。哪種最受歡迎？" },
+        { "speaker": "日本人", "japanese": "豚骨が一番人気ですね。味噌もおいしいですよ。", "chinese": "豚骨最受歡迎呢。味噌也很好吃喔。" },
+        { "speaker": "小明", "japanese": "じゃ、豚骨ラーメンにします。大盛りはどのボタンですか？", "chinese": "那我要豚骨拉麵。大碗是哪個按鈕？" },
+        { "speaker": "日本人", "japanese": "この「大盛り」のボタンです。百円追加ですよ。", "chinese": "是這個「大盛り」的按鈕。要加一百日圓喔。" },
+        { "speaker": "小明", "japanese": "分かりました。千円を入れて…ポチッと。食券が出ました！", "chinese": "我知道了。投入一千日圓⋯⋯按下去。食券出來了！" },
+        { "speaker": "日本人", "japanese": "その食券をカウンターで店員さんに渡してくださいね。", "chinese": "把那張食券在吧檯交給店員就好了喔。" },
+        { "speaker": "店員", "japanese": "食券をお預かりします。麺の硬さはどうしますか？", "chinese": "收您的食券。麵的硬度要怎麼樣？" },
+        { "speaker": "小明", "japanese": "硬さ？選べるんですか？", "chinese": "硬度？可以選嗎？" },
+        { "speaker": "店員", "japanese": "はい、カタメ、普通、やわらかめがあります。", "chinese": "是的，有偏硬、普通、偏軟。" },
+        { "speaker": "小明", "japanese": "普通でお願いします。", "chinese": "普通就好，麻煩了。" },
+        { "speaker": "店員", "japanese": "はい、少々お待ちください。", "chinese": "好的，請稍等。" },
+        { "speaker": "小明", "japanese": "（食べ終わって）すみません、替え玉をお願いします！", "chinese": "（吃完後）不好意思，請幫我加麵！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～にしてください",
+          "meaning": "請幫我做成～",
+          "structure": "名詞 + にしてください",
+          "examples": [
+            { "japanese": "味噌味にしてください。", "chinese": "請幫我做成味噌口味。" },
+            { "japanese": "辛口にしてください。", "chinese": "請幫我做辣的。" },
+            { "japanese": "カタメにしてください。", "chinese": "請幫我做硬一點的。" }
+          ],
+          "note": "「～にしてください」比「～にします」多了一層請求的意味，表示希望對方幫你調整或選擇成某個選項。"
+        },
+        {
+          "pattern": "大盛りでお願いします",
+          "meaning": "請給我大碗的",
+          "structure": "名詞 + でお願いします",
+          "examples": [
+            { "japanese": "大盛りでお願いします。", "chinese": "請給我大碗的。" },
+            { "japanese": "普通盛りでお願いします。", "chinese": "請給我普通份量。" },
+            { "japanese": "少なめでお願いします。", "chinese": "請給我少一點。" }
+          ],
+          "note": "「～でお願いします」用來指定某種方式或規格。在拉麵店常用來指定份量、硬度等。"
+        },
+        {
+          "pattern": "～は何ですか？",
+          "meaning": "～是什麼？",
+          "structure": "名詞 + は何ですか？",
+          "examples": [
+            { "japanese": "これは何ですか？", "chinese": "這是什麼？" },
+            { "japanese": "本日のスープは何ですか？", "chinese": "今天的湯是什麼？" },
+            { "japanese": "おすすめは何ですか？", "chinese": "推薦的是什麼？" }
+          ],
+          "note": "看不懂菜單時的萬用句型。指著菜單上看不懂的品項直接問就對了！"
+        },
+        {
+          "pattern": "～がありますか",
+          "meaning": "有～嗎？",
+          "structure": "名詞 + がありますか / はありますか",
+          "examples": [
+            { "japanese": "醤油ラーメンはありますか？", "chinese": "有醬油拉麵嗎？" },
+            { "japanese": "英語のメニューはありますか？", "chinese": "有英文菜單嗎？" },
+            { "japanese": "塩味はありますか？", "chinese": "有鹽味的嗎？" }
+          ],
+          "note": "用「～がありますか」來詢問某項東西是否存在或是否有供應。在餐廳點餐時非常實用。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "ラーメン", "reading": "ラーメン", "romaji": "raamen", "chinese": "拉麵" },
+        { "japanese": "うどん", "reading": "うどん", "romaji": "udon", "chinese": "烏龍麵" },
+        { "japanese": "丼", "reading": "どん", "romaji": "don", "chinese": "丼飯；蓋飯" },
+        { "japanese": "天ぷら", "reading": "てんぷら", "romaji": "tenpura", "chinese": "天婦羅" },
+        { "japanese": "大盛り", "reading": "おおもり", "romaji": "oomori", "chinese": "大碗；加量" },
+        { "japanese": "替え玉", "reading": "かえだま", "romaji": "kaedama", "chinese": "加麵（拉麵用語）" },
+        { "japanese": "券売機", "reading": "けんばいき", "romaji": "kenbaiki", "chinese": "食券販賣機" },
+        { "japanese": "味噌", "reading": "みそ", "romaji": "miso", "chinese": "味噌" },
+        { "japanese": "醤油", "reading": "しょうゆ", "romaji": "shouyu", "chinese": "醬油" },
+        { "japanese": "塩", "reading": "しお", "romaji": "shio", "chinese": "鹽" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "在拉麵店想要加麵，應該怎麼說？",
+          "options": ["大盛りをください", "替え玉をお願いします", "もう一杯ください", "おかわりをください"],
+          "correct": 1,
+          "explanation": "拉麵店加麵的專門用語是「替え玉（かえだま）」。「替え玉をお願いします」就是「請幫我加麵」。"
+        },
+        {
+          "question": "「券売機」是什麼？",
+          "options": ["收銀機", "自動販賣機", "食券販賣機", "點餐平板"],
+          "correct": 2,
+          "explanation": "「券売機（けんばいき）」是食券販賣機，常見於拉麵店、牛丼店等。先買食券再交給店員。"
+        },
+        {
+          "question": "想點大碗的拉麵，下列哪個說法正確？",
+          "options": ["大きいでお願いします", "大盛りでお願いします", "たくさんでお願いします", "多いでお願いします"],
+          "correct": 1,
+          "explanation": "加大份量的正確說法是「大盛り（おおもり）でお願いします」，這是日本餐飲業的固定用語。"
+        },
+        {
+          "question": "「丼」的讀音是什麼？",
+          "options": ["どん", "たん", "にん", "ぼん"],
+          "correct": 0,
+          "explanation": "「丼」讀作「どん」，指的是蓋飯、丼飯。例如牛丼（ぎゅうどん）、親子丼（おやこどん）等。"
+        },
+        {
+          "question": "買好食券後，下一步應該做什麼？",
+          "options": ["自己去廚房取餐", "把食券放在桌上", "把食券交給店員", "把食券丟掉"],
+          "correct": 2,
+          "explanation": "買好食券後，要把食券交給（渡す）店員。店員會根據食券準備你的餐點。"
+        },
+        {
+          "question": "「醤油」的讀音和意思是什麼？",
+          "options": ["しょうゆ／醬油", "みそ／味噌", "しお／鹽", "さけ／酒"],
+          "correct": 0,
+          "explanation": "「醤油（しょうゆ）」是醬油的意思。醬油拉麵（醤油ラーメン）是日本拉麵的經典口味之一。"
+        },
+        {
+          "question": "拉麵的三種經典口味不包括以下哪一個？",
+          "options": ["味噌", "醤油", "塩", "カレー"],
+          "correct": 3,
+          "explanation": "拉麵的經典口味包括味噌（みそ）、醤油（しょうゆ）、塩（しお）和豚骨（とんこつ）。カレー（咖哩）不是拉麵的標準口味。"
+        },
+        {
+          "question": "在拉麵店，店員問「麺の硬さはどうしますか？」，這是在問什麼？",
+          "options": ["麵的份量", "麵的硬度", "麵的種類", "麵的口味"],
+          "correct": 1,
+          "explanation": "「麺の硬さ」是「麵的硬度」。拉麵店通常可以選擇偏硬（カタメ）、普通、偏軟（やわらかめ）。"
+        }
+      ]
+    }
+  ]
+}

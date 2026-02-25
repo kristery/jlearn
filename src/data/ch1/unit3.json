@@ -1,0 +1,341 @@
+{
+  "id": "ch1-unit3",
+  "title": "人數份數搞不清楚？一次告訴你！",
+  "intro": "日語的量詞（助數詞）是很多學習者的痛點！算人用「人」，算薄物用「枚」，算細長物用「本」......。本單元整理最常用的量詞，讓你在餐廳點餐、購物時不再卡住。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "一人",
+          "reading": "ひとり",
+          "romaji": "hitori",
+          "chinese": "一個人",
+          "example": "一人ですか？",
+          "exampleChinese": "請問一位嗎？"
+        },
+        {
+          "japanese": "二人",
+          "reading": "ふたり",
+          "romaji": "futari",
+          "chinese": "兩個人",
+          "example": "二人でお願いします。",
+          "exampleChinese": "兩位，麻煩了。"
+        },
+        {
+          "japanese": "三人",
+          "reading": "さんにん",
+          "romaji": "sannin",
+          "chinese": "三個人",
+          "example": "三人で予約しています。",
+          "exampleChinese": "我預約了三個人。"
+        },
+        {
+          "japanese": "一つ",
+          "reading": "ひとつ",
+          "romaji": "hitotsu",
+          "chinese": "一個（通用）",
+          "example": "一つください。",
+          "exampleChinese": "請給我一個。"
+        },
+        {
+          "japanese": "二つ",
+          "reading": "ふたつ",
+          "romaji": "futatsu",
+          "chinese": "兩個（通用）",
+          "example": "おにぎりを二つください。",
+          "exampleChinese": "請給我兩個飯糰。"
+        },
+        {
+          "japanese": "枚",
+          "reading": "まい",
+          "romaji": "mai",
+          "chinese": "〜張（薄平物品）",
+          "example": "切符を二枚ください。",
+          "exampleChinese": "請給我兩張票。"
+        },
+        {
+          "japanese": "本",
+          "reading": "ほん",
+          "romaji": "hon",
+          "chinese": "〜支／〜瓶（細長物品）",
+          "example": "水を一本ください。",
+          "exampleChinese": "請給我一瓶水。"
+        },
+        {
+          "japanese": "杯",
+          "reading": "はい",
+          "romaji": "hai",
+          "chinese": "〜杯",
+          "example": "コーヒーを一杯お願いします。",
+          "exampleChinese": "請給我一杯咖啡。"
+        },
+        {
+          "japanese": "個",
+          "reading": "こ",
+          "romaji": "ko",
+          "chinese": "〜個（小物品）",
+          "example": "りんごを三個ください。",
+          "exampleChinese": "請給我三個蘋果。"
+        },
+        {
+          "japanese": "名",
+          "reading": "めい",
+          "romaji": "mei",
+          "chinese": "〜位（禮貌的人數量詞）",
+          "example": "何名様ですか？",
+          "exampleChinese": "請問幾位？"
+        },
+        {
+          "japanese": "足",
+          "reading": "そく",
+          "romaji": "soku",
+          "chinese": "〜雙（鞋襪）",
+          "example": "靴を一足ください。",
+          "exampleChinese": "請給我一雙鞋。"
+        },
+        {
+          "japanese": "冊",
+          "reading": "さつ",
+          "romaji": "satsu",
+          "chinese": "〜本（書籍）",
+          "example": "本を三冊買いました。",
+          "exampleChinese": "買了三本書。"
+        },
+        {
+          "japanese": "台",
+          "reading": "だい",
+          "romaji": "dai",
+          "chinese": "〜台（機器、車輛）",
+          "example": "パソコンが二台あります。",
+          "exampleChinese": "有兩台電腦。"
+        },
+        {
+          "japanese": "匹",
+          "reading": "ひき",
+          "romaji": "hiki",
+          "chinese": "〜隻（小動物）",
+          "example": "猫が三匹います。",
+          "exampleChinese": "有三隻貓。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "到了餐廳門口，店員確認人數，入座後開始點餐。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ！何名様ですか？", "chinese": "歡迎光臨！請問幾位？" },
+        { "speaker": "旅客", "japanese": "三人です。", "chinese": "三個人。" },
+        { "speaker": "店員", "japanese": "三名様ですね。こちらへどうぞ。", "chinese": "三位對嗎？這邊請。" },
+        { "speaker": "旅客", "japanese": "すみません、ビールを二杯と水を一本ください。", "chinese": "不好意思，請給我兩杯啤酒和一瓶水。" },
+        { "speaker": "店員", "japanese": "はい、ビール二杯と水一本ですね。", "chinese": "好的，兩杯啤酒和一瓶水對嗎？" },
+        { "speaker": "旅客", "japanese": "あと、餃子を一つと唐揚げを二つお願いします。", "chinese": "另外，請給我一份煎餃和兩份炸雞。" },
+        { "speaker": "店員", "japanese": "かしこまりました。少々お待ちください。", "chinese": "好的。請稍等。" },
+        { "speaker": "旅客", "japanese": "すみません、お皿を一枚もらえますか？", "chinese": "不好意思，可以再給我一個盤子嗎？" },
+        { "speaker": "店員", "japanese": "はい、どうぞ。", "chinese": "好的，請用。" },
+        { "speaker": "旅客", "japanese": "あと、コーヒーを三杯お願いします。", "chinese": "另外，請給我三杯咖啡。" },
+        { "speaker": "店員", "japanese": "コーヒー三杯ですね。かしこまりました。", "chinese": "三杯咖啡對嗎？好的。" },
+        { "speaker": "旅客", "japanese": "ありがとうございます。", "chinese": "謝謝。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在商店購物，用到各種不同的量詞。",
+      "lines": [
+        { "speaker": "旅客", "japanese": "すみません、この靴を一足ください。", "chinese": "不好意思，請給我一雙這個鞋子。" },
+        { "speaker": "店員", "japanese": "はい、サイズは何ですか？", "chinese": "好的，請問尺寸是？" },
+        { "speaker": "旅客", "japanese": "二十五センチです。あと、靴下を二足お願いします。", "chinese": "二十五公分。另外，請給我兩雙襪子。" },
+        { "speaker": "店員", "japanese": "かしこまりました。他にございますか？", "chinese": "好的。還有其他需要的嗎？" },
+        { "speaker": "旅客", "japanese": "この本を一冊と、ペンを三本ください。", "chinese": "請給我一本這本書，和三支筆。" },
+        { "speaker": "店員", "japanese": "はい、全部で三千二百円です。", "chinese": "好的，全部三千兩百日圓。" },
+        { "speaker": "旅客", "japanese": "五千円でお願いします。", "chinese": "用五千日圓結帳。" },
+        { "speaker": "店員", "japanese": "千八百円のお返しです。ありがとうございます。", "chinese": "找您一千八百日圓。謝謝。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜人です",
+          "meaning": "〜個人",
+          "structure": "數字 + 人 + です",
+          "examples": [
+            { "japanese": "二人です。", "chinese": "兩個人。" },
+            { "japanese": "五人です。", "chinese": "五個人。" },
+            { "japanese": "何人ですか？", "chinese": "幾個人？" }
+          ],
+          "note": "注意特殊讀音：一人（ひとり）、二人（ふたり）。三人以上則是規則變化：三人（さんにん）、四人（よにん）等。「何人（なんにん）」是「幾個人」。"
+        },
+        {
+          "pattern": "〜つください",
+          "meaning": "請給我〜個",
+          "structure": "和語數字 + つ + ください",
+          "examples": [
+            { "japanese": "一つください。", "chinese": "請給我一個。" },
+            { "japanese": "三つお願いします。", "chinese": "請給我三個。" },
+            { "japanese": "五つください。", "chinese": "請給我五個。" }
+          ],
+          "note": "「〜つ」是萬用量詞，不確定該用什麼量詞時，用「〜つ」就對了！但只適用到十（十是「とお」，沒有「つ」）。一つ（ひとつ）、二つ（ふたつ）、三つ（みっつ）、四つ（よっつ）、五つ（いつつ）。"
+        },
+        {
+          "pattern": "量詞的搭配",
+          "meaning": "不同物品用不同量詞",
+          "structure": "名詞 + を + 數字 + 量詞 + ください",
+          "examples": [
+            { "japanese": "切符を二枚ください。", "chinese": "請給我兩張票。" },
+            { "japanese": "ペンを三本ください。", "chinese": "請給我三支筆。" },
+            { "japanese": "コーヒーを一杯ください。", "chinese": "請給我一杯咖啡。" },
+            { "japanese": "靴を一足ください。", "chinese": "請給我一雙鞋。" },
+            { "japanese": "本を二冊ください。", "chinese": "請給我兩本書。" }
+          ],
+          "note": "枚（まい）：薄且平的東西（票、紙、盤子）。本（ほん）：細長的東西（筆、瓶裝飲料、傘）。杯（はい）：裝在杯子裡的（咖啡、茶）。個（こ）：小而圓的東西（蘋果、雞蛋）。足（そく）：成雙的鞋襪。冊（さつ）：書本、雜誌。台（だい）：機器、車輛。注意音變：一本（いっぽん）、三本（さんぼん）、一杯（いっぱい）、三杯（さんばい）、一足（いっそく）。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "一人",
+          "reading": "ひとり",
+          "romaji": "hitori",
+          "chinese": "一個人",
+          "example": "一人ですか？",
+          "exampleChinese": "請問一位嗎？"
+        },
+        {
+          "japanese": "二人",
+          "reading": "ふたり",
+          "romaji": "futari",
+          "chinese": "兩個人",
+          "example": "二人でお願いします。",
+          "exampleChinese": "兩位，麻煩了。"
+        },
+        {
+          "japanese": "枚",
+          "reading": "まい",
+          "romaji": "mai",
+          "chinese": "〜張（薄平物品）",
+          "example": "切符を二枚ください。",
+          "exampleChinese": "請給我兩張票。"
+        },
+        {
+          "japanese": "本",
+          "reading": "ほん",
+          "romaji": "hon",
+          "chinese": "〜支／〜瓶（細長物品）",
+          "example": "水を一本ください。",
+          "exampleChinese": "請給我一瓶水。"
+        },
+        {
+          "japanese": "杯",
+          "reading": "はい",
+          "romaji": "hai",
+          "chinese": "〜杯",
+          "example": "コーヒーを一杯お願いします。",
+          "exampleChinese": "請給我一杯咖啡。"
+        },
+        {
+          "japanese": "足",
+          "reading": "そく",
+          "romaji": "soku",
+          "chinese": "〜雙（鞋襪）",
+          "example": "靴を一足ください。",
+          "exampleChinese": "請給我一雙鞋。"
+        },
+        {
+          "japanese": "冊",
+          "reading": "さつ",
+          "romaji": "satsu",
+          "chinese": "〜本（書籍）",
+          "example": "本を三冊買いました。",
+          "exampleChinese": "買了三本書。"
+        },
+        {
+          "japanese": "台",
+          "reading": "だい",
+          "romaji": "dai",
+          "chinese": "〜台（機器、車輛）",
+          "example": "パソコンが二台あります。",
+          "exampleChinese": "有兩台電腦。"
+        },
+        {
+          "japanese": "名",
+          "reading": "めい",
+          "romaji": "mei",
+          "chinese": "〜位（禮貌的人數量詞）",
+          "example": "何名様ですか？",
+          "exampleChinese": "請問幾位？"
+        },
+        {
+          "japanese": "匹",
+          "reading": "ひき",
+          "romaji": "hiki",
+          "chinese": "〜隻（小動物）",
+          "example": "猫が三匹います。",
+          "exampleChinese": "有三隻貓。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「ふたり」的漢字是？",
+          "options": ["一人", "二人", "二つ", "二枚"],
+          "correct": 1,
+          "explanation": "「ふたり」的漢字是「二人」，意思是兩個人。注意不是規則讀音的「にじん」。"
+        },
+        {
+          "question": "買兩張車票，應該用哪個量詞？",
+          "options": ["二本", "二杯", "二枚", "二個"],
+          "correct": 2,
+          "explanation": "車票是薄且平的物品，所以使用量詞「枚（まい）」。「二枚（にまい）」就是兩張。"
+        },
+        {
+          "question": "點一瓶水應該說？",
+          "options": ["水を一枚ください。", "水を一つください。", "水を一杯ください。", "水を一本ください。"],
+          "correct": 3,
+          "explanation": "瓶裝水是細長物品，使用量詞「本（ほん）」。「一本（いっぽん）」注意音變。不過用「一つ」也可以通！"
+        },
+        {
+          "question": "店員問「何名様ですか？」，你們有四個人，怎麼回答？",
+          "options": ["四人です。", "四枚です。", "四つです。", "四本です。"],
+          "correct": 0,
+          "explanation": "回答人數用「〜人（にん）」。四人的讀音是「よにん」。"
+        },
+        {
+          "question": "「一本」的讀音是？",
+          "options": ["いちほん", "いっぽん", "ひとほん", "いちぼん"],
+          "correct": 1,
+          "explanation": "「一本」的正確讀音是「いっぽん」。「本」在接一、六、八、十時會產生音變（促音＋半濁音）。"
+        },
+        {
+          "question": "買一雙鞋，應該用哪個量詞？",
+          "options": ["一枚", "一本", "一足", "一個"],
+          "correct": 2,
+          "explanation": "鞋子成雙使用，量詞是「足（そく）」。「一足」的讀音是「いっそく」，注意促音。"
+        },
+        {
+          "question": "「本を三冊買いました」的「冊」是用來數什麼的？",
+          "options": ["薄平物品", "書本、雜誌", "飲料", "小動物"],
+          "correct": 1,
+          "explanation": "「冊（さつ）」是專門用來數書本和雜誌的量詞。「三冊（さんさつ）」就是三本書。"
+        },
+        {
+          "question": "「パソコンが二台あります」的意思是？",
+          "options": ["有兩支筆。", "有兩台電腦。", "有兩杯咖啡。", "有兩隻貓。"],
+          "correct": 1,
+          "explanation": "「台（だい）」是用來數機器和車輛的量詞。「パソコン」是「personal computer」的縮寫，即電腦。「二台」就是兩台。"
+        }
+      ]
+    }
+  ]
+}

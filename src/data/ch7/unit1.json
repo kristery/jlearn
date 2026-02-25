@@ -1,0 +1,407 @@
+{
+  "id": "ch7-unit1",
+  "title": "私藏景點分享",
+  "intro": "旅行最棒的部分，就是發現那些不在旅遊書上的秘密景點！這一課我們要學習如何用日語詢問在地人推薦的隱藏景點，以及描述一個美麗的地方。跟著黑木太太一起探索那些只有在地人才知道的好去處吧！",
+  "estimatedTime": "15 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "穴場",
+          "reading": "あなば",
+          "romaji": "anaba",
+          "chinese": "私房景點、隱藏版景點",
+          "example": "ここは穴場のカフェですよ。",
+          "exampleChinese": "這裡是一間隱藏版的咖啡廳喔。"
+        },
+        {
+          "japanese": "観光地",
+          "reading": "かんこうち",
+          "romaji": "kankouchi",
+          "chinese": "觀光景點",
+          "example": "京都は有名な観光地です。",
+          "exampleChinese": "京都是有名的觀光景點。"
+        },
+        {
+          "japanese": "景色",
+          "reading": "けしき",
+          "romaji": "keshiki",
+          "chinese": "景色、風景",
+          "example": "この場所の景色はとても綺麗です。",
+          "exampleChinese": "這個地方的景色非常漂亮。"
+        },
+        {
+          "japanese": "紅葉",
+          "reading": "もみじ",
+          "romaji": "momiji",
+          "chinese": "紅葉、楓葉",
+          "example": "秋の紅葉が綺麗ですね。",
+          "exampleChinese": "秋天的紅葉好漂亮啊。"
+        },
+        {
+          "japanese": "桜",
+          "reading": "さくら",
+          "romaji": "sakura",
+          "chinese": "櫻花",
+          "example": "桜の季節に日本に行きたいです。",
+          "exampleChinese": "我想在櫻花季去日本。"
+        },
+        {
+          "japanese": "温泉街",
+          "reading": "おんせんがい",
+          "romaji": "onsengai",
+          "chinese": "溫泉街",
+          "example": "温泉街を散歩しましょう。",
+          "exampleChinese": "我們去溫泉街散步吧。"
+        },
+        {
+          "japanese": "路地",
+          "reading": "ろじ",
+          "romaji": "roji",
+          "chinese": "巷弄、小巷",
+          "example": "この路地に美味しいお店がありますよ。",
+          "exampleChinese": "這條巷子裡有好吃的店喔。"
+        },
+        {
+          "japanese": "散歩",
+          "reading": "さんぽ",
+          "romaji": "sanpo",
+          "chinese": "散步",
+          "example": "朝の散歩が気持ちいいです。",
+          "exampleChinese": "早上散步很舒服。"
+        },
+        {
+          "japanese": "写真映え",
+          "reading": "しゃしんばえ",
+          "romaji": "shashinbae",
+          "chinese": "上鏡、適合拍照",
+          "example": "このお寺は写真映えしますよ。",
+          "exampleChinese": "這座寺廟很適合拍照喔。"
+        },
+        {
+          "japanese": "混んでいる",
+          "reading": "こんでいる",
+          "romaji": "kondeiru",
+          "chinese": "擁擠的",
+          "example": "週末は混んでいます。",
+          "exampleChinese": "週末很擁擠。"
+        },
+        {
+          "japanese": "空いている",
+          "reading": "すいている",
+          "romaji": "suiteiru",
+          "chinese": "不擁擠的、空的",
+          "example": "平日は空いていますよ。",
+          "exampleChinese": "平日不太擁擠喔。"
+        },
+        {
+          "japanese": "絶景",
+          "reading": "ぜっけい",
+          "romaji": "zekkei",
+          "chinese": "絕景、壯觀的風景",
+          "example": "山の上からの絶景を見ました。",
+          "exampleChinese": "我看到了從山頂望出去的絕景。"
+        },
+        {
+          "japanese": "隠れ家",
+          "reading": "かくれが",
+          "romaji": "kakurega",
+          "chinese": "隱密的店、私房小店",
+          "example": "この隠れ家レストランは最高です。",
+          "exampleChinese": "這間隱密的餐廳超棒的。"
+        },
+        {
+          "japanese": "地元の人",
+          "reading": "じもとのひと",
+          "romaji": "jimoto no hito",
+          "chinese": "在地人、當地人",
+          "example": "地元の人しか知らない場所です。",
+          "exampleChinese": "這是只有在地人才知道的地方。"
+        },
+        {
+          "japanese": "パワースポット",
+          "reading": "パワースポット",
+          "romaji": "pawaa supotto",
+          "chinese": "能量景點、靈氣景點",
+          "example": "この神社はパワースポットで有名です。",
+          "exampleChinese": "這間神社以能量景點聞名。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "Kuma桑在靜岡遇到黑木太太，向她詢問在地人才知道的秘密景點。",
+      "lines": [
+        {
+          "speaker": "Kuma桑",
+          "japanese": "黒木さん、静岡でおすすめの穴場はありますか？",
+          "chinese": "黑木太太，靜岡有什麼推薦的私房景點嗎？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "そうですね、三保の松原がおすすめですよ。富士山の絶景で有名です。",
+          "chinese": "嗯，我推薦三保松原喔。那裡以富士山的絕景聞名。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "写真映えしますか？",
+          "chinese": "那裡適合拍照嗎？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "もちろん！景色がとても綺麗です。でも、週末は少し混んでいます。",
+          "chinese": "當然！風景非常漂亮。不過週末會有點擁擠。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "地元の人しか知らない場所もありますか？",
+          "chinese": "有沒有只有在地人才知道的地方？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "ありますよ！日本平という場所が穴場です。富士山と駿河湾の絶景が見えます。",
+          "chinese": "有喔！一個叫日本平的地方是私房景點。可以看到富士山和駿河灣的絕景。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "すごい！温泉街もありますか？",
+          "chinese": "好棒！那裡也有溫泉街嗎？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "はい、熱海温泉街がありますよ。路地にも素敵なお店がたくさんあります。",
+          "chinese": "有的，有熱海溫泉街喔。巷弄裡也有很多很棒的店。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "隠れ家のカフェとかもありますか？",
+          "chinese": "有沒有那種隱密的咖啡廳之類的？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "ありますよ！用宗という漁港の近くに、素敵な隠れ家カフェがあります。地元の人に人気です。",
+          "chinese": "有喔！在一個叫用宗的漁港附近，有間很棒的隱密咖啡廳。很受在地人歡迎。"
+        },
+        {
+          "speaker": "Kuma桑",
+          "japanese": "いいですね！紅葉の季節に行ったことがありますか？",
+          "chinese": "好棒！你有在楓葉季去過嗎？"
+        },
+        {
+          "speaker": "黒木太太",
+          "japanese": "はい、秋の紅葉はとても綺麗ですよ。ぜひ散歩してみてください。パワースポットの神社もありますよ。",
+          "chinese": "有的，秋天的紅葉非常漂亮喔。一定要去散個步看看。也有能量景點的神社喔。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～がおすすめです",
+          "meaning": "推薦～",
+          "structure": "名詞 + がおすすめです",
+          "examples": [
+            {
+              "japanese": "この公園がおすすめです。",
+              "chinese": "我推薦這個公園。"
+            },
+            {
+              "japanese": "春の京都がおすすめです。",
+              "chinese": "推薦春天的京都。"
+            },
+            {
+              "japanese": "この隠れ家レストランがおすすめですよ。",
+              "chinese": "推薦這間隱密的餐廳喔。"
+            }
+          ],
+          "note": "用來向對方推薦某個事物或地方。「おすすめ」是「推薦」的意思，前面加上「が」表示推薦的對象。"
+        },
+        {
+          "pattern": "～で有名です",
+          "meaning": "以～聞名",
+          "structure": "名詞 + で有名です",
+          "examples": [
+            {
+              "japanese": "奈良は鹿で有名です。",
+              "chinese": "奈良以鹿聞名。"
+            },
+            {
+              "japanese": "静岡はお茶で有名です。",
+              "chinese": "靜岡以茶聞名。"
+            },
+            {
+              "japanese": "この神社はパワースポットで有名です。",
+              "chinese": "這間神社以能量景點聞名。"
+            }
+          ],
+          "note": "用來說明某個地方或事物以什麼而出名。「で」在這裡表示原因或特徵。"
+        },
+        {
+          "pattern": "～に行ったことがありますか？",
+          "meaning": "你有去過～嗎？",
+          "structure": "場所 + に行ったことがありますか？",
+          "examples": [
+            {
+              "japanese": "北海道に行ったことがありますか？",
+              "chinese": "你有去過北海道嗎？"
+            },
+            {
+              "japanese": "日本に行ったことがありますか？",
+              "chinese": "你有去過日本嗎？"
+            },
+            {
+              "japanese": "穴場のカフェに行ったことがありますか？",
+              "chinese": "你有去過私房咖啡廳嗎？"
+            }
+          ],
+          "note": "這是詢問對方是否有某種經驗的句型。「～たことがある」表示「曾經做過～」，加上「か」變成疑問句。"
+        },
+        {
+          "pattern": "～しか知らない",
+          "meaning": "只有～才知道",
+          "structure": "名詞 + しか知らない",
+          "examples": [
+            {
+              "japanese": "地元の人しか知らない場所です。",
+              "chinese": "這是只有在地人才知道的地方。"
+            },
+            {
+              "japanese": "この穴場は友達しか知りません。",
+              "chinese": "這個私房景點只有朋友才知道。"
+            },
+            {
+              "japanese": "この道は地元の人しか通りません。",
+              "chinese": "這條路只有在地人才會走。"
+            }
+          ],
+          "note": "「しか～ない」是「只有～」的意思，後面一定要接否定形。用來強調某事物的稀有或獨特。在描述隱藏景點時非常好用！"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "穴場",
+          "reading": "あなば",
+          "romaji": "anaba",
+          "chinese": "私房景點、隱藏版景點"
+        },
+        {
+          "japanese": "観光地",
+          "reading": "かんこうち",
+          "romaji": "kankouchi",
+          "chinese": "觀光景點"
+        },
+        {
+          "japanese": "景色",
+          "reading": "けしき",
+          "romaji": "keshiki",
+          "chinese": "景色、風景"
+        },
+        {
+          "japanese": "紅葉",
+          "reading": "もみじ",
+          "romaji": "momiji",
+          "chinese": "紅葉、楓葉"
+        },
+        {
+          "japanese": "温泉街",
+          "reading": "おんせんがい",
+          "romaji": "onsengai",
+          "chinese": "溫泉街"
+        },
+        {
+          "japanese": "写真映え",
+          "reading": "しゃしんばえ",
+          "romaji": "shashinbae",
+          "chinese": "上鏡、適合拍照"
+        },
+        {
+          "japanese": "絶景",
+          "reading": "ぜっけい",
+          "romaji": "zekkei",
+          "chinese": "絕景、壯觀的風景"
+        },
+        {
+          "japanese": "隠れ家",
+          "reading": "かくれが",
+          "romaji": "kakurega",
+          "chinese": "隱密的店、私房小店"
+        },
+        {
+          "japanese": "地元の人",
+          "reading": "じもとのひと",
+          "romaji": "jimoto no hito",
+          "chinese": "在地人、當地人"
+        },
+        {
+          "japanese": "パワースポット",
+          "reading": "パワースポット",
+          "romaji": "pawaa supotto",
+          "chinese": "能量景點、靈氣景點"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "「穴場」的意思是什麼？",
+          "options": ["有名的觀光地", "隱藏版景點", "溫泉旅館", "高級餐廳"],
+          "correct": 1,
+          "explanation": "「穴場（あなば）」是指不為一般人所知的好地方，也就是「私房景點」或「隱藏版景點」。"
+        },
+        {
+          "question": "想推薦一個地方時，應該怎麼說？",
+          "options": ["この場所で有名です", "この場所がおすすめです", "この場所に行きます", "この場所が好きです"],
+          "correct": 1,
+          "explanation": "「～がおすすめです」是推薦某事物的常用句型。"
+        },
+        {
+          "question": "「京都は紅葉＿＿有名です」，空格應填入什麼？",
+          "options": ["が", "を", "で", "に"],
+          "correct": 2,
+          "explanation": "「～で有名です」表示以某事物聞名，所以要用助詞「で」。"
+        },
+        {
+          "question": "「混んでいる」的反義詞是什麼？",
+          "options": ["暑い", "寒い", "空いている", "遠い"],
+          "correct": 2,
+          "explanation": "「混んでいる（擁擠）」的反義詞是「空いている（不擁擠、空的）」。"
+        },
+        {
+          "question": "詢問對方是否去過北海道，正確的說法是？",
+          "options": ["北海道に行きますか？", "北海道に行ったことがありますか？", "北海道で行きましたか？", "北海道が行きたいですか？"],
+          "correct": 1,
+          "explanation": "「～に行ったことがありますか？」是詢問對方是否有去過某地的經驗的正確句型。"
+        },
+        {
+          "question": "「隠れ家」是什麼意思？",
+          "options": ["觀光景點", "購物中心", "隱密的店、私房小店", "大型旅館"],
+          "correct": 2,
+          "explanation": "「隠れ家（かくれが）」原意是「藏身之處」，在旅遊語境中指的是低調隱密的私房小店。"
+        },
+        {
+          "question": "「地元の人しか知らない」是什麼意思？",
+          "options": ["在地人都不知道", "只有在地人才知道", "在地人也知道", "沒有人知道"],
+          "correct": 1,
+          "explanation": "「しか～ない」是「只有～」的意思。「地元の人しか知らない」就是「只有在地人才知道」。"
+        },
+        {
+          "question": "「パワースポット」是指什麼？",
+          "options": ["充電站", "停車場", "能量景點、靈氣景點", "運動場"],
+          "correct": 2,
+          "explanation": "「パワースポット」是日式英語，指的是被認為有靈氣或特殊能量的景點，通常是神社、瀑布等自然靈地。"
+        }
+      ]
+    }
+  ]
+}

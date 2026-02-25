@@ -1,0 +1,99 @@
+---
+const base = import.meta.env.BASE_URL;
+---
+<header class="sticky top-0 z-50 bg-warm-50/90 backdrop-blur-md border-b border-warm-200/50">
+  <nav class="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+    <a href={base} class="flex items-center gap-2 group">
+      <span class="text-2xl">🌸</span>
+      <span class="text-lg font-bold text-ink group-hover:text-sakura-400 transition-colors">JLearn</span>
+    </a>
+
+    <!-- Desktop nav -->
+    <div class="hidden md:flex items-center gap-6">
+      <a href={base} class="text-sm text-ink-light hover:text-sakura-400 transition-colors">首頁</a>
+      <div class="relative group">
+        <button class="text-sm text-ink-light hover:text-sakura-400 transition-colors flex items-center gap-1">
+          課程章節
+          <svg class="w-3.5 h-3.5 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+          </svg>
+        </button>
+        <div class="absolute top-full left-1/2 -translate-x-1/2 pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+          <div class="bg-white rounded-2xl shadow-lg border border-warm-200/50 p-3 w-72 space-y-1">
+            <a href={`${base}chapters/1`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">1</span>五十音後的必修課
+            </a>
+            <a href={`${base}chapters/2`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">2</span>出發 Go！下飛機到市區
+            </a>
+            <a href={`${base}chapters/3`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">3</span>住宿無壓力
+            </a>
+            <a href={`${base}chapters/4`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">4</span>逛街必備！購物對話
+            </a>
+            <a href={`${base}chapters/5`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">5</span>品味美食，點餐解密
+            </a>
+            <a href={`${base}chapters/6`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">6</span>旅遊景點文化與體驗
+            </a>
+            <a href={`${base}chapters/7`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">7</span>黑木太太帶路
+            </a>
+            <a href={`${base}chapters/8`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+              <span class="text-matcha-400 font-bold mr-2">8</span>當個禮貌旅行者
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile hamburger -->
+    <button id="mobile-menu-btn" class="md:hidden p-2 rounded-xl hover:bg-warm-100 transition-colors" aria-label="開啟選單">
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+    </button>
+  </nav>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="md:hidden hidden border-t border-warm-200/50 bg-warm-50/95 backdrop-blur-md">
+    <div class="px-4 py-4 space-y-2">
+      <a href={base} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">首頁</a>
+      <div class="px-3 py-1 text-xs font-semibold text-ink-lighter uppercase tracking-wider">課程章節</div>
+      <a href={`${base}chapters/1`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">1</span>五十音後的必修課
+      </a>
+      <a href={`${base}chapters/2`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">2</span>出發 Go！下飛機到市區
+      </a>
+      <a href={`${base}chapters/3`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">3</span>住宿無壓力
+      </a>
+      <a href={`${base}chapters/4`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">4</span>逛街必備！購物對話
+      </a>
+      <a href={`${base}chapters/5`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">5</span>品味美食，點餐解密
+      </a>
+      <a href={`${base}chapters/6`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">6</span>旅遊景點文化與體驗
+      </a>
+      <a href={`${base}chapters/7`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">7</span>黑木太太帶路
+      </a>
+      <a href={`${base}chapters/8`} class="block px-3 py-2 rounded-xl text-sm hover:bg-sakura-50 transition-colors">
+        <span class="text-matcha-400 font-bold mr-2">8</span>當個禮貌旅行者
+      </a>
+    </div>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => {
+    menu?.classList.toggle('hidden');
+  });
+</script>

@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import VocabTable from '../../../components/VocabTable.astro';
+import DialogueBox from '../../../components/DialogueBox.astro';
+import GrammarNote from '../../../components/GrammarNote.astro';
+import CultureBox from '../../../components/CultureBox.astro';
+import Flashcard from '../../../components/Flashcard.tsx';
+import Quiz from '../../../components/Quiz.tsx';
+import { chapters } from '../../../data/chapters';
+import { getAllUnits } from '../../../data/loadUnit';
+
+export function getStaticPaths() {
+  const allUnits = getAllUnits();
+  return allUnits.map(({ chapterId, unitId, data }) => {
+    const chapter = chapters.find((c) => c.id === chapterId)!;
+    const unitIndex = chapter.units.findIndex((u) => u.id === unitId);
+    return {
+      params: { chapter: String(chapterId), unit: unitId },
+      props: { chapterId, unitId, unitIndex, data, chapter },
+    };
+  });
+}
+
+const { chapterId, unitId, unitIndex, data, chapter } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+// Navigation
+const prevUnit = unitIndex > 0 ? chapter.units[unitIndex - 1] : null;
+const nextUnit = unitIndex < chapter.units.length - 1 ? chapter.units[unitIndex + 1] : null;
+---
+<BaseLayout title={`${data.title} | 第${chapterId}章 | JLearn`}>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Breadcrumb -->
+    <nav class="flex items-center gap-2 text-sm text-ink-lighter mb-8 flex-wrap">
+      <a href={base} class="hover:text-matcha-400 transition-colors">首頁</a>
+      <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+      </svg>
+      <a href={`${base}chapters/${chapterId}`} class="hover:text-matcha-400 transition-colors">第 {chapterId} 章</a>
+      <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+      </svg>
+      <span class="text-ink font-medium">單元 {unitIndex + 1}</span>
+    </nav>
+
+    <!-- Unit header -->
+    <div class="mb-10">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="text-xs font-medium text-matcha-400 bg-matcha-50 px-3 py-1 rounded-full">
+          第 {chapterId} 章 — 單元 {unitIndex + 1}
+        </span>
+        <span class="text-xs text-ink-lighter">{data.estimatedTime}</span>
+      </div>
+      <h1 class="text-2xl sm:text-3xl font-bold text-ink mb-3">{data.title}</h1>
+      <p class="text-ink-light leading-relaxed">{data.intro}</p>
+    </div>
+
+    <!-- Sections -->
+    {data.sections.map((section) => {
+      switch (section.type) {
+        case 'vocab':
+          return section.items && <VocabTable title={section.title} items={section.items} />;
+        case 'dialogue':
+          return section.lines && section.scene && (
+            <DialogueBox title={section.title} scene={section.scene} lines={section.lines} />
+          );
+        case 'grammar':
+          return section.points && <GrammarNote title={section.title} points={section.points} />;
+        case 'culture':
+          return section.content && (
+            <CultureBox title={section.title} content={section.content} tips={section.tips} />
+          );
+        case 'flashcards':
+          return section.cards && section.cards.length > 0 && (
+            <Flashcard client:visible cards={section.cards} />
+          );
+        case 'quiz':
+          return section.questions && section.questions.length > 0 && (
+            <Quiz client:visible questions={section.questions} unitId={`ch${chapterId}-${unitId}`} />
+          );
+        default:
+          return null;
+      }
+    })}
+
+    <!-- Navigation -->
+    <div class="flex items-center justify-between mt-12 pt-8 border-t border-warm-200/50">
+      {prevUnit ? (
+        <a href={`${base}chapters/${chapterId}/${prevUnit.id}`} class="flex items-center gap-2 text-sm text-ink-lighter hover:text-matcha-400 transition-colors max-w-[45%]">
+          <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+          </svg>
+          <span class="truncate">{prevUnit.title}</span>
+        </a>
+      ) : (
+        <a href={`${base}chapters/${chapterId}`} class="flex items-center gap-2 text-sm text-ink-lighter hover:text-matcha-400 transition-colors">
+          <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+          </svg>
+          回到章節目錄
+        </a>
+      )}
+      {nextUnit ? (
+        <a href={`${base}chapters/${chapterId}/${nextUnit.id}`} class="flex items-center gap-2 text-sm text-ink-lighter hover:text-matcha-400 transition-colors max-w-[45%]">
+          <span class="truncate">{nextUnit.title}</span>
+          <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+        </a>
+      ) : (
+        <a href={`${base}chapters/${chapterId}`} class="flex items-center gap-2 text-sm text-ink-lighter hover:text-matcha-400 transition-colors">
+          回到章節目錄
+          <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+        </a>
+      )}
+    </div>
+  </div>
+</BaseLayout>

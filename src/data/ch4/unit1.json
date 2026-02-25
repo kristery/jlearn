@@ -1,0 +1,457 @@
+{
+  "id": "ch4-unit1",
+  "title": "藥妝店/超市對話：找物品、問位置不害怕",
+  "intro": "日本的藥妝店和超市是觀光客必去的地方！本單元教你如何用日語詢問商品位置、尋找想要的東西，以及辦理免稅，讓你購物無障礙！",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "薬",
+          "reading": "くすり",
+          "romaji": "kusuri",
+          "chinese": "藥",
+          "example": "薬はどこにありますか？",
+          "exampleChinese": "藥在哪裡？"
+        },
+        {
+          "japanese": "化粧品",
+          "reading": "けしょうひん",
+          "romaji": "keshōhin",
+          "chinese": "化妝品",
+          "example": "化粧品売り場はどこですか？",
+          "exampleChinese": "化妝品區在哪裡？"
+        },
+        {
+          "japanese": "日焼け止め",
+          "reading": "ひやけどめ",
+          "romaji": "hiyakedome",
+          "chinese": "防曬乳",
+          "example": "日焼け止めを探しています。",
+          "exampleChinese": "我在找防曬乳。"
+        },
+        {
+          "japanese": "目薬",
+          "reading": "めぐすり",
+          "romaji": "megusuri",
+          "chinese": "眼藥水",
+          "example": "目薬はどの棚ですか？",
+          "exampleChinese": "眼藥水在哪個架子上？"
+        },
+        {
+          "japanese": "風邪薬",
+          "reading": "かぜぐすり",
+          "romaji": "kazegusuri",
+          "chinese": "感冒藥",
+          "example": "風邪薬をください。",
+          "exampleChinese": "請給我感冒藥。"
+        },
+        {
+          "japanese": "胃薬",
+          "reading": "いぐすり",
+          "romaji": "igusuri",
+          "chinese": "胃藥",
+          "example": "胃薬はありますか？",
+          "exampleChinese": "有胃藥嗎？"
+        },
+        {
+          "japanese": "棚",
+          "reading": "たな",
+          "romaji": "tana",
+          "chinese": "架子／貨架",
+          "example": "あの棚にあります。",
+          "exampleChinese": "在那個架子上。"
+        },
+        {
+          "japanese": "売り場",
+          "reading": "うりば",
+          "romaji": "uriba",
+          "chinese": "賣場／專區",
+          "example": "食品売り場は地下１階です。",
+          "exampleChinese": "食品區在地下1樓。"
+        },
+        {
+          "japanese": "レジ",
+          "reading": "レジ",
+          "romaji": "reji",
+          "chinese": "收銀台",
+          "example": "レジはあちらです。",
+          "exampleChinese": "收銀台在那邊。"
+        },
+        {
+          "japanese": "袋",
+          "reading": "ふくろ",
+          "romaji": "fukuro",
+          "chinese": "袋子",
+          "example": "袋をお願いします。",
+          "exampleChinese": "請給我袋子。"
+        },
+        {
+          "japanese": "免税",
+          "reading": "めんぜい",
+          "romaji": "menzei",
+          "chinese": "免稅",
+          "example": "免税で買えますか？",
+          "exampleChinese": "可以免稅購買嗎？"
+        },
+        {
+          "japanese": "マスク",
+          "reading": "マスク",
+          "romaji": "masuku",
+          "chinese": "口罩",
+          "example": "マスクはどこにありますか？",
+          "exampleChinese": "口罩在哪裡？"
+        },
+        {
+          "japanese": "歯ブラシ",
+          "reading": "はブラシ",
+          "romaji": "haburashi",
+          "chinese": "牙刷",
+          "example": "歯ブラシを一つください。",
+          "exampleChinese": "請給我一把牙刷。"
+        },
+        {
+          "japanese": "生理用品",
+          "reading": "せいりようひん",
+          "romaji": "seiri yōhin",
+          "chinese": "生理用品",
+          "example": "生理用品はどこですか？",
+          "exampleChinese": "生理用品在哪裡？"
+        },
+        {
+          "japanese": "シャンプー",
+          "reading": "シャンプー",
+          "romaji": "shanpū",
+          "chinese": "洗髮精",
+          "example": "おすすめのシャンプーはありますか？",
+          "exampleChinese": "有推薦的洗髮精嗎？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "在藥妝店尋找防曬乳、口罩、牙刷，詢問免稅",
+      "lines": [
+        {
+          "speaker": "あなた",
+          "japanese": "すみません、日焼け止めを探しているのですが。",
+          "chinese": "不好意思，我在找防曬乳。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "日焼け止めはこちらの棚にございます。どうぞ。",
+          "chinese": "防曬乳在這邊的架子上。請看。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "ありがとうございます。あと、目薬はどこにありますか？",
+          "chinese": "謝謝。另外，眼藥水在哪裡？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "目薬はあちらの棚の上の段にあります。",
+          "chinese": "眼藥水在那邊架子的上層。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "マスクと歯ブラシも買いたいのですが、どこにありますか？",
+          "chinese": "我也想買口罩和牙刷，在哪裡呢？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "マスクはこちらの棚、歯ブラシはあちらの棚にございます。",
+          "chinese": "口罩在這邊的架子，牙刷在那邊的架子上。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "ありがとうございます。おすすめのシャンプーはありますか？",
+          "chinese": "謝謝。有推薦的洗髮精嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "こちらが人気のシャンプーです。今セール中ですよ。",
+          "chinese": "這款洗髮精很受歡迎。現在正在特價喔。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "いいですね。これとこれとこれをください。免税できますか？",
+          "chinese": "不錯耶。我要這個、這個和這個。可以免稅嗎？"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "はい、免税できます。パスポートをお持ちですか？",
+          "chinese": "可以免稅。您有帶護照嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、どうぞ。",
+          "chinese": "有的，請看。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "ありがとうございます。免税の手続きをしますので、少々お待ちください。",
+          "chinese": "謝謝。免稅手續辦理中，請稍等。"
+        },
+        {
+          "speaker": "店員",
+          "japanese": "お会計は３，５００円です。袋はご利用になりますか？",
+          "chinese": "總共 3,500 日圓。需要袋子嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、袋をお願いします。",
+          "chinese": "要，請給我袋子。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～はどこにありますか？",
+          "meaning": "～在哪裡？",
+          "structure": "名詞 ＋ は ＋ どこにありますか？",
+          "examples": [
+            {
+              "japanese": "薬はどこにありますか？",
+              "chinese": "藥在哪裡？"
+            },
+            {
+              "japanese": "トイレはどこにありますか？",
+              "chinese": "廁所在哪裡？"
+            },
+            {
+              "japanese": "マスクはどこにありますか？",
+              "chinese": "口罩在哪裡？"
+            }
+          ],
+          "note": "這是詢問物品或場所位置最基本的句型。「どこ」是「哪裡」，「にあります」是「在」。購物時非常實用！"
+        },
+        {
+          "pattern": "～を探しています",
+          "meaning": "我在找～",
+          "structure": "名詞 ＋ を ＋ 探しています",
+          "examples": [
+            {
+              "japanese": "日焼け止めを探しています。",
+              "chinese": "我在找防曬乳。"
+            },
+            {
+              "japanese": "この商品を探しています。",
+              "chinese": "我在找這個商品。"
+            },
+            {
+              "japanese": "生理用品を探しています。",
+              "chinese": "我在找生理用品。"
+            }
+          ],
+          "note": "「探しています」比「どこですか」更自然地表達「我在找某樣東西」。店員聽到這句會主動帶你去找。"
+        },
+        {
+          "pattern": "免税できますか？",
+          "meaning": "可以免稅嗎？",
+          "structure": "免税 ＋ できますか？",
+          "examples": [
+            {
+              "japanese": "免税できますか？",
+              "chinese": "可以免稅嗎？"
+            },
+            {
+              "japanese": "この商品は免税対象ですか？",
+              "chinese": "這個商品是免稅對象嗎？"
+            },
+            {
+              "japanese": "免税の手続きをお願いします。",
+              "chinese": "麻煩幫我辦理免稅手續。"
+            }
+          ],
+          "note": "在日本，外國觀光客購物金額達到一定標準（通常同一店鋪消費滿5,000日圓以上）可以辦理免稅。記得帶護照！"
+        },
+        {
+          "pattern": "おすすめは～ですか？",
+          "meaning": "推薦的是～嗎？／有推薦的嗎？",
+          "structure": "おすすめ ＋ の ＋ 名詞 ＋ はありますか？",
+          "examples": [
+            {
+              "japanese": "おすすめのシャンプーはありますか？",
+              "chinese": "有推薦的洗髮精嗎？"
+            },
+            {
+              "japanese": "おすすめの目薬はどれですか？",
+              "chinese": "推薦的眼藥水是哪一款？"
+            },
+            {
+              "japanese": "おすすめはありますか？",
+              "chinese": "有推薦的嗎？"
+            }
+          ],
+          "note": "「おすすめ」是「推薦」的意思。在藥妝店不知道買什麼好的時候，問店員「おすすめはありますか？」就對了！"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "日焼け止め",
+          "reading": "ひやけどめ",
+          "romaji": "hiyakedome",
+          "chinese": "防曬乳"
+        },
+        {
+          "japanese": "目薬",
+          "reading": "めぐすり",
+          "romaji": "megusuri",
+          "chinese": "眼藥水"
+        },
+        {
+          "japanese": "風邪薬",
+          "reading": "かぜぐすり",
+          "romaji": "kazegusuri",
+          "chinese": "感冒藥"
+        },
+        {
+          "japanese": "売り場",
+          "reading": "うりば",
+          "romaji": "uriba",
+          "chinese": "賣場／專區"
+        },
+        {
+          "japanese": "免税",
+          "reading": "めんぜい",
+          "romaji": "menzei",
+          "chinese": "免稅"
+        },
+        {
+          "japanese": "レジ",
+          "reading": "レジ",
+          "romaji": "reji",
+          "chinese": "收銀台"
+        },
+        {
+          "japanese": "マスク",
+          "reading": "マスク",
+          "romaji": "masuku",
+          "chinese": "口罩"
+        },
+        {
+          "japanese": "歯ブラシ",
+          "reading": "はブラシ",
+          "romaji": "haburashi",
+          "chinese": "牙刷"
+        },
+        {
+          "japanese": "シャンプー",
+          "reading": "シャンプー",
+          "romaji": "shanpū",
+          "chinese": "洗髮精"
+        },
+        {
+          "japanese": "化粧品",
+          "reading": "けしょうひん",
+          "romaji": "keshōhin",
+          "chinese": "化妝品"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "你在藥妝店找不到防曬乳，要怎麼問店員？",
+          "options": [
+            "日焼け止めをください。",
+            "日焼け止めを探しています。",
+            "日焼け止めが壊れています。",
+            "日焼け止めを忘れました。"
+          ],
+          "correct": 1,
+          "explanation": "「日焼け止めを探しています」是「我在找防曬乳」的意思。用「探しています」可以讓店員知道你在找東西並幫你帶路。"
+        },
+        {
+          "question": "「目薬はどこにありますか？」是什麼意思？",
+          "options": [
+            "眼藥水多少錢？",
+            "有眼藥水嗎？",
+            "眼藥水在哪裡？",
+            "請給我眼藥水。"
+          ],
+          "correct": 2,
+          "explanation": "「どこにありますか」是「在哪裡」的意思。整句是在問眼藥水放在哪裡。"
+        },
+        {
+          "question": "在日本藥妝店辦理免稅時，需要出示什麼？",
+          "options": [
+            "信用卡",
+            "護照",
+            "飯店房卡",
+            "機票"
+          ],
+          "correct": 1,
+          "explanation": "在日本辦理免稅需要出示護照（パスポート），店員會在護照上貼免稅單據。"
+        },
+        {
+          "question": "店員問你「袋はご利用になりますか？」，是在問什麼？",
+          "options": [
+            "要不要收據？",
+            "要不要袋子？",
+            "要不要免稅？",
+            "要不要包裝？"
+          ],
+          "correct": 1,
+          "explanation": "「袋」是袋子，「ご利用になりますか」是「要使用嗎」的敬語。整句是在問你要不要袋子。在日本，塑膠袋通常要另外收費。"
+        },
+        {
+          "question": "「風邪薬」是什麼？",
+          "options": [
+            "胃藥",
+            "止痛藥",
+            "感冒藥",
+            "眼藥水"
+          ],
+          "correct": 2,
+          "explanation": "「風邪（かぜ）」是感冒，「薬（くすり）」是藥。「風邪薬」就是感冒藥。"
+        },
+        {
+          "question": "「マスク」是什麼？",
+          "options": [
+            "面膜",
+            "口罩",
+            "面具",
+            "眼罩"
+          ],
+          "correct": 1,
+          "explanation": "「マスク」在日文中主要指的是口罩。在日本藥妝店可以買到各種款式的口罩。"
+        },
+        {
+          "question": "你想問店員有沒有推薦的洗髮精，應該怎麼說？",
+          "options": [
+            "シャンプーをください。",
+            "シャンプーはどこですか？",
+            "おすすめのシャンプーはありますか？",
+            "シャンプーは高いですか？"
+          ],
+          "correct": 2,
+          "explanation": "「おすすめ」是「推薦」的意思。「おすすめのシャンプーはありますか？」就是「有推薦的洗髮精嗎？」。"
+        },
+        {
+          "question": "「歯ブラシ」是什麼？",
+          "options": [
+            "牙膏",
+            "牙刷",
+            "牙線",
+            "漱口水"
+          ],
+          "correct": 1,
+          "explanation": "「歯（は）」是牙齒，「ブラシ」是刷子。「歯ブラシ」就是牙刷。"
+        }
+      ]
+    }
+  ]
+}

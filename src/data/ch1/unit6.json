@@ -1,0 +1,354 @@
+{
+  "id": "ch1-unit6",
+  "title": "從「頑張ります」開始的生活常用對話",
+  "intro": "日語中有很多固定用語，無法直接翻譯成中文，但在日常生活中出現的頻率超高！像是吃飯前後要說的話、出門和回家的招呼語，學會這些讓你更融入日本文化。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "頑張ります",
+          "reading": "がんばります",
+          "romaji": "ganbarimasu",
+          "chinese": "我會加油；我會努力",
+          "example": "明日のテスト、頑張ります！",
+          "exampleChinese": "明天的考試，我會加油的！"
+        },
+        {
+          "japanese": "お疲れ様",
+          "reading": "おつかれさま",
+          "romaji": "otsukaresama",
+          "chinese": "辛苦了",
+          "example": "お疲れ様でした。",
+          "exampleChinese": "辛苦了。（工作結束時的招呼語）"
+        },
+        {
+          "japanese": "いただきます",
+          "reading": "いただきます",
+          "romaji": "itadakimasu",
+          "chinese": "我開動了",
+          "example": "いただきます！",
+          "exampleChinese": "我開動了！"
+        },
+        {
+          "japanese": "ごちそうさま",
+          "reading": "ごちそうさま",
+          "romaji": "gochisousama",
+          "chinese": "謝謝招待；我吃飽了",
+          "example": "ごちそうさまでした。",
+          "exampleChinese": "謝謝招待。（吃完飯時說）"
+        },
+        {
+          "japanese": "ただいま",
+          "reading": "ただいま",
+          "romaji": "tadaima",
+          "chinese": "我回來了",
+          "example": "ただいま！",
+          "exampleChinese": "我回來了！"
+        },
+        {
+          "japanese": "おかえり",
+          "reading": "おかえり",
+          "romaji": "okaeri",
+          "chinese": "你回來啦",
+          "example": "おかえりなさい！",
+          "exampleChinese": "你回來啦！"
+        },
+        {
+          "japanese": "おはよう",
+          "reading": "おはよう",
+          "romaji": "ohayou",
+          "chinese": "早安",
+          "example": "おはようございます。",
+          "exampleChinese": "早安。（禮貌說法）"
+        },
+        {
+          "japanese": "お休み",
+          "reading": "おやすみ",
+          "romaji": "oyasumi",
+          "chinese": "晚安",
+          "example": "お休みなさい。",
+          "exampleChinese": "晚安。（禮貌說法）"
+        },
+        {
+          "japanese": "行ってきます",
+          "reading": "いってきます",
+          "romaji": "ittekimasu",
+          "chinese": "我出門了",
+          "example": "行ってきます！",
+          "exampleChinese": "我出門了！"
+        },
+        {
+          "japanese": "行ってらっしゃい",
+          "reading": "いってらっしゃい",
+          "romaji": "itterasshai",
+          "chinese": "路上小心；慢走",
+          "example": "行ってらっしゃい！",
+          "exampleChinese": "路上小心！慢走！"
+        },
+        {
+          "japanese": "お先に",
+          "reading": "おさきに",
+          "romaji": "osakini",
+          "chinese": "我先走了；先失陪了",
+          "example": "お先に失礼します。",
+          "exampleChinese": "我先走了，不好意思。"
+        },
+        {
+          "japanese": "お邪魔します",
+          "reading": "おじゃまします",
+          "romaji": "ojamashimasu",
+          "chinese": "打擾了（進入別人家時說）",
+          "example": "お邪魔します！",
+          "exampleChinese": "打擾了！（進入別人家時）"
+        },
+        {
+          "japanese": "気をつけて",
+          "reading": "きをつけて",
+          "romaji": "ki wo tsukete",
+          "chinese": "小心；注意安全",
+          "example": "気をつけてね。",
+          "exampleChinese": "路上小心喔。"
+        },
+        {
+          "japanese": "お元気ですか",
+          "reading": "おげんきですか",
+          "romaji": "ogenki desu ka",
+          "chinese": "你好嗎？",
+          "example": "お元気ですか？",
+          "exampleChinese": "你好嗎？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "住在日本寄宿家庭（ホームステイ）的一天，從早到晚的招呼語。",
+      "lines": [
+        { "speaker": "你", "japanese": "おはようございます。", "chinese": "早安。" },
+        { "speaker": "房東太太", "japanese": "おはよう！朝ごはん、どうぞ。", "chinese": "早安！早餐請用。" },
+        { "speaker": "你", "japanese": "いただきます！", "chinese": "我開動了！" },
+        { "speaker": "你", "japanese": "ごちそうさまでした。おいしかったです。", "chinese": "謝謝招待。很好吃。" },
+        { "speaker": "房東太太", "japanese": "今日はどこに行くの？", "chinese": "今天要去哪裡呀？" },
+        { "speaker": "你", "japanese": "浅草に行きます。行ってきます！", "chinese": "我要去淺草。我出門了！" },
+        { "speaker": "房東太太", "japanese": "行ってらっしゃい！気をつけてね。", "chinese": "慢走！路上小心喔。" },
+        { "speaker": "你", "japanese": "ただいま！", "chinese": "我回來了！" },
+        { "speaker": "房東太太", "japanese": "おかえりなさい！お疲れ様。楽しかった？", "chinese": "你回來啦！辛苦了。好玩嗎？" },
+        { "speaker": "你", "japanese": "はい、とても楽しかったです。お休みなさい。", "chinese": "嗯，非常好玩。晚安。" },
+        { "speaker": "房東太太", "japanese": "お休みなさい。", "chinese": "晚安。" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "拜訪日本朋友的家，以及在工作場所下班時的招呼。",
+      "lines": [
+        { "speaker": "你", "japanese": "こんにちは。お邪魔します。", "chinese": "你好。打擾了。" },
+        { "speaker": "朋友", "japanese": "いらっしゃい！どうぞ入って。", "chinese": "歡迎！請進。" },
+        { "speaker": "你", "japanese": "素敵なお家ですね。", "chinese": "好漂亮的家呢。" },
+        { "speaker": "朋友", "japanese": "ありがとう。お茶をどうぞ。", "chinese": "謝謝。請喝茶。" },
+        { "speaker": "你", "japanese": "いただきます。", "chinese": "我開動了。" },
+        { "speaker": "你", "japanese": "そろそろ帰ります。お邪魔しました。", "chinese": "我差不多該走了。打擾了。" },
+        { "speaker": "朋友", "japanese": "また来てね。気をつけて帰ってね。", "chinese": "下次再來喔。回去路上小心喔。" },
+        { "speaker": "（場景轉換：辦公室）", "japanese": "", "chinese": "" },
+        { "speaker": "你", "japanese": "お先に失礼します。", "chinese": "我先走了，不好意思。" },
+        { "speaker": "同事", "japanese": "お疲れ様でした！", "chinese": "辛苦了！" },
+        { "speaker": "你", "japanese": "お疲れ様でした。また明日。", "chinese": "辛苦了。明天見。" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "固定招呼語的配對",
+          "meaning": "日語生活用語常常是成對出現的",
+          "structure": "A 說 → B 回應",
+          "examples": [
+            { "japanese": "行ってきます → 行ってらっしゃい", "chinese": "我出門了 → 慢走 / 路上小心" },
+            { "japanese": "ただいま → おかえり（なさい）", "chinese": "我回來了 → 你回來啦" },
+            { "japanese": "いただきます → （吃飯前自己說）", "chinese": "我開動了（表示感謝食物）" },
+            { "japanese": "ごちそうさま（でした） → （吃完飯後自己說）", "chinese": "謝謝招待（感謝準備食物的人）" }
+          ],
+          "note": "這些是日本人從小就養成的習慣用語，不是翻譯出來的，而是在特定情境下「必須說」的話。在日本旅行時如果你說出這些話，日本人會非常開心！"
+        },
+        {
+          "pattern": "禮貌程度的變化",
+          "meaning": "同一個詞有不同禮貌程度",
+          "structure": "普通形 → 禮貌形",
+          "examples": [
+            { "japanese": "おはよう → おはようございます", "chinese": "早安（親友間）→ 早安（禮貌正式）" },
+            { "japanese": "お休み → お休みなさい", "chinese": "晚安（親友間）→ 晚安（禮貌正式）" },
+            { "japanese": "おかえり → おかえりなさい", "chinese": "你回來啦（親友間）→ 你回來啦（禮貌正式）" },
+            { "japanese": "ごちそうさま → ごちそうさまでした", "chinese": "謝謝招待（隨意）→ 謝謝招待（禮貌正式）" }
+          ],
+          "note": "對熟人或家人可以用簡短的形式，但對長輩、上司或陌生人，建議使用完整的禮貌形式。旅行時建議都使用禮貌形！"
+        },
+        {
+          "pattern": "お先に失礼します",
+          "meaning": "我先走了（先離開的人說的禮貌用語）",
+          "structure": "お先に + 失礼します",
+          "examples": [
+            { "japanese": "お先に失礼します。", "chinese": "我先走了，不好意思。" },
+            { "japanese": "お先にどうぞ。", "chinese": "您先請。" },
+            { "japanese": "では、お先に。", "chinese": "那我先走了。" }
+          ],
+          "note": "「お先に」是「先」的禮貌說法，「失礼します」是「不好意思、告辭了」。在辦公室、聚會場合中，比別人先離開時必說的一句話。對方會回應「お疲れ様でした」。"
+        },
+        {
+          "pattern": "お邪魔します / お邪魔しました",
+          "meaning": "打擾了（進入和離開別人家時說的話）",
+          "structure": "お邪魔します（進入時） / お邪魔しました（離開時）",
+          "examples": [
+            { "japanese": "お邪魔します。", "chinese": "打擾了。（進入別人家時）" },
+            { "japanese": "お邪魔しました。", "chinese": "打擾了。（離開別人家時）" },
+            { "japanese": "ちょっとお邪魔してもいいですか？", "chinese": "可以打擾一下嗎？" }
+          ],
+          "note": "「邪魔（じゃま）」是「妨礙、打擾」的意思。進入別人家或辦公室時說「お邪魔します」（現在式），離開時說「お邪魔しました」（過去式），表達對佔用別人空間的歉意。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "いただきます",
+          "reading": "いただきます",
+          "romaji": "itadakimasu",
+          "chinese": "我開動了",
+          "example": "いただきます！",
+          "exampleChinese": "我開動了！"
+        },
+        {
+          "japanese": "ごちそうさま",
+          "reading": "ごちそうさま",
+          "romaji": "gochisousama",
+          "chinese": "謝謝招待；我吃飽了",
+          "example": "ごちそうさまでした。",
+          "exampleChinese": "謝謝招待。"
+        },
+        {
+          "japanese": "行ってきます",
+          "reading": "いってきます",
+          "romaji": "ittekimasu",
+          "chinese": "我出門了",
+          "example": "行ってきます！",
+          "exampleChinese": "我出門了！"
+        },
+        {
+          "japanese": "ただいま",
+          "reading": "ただいま",
+          "romaji": "tadaima",
+          "chinese": "我回來了",
+          "example": "ただいま！",
+          "exampleChinese": "我回來了！"
+        },
+        {
+          "japanese": "お先に",
+          "reading": "おさきに",
+          "romaji": "osakini",
+          "chinese": "我先走了",
+          "example": "お先に失礼します。",
+          "exampleChinese": "我先走了，不好意思。"
+        },
+        {
+          "japanese": "お邪魔します",
+          "reading": "おじゃまします",
+          "romaji": "ojamashimasu",
+          "chinese": "打擾了",
+          "example": "お邪魔します！",
+          "exampleChinese": "打擾了！"
+        },
+        {
+          "japanese": "気をつけて",
+          "reading": "きをつけて",
+          "romaji": "ki wo tsukete",
+          "chinese": "小心；注意安全",
+          "example": "気をつけてね。",
+          "exampleChinese": "路上小心喔。"
+        },
+        {
+          "japanese": "お疲れ様",
+          "reading": "おつかれさま",
+          "romaji": "otsukaresama",
+          "chinese": "辛苦了",
+          "example": "お疲れ様でした。",
+          "exampleChinese": "辛苦了。"
+        },
+        {
+          "japanese": "頑張ります",
+          "reading": "がんばります",
+          "romaji": "ganbarimasu",
+          "chinese": "我會加油",
+          "example": "頑張ります！",
+          "exampleChinese": "我會加油的！"
+        },
+        {
+          "japanese": "お元気ですか",
+          "reading": "おげんきですか",
+          "romaji": "ogenki desu ka",
+          "chinese": "你好嗎？",
+          "example": "お元気ですか？",
+          "exampleChinese": "你好嗎？"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "吃飯前日本人會說什麼？",
+          "options": ["ごちそうさま", "いただきます", "お疲れ様", "おはよう"],
+          "correct": 1,
+          "explanation": "「いただきます」是吃飯前說的話，表示對食物和準備食物的人的感謝。「ごちそうさま」則是吃完後說的。"
+        },
+        {
+          "question": "有人對你說「行ってらっしゃい」，代表什麼？",
+          "options": ["歡迎回來", "慢走 / 路上小心", "辛苦了", "晚安"],
+          "correct": 1,
+          "explanation": "「行ってらっしゃい」是對即將出門的人說的，意思是「慢走、路上小心」，是「行ってきます」（我出門了）的回應語。"
+        },
+        {
+          "question": "回到家時應該說什麼？",
+          "options": ["行ってきます", "おかえり", "ただいま", "おはよう"],
+          "correct": 2,
+          "explanation": "「ただいま」是回到家時說的，意思是「我回來了」。家人則回應「おかえり（なさい）」。"
+        },
+        {
+          "question": "「おはようございます」是什麼時候說的？",
+          "options": ["晚上見面時", "早上見面時", "吃飯前", "離開時"],
+          "correct": 1,
+          "explanation": "「おはようございます」是早上的問候語，意思是「早安」。「ございます」是禮貌的表達。"
+        },
+        {
+          "question": "下班時同事會說什麼？",
+          "options": ["いただきます", "お休みなさい", "お疲れ様でした", "行ってきます"],
+          "correct": 2,
+          "explanation": "「お疲れ様でした」是工作結束時的問候語，意思是「辛苦了」。不論是誰先離開，都可以說這句話。"
+        },
+        {
+          "question": "去日本朋友家做客，進門時應該說什麼？",
+          "options": ["ただいま", "お邪魔します", "いただきます", "お先に失礼します"],
+          "correct": 1,
+          "explanation": "「お邪魔します」是進入別人家時說的話，表示「打擾了」。離開時則說「お邪魔しました」。"
+        },
+        {
+          "question": "「お先に失礼します」是什麼意思？",
+          "options": ["我先走了，不好意思。", "辛苦了。", "打擾了。", "我回來了。"],
+          "correct": 0,
+          "explanation": "「お先に失礼します」是比別人先離開時說的禮貌用語，意思是「我先走了，不好意思」。對方通常會回應「お疲れ様でした」。"
+        },
+        {
+          "question": "朋友要出遠門，你想叮嚀他注意安全，應該說？",
+          "options": ["頑張って！", "お疲れ様！", "気をつけてね。", "いただきます。"],
+          "correct": 2,
+          "explanation": "「気をつけて（ね）」是「小心、注意安全」的意思。當朋友出門旅行或出遠門時，用這句話叮嚀對方很貼心。"
+        }
+      ]
+    }
+  ]
+}

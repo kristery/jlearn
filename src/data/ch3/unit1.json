@@ -1,0 +1,446 @@
+{
+  "id": "ch3-unit1",
+  "title": "入住＆退房，用「お願いします」輕鬆請求服務",
+  "intro": "住飯店是旅行中最重要的環節之一。本單元教你從入住到退房的所有必備日語，讓你輕鬆完成 check-in、請求服務，以及順利退房！",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "予約",
+          "reading": "よやく",
+          "romaji": "yoyaku",
+          "chinese": "預約",
+          "example": "予約をしています。",
+          "exampleChinese": "我有預約。"
+        },
+        {
+          "japanese": "チェックイン",
+          "reading": "チェックイン",
+          "romaji": "chekkuin",
+          "chinese": "入住（登記）",
+          "example": "チェックインをお願いします。",
+          "exampleChinese": "我要辦理入住。"
+        },
+        {
+          "japanese": "チェックアウト",
+          "reading": "チェックアウト",
+          "romaji": "chekkuauto",
+          "chinese": "退房",
+          "example": "チェックアウトは何時ですか？",
+          "exampleChinese": "退房時間是幾點？"
+        },
+        {
+          "japanese": "部屋",
+          "reading": "へや",
+          "romaji": "heya",
+          "chinese": "房間",
+          "example": "部屋の番号は何番ですか？",
+          "exampleChinese": "房間號碼是幾號？"
+        },
+        {
+          "japanese": "鍵",
+          "reading": "かぎ",
+          "romaji": "kagi",
+          "chinese": "鑰匙",
+          "example": "鍵をください。",
+          "exampleChinese": "請給我鑰匙。"
+        },
+        {
+          "japanese": "フロント",
+          "reading": "フロント",
+          "romaji": "furonto",
+          "chinese": "前台／櫃台",
+          "example": "フロントに電話してください。",
+          "exampleChinese": "請打電話到前台。"
+        },
+        {
+          "japanese": "朝食",
+          "reading": "ちょうしょく",
+          "romaji": "chōshoku",
+          "chinese": "早餐",
+          "example": "朝食は何時からですか？",
+          "exampleChinese": "早餐幾點開始？"
+        },
+        {
+          "japanese": "Wi-Fi",
+          "reading": "ワイファイ",
+          "romaji": "waifai",
+          "chinese": "無線網路",
+          "example": "Wi-Fiのパスワードを教えてください。",
+          "exampleChinese": "請告訴我 Wi-Fi 密碼。"
+        },
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupōto",
+          "chinese": "護照",
+          "example": "パスポートを見せてください。",
+          "exampleChinese": "請出示護照。"
+        },
+        {
+          "japanese": "荷物",
+          "reading": "にもつ",
+          "romaji": "nimotsu",
+          "chinese": "行李",
+          "example": "荷物を預かってもらえますか？",
+          "exampleChinese": "可以幫我保管行李嗎？"
+        },
+        {
+          "japanese": "泊",
+          "reading": "はく",
+          "romaji": "haku",
+          "chinese": "住宿（量詞）",
+          "example": "二泊三日です。",
+          "exampleChinese": "住兩晚三天。"
+        },
+        {
+          "japanese": "禁煙",
+          "reading": "きんえん",
+          "romaji": "kin'en",
+          "chinese": "禁菸",
+          "example": "禁煙の部屋をお願いします。",
+          "exampleChinese": "請給我禁菸房。"
+        },
+        {
+          "japanese": "領収書",
+          "reading": "りょうしゅうしょ",
+          "romaji": "ryōshūsho",
+          "chinese": "收據",
+          "example": "領収書をお願いします。",
+          "exampleChinese": "請給我收據。"
+        },
+        {
+          "japanese": "エレベーター",
+          "reading": "エレベーター",
+          "romaji": "erebētā",
+          "chinese": "電梯",
+          "example": "エレベーターはどこですか？",
+          "exampleChinese": "電梯在哪裡？"
+        },
+        {
+          "japanese": "延長",
+          "reading": "えんちょう",
+          "romaji": "enchō",
+          "chinese": "延長",
+          "example": "もう一泊延長できますか？",
+          "exampleChinese": "可以延長一晚嗎？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "在飯店櫃台辦理入住，請求服務，以及退房",
+      "lines": [
+        {
+          "speaker": "スタッフ",
+          "japanese": "いらっしゃいませ。ご予約のお名前をお願いします。",
+          "chinese": "歡迎光臨。請問預約的姓名是？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "チェックインをお願いします。予約した田中です。",
+          "chinese": "我要辦理入住。我是預約的田中。"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "田中様ですね。二泊のご予約ですね。パスポートを見せていただけますか？",
+          "chinese": "田中先生/小姐對吧。預約住兩晚是嗎？可以出示護照嗎？"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "はい、どうぞ。禁煙の部屋をお願いしたのですが。",
+          "chinese": "好的，請看。我預約的是禁菸房。"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "はい、禁煙ルームでございます。お部屋は５０３号室です。こちらが鍵です。",
+          "chinese": "是的，是禁菸房。房間是 503 號室。這是鑰匙。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "ありがとうございます。朝食は何時からですか？",
+          "chinese": "謝謝。早餐幾點開始？"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "朝食は７時から９時半までです。１階のレストランでございます。",
+          "chinese": "早餐從 7 點到 9 點半。在 1 樓的餐廳。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "Wi-Fiのパスワードを教えていただけますか？",
+          "chinese": "可以告訴我 Wi-Fi 密碼嗎？"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "はい、パスワードはお部屋のカードに書いてあります。",
+          "chinese": "好的，密碼寫在房間的卡片上。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "わかりました。あと、チェックアウトは何時ですか？",
+          "chinese": "我知道了。另外，退房時間是幾點？"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "チェックアウトは１１時でございます。",
+          "chinese": "退房時間是 11 點。"
+        },
+        {
+          "speaker": "あなた",
+          "japanese": "エレベーターはどこですか？",
+          "chinese": "電梯在哪裡？"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "エレベーターはあちらの角にございます。",
+          "chinese": "電梯在那邊的轉角處。"
+        },
+        {
+          "speaker": "（退房時）あなた",
+          "japanese": "チェックアウトをお願いします。領収書もお願いします。荷物を預かってもらえますか？",
+          "chinese": "我要退房。也請給我收據。可以幫我寄放行李嗎？"
+        },
+        {
+          "speaker": "スタッフ",
+          "japanese": "はい、かしこまりました。こちらに荷物をお預けください。",
+          "chinese": "好的，沒問題。請把行李放這裡。"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～をお願いします",
+          "meaning": "麻煩請給我～／請幫我～",
+          "structure": "名詞 ＋ をお願いします",
+          "examples": [
+            {
+              "japanese": "チェックインをお願いします。",
+              "chinese": "麻煩幫我辦理入住。"
+            },
+            {
+              "japanese": "禁煙の部屋をお願いします。",
+              "chinese": "麻煩給我禁菸房。"
+            },
+            {
+              "japanese": "領収書をお願いします。",
+              "chinese": "麻煩給我收據。"
+            },
+            {
+              "japanese": "タクシーをお願いします。",
+              "chinese": "麻煩幫我叫計程車。"
+            }
+          ],
+          "note": "「お願いします」是日本旅遊中最萬用的句型！不論是點餐、請求服務、買東西，都可以用這句。語氣禮貌又自然。"
+        },
+        {
+          "pattern": "～泊です",
+          "meaning": "住～晚",
+          "structure": "數字 ＋ 泊（はく/ぱく）＋ です",
+          "examples": [
+            {
+              "japanese": "一泊です。",
+              "chinese": "住一晚。"
+            },
+            {
+              "japanese": "三泊四日の予約です。",
+              "chinese": "預約三晚四天。"
+            },
+            {
+              "japanese": "五泊で予約したいのですが。",
+              "chinese": "我想預約住五晚。"
+            }
+          ],
+          "note": "數字搭配「泊」的讀法：一泊（いっぱく）、二泊（にはく）、三泊（さんぱく）。注意促音和半濁音的變化！"
+        },
+        {
+          "pattern": "～をしたいのですが",
+          "meaning": "我想要做～（委婉請求）",
+          "structure": "動詞ます形去掉ます ＋ たいのですが",
+          "examples": [
+            {
+              "japanese": "チェックインをしたいのですが。",
+              "chinese": "我想辦理入住……"
+            },
+            {
+              "japanese": "部屋を変えたいのですが。",
+              "chinese": "我想換房間……"
+            },
+            {
+              "japanese": "チェックアウトの時間を延長したいのですが。",
+              "chinese": "我想延長退房時間……"
+            }
+          ],
+          "note": "句尾的「のですが」帶有委婉語氣，比直接說「～したいです」更有禮貌，適合在飯店等正式場合使用。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "予約",
+          "reading": "よやく",
+          "romaji": "yoyaku",
+          "chinese": "預約"
+        },
+        {
+          "japanese": "チェックイン",
+          "reading": "チェックイン",
+          "romaji": "chekkuin",
+          "chinese": "入住（登記）"
+        },
+        {
+          "japanese": "部屋",
+          "reading": "へや",
+          "romaji": "heya",
+          "chinese": "房間"
+        },
+        {
+          "japanese": "鍵",
+          "reading": "かぎ",
+          "romaji": "kagi",
+          "chinese": "鑰匙"
+        },
+        {
+          "japanese": "朝食",
+          "reading": "ちょうしょく",
+          "romaji": "chōshoku",
+          "chinese": "早餐"
+        },
+        {
+          "japanese": "荷物",
+          "reading": "にもつ",
+          "romaji": "nimotsu",
+          "chinese": "行李"
+        },
+        {
+          "japanese": "禁煙",
+          "reading": "きんえん",
+          "romaji": "kin'en",
+          "chinese": "禁菸"
+        },
+        {
+          "japanese": "パスポート",
+          "reading": "パスポート",
+          "romaji": "pasupōto",
+          "chinese": "護照"
+        },
+        {
+          "japanese": "領収書",
+          "reading": "りょうしゅうしょ",
+          "romaji": "ryōshūsho",
+          "chinese": "收據"
+        },
+        {
+          "japanese": "延長",
+          "reading": "えんちょう",
+          "romaji": "enchō",
+          "chinese": "延長"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "你想辦理入住，應該怎麼說？",
+          "options": [
+            "チェックインをお願いします。",
+            "チェックアウトをお願いします。",
+            "予約をお願いします。",
+            "鍵をお願いします。"
+          ],
+          "correct": 0,
+          "explanation": "「チェックインをお願いします」就是「麻煩幫我辦理入住」的意思。"
+        },
+        {
+          "question": "「二泊三日」是什麼意思？",
+          "options": [
+            "住三晚兩天",
+            "住兩晚三天",
+            "住兩天三晚",
+            "住三天兩晚"
+          ],
+          "correct": 1,
+          "explanation": "「泊」是住宿的量詞，「日」是天數。二泊三日 = 住兩晚三天。"
+        },
+        {
+          "question": "「朝食は何時からですか？」是在問什麼？",
+          "options": [
+            "早餐多少錢？",
+            "早餐在哪裡？",
+            "早餐幾點開始？",
+            "早餐有什麼？"
+          ],
+          "correct": 2,
+          "explanation": "「何時から」是「從幾點開始」的意思，所以整句是在問早餐幾點開始。"
+        },
+        {
+          "question": "你想請飯店幫忙保管行李，應該怎麼說？",
+          "options": [
+            "荷物を持ってください。",
+            "荷物を預かってもらえますか？",
+            "荷物をください。",
+            "荷物はどこですか？"
+          ],
+          "correct": 1,
+          "explanation": "「荷物を預かってもらえますか？」是「可以幫我保管行李嗎？」的意思。「預かる」是保管、寄放的意思。"
+        },
+        {
+          "question": "「禁煙の部屋をお願いします」是什麼意思？",
+          "options": [
+            "請給我吸菸房。",
+            "請給我禁菸房。",
+            "這裡禁止吸菸。",
+            "房間裡可以吸菸嗎？"
+          ],
+          "correct": 1,
+          "explanation": "「禁煙」是禁菸，「部屋」是房間，「お願いします」是拜託、請給我。整句就是「請給我禁菸房」。"
+        },
+        {
+          "question": "「領収書をお願いします」是在請求什麼？",
+          "options": [
+            "請給我房間鑰匙。",
+            "請給我收據。",
+            "請給我早餐。",
+            "請給我行李。"
+          ],
+          "correct": 1,
+          "explanation": "「領収書（りょうしゅうしょ）」是收據的意思。退房或結帳時如果需要收據，就可以用這句。"
+        },
+        {
+          "question": "你想委婉地表達「我想換房間」，最有禮貌的說法是？",
+          "options": [
+            "部屋を変えてください。",
+            "部屋を変えたいのですが。",
+            "部屋を変えます。",
+            "部屋を変えろ。"
+          ],
+          "correct": 1,
+          "explanation": "「～たいのですが」是委婉請求的句型，比「～てください」更有禮貌，適合在飯店等正式場合使用。"
+        },
+        {
+          "question": "「エレベーターはどこですか？」是在問什麼？",
+          "options": [
+            "電梯在哪裡？",
+            "電梯壞了嗎？",
+            "可以搭電梯嗎？",
+            "電梯幾點開？"
+          ],
+          "correct": 0,
+          "explanation": "「エレベーター」是電梯，「どこですか」是「在哪裡」。整句就是在問電梯的位置。"
+        }
+      ]
+    }
+  ]
+}

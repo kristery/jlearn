@@ -1,0 +1,41 @@
+---
+interface VocabItem {
+  japanese: string;
+  reading: string;
+  romaji: string;
+  chinese: string;
+  example?: string;
+  exampleChinese?: string;
+}
+
+interface Props {
+  title?: string;
+  items: VocabItem[];
+}
+
+const { title = '重點單字', items } = Astro.props;
+---
+<section class="my-10">
+  <h2 class="flex items-center gap-2 text-xl font-bold text-ink mb-5">
+    <span class="w-8 h-8 rounded-lg bg-matcha-100 flex items-center justify-center text-sm">📖</span>
+    {title}
+  </h2>
+  <div class="space-y-3">
+    {items.map((item) => (
+      <div class="bg-white rounded-xl border border-warm-200/50 p-4 hover:border-matcha-200 transition-colors">
+        <div class="flex items-baseline gap-3 flex-wrap">
+          <span class="jp-text text-2xl font-medium text-ink">{item.japanese}</span>
+          <span class="jp-text text-sm text-matcha-400">{item.reading}</span>
+          <span class="romaji">{item.romaji}</span>
+          <span class="text-sm text-ink-light font-medium ml-auto">{item.chinese}</span>
+        </div>
+        {item.example && (
+          <div class="mt-2 pt-2 border-t border-warm-100">
+            <p class="jp-text text-sm text-ink-light">{item.example}</p>
+            <p class="text-xs text-ink-lighter mt-0.5">{item.exampleChinese}</p>
+          </div>
+        )}
+      </div>
+    ))}
+  </div>
+</section>

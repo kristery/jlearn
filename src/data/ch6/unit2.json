@@ -1,0 +1,282 @@
+{
+  "id": "ch6-unit2",
+  "title": "神社小白救星！參拜、御守、抽籤一次學",
+  "intro": "來日本旅遊，參拜神社是必做的體驗！但你知道正確的參拜方式嗎？御守要怎麼買？おみくじ抽到凶怎麼辦？這一課帶你從零開始認識神社文化，學會相關的日文用語。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "神社",
+          "reading": "じんじゃ",
+          "romaji": "jinja",
+          "chinese": "神社",
+          "example": "明治神宮は有名な神社です。",
+          "exampleChinese": "明治神宮是有名的神社。"
+        },
+        {
+          "japanese": "お寺",
+          "reading": "おてら",
+          "romaji": "otera",
+          "chinese": "寺廟",
+          "example": "京都にはたくさんのお寺があります。",
+          "exampleChinese": "京都有很多寺廟。"
+        },
+        {
+          "japanese": "鳥居",
+          "reading": "とりい",
+          "romaji": "torii",
+          "chinese": "鳥居",
+          "example": "鳥居をくぐる前に一礼しましょう。",
+          "exampleChinese": "通過鳥居前先鞠個躬吧。"
+        },
+        {
+          "japanese": "お賽銭",
+          "reading": "おさいせん",
+          "romaji": "osaisen",
+          "chinese": "香油錢；供奉金",
+          "example": "お賽銭を入れてからお祈りします。",
+          "exampleChinese": "投入香油錢後再祈禱。"
+        },
+        {
+          "japanese": "手水舎",
+          "reading": "てみずや",
+          "romaji": "temizuya",
+          "chinese": "淨手處",
+          "example": "まず手水舎で手を清めましょう。",
+          "exampleChinese": "先在淨手處洗淨雙手吧。"
+        },
+        {
+          "japanese": "お守り",
+          "reading": "おまもり",
+          "romaji": "omamori",
+          "chinese": "御守；護身符",
+          "example": "交通安全のお守りを買いました。",
+          "exampleChinese": "我買了交通安全的御守。"
+        },
+        {
+          "japanese": "おみくじ",
+          "reading": "おみくじ",
+          "romaji": "omikuji",
+          "chinese": "抽籤；籤詩",
+          "example": "おみくじを引いてみましょう！",
+          "exampleChinese": "來抽個籤吧！"
+        },
+        {
+          "japanese": "大吉",
+          "reading": "だいきち",
+          "romaji": "daikichi",
+          "chinese": "大吉",
+          "example": "大吉が出ました！やった！",
+          "exampleChinese": "抽到大吉了！太好了！"
+        },
+        {
+          "japanese": "絵馬",
+          "reading": "えま",
+          "romaji": "ema",
+          "chinese": "繪馬；許願牌",
+          "example": "絵馬に願い事を書きました。",
+          "exampleChinese": "我在繪馬上寫了願望。"
+        },
+        {
+          "japanese": "参拝",
+          "reading": "さんぱい",
+          "romaji": "sanpai",
+          "chinese": "參拜",
+          "example": "正しい参拝の方法を知っていますか？",
+          "exampleChinese": "你知道正確的參拜方法嗎？"
+        },
+        {
+          "japanese": "二礼二拍手一礼",
+          "reading": "にれいにはくしゅいちれい",
+          "romaji": "nirei nihakushu ichirei",
+          "chinese": "二鞠躬二拍手一鞠躬",
+          "example": "神社では二礼二拍手一礼が基本です。",
+          "exampleChinese": "在神社，二鞠躬二拍手一鞠躬是基本禮儀。"
+        },
+        {
+          "japanese": "神主",
+          "reading": "かんぬし",
+          "romaji": "kannushi",
+          "chinese": "神主（神社的神職人員）",
+          "example": "神主さんがご祈祷をしてくれました。",
+          "exampleChinese": "神主為我們做了祈禱。"
+        },
+        {
+          "japanese": "巫女",
+          "reading": "みこ",
+          "romaji": "miko",
+          "chinese": "巫女（神社的女性工作人員）",
+          "example": "巫女さんがお守りを渡してくれました。",
+          "exampleChinese": "巫女把御守遞給了我。"
+        },
+        {
+          "japanese": "お札",
+          "reading": "おふだ",
+          "romaji": "ofuda",
+          "chinese": "神符；護身符（紙製）",
+          "example": "お札は家に飾ります。",
+          "exampleChinese": "神符要掛在家裡。"
+        },
+        {
+          "japanese": "鈴",
+          "reading": "すず",
+          "romaji": "suzu",
+          "chinese": "鈴鐺",
+          "example": "参拝の前に鈴を鳴らします。",
+          "exampleChinese": "參拜前搖鈴鐺。"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話",
+      "scene": "小明第一次去神社參拜，日本朋友優子帶他體驗完整的參拜流程。",
+      "lines": [
+        { "speaker": "優子", "japanese": "着きました！ここが明治神宮ですよ。まず鳥居の前で一礼しましょう。", "chinese": "到了！這裡就是明治神宮。先在鳥居前面鞠一躬吧。" },
+        { "speaker": "小明", "japanese": "分かりました。（一礼する）次はどうしますか？", "chinese": "我知道了。（鞠躬）接下來怎麼做？" },
+        { "speaker": "優子", "japanese": "参道の真ん中は神様の通り道だから、端を歩いてね。", "chinese": "參拜道的正中央是神明走的路，所以要走旁邊喔。" },
+        { "speaker": "小明", "japanese": "へえ、知らなかった！あ、あれは何ですか？", "chinese": "欸，我都不知道！啊，那個是什麼？" },
+        { "speaker": "優子", "japanese": "手水舎です。参拝の前に手と口を清めるところです。", "chinese": "那是淨手處。參拜前清洗手和口的地方。" },
+        { "speaker": "小明", "japanese": "どうやって使うんですか？", "chinese": "要怎麼使用呢？" },
+        { "speaker": "優子", "japanese": "右手で柄杓を持って左手を洗って、次に左手に持ち替えて右手を洗います。最後に左手に水を受けて口をすすぎます。", "chinese": "右手拿起勺子洗左手，然後換左手拿洗右手。最後用左手接水漱口。" },
+        { "speaker": "小明", "japanese": "なるほど。じゃ、お参りしましょう！あ、鈴がありますね。", "chinese": "原來如此。那我們去參拜吧！啊，有鈴鐺呢。" },
+        { "speaker": "優子", "japanese": "うん、まず鈴を鳴らしてから、お賽銭を入れます。五円がいいですよ。「ご縁」と同じ発音で、縁起がいいんです。", "chinese": "嗯，先搖鈴鐺，然後投入香油錢。五日圓最好喔。跟「御緣」（好緣分）發音一樣，很吉利。" },
+        { "speaker": "小明", "japanese": "面白い！参拝の仕方は？", "chinese": "好有趣！參拜的方式是？" },
+        { "speaker": "優子", "japanese": "二礼二拍手一礼です。二回お辞儀して、二回手を叩いて、お祈りして、最後にもう一回お辞儀します。", "chinese": "二鞠躬二拍手一鞠躬。鞠躬兩次，拍手兩次，祈禱，最後再鞠躬一次。" },
+        { "speaker": "小明", "japanese": "（参拝した後）お守りも買いたいです。どこで買えますか？", "chinese": "（參拜後）我也想買御守。在哪裡可以買？" },
+        { "speaker": "優子", "japanese": "あそこの授与所です。巫女さんが対応してくれますよ。どんなお守りがいいですか？", "chinese": "在那邊的授予所。巫女會幫你的喔。你想要什麼樣的御守？" },
+        { "speaker": "小明", "japanese": "学業のお守りをいただけますか？", "chinese": "可以請給我學業御守嗎？" },
+        { "speaker": "巫女", "japanese": "はい、こちらです。八百円になります。お札もございますが、いかがですか？", "chinese": "好的，在這裡。八百日圓。也有神符，要嗎？" },
+        { "speaker": "小明", "japanese": "お札はいくらですか？", "chinese": "神符多少錢？" },
+        { "speaker": "巫女", "japanese": "千円です。", "chinese": "一千日圓。" },
+        { "speaker": "小明", "japanese": "じゃ、お守りだけお願いします。あと、おみくじも引きたいです！", "chinese": "那就只要御守好了。另外，我也想抽籤！" },
+        { "speaker": "優子", "japanese": "おみくじは二百円ですよ。引いてみましょう！", "chinese": "抽籤是兩百日圓喔。來抽抽看吧！" },
+        { "speaker": "小明", "japanese": "（おみくじを開けて）あ！大吉だ！", "chinese": "（打開籤詩）啊！大吉！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "～はいくらですか",
+          "meaning": "～多少錢？",
+          "structure": "名詞 + はいくらですか",
+          "examples": [
+            { "japanese": "このお守りはいくらですか？", "chinese": "這個御守多少錢？" },
+            { "japanese": "おみくじはいくらですか？", "chinese": "抽籤多少錢？" },
+            { "japanese": "お札はいくらですか？", "chinese": "神符多少錢？" }
+          ],
+          "note": "「いくら」是「多少錢」的意思。這是購物和觀光時最常用的問句之一。"
+        },
+        {
+          "pattern": "～をいただけますか",
+          "meaning": "可以請給我～嗎？",
+          "structure": "名詞 + をいただけますか",
+          "examples": [
+            { "japanese": "交通安全のお守りをいただけますか？", "chinese": "可以請給我交通安全的御守嗎？" },
+            { "japanese": "絵馬をいただけますか？", "chinese": "可以請給我繪馬嗎？" },
+            { "japanese": "お札をいただけますか？", "chinese": "可以請給我神符嗎？" }
+          ],
+          "note": "「いただけますか」是「もらえますか」的敬語版本，更加禮貌。在神社購買御守時，通常不說「買う」而說「いただく」（受領），因為御守不是一般商品，而是神明的恩賜。"
+        },
+        {
+          "pattern": "神社參拜固定用語",
+          "meaning": "參拜相關的慣用表達",
+          "structure": "固定用語",
+          "examples": [
+            { "japanese": "二礼二拍手一礼（にれいにはくしゅいちれい）", "chinese": "二鞠躬二拍手一鞠躬（神社參拜基本禮儀）" },
+            { "japanese": "お参りする（おまいりする）", "chinese": "去參拜" },
+            { "japanese": "手を清める（てをきよめる）", "chinese": "洗淨雙手" },
+            { "japanese": "鈴を鳴らす（すずをならす）", "chinese": "搖鈴鐺" }
+          ],
+          "note": "這些是神社參拜時的固定說法。注意：寺廟（お寺）和神社（神社）的參拜方式不同。寺廟不拍手，只合掌。"
+        },
+        {
+          "pattern": "～てみましょう",
+          "meaning": "～試試看吧",
+          "structure": "動詞て形 + みましょう",
+          "examples": [
+            { "japanese": "おみくじを引いてみましょう！", "chinese": "來抽個籤試試看吧！" },
+            { "japanese": "お参りしてみましょう。", "chinese": "來參拜看看吧。" },
+            { "japanese": "絵馬を書いてみましょう。", "chinese": "來寫繪馬試試看吧。" }
+          ],
+          "note": "「～てみる」表示嘗試做某事，加上「ましょう」就變成邀請對方一起嘗試的說法。觀光時很常用！"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "神社", "reading": "じんじゃ", "romaji": "jinja", "chinese": "神社" },
+        { "japanese": "鳥居", "reading": "とりい", "romaji": "torii", "chinese": "鳥居" },
+        { "japanese": "お賽銭", "reading": "おさいせん", "romaji": "osaisen", "chinese": "香油錢；供奉金" },
+        { "japanese": "手水舎", "reading": "てみずや", "romaji": "temizuya", "chinese": "淨手處" },
+        { "japanese": "お守り", "reading": "おまもり", "romaji": "omamori", "chinese": "御守；護身符" },
+        { "japanese": "おみくじ", "reading": "おみくじ", "romaji": "omikuji", "chinese": "抽籤；籤詩" },
+        { "japanese": "絵馬", "reading": "えま", "romaji": "ema", "chinese": "繪馬；許願牌" },
+        { "japanese": "巫女", "reading": "みこ", "romaji": "miko", "chinese": "巫女" },
+        { "japanese": "鈴", "reading": "すず", "romaji": "suzu", "chinese": "鈴鐺" },
+        { "japanese": "お札", "reading": "おふだ", "romaji": "ofuda", "chinese": "神符" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "神社參拜的基本禮儀是什麼？",
+          "options": ["一礼一拍手一礼", "二礼二拍手一礼", "三礼三拍手一礼", "合掌不拍手"],
+          "correct": 1,
+          "explanation": "神社參拜的基本禮儀是「二礼二拍手一礼」：鞠躬兩次、拍手兩次（祈禱）、再鞠躬一次。注意寺廟是合掌不拍手。"
+        },
+        {
+          "question": "為什麼投五円的賽銭被認為很吉利？",
+          "options": ["因為五是幸運數字", "因為「五円」和「ご縁」（好緣分）同音", "因為五円是最小的硬幣", "因為神明喜歡五"],
+          "correct": 1,
+          "explanation": "「五円（ごえん）」和「ご縁（ごえん）」（好緣分）發音相同，所以被認為投五円可以帶來好緣分。"
+        },
+        {
+          "question": "「手水舎」是做什麼的地方？",
+          "options": ["喝茶的地方", "買御守的地方", "參拜前清洗手和口的地方", "寫繪馬的地方"],
+          "correct": 2,
+          "explanation": "「手水舎（てみずや）」是參拜前清洗手和口的淨手處，代表在拜見神明前潔淨身心。"
+        },
+        {
+          "question": "在神社想要一個御守，比較禮貌的說法是？",
+          "options": ["お守りを買いたいです", "お守りをいただけますか", "お守りをください", "お守りが欲しいです"],
+          "correct": 1,
+          "explanation": "在神社，御守不是一般「買」的商品，而是神明的恩賜，所以用「いただけますか」（可以請給我嗎）比「買いたい」更為恰當禮貌。"
+        },
+        {
+          "question": "走在神社的參拜道上，應該走哪裡？",
+          "options": ["正中央", "旁邊", "隨意都可以", "只能走右邊"],
+          "correct": 1,
+          "explanation": "參拜道的正中央被認為是神明走的路（「正中」=神様の通り道），所以參拜者應該走旁邊。"
+        },
+        {
+          "question": "「巫女」是什麼？",
+          "options": ["寺廟的和尚", "神社的女性工作人員", "觀光導遊", "和服店的店員"],
+          "correct": 1,
+          "explanation": "「巫女（みこ）」是神社的女性工作人員，通常穿著白色上衣和紅色長裙，負責接待參拜者、販售御守等。"
+        },
+        {
+          "question": "參拜前搖鈴鐺的目的是什麼？",
+          "options": ["純粹好玩", "通知神明你來了", "趕走惡靈", "叫工作人員出來"],
+          "correct": 1,
+          "explanation": "參拜前搖鈴鐺（鈴を鳴らす）是為了通知神明有人來參拜了，同時也有淨化的意味。"
+        },
+        {
+          "question": "「お札」和「お守り」有什麼不同？",
+          "options": ["完全一樣", "お札是紙製的神符，掛在家裡；お守り是隨身攜帶的護身符", "お札比較便宜", "お守り只能在寺廟買"],
+          "correct": 1,
+          "explanation": "「お札（おふだ）」是紙製的神符，通常放在家中的神棚供奉。「お守り（おまもり）」是隨身攜帶的護身符袋。兩者都是神社授予的。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+---
+interface GrammarExample {
+  japanese: string;
+  chinese: string;
+}
+
+interface GrammarPoint {
+  pattern: string;
+  meaning: string;
+  structure: string;
+  examples: GrammarExample[];
+  note?: string;
+}
+
+interface Props {
+  title?: string;
+  points: GrammarPoint[];
+}
+
+const { title = '文法筆記', points } = Astro.props;
+---
+<section class="my-10">
+  <h2 class="flex items-center gap-2 text-xl font-bold text-ink mb-5">
+    <span class="w-8 h-8 rounded-lg bg-amber-100 flex items-center justify-center text-sm">📝</span>
+    {title}
+  </h2>
+  <div class="space-y-4">
+    {points.map((point) => (
+      <div class="bg-white rounded-2xl border border-warm-200/50 overflow-hidden">
+        <div class="bg-gradient-to-r from-amber-50 to-warm-50 px-5 py-3 border-b border-warm-200/30">
+          <div class="flex items-center gap-3 flex-wrap">
+            <span class="jp-text text-lg font-bold text-ink">{point.pattern}</span>
+            <span class="text-sm text-ink-light">→ {point.meaning}</span>
+          </div>
+        </div>
+        <div class="px-5 py-4">
+          <div class="mb-3">
+            <span class="text-xs font-semibold text-ink-lighter uppercase tracking-wider">句型結構</span>
+            <p class="jp-text text-sm mt-1 bg-warm-50 px-3 py-2 rounded-lg font-mono">{point.structure}</p>
+          </div>
+          <div>
+            <span class="text-xs font-semibold text-ink-lighter uppercase tracking-wider">例句</span>
+            <div class="mt-1 space-y-2">
+              {point.examples.map((ex) => (
+                <div class="flex items-start gap-2">
+                  <span class="text-matcha-400 mt-0.5 shrink-0">▸</span>
+                  <div>
+                    <p class="jp-text text-sm font-medium">{ex.japanese}</p>
+                    <p class="text-xs text-ink-lighter">{ex.chinese}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+          {point.note && (
+            <div class="mt-3 pt-3 border-t border-warm-100">
+              <p class="text-xs text-ink-lighter flex items-start gap-1">
+                <span class="text-gold shrink-0">💡</span>
+                {point.note}
+              </p>
+            </div>
+          )}
+        </div>
+      </div>
+    ))}
+  </div>
+</section>

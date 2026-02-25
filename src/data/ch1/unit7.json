@@ -1,0 +1,350 @@
+{
+  "id": "ch1-unit7",
+  "title": "想跟日本人打招呼嗎？從自我介紹開始！",
+  "intro": "不管是在青年旅館認識新朋友，還是在語言交換活動上，能夠用日語自我介紹絕對能加分！本單元教你一套完整的自我介紹模板，讓你自信開口。",
+  "estimatedTime": "25 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字",
+      "items": [
+        {
+          "japanese": "名前",
+          "reading": "なまえ",
+          "romaji": "namae",
+          "chinese": "名字",
+          "example": "お名前は何ですか？",
+          "exampleChinese": "請問你叫什麼名字？"
+        },
+        {
+          "japanese": "出身",
+          "reading": "しゅっしん",
+          "romaji": "shusshin",
+          "chinese": "出身地；故鄉",
+          "example": "出身はどこですか？",
+          "exampleChinese": "你來自哪裡？"
+        },
+        {
+          "japanese": "台湾",
+          "reading": "たいわん",
+          "romaji": "taiwan",
+          "chinese": "台灣",
+          "example": "台湾から来ました。",
+          "exampleChinese": "我從台灣來的。"
+        },
+        {
+          "japanese": "趣味",
+          "reading": "しゅみ",
+          "romaji": "shumi",
+          "chinese": "興趣；嗜好",
+          "example": "趣味は何ですか？",
+          "exampleChinese": "你的興趣是什麼？"
+        },
+        {
+          "japanese": "旅行",
+          "reading": "りょこう",
+          "romaji": "ryokou",
+          "chinese": "旅行",
+          "example": "趣味は旅行です。",
+          "exampleChinese": "我的興趣是旅行。"
+        },
+        {
+          "japanese": "仕事",
+          "reading": "しごと",
+          "romaji": "shigoto",
+          "chinese": "工作",
+          "example": "お仕事は何ですか？",
+          "exampleChinese": "請問你做什麼工作？"
+        },
+        {
+          "japanese": "学生",
+          "reading": "がくせい",
+          "romaji": "gakusei",
+          "chinese": "學生",
+          "example": "私は学生です。",
+          "exampleChinese": "我是學生。"
+        },
+        {
+          "japanese": "初めまして",
+          "reading": "はじめまして",
+          "romaji": "hajimemashite",
+          "chinese": "初次見面",
+          "example": "初めまして。",
+          "exampleChinese": "初次見面。"
+        },
+        {
+          "japanese": "よろしく",
+          "reading": "よろしく",
+          "romaji": "yoroshiku",
+          "chinese": "請多多指教",
+          "example": "よろしくお願いします。",
+          "exampleChinese": "請多多指教。"
+        },
+        {
+          "japanese": "日本語",
+          "reading": "にほんご",
+          "romaji": "nihongo",
+          "chinese": "日語",
+          "example": "日本語を勉強しています。",
+          "exampleChinese": "我正在學日語。"
+        },
+        {
+          "japanese": "会社員",
+          "reading": "かいしゃいん",
+          "romaji": "kaishain",
+          "chinese": "上班族；公司職員",
+          "example": "私は会社員です。",
+          "exampleChinese": "我是上班族。"
+        },
+        {
+          "japanese": "家族",
+          "reading": "かぞく",
+          "romaji": "kazoku",
+          "chinese": "家人；家族",
+          "example": "家族は四人です。",
+          "exampleChinese": "我家有四個人。"
+        },
+        {
+          "japanese": "国",
+          "reading": "くに",
+          "romaji": "kuni",
+          "chinese": "國家；故鄉",
+          "example": "お国はどちらですか？",
+          "exampleChinese": "請問你是哪國人？"
+        },
+        {
+          "japanese": "年齢",
+          "reading": "ねんれい",
+          "romaji": "nenrei",
+          "chinese": "年齡",
+          "example": "年齢はいくつですか？",
+          "exampleChinese": "你幾歲？"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話一",
+      "scene": "在青年旅館（ゲストハウス）的交誼廳，和日本旅客互相自我介紹。",
+      "lines": [
+        { "speaker": "你", "japanese": "初めまして。私はリンと申します。", "chinese": "初次見面。我姓林。" },
+        { "speaker": "日本人", "japanese": "初めまして。田中です。どこから来ましたか？", "chinese": "初次見面。我是田中。你從哪裡來的？" },
+        { "speaker": "你", "japanese": "台湾から来ました。", "chinese": "我從台灣來的。" },
+        { "speaker": "日本人", "japanese": "台湾ですか！いいですね。旅行ですか？", "chinese": "台灣啊！真好。是來旅行的嗎？" },
+        { "speaker": "你", "japanese": "はい、旅行です。日本語を少し勉強しています。", "chinese": "是的，是來旅行的。我有學一點日語。" },
+        { "speaker": "日本人", "japanese": "上手ですね！趣味は何ですか？", "chinese": "你說得好好！你的興趣是什麼？" },
+        { "speaker": "你", "japanese": "旅行と写真が好きです。田中さんは？", "chinese": "我喜歡旅行和攝影。田中你呢？" },
+        { "speaker": "日本人", "japanese": "私も旅行が好きです。お仕事は何ですか？", "chinese": "我也喜歡旅行。你做什麼工作呢？" },
+        { "speaker": "你", "japanese": "会社員です。田中さんは？", "chinese": "我是上班族。田中你呢？" },
+        { "speaker": "日本人", "japanese": "私は学生です。よろしくお願いします。", "chinese": "我是學生。請多多指教。" },
+        { "speaker": "你", "japanese": "こちらこそ、よろしくお願いします！", "chinese": "我才是，請多多指教！" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "情境對話二",
+      "scene": "在語言交換活動上，和來自不同國家的人互相認識。",
+      "lines": [
+        { "speaker": "你", "japanese": "初めまして。私はチェンです。台湾から来ました。", "chinese": "初次見面。我姓陳。從台灣來的。" },
+        { "speaker": "外國人", "japanese": "初めまして。マリアです。アメリカから来ました。", "chinese": "初次見面。我是瑪麗亞。從美國來的。" },
+        { "speaker": "你", "japanese": "お仕事は何ですか？", "chinese": "你做什麼工作呢？" },
+        { "speaker": "外國人", "japanese": "英語の先生です。チェンさんは？", "chinese": "我是英語老師。陳先生呢？" },
+        { "speaker": "你", "japanese": "私は会社員です。家族は三人です。", "chinese": "我是上班族。家裡有三個人。" },
+        { "speaker": "外國人", "japanese": "そうですか。日本語は上手ですね。", "chinese": "這樣啊。你日語說得很好呢。" },
+        { "speaker": "你", "japanese": "いえいえ、まだまだです。日本語の勉強、頑張ります！", "chinese": "不不不，還差得遠呢。日語學習我會繼續加油的！" },
+        { "speaker": "外國人", "japanese": "お互い頑張りましょう。よろしくお願いします。", "chinese": "讓我們一起加油吧。請多多指教。" },
+        { "speaker": "你", "japanese": "よろしくお願いします！", "chinese": "請多多指教！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記",
+      "points": [
+        {
+          "pattern": "〜と申します",
+          "meaning": "我叫做〜（謙虛說法）",
+          "structure": "名前 + と申します",
+          "examples": [
+            { "japanese": "リンと申します。", "chinese": "我姓林。" },
+            { "japanese": "陳と申します。台湾から来ました。", "chinese": "我姓陳。從台灣來的。" },
+            { "japanese": "田中と申します。よろしくお願いします。", "chinese": "我是田中。請多多指教。" }
+          ],
+          "note": "「と申します（ともうします）」是自我介紹時非常正式且禮貌的說法。比較輕鬆的場合也可以用「〜です」，例如「リンです」。"
+        },
+        {
+          "pattern": "〜から来ました",
+          "meaning": "從〜來的",
+          "structure": "地名 + から + 来ました",
+          "examples": [
+            { "japanese": "台湾から来ました。", "chinese": "從台灣來的。" },
+            { "japanese": "台北から来ました。", "chinese": "從台北來的。" },
+            { "japanese": "アメリカから来ました。", "chinese": "從美國來的。" }
+          ],
+          "note": "「から」表示出發點，「来ました」是「来る」（來）的過去禮貌形。回答「どこから来ましたか？」（你從哪裡來？）時使用。"
+        },
+        {
+          "pattern": "〜が好きです",
+          "meaning": "喜歡〜",
+          "structure": "名詞 + が + 好きです",
+          "examples": [
+            { "japanese": "旅行が好きです。", "chinese": "喜歡旅行。" },
+            { "japanese": "日本の料理が好きです。", "chinese": "喜歡日本料理。" },
+            { "japanese": "写真が好きです。", "chinese": "喜歡攝影。" },
+            { "japanese": "音楽が好きです。", "chinese": "喜歡音樂。" }
+          ],
+          "note": "注意「好き」前面的助詞是「が」不是「を」！這是初學者常犯的錯誤。「好きです」是形容動詞（な形容詞），不是動詞。"
+        },
+        {
+          "pattern": "〜は〜人です",
+          "meaning": "（家族）有〜人",
+          "structure": "家族 + は + 數字 + 人 + です",
+          "examples": [
+            { "japanese": "家族は四人です。", "chinese": "我家有四個人。" },
+            { "japanese": "家族は三人です。父と母と私です。", "chinese": "我家有三個人。爸爸、媽媽和我。" }
+          ],
+          "note": "介紹家庭成員人數時使用。「〜人」的讀法：一人（ひとり）、二人（ふたり）、三人（さんにん）、四人（よにん）......。在自我介紹中談到家庭，能讓對話更親切。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        {
+          "japanese": "初めまして",
+          "reading": "はじめまして",
+          "romaji": "hajimemashite",
+          "chinese": "初次見面",
+          "example": "初めまして。",
+          "exampleChinese": "初次見面。"
+        },
+        {
+          "japanese": "名前",
+          "reading": "なまえ",
+          "romaji": "namae",
+          "chinese": "名字",
+          "example": "お名前は何ですか？",
+          "exampleChinese": "請問你叫什麼名字？"
+        },
+        {
+          "japanese": "出身",
+          "reading": "しゅっしん",
+          "romaji": "shusshin",
+          "chinese": "出身地；故鄉",
+          "example": "出身はどこですか？",
+          "exampleChinese": "你來自哪裡？"
+        },
+        {
+          "japanese": "会社員",
+          "reading": "かいしゃいん",
+          "romaji": "kaishain",
+          "chinese": "上班族；公司職員",
+          "example": "私は会社員です。",
+          "exampleChinese": "我是上班族。"
+        },
+        {
+          "japanese": "家族",
+          "reading": "かぞく",
+          "romaji": "kazoku",
+          "chinese": "家人；家族",
+          "example": "家族は四人です。",
+          "exampleChinese": "我家有四個人。"
+        },
+        {
+          "japanese": "国",
+          "reading": "くに",
+          "romaji": "kuni",
+          "chinese": "國家；故鄉",
+          "example": "お国はどちらですか？",
+          "exampleChinese": "請問你是哪國人？"
+        },
+        {
+          "japanese": "年齢",
+          "reading": "ねんれい",
+          "romaji": "nenrei",
+          "chinese": "年齡",
+          "example": "年齢はいくつですか？",
+          "exampleChinese": "你幾歲？"
+        },
+        {
+          "japanese": "趣味",
+          "reading": "しゅみ",
+          "romaji": "shumi",
+          "chinese": "興趣；嗜好",
+          "example": "趣味は何ですか？",
+          "exampleChinese": "你的興趣是什麼？"
+        },
+        {
+          "japanese": "よろしく",
+          "reading": "よろしく",
+          "romaji": "yoroshiku",
+          "chinese": "請多多指教",
+          "example": "よろしくお願いします。",
+          "exampleChinese": "請多多指教。"
+        },
+        {
+          "japanese": "日本語",
+          "reading": "にほんご",
+          "romaji": "nihongo",
+          "chinese": "日語",
+          "example": "日本語を勉強しています。",
+          "exampleChinese": "我正在學日語。"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "小測驗",
+      "questions": [
+        {
+          "question": "自我介紹的第一句通常是？",
+          "options": ["よろしくお願いします。", "私はリンです。", "初めまして。", "台湾から来ました。"],
+          "correct": 2,
+          "explanation": "自我介紹時，第一句話先說「初めまして」（初次見面），然後再說名字、來自哪裡等。最後以「よろしくお願いします」收尾。"
+        },
+        {
+          "question": "「台湾から来ました」的「から」是什麼意思？",
+          "options": ["到", "從", "在", "和"],
+          "correct": 1,
+          "explanation": "「から」表示起點，意思是「從〜」。「台湾から来ました」就是「從台灣來的」。"
+        },
+        {
+          "question": "「趣味は旅行です」是什麼意思？",
+          "options": ["旅行很有趣。", "我的興趣是旅行。", "我想去旅行。", "旅行的趣味。"],
+          "correct": 1,
+          "explanation": "「趣味」在日語中是「興趣、嗜好」的意思（不是中文的「趣味」）。「趣味は旅行です」就是「我的興趣是旅行」。"
+        },
+        {
+          "question": "「しゅっしん」的漢字是？",
+          "options": ["出口", "出発", "出身", "出来"],
+          "correct": 2,
+          "explanation": "「しゅっしん」的漢字是「出身」，意思是出身地、故鄉。"
+        },
+        {
+          "question": "對方自我介紹後說「よろしくお願いします」，你應該回答？",
+          "options": ["はい、そうです。", "こちらこそ、よろしくお願いします。", "すみません。", "いただきます。"],
+          "correct": 1,
+          "explanation": "「こちらこそ、よろしくお願いします」是「我才是，請多多指教」的意思，是標準的回應方式。"
+        },
+        {
+          "question": "「会社員」是什麼意思？",
+          "options": ["老師", "學生", "上班族", "醫生"],
+          "correct": 2,
+          "explanation": "「会社員（かいしゃいん）」是「公司職員、上班族」的意思。「会社」是公司，「員」是成員。"
+        },
+        {
+          "question": "想問對方的家庭有幾個人，應該怎麼問？",
+          "options": ["家族はどこですか？", "家族は何人ですか？", "家族は何ですか？", "家族はいくらですか？"],
+          "correct": 1,
+          "explanation": "「家族は何人ですか？」是「你家有幾個人？」的意思。「何人（なんにん）」是「幾個人」。"
+        },
+        {
+          "question": "「お国はどちらですか？」是在問什麼？",
+          "options": ["你的興趣是什麼？", "你幾歲？", "你是哪國人？", "你住在哪裡？"],
+          "correct": 2,
+          "explanation": "「お国（おくに）」是「國家」的禮貌說法，「どちら」是「哪裡」的禮貌疑問詞。整句是「請問你是哪國人？」。"
+        }
+      ]
+    }
+  ]
+}

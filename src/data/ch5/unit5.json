@@ -1,0 +1,256 @@
+{
+  "id": "ch5-unit5",
+  "title": "聽力、口說練習",
+  "intro": "恭喜你學完第五章的所有內容！現在讓我們透過一段完整的餐廳對話來複習你學到的所有重點，包含入座、點餐、表達飲食需求，以及結帳。試著跟讀每一句，練習自然的語感。",
+  "estimatedTime": "20 分鐘",
+  "sections": [
+    {
+      "type": "vocab",
+      "title": "重點單字複習",
+      "items": [
+        {
+          "japanese": "いらっしゃいませ",
+          "reading": "いらっしゃいませ",
+          "romaji": "irasshaimase",
+          "chinese": "歡迎光臨",
+          "example": "いらっしゃいませ！何名様ですか？",
+          "exampleChinese": "歡迎光臨！請問幾位？"
+        },
+        {
+          "japanese": "注文",
+          "reading": "ちゅうもん",
+          "romaji": "chuumon",
+          "chinese": "點餐；訂單",
+          "example": "ご注文はお決まりですか？",
+          "exampleChinese": "請問您決定好要點什麼了嗎？"
+        },
+        {
+          "japanese": "お会計",
+          "reading": "おかいけい",
+          "romaji": "okaikei",
+          "chinese": "結帳",
+          "example": "お会計をお願いします。",
+          "exampleChinese": "請幫我結帳。"
+        },
+        {
+          "japanese": "券売機",
+          "reading": "けんばいき",
+          "romaji": "kenbaiki",
+          "chinese": "食券販賣機",
+          "example": "券売機で食券を買ってください。",
+          "exampleChinese": "請在食券販賣機買食券。"
+        },
+        {
+          "japanese": "アレルギー",
+          "reading": "アレルギー",
+          "romaji": "arerugii",
+          "chinese": "過敏",
+          "example": "アレルギーがあるので、確認してもいいですか？",
+          "exampleChinese": "我有過敏，可以確認一下嗎？"
+        },
+        {
+          "japanese": "抜き",
+          "reading": "ぬき",
+          "romaji": "nuki",
+          "chinese": "去掉；不要",
+          "example": "卵抜きでお願いします。",
+          "exampleChinese": "請幫我去掉蛋。"
+        },
+        {
+          "japanese": "飲み放題",
+          "reading": "のみほうだい",
+          "romaji": "nomihoudai",
+          "chinese": "喝到飽",
+          "example": "飲み放題にしましょう！",
+          "exampleChinese": "我們點喝到飽吧！"
+        },
+        {
+          "japanese": "割り勘",
+          "reading": "わりかん",
+          "romaji": "warikan",
+          "chinese": "AA制",
+          "example": "今日は割り勘でいい？",
+          "exampleChinese": "今天AA制可以嗎？"
+        },
+        {
+          "japanese": "おすすめ",
+          "reading": "おすすめ",
+          "romaji": "osusume",
+          "chinese": "推薦",
+          "example": "おすすめは何ですか？",
+          "exampleChinese": "有什麼推薦的嗎？"
+        },
+        {
+          "japanese": "大盛り",
+          "reading": "おおもり",
+          "romaji": "oomori",
+          "chinese": "大碗；加量",
+          "example": "大盛りでお願いします。",
+          "exampleChinese": "請給我大碗的。"
+        },
+        {
+          "japanese": "乾杯",
+          "reading": "かんぱい",
+          "romaji": "kanpai",
+          "chinese": "乾杯",
+          "example": "乾杯！",
+          "exampleChinese": "乾杯！"
+        },
+        {
+          "japanese": "いただきます",
+          "reading": "いただきます",
+          "romaji": "itadakimasu",
+          "chinese": "我開動了",
+          "example": "いただきます！",
+          "exampleChinese": "我開動了！"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "綜合複習對話",
+      "scene": "小明帶有蛋過敏的朋友小美一起去居酒屋用餐，從入座到結帳的完整情境。",
+      "lines": [
+        { "speaker": "店員", "japanese": "いらっしゃいませ！何名様ですか？", "chinese": "歡迎光臨！請問幾位？" },
+        { "speaker": "小明", "japanese": "二名です。テーブル席はありますか？", "chinese": "兩位。有桌位嗎？" },
+        { "speaker": "店員", "japanese": "はい、こちらへどうぞ。メニューです。", "chinese": "有的，這邊請。這是菜單。" },
+        { "speaker": "小明", "japanese": "ありがとうございます。すみません、おすすめは何ですか？", "chinese": "謝謝。不好意思，有什麼推薦的嗎？" },
+        { "speaker": "店員", "japanese": "今日のおすすめは焼き鳥と天ぷら盛り合わせです。", "chinese": "今天推薦的是烤雞串和天婦羅拼盤。" },
+        { "speaker": "小美", "japanese": "あの、天ぷらに卵は入っていますか？卵アレルギーがあるんです。", "chinese": "那個，天婦羅裡面有蛋嗎？我有蛋過敏。" },
+        { "speaker": "店員", "japanese": "天ぷらの衣に卵が入っています。申し訳ございません。", "chinese": "天婦羅的麵衣裡有蛋。非常抱歉。" },
+        { "speaker": "小美", "japanese": "そうですか。じゃ、焼き鳥にします。焼き鳥には卵は入っていませんよね？", "chinese": "這樣啊。那我要烤雞串。烤雞串裡面沒有蛋吧？" },
+        { "speaker": "店員", "japanese": "はい、大丈夫ですよ。", "chinese": "是的，沒問題的。" },
+        { "speaker": "小明", "japanese": "僕は天ぷら盛り合わせと、あと焼肉定食をください。", "chinese": "我要天婦羅拼盤，還有請給我燒肉定食。" },
+        { "speaker": "店員", "japanese": "お飲み物はいかがですか？飲み放題もございますよ。", "chinese": "請問要飲料嗎？也有喝到飽方案喔。" },
+        { "speaker": "小明", "japanese": "飲み放題にしましょう！とりあえずビールを二つお願いします。", "chinese": "點喝到飽吧！先來兩杯啤酒。" },
+        { "speaker": "店員", "japanese": "かしこまりました。少々お待ちください。", "chinese": "好的，請稍等。" },
+        { "speaker": "小明", "japanese": "（乾杯して）いただきます！", "chinese": "（乾杯後）我開動了！" },
+        { "speaker": "小美", "japanese": "いただきます！うん、焼き鳥おいしい！", "chinese": "我開動了！嗯，烤雞串好好吃！" },
+        { "speaker": "小明", "japanese": "本当だ！あ、すみません、取り皿をいただけますか？", "chinese": "真的！啊，不好意思，可以給我小盤子嗎？" },
+        { "speaker": "小明", "japanese": "（食事の後）ごちそうさまでした。すみません、お会計をお願いします。", "chinese": "（用餐後）謝謝款待。不好意思，請幫我結帳。" },
+        { "speaker": "店員", "japanese": "ご一緒ですか？別々ですか？", "chinese": "請問一起結還是分開結？" },
+        { "speaker": "小明", "japanese": "一緒でお願いします。今日は僕がおごるよ！", "chinese": "一起結，麻煩了。今天我請客！" },
+        { "speaker": "小美", "japanese": "えっ、本当？ありがとう！", "chinese": "欸，真的嗎？謝謝！" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "文法筆記複習",
+      "points": [
+        {
+          "pattern": "～をください / ～にします",
+          "meaning": "請給我～ / 我要～（選擇）",
+          "structure": "名詞 + をください / 名詞 + にします",
+          "examples": [
+            { "japanese": "焼き鳥をください。", "chinese": "請給我烤雞串。" },
+            { "japanese": "天ぷら盛り合わせにします。", "chinese": "我要天婦羅拼盤。" },
+            { "japanese": "飲み放題にしましょう！", "chinese": "我們點喝到飽吧！" }
+          ],
+          "note": "「ください」是直接請求，「にします」強調「選擇」。點餐時兩個都很常用。加上「ましょう」就變成邀請對方一起的說法。"
+        },
+        {
+          "pattern": "～アレルギーがあるので、～抜きでお願いします",
+          "meaning": "因為我有～過敏，請幫我去掉～",
+          "structure": "過敏原 + アレルギーがあるので、食材名 + 抜きでお願いします",
+          "examples": [
+            { "japanese": "卵アレルギーがあるので、卵抜きでお願いします。", "chinese": "因為我有蛋過敏，請幫我去掉蛋。" },
+            { "japanese": "えびアレルギーがあるので、えび抜きでお願いします。", "chinese": "因為我有蝦子過敏，請幫我去掉蝦子。" },
+            { "japanese": "ナッツアレルギーがあるので、ナッツ抜きでお願いします。", "chinese": "因為我有堅果過敏，請幫我去掉堅果。" }
+          ],
+          "note": "這是第五章最重要的複合句型。先用「～ので」說明原因（因為～），再用「抜きでお願いします」提出請求。在餐廳表達飲食限制時非常實用。"
+        },
+        {
+          "pattern": "～が入っていますか？ / ～は入っていませんよね？",
+          "meaning": "裡面有～嗎？ / 裡面沒有～吧？",
+          "structure": "食材名 + が入っていますか？ / は入っていませんよね？",
+          "examples": [
+            { "japanese": "この料理に卵が入っていますか？", "chinese": "這道菜裡面有蛋嗎？" },
+            { "japanese": "焼き鳥には卵は入っていませんよね？", "chinese": "烤雞串裡面沒有蛋吧？" },
+            { "japanese": "ナッツは入っていますか？", "chinese": "裡面有堅果嗎？" }
+          ],
+          "note": "「入っていますか」是中性的確認問法。「入っていませんよね」帶有「應該沒有吧」的語氣，適合在比較確定時使用來做最後確認。"
+        }
+      ]
+    },
+    {
+      "type": "flashcards",
+      "title": "翻牌練習",
+      "cards": [
+        { "japanese": "いらっしゃいませ", "reading": "いらっしゃいませ", "romaji": "irasshaimase", "chinese": "歡迎光臨" },
+        { "japanese": "お会計", "reading": "おかいけい", "romaji": "okaikei", "chinese": "結帳" },
+        { "japanese": "アレルギー", "reading": "アレルギー", "romaji": "arerugii", "chinese": "過敏" },
+        { "japanese": "抜き", "reading": "ぬき", "romaji": "nuki", "chinese": "去掉；不要" },
+        { "japanese": "飲み放題", "reading": "のみほうだい", "romaji": "nomihoudai", "chinese": "喝到飽" },
+        { "japanese": "割り勘", "reading": "わりかん", "romaji": "warikan", "chinese": "AA制" },
+        { "japanese": "乾杯", "reading": "かんぱい", "romaji": "kanpai", "chinese": "乾杯" },
+        { "japanese": "いただきます", "reading": "いただきます", "romaji": "itadakimasu", "chinese": "我開動了" },
+        { "japanese": "ごちそうさま", "reading": "ごちそうさま", "romaji": "gochisousama", "chinese": "謝謝款待" },
+        { "japanese": "おすすめ", "reading": "おすすめ", "romaji": "osusume", "chinese": "推薦" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "title": "綜合複習測驗",
+      "questions": [
+        {
+          "question": "店員問「何名様ですか？」，你和兩個朋友一起來，應該怎麼回答？",
+          "options": ["二名です", "三名です", "三人にします", "三つです"],
+          "correct": 1,
+          "explanation": "你和兩個朋友共三人，所以回答「三名です」。「何名様ですか」是問幾位客人。"
+        },
+        {
+          "question": "你想跟店員確認某道菜裡面有沒有蝦子，應該怎麼問？",
+          "options": ["えび抜きでお願いします", "えびが入っていますか？", "えびアレルギーがあります", "えびは食べられません"],
+          "correct": 1,
+          "explanation": "詢問食材是否包含在料理中，使用「～が入っていますか？」。「えびが入っていますか？」就是「裡面有蝦子嗎？」"
+        },
+        {
+          "question": "在居酒屋，「とりあえずビール」是什麼意思？",
+          "options": ["我只要啤酒", "先來杯啤酒", "啤酒喝到飽", "啤酒不要了"],
+          "correct": 1,
+          "explanation": "「とりあえずビール」（先來杯啤酒）是居酒屋的經典點餐開場白。「とりあえず」是「先、暫且」的意思。"
+        },
+        {
+          "question": "用餐完畢後，正確的禮儀順序是什麼？",
+          "options": [
+            "直接離開",
+            "說「ごちそうさまでした」然後結帳",
+            "先給小費再離開",
+            "說「いただきます」然後結帳"
+          ],
+          "correct": 1,
+          "explanation": "用餐後先說「ごちそうさまでした」表示感謝，然後再結帳。「いただきます」是用餐前說的，而且日本不需要給小費。"
+        },
+        {
+          "question": "朋友有小麥過敏，想請店員去掉含小麥的食材，最完整的表達方式是？",
+          "options": [
+            "小麦は好きじゃないです",
+            "小麦アレルギーがあるので、小麦抜きでお願いします",
+            "小麦はいりません",
+            "小麦を食べます"
+          ],
+          "correct": 1,
+          "explanation": "最完整的說法是先說明原因「小麦アレルギーがあるので」（因為我有小麥過敏），再提出請求「小麦抜きでお願いします」（請幫我去掉小麥）。"
+        },
+        {
+          "question": "在拉麵店想要加麵，應該怎麼說？",
+          "options": ["大盛りをください", "替え玉をお願いします", "もう一杯ください", "おかわりをください"],
+          "correct": 1,
+          "explanation": "拉麵店加麵的專門用語是「替え玉（かえだま）」。其他餐點要再來一份則用「おかわり」。"
+        },
+        {
+          "question": "「お通し」是什麼？為什麼要注意？",
+          "options": ["免費的前菜，可以拒絕", "居酒屋的收費前菜，算是座位費", "隨餐附贈的飲料", "可以自選的開胃菜"],
+          "correct": 1,
+          "explanation": "「お通し」是居酒屋自動送上的前菜，通常 300～500 日圓，算是座位費的一部分，不能退也不能拒絕。"
+        },
+        {
+          "question": "想要請客時可以怎麼說？",
+          "options": ["割り勘にしよう", "別々でお願いします", "今日は僕がおごるよ", "チップを置いておくよ"],
+          "correct": 2,
+          "explanation": "「今日は僕がおごるよ」就是「今天我請客」。「おごる」是請客的意思。在日本，前輩請後輩吃飯是常見的文化。"
+        }
+      ]
+    }
+  ]
+}
