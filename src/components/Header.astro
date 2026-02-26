@@ -49,12 +49,15 @@ const base = import.meta.env.BASE_URL;
       </div>
     </div>
 
-    <!-- Mobile hamburger -->
-    <button id="mobile-menu-btn" class="md:hidden p-2 rounded-xl hover:bg-warm-100 transition-colors" aria-label="開啟選單">
+    <div class="flex items-center gap-1">
+      <slot />
+      <!-- Mobile hamburger -->
+      <button id="mobile-menu-btn" class="md:hidden p-2 rounded-xl hover:bg-warm-100 transition-colors" aria-label="開啟選單">
       <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
       </svg>
     </button>
+    </div>
   </nav>
 
   <!-- Mobile menu -->
