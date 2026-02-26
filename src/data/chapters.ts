@@ -65,6 +65,7 @@ export const chapters: Chapter[] = [
       { id: 'unit5', title: '民宿與Airbnb：和房東溝通的實用日語', type: 'lesson', estimatedTime: '20 分鐘', description: '民宿入住與房東溝通的實用日語' },
       { id: 'unit6', title: '日式旅館體驗：榻榻米、浴衣、懷石料理', type: 'lesson', estimatedTime: '20 分鐘', description: '日式旅館的獨特體驗與相關用語' },
       { id: 'unit7', title: '飯店設施使用：洗衣、健身房、商務中心', type: 'lesson', estimatedTime: '15 分鐘', description: '飯店各項設施的使用方式與日語' },
+      { id: 'unit8', title: '有人按門鈴！宅配、訪客應對日語', type: 'lesson', estimatedTime: '15 分鐘', description: '宅配收件、訪客應對與門鈴相關日語' },
     ]
   },
   {
@@ -99,6 +100,7 @@ export const chapters: Chapter[] = [
       { id: 'unit6', title: '居酒屋完全攻略：乾杯、點餐與社交', type: 'lesson', estimatedTime: '20 分鐘', description: '居酒屋點餐、社交與文化' },
       { id: 'unit7', title: '咖啡廳與甜點：來一杯日式下午茶', type: 'lesson', estimatedTime: '15 分鐘', description: '咖啡廳點餐與甜點相關日語' },
       { id: 'unit8', title: '便當與外帶：テイクアウト文化', type: 'lesson', estimatedTime: '15 分鐘', description: '外帶文化與便當相關日語' },
+      { id: 'unit9', title: '打電話預約餐廳：從訂位到確認', type: 'lesson', estimatedTime: '20 分鐘', description: '電話訂位餐廳的完整流程與日語' },
     ]
   },
   {
